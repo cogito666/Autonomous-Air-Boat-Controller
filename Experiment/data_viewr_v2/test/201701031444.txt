@@ -1,0 +1,3998 @@
+#BoatState,30096,1,2,166021.443,0.000,0.4677,5E
+GPS fix quality is bad
+#BoatState,30132,1,2,166021.443,0.000,0.4677,51
+GPS fix quality is bad
+#BoatState,30168,1,2,166021.443,0.000,0.4677,5E
+GPS fix quality is bad
+#BoatState,30205,1,2,166021.443,0.000,0.4683,5D
+GPS fix quality is bad
+#BoatState,30241,1,2,166021.443,0.000,0.4686,58
+GPS fix quality is bad
+#BoatState,30277,1,2,166021.443,0.000,0.4684,5F
+GPS fix quality is bad
+#BoatState,30313,1,2,166021.443,0.000,0.4684,5C
+GPS fix quality is bad
+#BoatState,30350,1,2,166021.443,0.000,0.4683,5C
+GPS fix quality is bad
+#BoatState,30386,1,2,166021.443,0.000,0.4684,50
+GPS fix quality is bad
+#BoatState,30422,1,2,166021.443,0.000,0.4684,59
+GPS fix quality is bad
+#BoatState,30458,1,2,166021.443,0.000,0.4681,51
+GPS fix quality is bad
+#BoatState,30495,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,30531,1,2,166021.443,0.000,0.4676,57
+GPS fix quality is bad
+#BoatState,30567,1,2,166021.443,0.000,0.4672,50
+GPS fix quality is bad
+#BoatState,30603,1,2,166021.443,0.000,0.4676,55
+GPS fix quality is bad
+#BoatState,30640,1,2,166021.443,0.000,0.4683,58
+#CtrlSignals,1502,1486,off,0,15
+GPS fix quality is bad
+#BoatState,30676,1,2,166021.443,0.000,0.4677,56
+GPS fix quality is bad
+#BoatState,30712,1,2,166021.443,0.000,0.4676,54
+#CtrlSignals,1501,1485,off,0,15
+GPS fix quality is bad
+#BoatState,30749,1,2,166021.443,0.000,0.4677,5B
+GPS fix quality is bad
+#BoatState,30785,1,2,166021.443,0.000,0.4683,50
+GPS fix quality is bad
+#BoatState,30821,1,2,166021.443,0.000,0.4677,5A
+GPS fix quality is bad
+#BoatState,30857,1,2,166021.443,0.000,0.4674,58
+#CtrlSignals,1502,1486,off,0,15
+GPS fix quality is bad
+#BoatState,30894,1,2,166021.443,0.000,0.4674,57
+GPS fix quality is bad
+#BoatState,30930,1,2,166021.443,0.000,0.4674,58
+#CtrlSignals,1501,1485,off,0,15
+GPS fix quality is bad
+#BoatState,30966,1,2,166021.443,0.000,0.4674,5B
+GPS fix quality is bad
+#BoatState,31002,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,31039,1,2,166021.443,0.000,0.4676,5B
+GPS fix quality is bad
+#BoatState,31075,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,31111,1,2,166021.443,0.000,0.4683,5A
+GPS fix quality is bad
+#BoatState,31147,1,2,166021.443,0.000,0.4684,5E
+GPS fix quality is bad
+#BoatState,31184,1,2,166021.443,0.000,0.4683,56
+GPS fix quality is bad
+#BoatState,31220,1,2,166021.443,0.000,0.4686,5E
+GPS fix quality is bad
+#BoatState,31256,1,2,166021.443,0.000,0.4690,58
+GPS fix quality is bad
+#BoatState,31293,1,2,166021.443,0.000,0.4691,50
+GPS fix quality is bad
+#BoatState,31329,1,2,166021.443,0.000,0.4695,54
+GPS fix quality is bad
+#BoatState,31365,1,2,166021.443,0.000,0.4695,5C
+GPS fix quality is bad
+#BoatState,31401,1,2,166021.443,0.000,0.4695,59
+GPS fix quality is bad
+#BoatState,31438,1,2,166021.443,0.000,0.4695,53
+GPS fix quality is bad
+#BoatState,31474,1,2,166021.443,0.000,0.4693,5D
+GPS fix quality is bad
+#BoatState,31510,1,2,166021.443,0.000,0.4697,5A
+GPS fix quality is bad
+#BoatState,31546,1,2,166021.443,0.000,0.4693,5D
+GPS fix quality is bad
+#BoatState,31583,1,2,166021.443,0.000,0.4695,52
+GPS fix quality is bad
+#BoatState,31619,1,2,166021.443,0.000,0.4693,54
+GPS fix quality is bad
+#BoatState,31655,1,2,166021.443,0.000,0.4693,5C
+GPS fix quality is bad
+#BoatState,31691,1,2,166021.443,0.000,0.4695,52
+GPS fix quality is bad
+#BoatState,31728,1,2,166021.443,0.000,0.4702,5E
+GPS fix quality is bad
+#BoatState,31764,1,2,166021.443,0.000,0.4695,59
+GPS fix quality is bad
+#BoatState,31800,1,2,166021.443,0.000,0.4695,54
+GPS fix quality is bad
+#BoatState,31837,1,2,166021.443,0.000,0.4697,52
+GPS fix quality is bad
+#BoatState,31873,1,2,166021.443,0.000,0.4698,5D
+GPS fix quality is bad
+#BoatState,31909,1,2,166021.443,0.000,0.4693,5A
+GPS fix quality is bad
+#BoatState,31945,1,2,166021.443,0.000,0.4693,52
+#CtrlSignals,1503,1487,off,0,15
+GPS fix quality is bad
+#BoatState,31982,1,2,166021.443,0.000,0.4698,52
+#CtrlSignals,1498,1483,off,0,12
+#CtrlSignals,1494,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,32054,1,2,166021.443,0.000,0.4700,53
+#CtrlSignals,1499,1483,off,0,13
+GPS fix quality is bad
+#BoatState,32090,1,2,166021.443,0.000,0.4700,5B
+GPS fix quality is bad
+#BoatState,32127,1,2,166021.443,0.000,0.4700,56
+GPS fix quality is bad
+#BoatState,32163,1,2,166021.443,0.000,0.4700,56
+GPS fix quality is bad
+#BoatState,32199,1,2,166021.443,0.000,0.4697,5C
+GPS fix quality is bad
+#BoatState,32235,1,2,166021.443,0.000,0.4693,5D
+GPS fix quality is bad
+#BoatState,32272,1,2,166021.443,0.000,0.4686,5A
+GPS fix quality is bad
+#BoatState,32308,1,2,166021.443,0.000,0.4683,53
+GPS fix quality is bad
+#BoatState,32344,1,2,166021.443,0.000,0.4681,59
+GPS fix quality is bad
+#BoatState,32381,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,32417,1,2,166021.443,0.000,0.4681,58
+GPS fix quality is bad
+#BoatState,32453,1,2,166021.443,0.000,0.4683,5A
+GPS fix quality is bad
+#BoatState,32489,1,2,166021.443,0.000,0.4681,5F
+GPS fix quality is bad
+#BoatState,32526,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,32562,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,32598,1,2,166021.443,0.000,0.4676,56
+GPS fix quality is bad
+#BoatState,32634,1,2,166021.443,0.000,0.4676,53
+GPS fix quality is bad
+#BoatState,32671,1,2,166021.443,0.000,0.4676,52
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,32707,1,2,166021.443,0.000,0.4679,5D
+GPS fix quality is bad
+#BoatState,32743,1,2,166021.443,0.000,0.4681,5A
+GPS fix quality is bad
+#BoatState,32779,1,2,166021.443,0.000,0.4684,56
+GPS fix quality is bad
+#BoatState,32816,1,2,166021.443,0.000,0.4688,5C
+GPS fix quality is bad
+#BoatState,32852,1,2,166021.443,0.000,0.4691,54
+GPS fix quality is bad
+#BoatState,32888,1,2,166021.443,0.000,0.4690,52
+GPS fix quality is bad
+#BoatState,32925,1,2,166021.443,0.000,0.4695,51
+GPS fix quality is bad
+#BoatState,32961,1,2,166021.443,0.000,0.4695,51
+GPS fix quality is bad
+#BoatState,32997,1,2,166021.443,0.000,0.4693,5E
+GPS fix quality is bad
+#BoatState,33033,1,2,166021.443,0.000,0.4695,5E
+GPS fix quality is bad
+#BoatState,33070,1,2,166021.443,0.000,0.4691,5D
+GPS fix quality is bad
+#BoatState,33106,1,2,166021.443,0.000,0.4690,5C
+GPS fix quality is bad
+#BoatState,33142,1,2,166021.443,0.000,0.4686,5B
+GPS fix quality is bad
+#BoatState,33178,1,2,166021.443,0.000,0.4686,52
+GPS fix quality is bad
+#BoatState,33215,1,2,166021.443,0.000,0.4686,5A
+GPS fix quality is bad
+#BoatState,33251,1,2,166021.443,0.000,0.4688,54
+GPS fix quality is bad
+#BoatState,33287,1,2,166021.443,0.000,0.4693,55
+GPS fix quality is bad
+#BoatState,33323,1,2,166021.443,0.000,0.4691,58
+#CtrlSignals,1504,1488,off,0,1D
+GPS fix quality is bad
+#BoatState,33360,1,2,166021.443,0.000,0.4686,59
+GPS fix quality is bad
+#BoatState,33396,1,2,166021.443,0.000,0.4688,5E
+#CtrlSignals,1501,1484,off,0,14
+GPS fix quality is bad
+#BoatState,33432,1,2,166021.443,0.000,0.4681,5E
+#CtrlSignals,1498,1484,off,0,15
+GPS fix quality is bad
+#BoatState,33469,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,33505,1,2,166021.443,0.000,0.4681,5B
+#CtrlSignals,1498,1484,off,0,15
+GPS fix quality is bad
+#BoatState,33541,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,33577,1,2,166021.443,0.000,0.4672,52
+GPS fix quality is bad
+#BoatState,33614,1,2,166021.443,0.000,0.4676,50
+GPS fix quality is bad
+#BoatState,33650,1,2,166021.443,0.000,0.4674,52
+GPS fix quality is bad
+#BoatState,33686,1,2,166021.443,0.000,0.4674,59
+GPS fix quality is bad
+#BoatState,33722,1,2,166021.443,0.000,0.4674,56
+GPS fix quality is bad
+#BoatState,33759,1,2,166021.443,0.000,0.4676,58
+GPS fix quality is bad
+#BoatState,33867,1,2,166021.443,0.000,0.4684,57
+GPS fix quality is bad
+#BoatState,33904,1,2,166021.443,0.000,0.4690,56
+GPS fix quality is bad
+#BoatState,33940,1,2,166021.443,0.000,0.4688,5F
+GPS fix quality is bad
+#BoatState,33976,1,2,166021.443,0.000,0.4688,5A
+GPS fix quality is bad
+#BoatState,34013,1,2,166021.443,0.000,0.4688,57
+GPS fix quality is bad
+#BoatState,34049,1,2,166021.443,0.000,0.4690,51
+GPS fix quality is bad
+#BoatState,34085,1,2,166021.443,0.000,0.4695,54
+GPS fix quality is bad
+#BoatState,34121,1,2,166021.443,0.000,0.4693,5D
+GPS fix quality is bad
+#BoatState,34158,1,2,166021.443,0.000,0.4697,57
+GPS fix quality is bad
+#BoatState,34194,1,2,166021.443,0.000,0.4700,58
+GPS fix quality is bad
+#BoatState,34230,1,2,166021.443,0.000,0.4700,55
+GPS fix quality is bad
+#BoatState,34266,1,2,166021.443,0.000,0.4693,5D
+GPS fix quality is bad
+#BoatState,34303,1,2,166021.443,0.000,0.4690,5C
+GPS fix quality is bad
+#BoatState,34339,1,2,166021.443,0.000,0.4690,55
+GPS fix quality is bad
+#BoatState,34375,1,2,166021.443,0.000,0.4691,5C
+GPS fix quality is bad
+#BoatState,34411,1,2,166021.443,0.000,0.4695,5D
+GPS fix quality is bad
+#BoatState,34448,1,2,166021.443,0.000,0.4693,57
+GPS fix quality is bad
+#BoatState,34484,1,2,166021.443,0.000,0.4691,55
+GPS fix quality is bad
+#BoatState,34520,1,2,166021.443,0.000,0.4693,58
+GPS fix quality is bad
+#BoatState,34557,1,2,166021.443,0.000,0.4697,5C
+GPS fix quality is bad
+#BoatState,34593,1,2,166021.443,0.000,0.4691,52
+GPS fix quality is bad
+#BoatState,34629,1,2,166021.443,0.000,0.4688,58
+GPS fix quality is bad
+#BoatState,34665,1,2,166021.443,0.000,0.4695,5C
+GPS fix quality is bad
+#BoatState,34702,1,2,166021.443,0.000,0.4698,51
+GPS fix quality is bad
+#BoatState,34738,1,2,166021.443,0.000,0.4695,55
+GPS fix quality is bad
+#BoatState,34774,1,2,166021.443,0.000,0.4697,5F
+GPS fix quality is bad
+#BoatState,34810,1,2,166021.443,0.000,0.4697,52
+GPS fix quality is bad
+#BoatState,34847,1,2,166021.443,0.000,0.4686,50
+GPS fix quality is bad
+#BoatState,34883,1,2,166021.443,0.000,0.4684,5A
+GPS fix quality is bad
+#BoatState,34919,1,2,166021.443,0.000,0.4688,54
+GPS fix quality is bad
+#BoatState,34955,1,2,166021.443,0.000,0.4688,5C
+#CtrlSignals,1506,1486,off,0,11
+GPS fix quality is bad
+#BoatState,34992,1,2,166021.443,0.000,0.4690,5E
+GPS fix quality is bad
+#BoatState,35028,1,2,166021.443,0.000,0.4691,56
+#CtrlSignals,1500,1483,off,0,12
+GPS fix quality is bad
+#BoatState,35064,1,2,166021.443,0.000,0.4693,5C
+GPS fix quality is bad
+#BoatState,35101,1,2,166021.443,0.000,0.4700,55
+GPS fix quality is bad
+#BoatState,35137,1,2,166021.443,0.000,0.4698,50
+GPS fix quality is bad
+#BoatState,35173,1,2,166021.443,0.000,0.4700,50
+GPS fix quality is bad
+#BoatState,35209,1,2,166021.443,0.000,0.4698,5E
+GPS fix quality is bad
+#BoatState,35246,1,2,166021.443,0.000,0.4691,5C
+GPS fix quality is bad
+#BoatState,35282,1,2,166021.443,0.000,0.4695,50
+GPS fix quality is bad
+#BoatState,35318,1,2,166021.443,0.000,0.4697,50
+GPS fix quality is bad
+#BoatState,35354,1,2,166021.443,0.000,0.4695,5A
+GPS fix quality is bad
+#BoatState,35391,1,2,166021.443,0.000,0.4691,57
+GPS fix quality is bad
+#BoatState,35427,1,2,166021.443,0.000,0.4697,5B
+GPS fix quality is bad
+#BoatState,35463,1,2,166021.443,0.000,0.4698,54
+GPS fix quality is bad
+#BoatState,35499,1,2,166021.443,0.000,0.4697,5E
+GPS fix quality is bad
+#BoatState,35536,1,2,166021.443,0.000,0.4693,5E
+GPS fix quality is bad
+#BoatState,35572,1,2,166021.443,0.000,0.4684,58
+GPS fix quality is bad
+#BoatState,35608,1,2,166021.443,0.000,0.4684,56
+GPS fix quality is bad
+#BoatState,35645,1,2,166021.443,0.000,0.4688,53
+GPS fix quality is bad
+#BoatState,35681,1,2,166021.443,0.000,0.4695,57
+GPS fix quality is bad
+#BoatState,35717,1,2,166021.443,0.000,0.4695,59
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,35753,1,2,166021.443,0.000,0.4691,5D
+#CtrlSignals,1506,1486,off,0,11
+GPS fix quality is bad
+#BoatState,35862,1,2,166021.443,0.000,0.4690,51
+GPS fix quality is bad
+#BoatState,35898,1,2,166021.443,0.000,0.4686,53
+#CtrlSignals,1499,1485,off,0,15
+GPS fix quality is bad
+#BoatState,35935,1,2,166021.443,0.000,0.4688,5B
+GPS fix quality is bad
+#BoatState,35971,1,2,166021.443,0.000,0.4688,5B
+GPS fix quality is bad
+#BoatState,36007,1,2,166021.443,0.000,0.4688,50
+GPS fix quality is bad
+#BoatState,36043,1,2,166021.443,0.000,0.4684,5C
+GPS fix quality is bad
+#BoatState,36080,1,2,166021.443,0.000,0.4684,53
+GPS fix quality is bad
+#BoatState,36116,1,2,166021.443,0.000,0.4683,5A
+GPS fix quality is bad
+#BoatState,36152,1,2,166021.443,0.000,0.4683,5A
+GPS fix quality is bad
+#BoatState,36189,1,2,166021.443,0.000,0.4679,59
+GPS fix quality is bad
+#BoatState,36225,1,2,166021.443,0.000,0.4679,5C
+GPS fix quality is bad
+#BoatState,36261,1,2,166021.443,0.000,0.4684,5E
+GPS fix quality is bad
+#BoatState,36297,1,2,166021.443,0.000,0.4684,57
+GPS fix quality is bad
+#BoatState,36334,1,2,166021.443,0.000,0.4681,5A
+GPS fix quality is bad
+#BoatState,36370,1,2,166021.443,0.000,0.4667,52
+GPS fix quality is bad
+#BoatState,36406,1,2,166021.443,0.000,0.4664,57
+GPS fix quality is bad
+#BoatState,36442,1,2,166021.443,0.000,0.4664,57
+GPS fix quality is bad
+#BoatState,36479,1,2,166021.443,0.000,0.4660,5B
+GPS fix quality is bad
+#BoatState,36515,1,2,166021.443,0.000,0.4660,50
+GPS fix quality is bad
+#BoatState,36551,1,2,166021.443,0.000,0.4658,5B
+GPS fix quality is bad
+#BoatState,36587,1,2,166021.443,0.000,0.4665,5E
+GPS fix quality is bad
+#BoatState,36624,1,2,166021.443,0.000,0.4662,53
+GPS fix quality is bad
+#BoatState,36660,1,2,166021.443,0.000,0.4658,5A
+GPS fix quality is bad
+#BoatState,36696,1,2,166021.443,0.000,0.4660,58
+GPS fix quality is bad
+#BoatState,36733,1,2,166021.443,0.000,0.4660,56
+GPS fix quality is bad
+#BoatState,36769,1,2,166021.443,0.000,0.4658,52
+GPS fix quality is bad
+#BoatState,36805,1,2,166021.443,0.000,0.4658,57
+GPS fix quality is bad
+#BoatState,36841,1,2,166021.443,0.000,0.4657,58
+GPS fix quality is bad
+#BoatState,36878,1,2,166021.443,0.000,0.4657,52
+GPS fix quality is bad
+#BoatState,36914,1,2,166021.443,0.000,0.4660,5D
+GPS fix quality is bad
+#BoatState,36950,1,2,166021.443,0.000,0.4658,56
+GPS fix quality is bad
+#BoatState,36986,1,2,166021.443,0.000,0.4669,5F
+GPS fix quality is bad
+#BoatState,37023,1,2,166021.443,0.000,0.4660,51
+GPS fix quality is bad
+#BoatState,37059,1,2,166021.443,0.000,0.4660,5C
+GPS fix quality is bad
+#BoatState,37095,1,2,166021.443,0.000,0.4664,58
+GPS fix quality is bad
+#BoatState,37131,1,2,166021.443,0.000,0.4667,54
+GPS fix quality is bad
+#BoatState,37168,1,2,166021.443,0.000,0.4667,58
+GPS fix quality is bad
+#BoatState,37204,1,2,166021.443,0.000,0.4665,53
+GPS fix quality is bad
+#BoatState,37240,1,2,166021.443,0.000,0.4662,54
+#CtrlSignals,1506,1486,off,0,11
+GPS fix quality is bad
+#BoatState,37277,1,2,166021.443,0.000,0.4665,57
+GPS fix quality is bad
+#BoatState,37313,1,2,166021.443,0.000,0.4664,55
+#CtrlSignals,1499,1486,off,0,16
+GPS fix quality is bad
+#BoatState,37349,1,2,166021.443,0.000,0.4655,58
+GPS fix quality is bad
+#BoatState,37385,1,2,166021.443,0.000,0.4655,58
+GPS fix quality is bad
+#BoatState,37422,1,2,166021.443,0.000,0.4657,50
+GPS fix quality is bad
+#BoatState,37458,1,2,166021.443,0.000,0.4657,5D
+GPS fix quality is bad
+#BoatState,37494,1,2,166021.443,0.000,0.4658,52
+GPS fix quality is bad
+#BoatState,37530,1,2,166021.443,0.000,0.4658,5D
+GPS fix quality is bad
+#BoatState,37567,1,2,166021.443,0.000,0.4662,56
+GPS fix quality is bad
+#BoatState,37603,1,2,166021.443,0.000,0.4665,50
+GPS fix quality is bad
+#BoatState,37639,1,2,166021.443,0.000,0.4669,55
+GPS fix quality is bad
+#BoatState,37675,1,2,166021.443,0.000,0.4671,54
+GPS fix quality is bad
+#BoatState,37712,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,37748,1,2,166021.443,0.000,0.4676,5C
+GPS fix quality is bad
+#BoatState,37784,1,2,166021.443,0.000,0.4676,5C
+GPS fix quality is bad
+#BoatState,37821,1,2,166021.443,0.000,0.4677,5D
+GPS fix quality is bad
+#BoatState,37857,1,2,166021.443,0.000,0.4677,5C
+GPS fix quality is bad
+#BoatState,37893,1,2,166021.443,0.000,0.4674,57
+GPS fix quality is bad
+#BoatState,37929,1,2,166021.443,0.000,0.4671,52
+GPS fix quality is bad
+#BoatState,37966,1,2,166021.443,0.000,0.4672,5A
+GPS fix quality is bad
+#BoatState,38002,1,2,166021.443,0.000,0.4669,54
+GPS fix quality is bad
+#BoatState,38038,1,2,166021.443,0.000,0.4665,51
+GPS fix quality is bad
+#BoatState,38074,1,2,166021.443,0.000,0.4665,59
+GPS fix quality is bad
+#BoatState,38111,1,2,166021.443,0.000,0.4664,5A
+GPS fix quality is bad
+#BoatState,38147,1,2,166021.443,0.000,0.4664,59
+GPS fix quality is bad
+#BoatState,38183,1,2,166021.443,0.000,0.4658,5E
+GPS fix quality is bad
+#BoatState,38219,1,2,166021.443,0.000,0.4657,51
+GPS fix quality is bad
+#BoatState,38256,1,2,166021.443,0.000,0.4657,5A
+GPS fix quality is bad
+#BoatState,38292,1,2,166021.443,0.000,0.4657,52
+GPS fix quality is bad
+#BoatState,38328,1,2,166021.443,0.000,0.4651,54
+GPS fix quality is bad
+#BoatState,38365,1,2,166021.443,0.000,0.4657,5B
+GPS fix quality is bad
+#BoatState,38401,1,2,166021.443,0.000,0.4650,59
+GPS fix quality is bad
+#BoatState,38437,1,2,166021.443,0.000,0.4648,55
+GPS fix quality is bad
+#BoatState,38473,1,2,166021.443,0.000,0.4648,55
+GPS fix quality is bad
+#BoatState,38510,1,2,166021.443,0.000,0.4651,59
+GPS fix quality is bad
+#BoatState,38546,1,2,166021.443,0.000,0.4651,5A
+GPS fix quality is bad
+#BoatState,38582,1,2,166021.443,0.000,0.4651,52
+GPS fix quality is bad
+#BoatState,38618,1,2,166021.443,0.000,0.4651,52
+GPS fix quality is bad
+#BoatState,38655,1,2,166021.443,0.000,0.4650,5A
+GPS fix quality is bad
+#BoatState,38691,1,2,166021.443,0.000,0.4651,53
+GPS fix quality is bad
+#BoatState,38727,1,2,166021.443,0.000,0.4651,5F
+GPS fix quality is bad
+#BoatState,38763,1,2,166021.443,0.000,0.4653,5D
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,38800,1,2,166021.443,0.000,0.4658,5C
+GPS fix quality is bad
+#BoatState,38836,1,2,166021.443,0.000,0.4660,52
+GPS fix quality is bad
+#BoatState,38872,1,2,166021.443,0.000,0.4664,56
+GPS fix quality is bad
+#BoatState,38909,1,2,166021.443,0.000,0.4665,5A
+GPS fix quality is bad
+#BoatState,38945,1,2,166021.443,0.000,0.4658,5C
+GPS fix quality is bad
+#BoatState,38981,1,2,166021.443,0.000,0.4657,5B
+GPS fix quality is bad
+#BoatState,39017,1,2,166021.443,0.000,0.4653,58
+GPS fix quality is bad
+#BoatState,39054,1,2,166021.443,0.000,0.4651,5D
+GPS fix quality is bad
+#BoatState,39090,1,2,166021.443,0.000,0.4650,54
+GPS fix quality is bad
+#BoatState,39126,1,2,166021.443,0.000,0.4650,58
+GPS fix quality is bad
+#BoatState,39162,1,2,166021.443,0.000,0.4651,59
+GPS fix quality is bad
+#BoatState,39199,1,2,166021.443,0.000,0.4657,5B
+GPS fix quality is bad
+#BoatState,39235,1,2,166021.443,0.000,0.4657,5E
+GPS fix quality is bad
+#BoatState,39271,1,2,166021.443,0.000,0.4655,5C
+GPS fix quality is bad
+#BoatState,39307,1,2,166021.443,0.000,0.4651,58
+GPS fix quality is bad
+#BoatState,39344,1,2,166021.443,0.000,0.4646,59
+GPS fix quality is bad
+#BoatState,39380,1,2,166021.443,0.000,0.4641,56
+GPS fix quality is bad
+#BoatState,39416,1,2,166021.443,0.000,0.4637,5F
+GPS fix quality is bad
+#BoatState,39453,1,2,166021.443,0.000,0.4637,5E
+GPS fix quality is bad
+#BoatState,39489,1,2,166021.443,0.000,0.4636,58
+GPS fix quality is bad
+#BoatState,39561,1,2,166021.443,0.000,0.4636,5F
+GPS fix quality is bad
+#BoatState,39598,1,2,166021.443,0.000,0.4637,58
+GPS fix quality is bad
+#BoatState,39634,1,2,166021.443,0.000,0.4636,5C
+GPS fix quality is bad
+#BoatState,39670,1,2,166021.443,0.000,0.4632,58
+GPS fix quality is bad
+#BoatState,39706,1,2,166021.443,0.000,0.4634,5E
+GPS fix quality is bad
+#BoatState,39743,1,2,166021.443,0.000,0.4632,59
+GPS fix quality is bad
+#BoatState,39851,1,2,166021.443,0.000,0.4630,57
+GPS fix quality is bad
+#BoatState,39888,1,2,166021.443,0.000,0.4636,55
+GPS fix quality is bad
+#BoatState,39924,1,2,166021.443,0.000,0.4634,50
+#CtrlSignals,1498,1486,off,0,17
+GPS fix quality is bad
+#BoatState,39960,1,2,166021.443,0.000,0.4641,52
+#CtrlSignals,1474,1485,off,0,16
+GPS fix quality is bad
+#BoatState,39997,1,2,166021.443,0.000,0.4639,55
+#CtrlSignals,1404,1486,off,0,12
+GPS fix quality is bad
+#BoatState,40033,1,2,166021.443,0.000,0.4641,53
+#CtrlSignals,1354,1486,off,0,10
+GPS fix quality is bad
+#BoatState,40069,1,2,166021.443,0.000,0.4639,53
+#CtrlSignals,1294,1486,off,0,1D
+GPS fix quality is bad
+#BoatState,40105,1,2,166021.443,0.000,0.4634,55
+#CtrlSignals,1230,1485,off,0,10
+GPS fix quality is bad
+#BoatState,40142,1,2,166021.443,0.000,0.4637,55
+#CtrlSignals,1182,1485,off,0,1A
+GPS fix quality is bad
+#BoatState,40178,1,2,166021.443,0.000,0.4636,5D
+#CtrlSignals,1157,1486,off,0,11
+GPS fix quality is bad
+#BoatState,40214,1,2,166021.443,0.000,0.4636,54
+GPS fix quality is bad
+#BoatState,40250,1,2,166021.443,0.000,0.4636,54
+GPS fix quality is bad
+#BoatState,40287,1,2,166021.443,0.000,0.4637,5F
+GPS fix quality is bad
+#BoatState,40323,1,2,166021.443,0.000,0.4639,5E
+#CtrlSignals,1158,1484,off,0,1C
+GPS fix quality is bad
+#BoatState,40359,1,2,166021.443,0.000,0.4641,5C
+#CtrlSignals,1173,1484,off,0,15
+GPS fix quality is bad
+#BoatState,40395,1,2,166021.443,0.000,0.4644,59
+#CtrlSignals,1224,1485,off,0,15
+GPS fix quality is bad
+#BoatState,40432,1,2,166021.443,0.000,0.4646,51
+#CtrlSignals,1282,1485,off,0,19
+GPS fix quality is bad
+#BoatState,40468,1,2,166021.443,0.000,0.4648,50
+#CtrlSignals,1350,1483,off,0,11
+GPS fix quality is bad
+#BoatState,40504,1,2,166021.443,0.000,0.4644,57
+#CtrlSignals,1419,1484,off,0,1C
+GPS fix quality is bad
+#BoatState,40541,1,2,166021.443,0.000,0.4644,56
+#CtrlSignals,1488,1485,off,0,15
+GPS fix quality is bad
+#BoatState,40577,1,2,166021.443,0.000,0.4643,54
+#CtrlSignals,1498,1485,off,0,14
+GPS fix quality is bad
+#BoatState,40613,1,2,166021.443,0.000,0.4641,57
+GPS fix quality is bad
+#BoatState,40649,1,2,166021.443,0.000,0.4644,5D
+GPS fix quality is bad
+#BoatState,40686,1,2,166021.443,0.000,0.4650,5B
+GPS fix quality is bad
+#BoatState,40722,1,2,166021.443,0.000,0.4650,54
+GPS fix quality is bad
+#BoatState,40758,1,2,166021.443,0.000,0.4650,59
+GPS fix quality is bad
+#BoatState,40867,1,2,166021.443,0.000,0.4664,5D
+GPS fix quality is bad
+#BoatState,40903,1,2,166021.443,0.000,0.4672,59
+GPS fix quality is bad
+#BoatState,40976,1,2,166021.443,0.000,0.4674,5D
+GPS fix quality is bad
+#BoatState,41012,1,2,166021.443,0.000,0.4677,54
+GPS fix quality is bad
+#BoatState,41048,1,2,166021.443,0.000,0.4679,55
+GPS fix quality is bad
+#BoatState,41085,1,2,166021.443,0.000,0.4684,56
+GPS fix quality is bad
+#BoatState,41121,1,2,166021.443,0.000,0.4684,59
+GPS fix quality is bad
+#BoatState,41157,1,2,166021.443,0.000,0.4688,54
+GPS fix quality is bad
+#BoatState,41193,1,2,166021.443,0.000,0.4690,55
+GPS fix quality is bad
+#BoatState,41230,1,2,166021.443,0.000,0.4691,5E
+GPS fix quality is bad
+#BoatState,41266,1,2,166021.443,0.000,0.4690,5C
+GPS fix quality is bad
+#BoatState,41302,1,2,166021.443,0.000,0.4684,5A
+GPS fix quality is bad
+#BoatState,41338,1,2,166021.443,0.000,0.4688,5F
+GPS fix quality is bad
+#BoatState,41375,1,2,166021.443,0.000,0.4691,5E
+GPS fix quality is bad
+#BoatState,41411,1,2,166021.443,0.000,0.4688,53
+GPS fix quality is bad
+#BoatState,41447,1,2,166021.443,0.000,0.4695,5C
+GPS fix quality is bad
+#BoatState,41483,1,2,166021.443,0.000,0.4695,54
+GPS fix quality is bad
+#BoatState,41520,1,2,166021.443,0.000,0.4693,5A
+GPS fix quality is bad
+#BoatState,41556,1,2,166021.443,0.000,0.4697,5F
+GPS fix quality is bad
+#BoatState,41592,1,2,166021.443,0.000,0.4691,51
+GPS fix quality is bad
+#BoatState,41629,1,2,166021.443,0.000,0.4686,54
+GPS fix quality is bad
+#BoatState,41665,1,2,166021.443,0.000,0.4681,5B
+GPS fix quality is bad
+#BoatState,41701,1,2,166021.443,0.000,0.4677,51
+GPS fix quality is bad
+#BoatState,41737,1,2,166021.443,0.000,0.4679,5A
+GPS fix quality is bad
+#BoatState,41774,1,2,166021.443,0.000,0.4677,53
+GPS fix quality is bad
+#BoatState,41810,1,2,166021.443,0.000,0.4681,57
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,41846,1,2,166021.443,0.000,0.4681,54
+GPS fix quality is bad
+#BoatState,41882,1,2,166021.443,0.000,0.4681,5C
+GPS fix quality is bad
+#BoatState,41919,1,2,166021.443,0.000,0.4684,5A
+GPS fix quality is bad
+#BoatState,41955,1,2,166021.443,0.000,0.4686,50
+GPS fix quality is bad
+#BoatState,41991,1,2,166021.443,0.000,0.4688,56
+GPS fix quality is bad
+#BoatState,42027,1,2,166021.443,0.000,0.4693,5B
+GPS fix quality is bad
+#BoatState,42064,1,2,166021.443,0.000,0.4691,5E
+GPS fix quality is bad
+#BoatState,42100,1,2,166021.443,0.000,0.4691,5D
+GPS fix quality is bad
+#BoatState,42136,1,2,166021.443,0.000,0.4690,59
+GPS fix quality is bad
+#BoatState,42173,1,2,166021.443,0.000,0.4686,5F
+GPS fix quality is bad
+#BoatState,42209,1,2,166021.443,0.000,0.4679,51
+GPS fix quality is bad
+#BoatState,42245,1,2,166021.443,0.000,0.4676,56
+GPS fix quality is bad
+#BoatState,42281,1,2,166021.443,0.000,0.4676,5E
+GPS fix quality is bad
+#BoatState,42318,1,2,166021.443,0.000,0.4672,5B
+GPS fix quality is bad
+#BoatState,42354,1,2,166021.443,0.000,0.4672,53
+GPS fix quality is bad
+#BoatState,42390,1,2,166021.443,0.000,0.4669,51
+GPS fix quality is bad
+#BoatState,42426,1,2,166021.443,0.000,0.4667,55
+GPS fix quality is bad
+#BoatState,42463,1,2,166021.443,0.000,0.4667,54
+GPS fix quality is bad
+#BoatState,42499,1,2,166021.443,0.000,0.4672,55
+GPS fix quality is bad
+#BoatState,42535,1,2,166021.443,0.000,0.4672,52
+#CtrlSignals,1503,1487,off,0,15
+GPS fix quality is bad
+#BoatState,42571,1,2,166021.443,0.000,0.4669,58
+GPS fix quality is bad
+#BoatState,42608,1,2,166021.443,0.000,0.4671,5C
+#CtrlSignals,1495,1487,off,0,1B
+GPS fix quality is bad
+#BoatState,42644,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,42680,1,2,166021.443,0.000,0.4677,5A
+GPS fix quality is bad
+#BoatState,42717,1,2,166021.443,0.000,0.4679,5B
+GPS fix quality is bad
+#BoatState,42753,1,2,166021.443,0.000,0.4679,5B
+GPS fix quality is bad
+#BoatState,42789,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,42825,1,2,166021.443,0.000,0.4679,55
+GPS fix quality is bad
+#BoatState,42862,1,2,166021.443,0.000,0.4679,56
+GPS fix quality is bad
+#BoatState,42898,1,2,166021.443,0.000,0.4676,5C
+GPS fix quality is bad
+#BoatState,42934,1,2,166021.443,0.000,0.4677,5A
+GPS fix quality is bad
+#BoatState,42970,1,2,166021.443,0.000,0.4683,51
+GPS fix quality is bad
+#BoatState,43043,1,2,166021.443,0.000,0.4681,5B
+GPS fix quality is bad
+#BoatState,43079,1,2,166021.443,0.000,0.4691,53
+GPS fix quality is bad
+#BoatState,43115,1,2,166021.443,0.000,0.4690,59
+#CtrlSignals,1499,1487,off,0,17
+GPS fix quality is bad
+#BoatState,43152,1,2,166021.443,0.000,0.4704,56
+GPS fix quality is bad
+#BoatState,43188,1,2,166021.443,0.000,0.4704,51
+GPS fix quality is bad
+#BoatState,43224,1,2,166021.443,0.000,0.4705,55
+#CtrlSignals,1498,1483,off,0,12
+GPS fix quality is bad
+#BoatState,43261,1,2,166021.443,0.000,0.4704,55
+GPS fix quality is bad
+#BoatState,43297,1,2,166021.443,0.000,0.4707,5F
+GPS fix quality is bad
+#BoatState,43333,1,2,166021.443,0.000,0.4707,50
+GPS fix quality is bad
+#BoatState,43369,1,2,166021.443,0.000,0.4700,58
+GPS fix quality is bad
+#BoatState,43406,1,2,166021.443,0.000,0.4698,56
+GPS fix quality is bad
+#BoatState,43442,1,2,166021.443,0.000,0.4698,56
+GPS fix quality is bad
+#BoatState,43478,1,2,166021.443,0.000,0.4698,5F
+GPS fix quality is bad
+#BoatState,43514,1,2,166021.443,0.000,0.4697,5B
+GPS fix quality is bad
+#BoatState,43551,1,2,166021.443,0.000,0.4697,5A
+GPS fix quality is bad
+#BoatState,43587,1,2,166021.443,0.000,0.4695,53
+GPS fix quality is bad
+#BoatState,43623,1,2,166021.443,0.000,0.4688,52
+GPS fix quality is bad
+#BoatState,43659,1,2,166021.443,0.000,0.4684,53
+GPS fix quality is bad
+#BoatState,43696,1,2,166021.443,0.000,0.4681,55
+GPS fix quality is bad
+#BoatState,43732,1,2,166021.443,0.000,0.4683,58
+GPS fix quality is bad
+#BoatState,43841,1,2,166021.443,0.000,0.4676,59
+GPS fix quality is bad
+#BoatState,43877,1,2,166021.443,0.000,0.4677,5D
+GPS fix quality is bad
+#BoatState,43913,1,2,166021.443,0.000,0.4671,58
+GPS fix quality is bad
+#BoatState,43950,1,2,166021.443,0.000,0.4679,57
+GPS fix quality is bad
+#BoatState,43986,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,44022,1,2,166021.443,0.000,0.4672,57
+GPS fix quality is bad
+#BoatState,44058,1,2,166021.443,0.000,0.4676,5E
+GPS fix quality is bad
+#BoatState,44095,1,2,166021.443,0.000,0.4672,5B
+GPS fix quality is bad
+#BoatState,44131,1,2,166021.443,0.000,0.4671,57
+GPS fix quality is bad
+#BoatState,44167,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,44203,1,2,166021.443,0.000,0.4676,52
+GPS fix quality is bad
+#BoatState,44240,1,2,166021.443,0.000,0.4674,57
+GPS fix quality is bad
+#BoatState,44276,1,2,166021.443,0.000,0.4676,50
+GPS fix quality is bad
+#BoatState,44312,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,44349,1,2,166021.443,0.000,0.4681,55
+GPS fix quality is bad
+#BoatState,44385,1,2,166021.443,0.000,0.4688,5C
+GPS fix quality is bad
+#BoatState,44421,1,2,166021.443,0.000,0.4688,55
+GPS fix quality is bad
+#BoatState,44457,1,2,166021.443,0.000,0.4690,5D
+GPS fix quality is bad
+#BoatState,44494,1,2,166021.443,0.000,0.4686,55
+GPS fix quality is bad
+#BoatState,44530,1,2,166021.443,0.000,0.4679,5A
+GPS fix quality is bad
+#BoatState,44566,1,2,166021.443,0.000,0.4677,57
+GPS fix quality is bad
+#BoatState,44602,1,2,166021.443,0.000,0.4672,53
+GPS fix quality is bad
+#BoatState,44639,1,2,166021.443,0.000,0.4674,5D
+GPS fix quality is bad
+#BoatState,44675,1,2,166021.443,0.000,0.4676,57
+GPS fix quality is bad
+#BoatState,44711,1,2,166021.443,0.000,0.4676,54
+GPS fix quality is bad
+#BoatState,44747,1,2,166021.443,0.000,0.4681,5F
+GPS fix quality is bad
+#BoatState,44784,1,2,166021.443,0.000,0.4684,55
+GPS fix quality is bad
+#BoatState,44820,1,2,166021.443,0.000,0.4679,56
+GPS fix quality is bad
+#BoatState,44856,1,2,166021.443,0.000,0.4684,55
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,44893,1,2,166021.443,0.000,0.4677,50
+GPS fix quality is bad
+#BoatState,44929,1,2,166021.443,0.000,0.4679,5E
+GPS fix quality is bad
+#BoatState,44965,1,2,166021.443,0.000,0.4681,51
+GPS fix quality is bad
+#BoatState,45001,1,2,166021.443,0.000,0.4681,5B
+GPS fix quality is bad
+#BoatState,45038,1,2,166021.443,0.000,0.4683,53
+GPS fix quality is bad
+#BoatState,45074,1,2,166021.443,0.000,0.4684,5C
+GPS fix quality is bad
+#BoatState,45110,1,2,166021.443,0.000,0.4686,5D
+GPS fix quality is bad
+#BoatState,45146,1,2,166021.443,0.000,0.4683,5B
+GPS fix quality is bad
+#BoatState,45183,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,45219,1,2,166021.443,0.000,0.4684,55
+GPS fix quality is bad
+#BoatState,45255,1,2,166021.443,0.000,0.4688,51
+GPS fix quality is bad
+#BoatState,45291,1,2,166021.443,0.000,0.4690,50
+GPS fix quality is bad
+#BoatState,45328,1,2,166021.443,0.000,0.4690,53
+GPS fix quality is bad
+#BoatState,45364,1,2,166021.443,0.000,0.4686,5C
+GPS fix quality is bad
+#BoatState,45400,1,2,166021.443,0.000,0.4686,59
+GPS fix quality is bad
+#BoatState,45437,1,2,166021.443,0.000,0.4684,5F
+GPS fix quality is bad
+#BoatState,45473,1,2,166021.443,0.000,0.4684,5F
+GPS fix quality is bad
+#BoatState,45509,1,2,166021.443,0.000,0.4681,56
+GPS fix quality is bad
+#BoatState,45545,1,2,166021.443,0.000,0.4688,57
+#CtrlSignals,1493,1485,off,0,1F
+GPS fix quality is bad
+#BoatState,45582,1,2,166021.443,0.000,0.4693,56
+GPS fix quality is bad
+#BoatState,45618,1,2,166021.443,0.000,0.4697,52
+#CtrlSignals,1493,1485,off,0,1F
+GPS fix quality is bad
+#BoatState,45654,1,2,166021.443,0.000,0.4698,55
+GPS fix quality is bad
+#BoatState,45690,1,2,166021.443,0.000,0.4700,5D
+GPS fix quality is bad
+#BoatState,45727,1,2,166021.443,0.000,0.4700,50
+GPS fix quality is bad
+#BoatState,45763,1,2,166021.443,0.000,0.4702,52
+GPS fix quality is bad
+#BoatState,45799,1,2,166021.443,0.000,0.4697,5A
+GPS fix quality is bad
+#BoatState,45835,1,2,166021.443,0.000,0.4697,53
+GPS fix quality is bad
+#BoatState,45872,1,2,166021.443,0.000,0.4700,5F
+GPS fix quality is bad
+#BoatState,45908,1,2,166021.443,0.000,0.4702,51
+GPS fix quality is bad
+#BoatState,45944,1,2,166021.443,0.000,0.4700,5B
+GPS fix quality is bad
+#BoatState,45981,1,2,166021.443,0.000,0.4704,56
+GPS fix quality is bad
+#BoatState,46017,1,2,166021.443,0.000,0.4704,53
+GPS fix quality is bad
+#BoatState,46053,1,2,166021.443,0.000,0.4702,55
+GPS fix quality is bad
+#BoatState,46089,1,2,166021.443,0.000,0.4700,50
+GPS fix quality is bad
+#BoatState,46126,1,2,166021.443,0.000,0.4704,50
+GPS fix quality is bad
+#BoatState,46162,1,2,166021.443,0.000,0.4700,54
+GPS fix quality is bad
+#BoatState,46198,1,2,166021.443,0.000,0.4698,51
+GPS fix quality is bad
+#BoatState,46234,1,2,166021.443,0.000,0.4697,5B
+GPS fix quality is bad
+#BoatState,46271,1,2,166021.443,0.000,0.4697,5A
+GPS fix quality is bad
+#BoatState,46307,1,2,166021.443,0.000,0.4691,5C
+GPS fix quality is bad
+#BoatState,46343,1,2,166021.443,0.000,0.4695,58
+GPS fix quality is bad
+#BoatState,46379,1,2,166021.443,0.000,0.4697,53
+GPS fix quality is bad
+#BoatState,46416,1,2,166021.443,0.000,0.4693,59
+GPS fix quality is bad
+#BoatState,46452,1,2,166021.443,0.000,0.4690,5A
+GPS fix quality is bad
+#BoatState,46488,1,2,166021.443,0.000,0.4684,58
+GPS fix quality is bad
+#BoatState,46525,1,2,166021.443,0.000,0.4683,59
+GPS fix quality is bad
+#BoatState,46561,1,2,166021.443,0.000,0.4681,5B
+GPS fix quality is bad
+#BoatState,46597,1,2,166021.443,0.000,0.4677,5B
+GPS fix quality is bad
+#BoatState,46633,1,2,166021.443,0.000,0.4676,57
+GPS fix quality is bad
+#BoatState,46670,1,2,166021.443,0.000,0.4674,52
+GPS fix quality is bad
+#BoatState,46706,1,2,166021.443,0.000,0.4664,53
+GPS fix quality is bad
+#BoatState,46742,1,2,166021.443,0.000,0.4665,52
+GPS fix quality is bad
+#BoatState,46778,1,2,166021.443,0.000,0.4662,5C
+GPS fix quality is bad
+#BoatState,46815,1,2,166021.443,0.000,0.4660,5A
+GPS fix quality is bad
+#BoatState,46851,1,2,166021.443,0.000,0.4662,58
+GPS fix quality is bad
+#BoatState,46887,1,2,166021.443,0.000,0.4657,55
+GPS fix quality is bad
+#BoatState,46923,1,2,166021.443,0.000,0.4657,5A
+GPS fix quality is bad
+#BoatState,46960,1,2,166021.443,0.000,0.4657,5D
+GPS fix quality is bad
+#BoatState,46996,1,2,166021.443,0.000,0.4651,52
+GPS fix quality is bad
+#BoatState,47032,1,2,166021.443,0.000,0.4655,50
+GPS fix quality is bad
+#BoatState,47069,1,2,166021.443,0.000,0.4658,53
+GPS fix quality is bad
+#BoatState,47105,1,2,166021.443,0.000,0.4657,57
+GPS fix quality is bad
+#BoatState,47141,1,2,166021.443,0.000,0.4650,50
+GPS fix quality is bad
+#BoatState,47177,1,2,166021.443,0.000,0.4648,5C
+GPS fix quality is bad
+#BoatState,47214,1,2,166021.443,0.000,0.4650,53
+GPS fix quality is bad
+#BoatState,47250,1,2,166021.443,0.000,0.4644,56
+GPS fix quality is bad
+#BoatState,47286,1,2,166021.443,0.000,0.4637,59
+GPS fix quality is bad
+#BoatState,47322,1,2,166021.443,0.000,0.4639,58
+GPS fix quality is bad
+#BoatState,47359,1,2,166021.443,0.000,0.4641,5B
+GPS fix quality is bad
+#BoatState,47395,1,2,166021.443,0.000,0.4643,59
+GPS fix quality is bad
+#BoatState,47431,1,2,166021.443,0.000,0.4641,52
+GPS fix quality is bad
+#BoatState,47467,1,2,166021.443,0.000,0.4639,5E
+GPS fix quality is bad
+#BoatState,47504,1,2,166021.443,0.000,0.4643,57
+GPS fix quality is bad
+#BoatState,47540,1,2,166021.443,0.000,0.4643,57
+GPS fix quality is bad
+#BoatState,47576,1,2,166021.443,0.000,0.4639,5F
+GPS fix quality is bad
+#BoatState,47613,1,2,166021.443,0.000,0.4639,5F
+GPS fix quality is bad
+#BoatState,47649,1,2,166021.443,0.000,0.4637,5E
+GPS fix quality is bad
+#BoatState,47685,1,2,166021.443,0.000,0.4629,51
+GPS fix quality is bad
+#BoatState,47721,1,2,166021.443,0.000,0.4637,51
+#CtrlSignals,1494,1485,off,0,18
+GPS fix quality is bad
+#BoatState,47758,1,2,166021.443,0.000,0.4637,5F
+GPS fix quality is bad
+#BoatState,47794,1,2,166021.443,0.000,0.4636,5E
+#CtrlSignals,1496,1486,off,0,19
+GPS fix quality is bad
+#BoatState,47830,1,2,166021.443,0.000,0.4637,5E
+GPS fix quality is bad
+#BoatState,47866,1,2,166021.443,0.000,0.4637,5D
+GPS fix quality is bad
+#BoatState,47903,1,2,166021.443,0.000,0.4641,5E
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,47939,1,2,166021.443,0.000,0.4643,55
+GPS fix quality is bad
+#BoatState,47975,1,2,166021.443,0.000,0.4641,5F
+GPS fix quality is bad
+#BoatState,48011,1,2,166021.443,0.000,0.4641,5B
+GPS fix quality is bad
+#BoatState,48084,1,2,166021.443,0.000,0.4641,57
+GPS fix quality is bad
+#BoatState,48120,1,2,166021.443,0.000,0.4643,5A
+GPS fix quality is bad
+#BoatState,48157,1,2,166021.443,0.000,0.4644,5D
+#CtrlSignals,1496,1486,off,0,19
+GPS fix quality is bad
+#BoatState,48193,1,2,166021.443,0.000,0.4648,59
+GPS fix quality is bad
+#BoatState,48229,1,2,166021.443,0.000,0.4650,52
+GPS fix quality is bad
+#BoatState,48265,1,2,166021.443,0.000,0.4650,5A
+GPS fix quality is bad
+#BoatState,48302,1,2,166021.443,0.000,0.4648,53
+GPS fix quality is bad
+#BoatState,48338,1,2,166021.443,0.000,0.4655,56
+GPS fix quality is bad
+#BoatState,48374,1,2,166021.443,0.000,0.4655,5E
+GPS fix quality is bad
+#BoatState,48410,1,2,166021.443,0.000,0.4653,5D
+GPS fix quality is bad
+#BoatState,48447,1,2,166021.443,0.000,0.4657,5B
+GPS fix quality is bad
+#BoatState,48483,1,2,166021.443,0.000,0.4653,57
+GPS fix quality is bad
+#BoatState,48519,1,2,166021.443,0.000,0.4655,53
+GPS fix quality is bad
+#BoatState,48555,1,2,166021.443,0.000,0.4657,59
+GPS fix quality is bad
+#BoatState,48592,1,2,166021.443,0.000,0.4653,56
+#CtrlSignals,1494,1484,off,0,19
+GPS fix quality is bad
+#BoatState,48628,1,2,166021.443,0.000,0.4655,52
+GPS fix quality is bad
+#BoatState,48664,1,2,166021.443,0.000,0.4662,5E
+#CtrlSignals,1498,1483,off,0,12
+GPS fix quality is bad
+#BoatState,48701,1,2,166021.443,0.000,0.4662,5C
+GPS fix quality is bad
+#BoatState,48737,1,2,166021.443,0.000,0.4664,5F
+GPS fix quality is bad
+#BoatState,48773,1,2,166021.443,0.000,0.4662,59
+GPS fix quality is bad
+#BoatState,48882,1,2,166021.443,0.000,0.4671,5A
+GPS fix quality is bad
+#BoatState,48918,1,2,166021.443,0.000,0.4674,5D
+GPS fix quality is bad
+#BoatState,48954,1,2,166021.443,0.000,0.4677,56
+GPS fix quality is bad
+#BoatState,48991,1,2,166021.443,0.000,0.4674,5C
+GPS fix quality is bad
+#BoatState,49027,1,2,166021.443,0.000,0.4677,5A
+GPS fix quality is bad
+#BoatState,49063,1,2,166021.443,0.000,0.4681,53
+GPS fix quality is bad
+#BoatState,49099,1,2,166021.443,0.000,0.4681,56
+GPS fix quality is bad
+#BoatState,49136,1,2,166021.443,0.000,0.4684,57
+GPS fix quality is bad
+#BoatState,49172,1,2,166021.443,0.000,0.4684,57
+GPS fix quality is bad
+#BoatState,49208,1,2,166021.443,0.000,0.4691,5D
+GPS fix quality is bad
+#BoatState,49245,1,2,166021.443,0.000,0.4695,50
+GPS fix quality is bad
+#BoatState,49281,1,2,166021.443,0.000,0.4684,58
+GPS fix quality is bad
+#BoatState,49317,1,2,166021.443,0.000,0.4684,56
+GPS fix quality is bad
+#BoatState,49390,1,2,166021.443,0.000,0.4691,5D
+GPS fix quality is bad
+#BoatState,49426,1,2,166021.443,0.000,0.4690,56
+GPS fix quality is bad
+#BoatState,49462,1,2,166021.443,0.000,0.4691,57
+GPS fix quality is bad
+#BoatState,49498,1,2,166021.443,0.000,0.4690,53
+GPS fix quality is bad
+#BoatState,49535,1,2,166021.443,0.000,0.4690,55
+GPS fix quality is bad
+#BoatState,49571,1,2,166021.443,0.000,0.4688,5C
+GPS fix quality is bad
+#BoatState,49607,1,2,166021.443,0.000,0.4686,50
+GPS fix quality is bad
+#BoatState,49643,1,2,166021.443,0.000,0.4684,52
+GPS fix quality is bad
+#BoatState,49680,1,2,166021.443,0.000,0.4676,50
+GPS fix quality is bad
+#BoatState,49716,1,2,166021.443,0.000,0.4671,59
+GPS fix quality is bad
+#BoatState,49752,1,2,166021.443,0.000,0.4674,5C
+GPS fix quality is bad
+#BoatState,49789,1,2,166021.443,0.000,0.4672,5C
+GPS fix quality is bad
+#BoatState,49825,1,2,166021.443,0.000,0.4674,53
+GPS fix quality is bad
+#BoatState,49861,1,2,166021.443,0.000,0.4672,55
+GPS fix quality is bad
+#BoatState,49897,1,2,166021.443,0.000,0.4672,5C
+GPS fix quality is bad
+#BoatState,49934,1,2,166021.443,0.000,0.4671,57
+GPS fix quality is bad
+#BoatState,49970,1,2,166021.443,0.000,0.4671,57
+GPS fix quality is bad
+#BoatState,50006,1,2,166021.443,0.000,0.4672,54
+GPS fix quality is bad
+#BoatState,50042,1,2,166021.443,0.000,0.4669,5E
+GPS fix quality is bad
+#BoatState,50079,1,2,166021.443,0.000,0.4665,5A
+GPS fix quality is bad
+#BoatState,50115,1,2,166021.443,0.000,0.4664,50
+GPS fix quality is bad
+#BoatState,50151,1,2,166021.443,0.000,0.4664,50
+GPS fix quality is bad
+#BoatState,50187,1,2,166021.443,0.000,0.4665,5A
+GPS fix quality is bad
+#BoatState,50224,1,2,166021.443,0.000,0.4667,52
+GPS fix quality is bad
+#BoatState,50260,1,2,166021.443,0.000,0.4671,55
+GPS fix quality is bad
+#BoatState,50296,1,2,166021.443,0.000,0.4672,5F
+GPS fix quality is bad
+#BoatState,50333,1,2,166021.443,0.000,0.4674,57
+GPS fix quality is bad
+#BoatState,50369,1,2,166021.443,0.000,0.4676,5A
+GPS fix quality is bad
+#BoatState,50405,1,2,166021.443,0.000,0.4672,53
+GPS fix quality is bad
+#BoatState,50441,1,2,166021.443,0.000,0.4667,57
+GPS fix quality is bad
+#BoatState,50478,1,2,166021.443,0.000,0.4658,51
+GPS fix quality is bad
+#BoatState,50514,1,2,166021.443,0.000,0.4664,55
+GPS fix quality is bad
+#BoatState,50550,1,2,166021.443,0.000,0.4667,56
+GPS fix quality is bad
+#BoatState,50586,1,2,166021.443,0.000,0.4667,5D
+GPS fix quality is bad
+#BoatState,50623,1,2,166021.443,0.000,0.4665,53
+GPS fix quality is bad
+#BoatState,50659,1,2,166021.443,0.000,0.4664,5F
+GPS fix quality is bad
+#BoatState,50695,1,2,166021.443,0.000,0.4667,5C
+GPS fix quality is bad
+#BoatState,50731,1,2,166021.443,0.000,0.4662,56
+GPS fix quality is bad
+#BoatState,50840,1,2,166021.443,0.000,0.4660,5D
+GPS fix quality is bad
+#BoatState,50877,1,2,166021.443,0.000,0.4662,5B
+GPS fix quality is bad
+#BoatState,50913,1,2,166021.443,0.000,0.4667,5D
+GPS fix quality is bad
+#BoatState,50949,1,2,166021.443,0.000,0.4669,5C
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,50985,1,2,166021.443,0.000,0.4674,50
+GPS fix quality is bad
+#BoatState,51022,1,2,166021.443,0.000,0.4674,55
+GPS fix quality is bad
+#BoatState,51058,1,2,166021.443,0.000,0.4662,5F
+GPS fix quality is bad
+#BoatState,51094,1,2,166021.443,0.000,0.4660,5D
+GPS fix quality is bad
+#BoatState,51130,1,2,166021.443,0.000,0.4665,57
+#CtrlSignals,1500,1224,off,0,19
+GPS fix quality is bad
+#BoatState,51167,1,2,166021.443,0.000,0.4664,54
+#CtrlSignals,1504,1315,off,0,1E
+GPS fix quality is bad
+#BoatState,51203,1,2,166021.443,0.000,0.4665,54
+#CtrlSignals,1503,1442,off,0,1C
+GPS fix quality is bad
+#BoatState,51239,1,2,166021.443,0.000,0.4672,5B
+#CtrlSignals,1500,1482,off,0,13
+GPS fix quality is bad
+#BoatState,51275,1,2,166021.443,0.000,0.4665,55
+GPS fix quality is bad
+#BoatState,51312,1,2,166021.443,0.000,0.4665,55
+GPS fix quality is bad
+#BoatState,51348,1,2,166021.443,0.000,0.4667,58
+GPS fix quality is bad
+#BoatState,51384,1,2,166021.443,0.000,0.4665,5A
+GPS fix quality is bad
+#BoatState,51421,1,2,166021.443,0.000,0.4667,50
+GPS fix quality is bad
+#BoatState,51457,1,2,166021.443,0.000,0.4662,54
+GPS fix quality is bad
+#BoatState,51493,1,2,166021.443,0.000,0.4664,5A
+GPS fix quality is bad
+#BoatState,51529,1,2,166021.443,0.000,0.4664,5A
+GPS fix quality is bad
+#BoatState,51566,1,2,166021.443,0.000,0.4664,51
+GPS fix quality is bad
+#BoatState,51602,1,2,166021.443,0.000,0.4665,51
+GPS fix quality is bad
+#BoatState,51638,1,2,166021.443,0.000,0.4667,5A
+GPS fix quality is bad
+#BoatState,51674,1,2,166021.443,0.000,0.4662,57
+GPS fix quality is bad
+#BoatState,51711,1,2,166021.443,0.000,0.4658,5C
+GPS fix quality is bad
+#BoatState,51747,1,2,166021.443,0.000,0.4657,50
+GPS fix quality is bad
+#BoatState,51856,1,2,166021.443,0.000,0.4671,5B
+GPS fix quality is bad
+#BoatState,51892,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,51928,1,2,166021.443,0.000,0.4669,5A
+#CtrlSignals,1466,1485,off,0,15
+GPS fix quality is bad
+#BoatState,51965,1,2,166021.443,0.000,0.4662,58
+#CtrlSignals,1395,1485,off,0,1E
+GPS fix quality is bad
+#BoatState,52001,1,2,166021.443,0.000,0.4662,50
+#CtrlSignals,1330,1486,off,0,12
+GPS fix quality is bad
+#BoatState,52037,1,2,166021.443,0.000,0.4664,53
+#CtrlSignals,1258,1485,off,0,1E
+GPS fix quality is bad
+#BoatState,52073,1,2,166021.443,0.000,0.4658,5C
+#CtrlSignals,1189,1483,off,0,17
+GPS fix quality is bad
+#BoatState,52110,1,2,166021.443,0.000,0.4658,58
+#CtrlSignals,1162,1482,off,0,13
+GPS fix quality is bad
+#BoatState,52146,1,2,166021.443,0.000,0.4660,50
+#CtrlSignals,1158,1483,off,0,1B
+GPS fix quality is bad
+#BoatState,52182,1,2,166021.443,0.000,0.4664,5C
+GPS fix quality is bad
+#BoatState,52218,1,2,166021.443,0.000,0.4664,5C
+GPS fix quality is bad
+#BoatState,52255,1,2,166021.443,0.000,0.4660,51
+#CtrlSignals,1160,1485,off,0,16
+GPS fix quality is bad
+#BoatState,52291,1,2,166021.443,0.000,0.4665,5C
+#CtrlSignals,1172,1485,off,0,15
+GPS fix quality is bad
+#BoatState,52327,1,2,166021.443,0.000,0.4665,50
+#CtrlSignals,1220,1484,off,0,10
+GPS fix quality is bad
+#BoatState,52363,1,2,166021.443,0.000,0.4658,5E
+#CtrlSignals,1274,1484,off,0,11
+GPS fix quality is bad
+#BoatState,52400,1,2,166021.443,0.000,0.4662,55
+#CtrlSignals,1330,1486,off,0,12
+GPS fix quality is bad
+#BoatState,52436,1,2,166021.443,0.000,0.4665,57
+#CtrlSignals,1387,1486,off,0,1E
+GPS fix quality is bad
+#BoatState,52472,1,2,166021.443,0.000,0.4664,56
+#CtrlSignals,1456,1483,off,0,10
+GPS fix quality is bad
+#BoatState,52509,1,2,166021.443,0.000,0.4660,5F
+#CtrlSignals,1492,1484,off,0,1F
+GPS fix quality is bad
+#BoatState,52545,1,2,166021.443,0.000,0.4660,57
+#CtrlSignals,1496,1484,off,0,1B
+GPS fix quality is bad
+#BoatState,52581,1,2,166021.443,0.000,0.4662,5D
+GPS fix quality is bad
+#BoatState,52617,1,2,166021.443,0.000,0.4662,51
+GPS fix quality is bad
+#BoatState,52654,1,2,166021.443,0.000,0.4658,5F
+GPS fix quality is bad
+#BoatState,52690,1,2,166021.443,0.000,0.4643,5D
+GPS fix quality is bad
+#BoatState,52726,1,2,166021.443,0.000,0.4632,57
+GPS fix quality is bad
+#BoatState,52762,1,2,166021.443,0.000,0.4634,51
+GPS fix quality is bad
+#BoatState,52799,1,2,166021.443,0.000,0.4634,55
+GPS fix quality is bad
+#BoatState,52835,1,2,166021.443,0.000,0.4632,5A
+GPS fix quality is bad
+#BoatState,52871,1,2,166021.443,0.000,0.4637,5F
+GPS fix quality is bad
+#BoatState,52907,1,2,166021.443,0.000,0.4643,5C
+GPS fix quality is bad
+#BoatState,52944,1,2,166021.443,0.000,0.4644,5C
+GPS fix quality is bad
+#BoatState,52980,1,2,166021.443,0.000,0.4641,51
+GPS fix quality is bad
+#BoatState,53016,1,2,166021.443,0.000,0.4643,54
+GPS fix quality is bad
+#BoatState,53053,1,2,166021.443,0.000,0.4639,58
+GPS fix quality is bad
+#BoatState,53089,1,2,166021.443,0.000,0.4639,5F
+GPS fix quality is bad
+#BoatState,53125,1,2,166021.443,0.000,0.4641,57
+GPS fix quality is bad
+#BoatState,53161,1,2,166021.443,0.000,0.4634,55
+GPS fix quality is bad
+#BoatState,53198,1,2,166021.443,0.000,0.4637,50
+GPS fix quality is bad
+#BoatState,53234,1,2,166021.443,0.000,0.4641,54
+GPS fix quality is bad
+#BoatState,53270,1,2,166021.443,0.000,0.4644,51
+GPS fix quality is bad
+#BoatState,53306,1,2,166021.443,0.000,0.4646,53
+GPS fix quality is bad
+#BoatState,53343,1,2,166021.443,0.000,0.4643,57
+GPS fix quality is bad
+#BoatState,53379,1,2,166021.443,0.000,0.4646,5B
+GPS fix quality is bad
+#BoatState,53415,1,2,166021.443,0.000,0.4644,54
+GPS fix quality is bad
+#BoatState,53451,1,2,166021.443,0.000,0.4643,53
+GPS fix quality is bad
+#BoatState,53488,1,2,166021.443,0.000,0.4643,57
+GPS fix quality is bad
+#BoatState,53524,1,2,166021.443,0.000,0.4646,55
+GPS fix quality is bad
+#BoatState,53560,1,2,166021.443,0.000,0.4643,50
+GPS fix quality is bad
+#BoatState,53597,1,2,166021.443,0.000,0.4639,55
+GPS fix quality is bad
+#BoatState,53633,1,2,166021.443,0.000,0.4637,56
+GPS fix quality is bad
+#BoatState,53669,1,2,166021.443,0.000,0.4637,59
+GPS fix quality is bad
+#BoatState,53705,1,2,166021.443,0.000,0.4634,51
+GPS fix quality is bad
+#BoatState,53742,1,2,166021.443,0.000,0.4634,52
+GPS fix quality is bad
+#BoatState,53778,1,2,166021.443,0.000,0.4630,5F
+GPS fix quality is bad
+#BoatState,53814,1,2,166021.443,0.000,0.4629,52
+GPS fix quality is bad
+#BoatState,53850,1,2,166021.443,0.000,0.4627,5C
+GPS fix quality is bad
+#BoatState,53887,1,2,166021.443,0.000,0.4625,54
+GPS fix quality is bad
+#BoatState,53923,1,2,166021.443,0.000,0.4627,59
+GPS fix quality is bad
+#BoatState,53959,1,2,166021.443,0.000,0.4625,56
+GPS fix quality is bad
+#BoatState,53995,1,2,166021.443,0.000,0.4629,5A
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,54032,1,2,166021.443,0.000,0.4634,55
+GPS fix quality is bad
+#BoatState,54068,1,2,166021.443,0.000,0.4632,5C
+GPS fix quality is bad
+#BoatState,54104,1,2,166021.443,0.000,0.4641,53
+#CtrlSignals,1499,1488,off,0,18
+GPS fix quality is bad
+#BoatState,54141,1,2,166021.443,0.000,0.4643,50
+GPS fix quality is bad
+#BoatState,54177,1,2,166021.443,0.000,0.4644,52
+#CtrlSignals,1496,1486,off,0,19
+GPS fix quality is bad
+#BoatState,54213,1,2,166021.443,0.000,0.4648,5F
+GPS fix quality is bad
+#BoatState,54249,1,2,166021.443,0.000,0.4648,50
+GPS fix quality is bad
+#BoatState,54286,1,2,166021.443,0.000,0.4650,5A
+GPS fix quality is bad
+#BoatState,54322,1,2,166021.443,0.000,0.4650,55
+GPS fix quality is bad
+#BoatState,54358,1,2,166021.443,0.000,0.4646,5F
+GPS fix quality is bad
+#BoatState,54394,1,2,166021.443,0.000,0.4646,5F
+GPS fix quality is bad
+#BoatState,54431,1,2,166021.443,0.000,0.4650,50
+#CtrlSignals,1506,1482,off,0,15
+GPS fix quality is bad
+#BoatState,54467,1,2,166021.443,0.000,0.4650,53
+GPS fix quality is bad
+#BoatState,54503,1,2,166021.443,0.000,0.4646,57
+GPS fix quality is bad
+#BoatState,54576,1,2,166021.443,0.000,0.4650,52
+#CtrlSignals,1498,1482,off,0,13
+GPS fix quality is bad
+#BoatState,54612,1,2,166021.443,0.000,0.4648,5A
+GPS fix quality is bad
+#BoatState,54648,1,2,166021.443,0.000,0.4648,55
+GPS fix quality is bad
+#BoatState,54685,1,2,166021.443,0.000,0.4646,5A
+GPS fix quality is bad
+#BoatState,54721,1,2,166021.443,0.000,0.4650,52
+GPS fix quality is bad
+#BoatState,54757,1,2,166021.443,0.000,0.4650,53
+GPS fix quality is bad
+#BoatState,54866,1,2,166021.443,0.000,0.4653,5D
+GPS fix quality is bad
+#BoatState,54902,1,2,166021.443,0.000,0.4655,58
+GPS fix quality is bad
+#BoatState,54938,1,2,166021.443,0.000,0.4650,54
+GPS fix quality is bad
+#BoatState,54975,1,2,166021.443,0.000,0.4651,5C
+GPS fix quality is bad
+#BoatState,55011,1,2,166021.443,0.000,0.4653,54
+GPS fix quality is bad
+#BoatState,55047,1,2,166021.443,0.000,0.4646,53
+GPS fix quality is bad
+#BoatState,55083,1,2,166021.443,0.000,0.4650,5C
+GPS fix quality is bad
+#BoatState,55120,1,2,166021.443,0.000,0.4648,5D
+GPS fix quality is bad
+#BoatState,55156,1,2,166021.443,0.000,0.4650,55
+GPS fix quality is bad
+#BoatState,55192,1,2,166021.443,0.000,0.4644,58
+GPS fix quality is bad
+#BoatState,55229,1,2,166021.443,0.000,0.4648,57
+GPS fix quality is bad
+#BoatState,55265,1,2,166021.443,0.000,0.4644,53
+GPS fix quality is bad
+#BoatState,55301,1,2,166021.443,0.000,0.4644,50
+GPS fix quality is bad
+#BoatState,55337,1,2,166021.443,0.000,0.4643,52
+GPS fix quality is bad
+#BoatState,55374,1,2,166021.443,0.000,0.4641,57
+GPS fix quality is bad
+#BoatState,55410,1,2,166021.443,0.000,0.4643,50
+GPS fix quality is bad
+#BoatState,55446,1,2,166021.443,0.000,0.4639,5E
+GPS fix quality is bad
+#BoatState,55482,1,2,166021.443,0.000,0.4643,5B
+GPS fix quality is bad
+#BoatState,55519,1,2,166021.443,0.000,0.4644,5F
+GPS fix quality is bad
+#BoatState,55555,1,2,166021.443,0.000,0.4648,5B
+GPS fix quality is bad
+#BoatState,55591,1,2,166021.443,0.000,0.4657,5D
+#CtrlSignals,1499,1364,off,0,1D
+GPS fix quality is bad
+#BoatState,55627,1,2,166021.443,0.000,0.4657,53
+GPS fix quality is bad
+#BoatState,55664,1,2,166021.443,0.000,0.4658,5B
+#CtrlSignals,1498,1250,off,0,1A
+GPS fix quality is bad
+#BoatState,55700,1,2,166021.443,0.000,0.4660,53
+GPS fix quality is bad
+#BoatState,55736,1,2,166021.443,0.000,0.4662,54
+GPS fix quality is bad
+#BoatState,55773,1,2,166021.443,0.000,0.4665,52
+GPS fix quality is bad
+#BoatState,55881,1,2,166021.443,0.000,0.4665,50
+GPS fix quality is bad
+#BoatState,55918,1,2,166021.443,0.000,0.4664,50
+GPS fix quality is bad
+#BoatState,55954,1,2,166021.443,0.000,0.4664,58
+GPS fix quality is bad
+#BoatState,55990,1,2,166021.443,0.000,0.4658,5F
+GPS fix quality is bad
+#BoatState,56026,1,2,166021.443,0.000,0.4662,51
+GPS fix quality is bad
+#BoatState,56063,1,2,166021.443,0.000,0.4662,50
+GPS fix quality is bad
+#BoatState,56099,1,2,166021.443,0.000,0.4662,55
+GPS fix quality is bad
+#BoatState,56135,1,2,166021.443,0.000,0.4662,52
+GPS fix quality is bad
+#BoatState,56171,1,2,166021.443,0.000,0.4660,50
+GPS fix quality is bad
+#BoatState,56208,1,2,166021.443,0.000,0.4658,56
+GPS fix quality is bad
+#BoatState,56244,1,2,166021.443,0.000,0.4660,55
+GPS fix quality is bad
+#BoatState,56280,1,2,166021.443,0.000,0.4664,59
+GPS fix quality is bad
+#BoatState,56317,1,2,166021.443,0.000,0.4664,56
+GPS fix quality is bad
+#BoatState,56353,1,2,166021.443,0.000,0.4665,57
+GPS fix quality is bad
+#BoatState,56389,1,2,166021.443,0.000,0.4667,52
+GPS fix quality is bad
+#BoatState,56425,1,2,166021.443,0.000,0.4667,53
+GPS fix quality is bad
+#BoatState,56462,1,2,166021.443,0.000,0.4664,53
+GPS fix quality is bad
+#BoatState,56498,1,2,166021.443,0.000,0.4671,52
+GPS fix quality is bad
+#BoatState,56534,1,2,166021.443,0.000,0.4669,5C
+GPS fix quality is bad
+#BoatState,56570,1,2,166021.443,0.000,0.4672,56
+GPS fix quality is bad
+#BoatState,56607,1,2,166021.443,0.000,0.4677,50
+GPS fix quality is bad
+#BoatState,56643,1,2,166021.443,0.000,0.4679,5E
+GPS fix quality is bad
+#BoatState,56679,1,2,166021.443,0.000,0.4684,55
+GPS fix quality is bad
+#BoatState,56715,1,2,166021.443,0.000,0.4679,5C
+GPS fix quality is bad
+#BoatState,56752,1,2,166021.443,0.000,0.4672,54
+GPS fix quality is bad
+#BoatState,56788,1,2,166021.443,0.000,0.4676,57
+#CtrlSignals,1502,1483,off,0,10
+GPS fix quality is bad
+#BoatState,56824,1,2,166021.443,0.000,0.4674,5C
+GPS fix quality is bad
+#BoatState,56861,1,2,166021.443,0.000,0.4688,5E
+#CtrlSignals,1500,1485,off,0,14
+GPS fix quality is bad
+#BoatState,56897,1,2,166021.443,0.000,0.4691,5F
+GPS fix quality is bad
+#BoatState,56933,1,2,166021.443,0.000,0.4688,58
+GPS fix quality is bad
+#BoatState,56969,1,2,166021.443,0.000,0.4693,5D
+GPS fix quality is bad
+#BoatState,57006,1,2,166021.443,0.000,0.4702,55
+GPS fix quality is bad
+#BoatState,57042,1,2,166021.443,0.000,0.4697,58
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,57078,1,2,166021.443,0.000,0.4693,55
+GPS fix quality is bad
+#BoatState,57114,1,2,166021.443,0.000,0.4698,55
+GPS fix quality is bad
+#BoatState,57151,1,2,166021.443,0.000,0.4697,5B
+GPS fix quality is bad
+#BoatState,57187,1,2,166021.443,0.000,0.4693,54
+GPS fix quality is bad
+#BoatState,57223,1,2,166021.443,0.000,0.4691,5B
+GPS fix quality is bad
+#BoatState,57259,1,2,166021.443,0.000,0.4693,54
+GPS fix quality is bad
+#BoatState,57296,1,2,166021.443,0.000,0.4693,57
+GPS fix quality is bad
+#BoatState,57332,1,2,166021.443,0.000,0.4693,58
+GPS fix quality is bad
+#BoatState,57368,1,2,166021.443,0.000,0.4695,51
+GPS fix quality is bad
+#BoatState,57405,1,2,166021.443,0.000,0.4698,50
+GPS fix quality is bad
+#BoatState,57441,1,2,166021.443,0.000,0.4688,51
+#CtrlSignals,1500,1488,off,0,19
+GPS fix quality is bad
+#BoatState,57477,1,2,166021.443,0.000,0.4691,5C
+GPS fix quality is bad
+#BoatState,57513,1,2,166021.443,0.000,0.4690,5E
+#CtrlSignals,1498,1486,off,0,17
+GPS fix quality is bad
+#BoatState,57550,1,2,166021.443,0.000,0.4690,59
+GPS fix quality is bad
+#BoatState,57586,1,2,166021.443,0.000,0.4690,52
+GPS fix quality is bad
+#BoatState,57622,1,2,166021.443,0.000,0.4690,5F
+GPS fix quality is bad
+#BoatState,57658,1,2,166021.443,0.000,0.4690,52
+GPS fix quality is bad
+#BoatState,57695,1,2,166021.443,0.000,0.4690,53
+#CtrlSignals,1501,1487,off,0,17
+GPS fix quality is bad
+#BoatState,57731,1,2,166021.443,0.000,0.4681,5C
+#CtrlSignals,1498,1483,off,0,12
+GPS fix quality is bad
+#BoatState,57840,1,2,166021.443,0.000,0.4684,50
+GPS fix quality is bad
+#BoatState,57876,1,2,166021.443,0.000,0.4686,57
+GPS fix quality is bad
+#BoatState,57912,1,2,166021.443,0.000,0.4691,52
+GPS fix quality is bad
+#BoatState,57949,1,2,166021.443,0.000,0.4691,5C
+GPS fix quality is bad
+#BoatState,57985,1,2,166021.443,0.000,0.4690,5D
+GPS fix quality is bad
+#BoatState,58021,1,2,166021.443,0.000,0.4690,55
+GPS fix quality is bad
+#BoatState,58057,1,2,166021.443,0.000,0.4691,55
+GPS fix quality is bad
+#BoatState,58094,1,2,166021.443,0.000,0.4688,52
+GPS fix quality is bad
+#BoatState,58130,1,2,166021.443,0.000,0.4686,53
+GPS fix quality is bad
+#BoatState,58166,1,2,166021.443,0.000,0.4691,56
+GPS fix quality is bad
+#BoatState,58202,1,2,166021.443,0.000,0.4688,5F
+GPS fix quality is bad
+#BoatState,58239,1,2,166021.443,0.000,0.4684,5B
+GPS fix quality is bad
+#BoatState,58275,1,2,166021.443,0.000,0.4686,51
+GPS fix quality is bad
+#BoatState,58311,1,2,166021.443,0.000,0.4691,54
+GPS fix quality is bad
+#BoatState,58347,1,2,166021.443,0.000,0.4693,55
+GPS fix quality is bad
+#BoatState,58384,1,2,166021.443,0.000,0.4695,5C
+GPS fix quality is bad
+#BoatState,58420,1,2,166021.443,0.000,0.4693,53
+GPS fix quality is bad
+#BoatState,58456,1,2,166021.443,0.000,0.4695,54
+GPS fix quality is bad
+#BoatState,58493,1,2,166021.443,0.000,0.4695,5D
+GPS fix quality is bad
+#BoatState,58529,1,2,166021.443,0.000,0.4686,5F
+GPS fix quality is bad
+#BoatState,58565,1,2,166021.443,0.000,0.4683,52
+GPS fix quality is bad
+#BoatState,58601,1,2,166021.443,0.000,0.4686,56
+GPS fix quality is bad
+#BoatState,58638,1,2,166021.443,0.000,0.4683,59
+GPS fix quality is bad
+#BoatState,58674,1,2,166021.443,0.000,0.4684,56
+GPS fix quality is bad
+#BoatState,58710,1,2,166021.443,0.000,0.4686,57
+GPS fix quality is bad
+#BoatState,58746,1,2,166021.443,0.000,0.4686,54
+GPS fix quality is bad
+#BoatState,58783,1,2,166021.443,0.000,0.4691,5B
+#CtrlSignals,1501,1024,off,0,1A
+GPS fix quality is bad
+#BoatState,58819,1,2,166021.443,0.000,0.4690,56
+GPS fix quality is bad
+#BoatState,58855,1,2,166021.443,0.000,0.4691,5F
+#CtrlSignals,1498,1004,off,0,19
+GPS fix quality is bad
+#BoatState,58891,1,2,166021.443,0.000,0.4686,51
+GPS fix quality is bad
+#BoatState,58928,1,2,166021.443,0.000,0.4683,57
+GPS fix quality is bad
+#BoatState,58964,1,2,166021.443,0.000,0.4683,5F
+#CtrlSignals,1498,1006,off,0,1B
+GPS fix quality is bad
+#BoatState,59000,1,2,166021.443,0.000,0.4688,5E
+#CtrlSignals,1503,1006,off,0,18
+GPS fix quality is bad
+#BoatState,59037,1,2,166021.443,0.000,0.4690,53
+#CtrlSignals,1498,1015,off,0,19
+GPS fix quality is bad
+#BoatState,59073,1,2,166021.443,0.000,0.4695,56
+GPS fix quality is bad
+#BoatState,59109,1,2,166021.443,0.000,0.4700,57
+GPS fix quality is bad
+#BoatState,59145,1,2,166021.443,0.000,0.4704,5B
+GPS fix quality is bad
+#BoatState,59182,1,2,166021.443,0.000,0.4698,54
+GPS fix quality is bad
+#BoatState,59218,1,2,166021.443,0.000,0.4698,54
+GPS fix quality is bad
+#BoatState,59254,1,2,166021.443,0.000,0.4698,5C
+GPS fix quality is bad
+#BoatState,59290,1,2,166021.443,0.000,0.4698,54
+GPS fix quality is bad
+#BoatState,59327,1,2,166021.443,0.000,0.4698,59
+#CtrlSignals,1499,1487,off,0,17
+GPS fix quality is bad
+#BoatState,59363,1,2,166021.443,0.000,0.4693,52
+GPS fix quality is bad
+#BoatState,59399,1,2,166021.443,0.000,0.4695,51
+#CtrlSignals,1498,1484,off,0,15
+GPS fix quality is bad
+#BoatState,59435,1,2,166021.443,0.000,0.4691,54
+GPS fix quality is bad
+#BoatState,59472,1,2,166021.443,0.000,0.4693,55
+GPS fix quality is bad
+#BoatState,59508,1,2,166021.443,0.000,0.4695,5F
+GPS fix quality is bad
+#BoatState,59544,1,2,166021.443,0.000,0.4690,52
+GPS fix quality is bad
+#BoatState,59581,1,2,166021.443,0.000,0.4688,52
+GPS fix quality is bad
+#BoatState,59617,1,2,166021.443,0.000,0.4684,52
+GPS fix quality is bad
+#BoatState,59653,1,2,166021.443,0.000,0.4681,57
+GPS fix quality is bad
+#BoatState,59689,1,2,166021.443,0.000,0.4677,59
+GPS fix quality is bad
+#BoatState,59726,1,2,166021.443,0.000,0.4669,52
+GPS fix quality is bad
+#BoatState,59762,1,2,166021.443,0.000,0.4667,5C
+GPS fix quality is bad
+#BoatState,59798,1,2,166021.443,0.000,0.4672,5D
+GPS fix quality is bad
+#BoatState,59834,1,2,166021.443,0.000,0.4669,5E
+GPS fix quality is bad
+#BoatState,59871,1,2,166021.443,0.000,0.4672,55
+GPS fix quality is bad
+#BoatState,59907,1,2,166021.443,0.000,0.4671,56
+GPS fix quality is bad
+#BoatState,59943,1,2,166021.443,0.000,0.4671,56
+GPS fix quality is bad
+#BoatState,59979,1,2,166021.443,0.000,0.4671,5F
+GPS fix quality is bad
+#BoatState,60016,1,2,166021.443,0.000,0.4667,52
+GPS fix quality is bad
+#BoatState,60052,1,2,166021.443,0.000,0.4662,57
+GPS fix quality is bad
+#BoatState,60088,1,2,166021.443,0.000,0.4665,57
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,60125,1,2,166021.443,0.000,0.4664,50
+GPS fix quality is bad
+#BoatState,60161,1,2,166021.443,0.000,0.4662,56
+GPS fix quality is bad
+#BoatState,60197,1,2,166021.443,0.000,0.4660,5D
+GPS fix quality is bad
+#BoatState,60233,1,2,166021.443,0.000,0.4657,54
+GPS fix quality is bad
+#BoatState,60270,1,2,166021.443,0.000,0.4655,51
+GPS fix quality is bad
+#BoatState,60306,1,2,166021.443,0.000,0.4651,55
+GPS fix quality is bad
+#BoatState,60342,1,2,166021.443,0.000,0.4651,55
+GPS fix quality is bad
+#BoatState,60378,1,2,166021.443,0.000,0.4655,58
+GPS fix quality is bad
+#BoatState,60415,1,2,166021.443,0.000,0.4657,56
+#CtrlSignals,1500,1488,off,0,19
+GPS fix quality is bad
+#BoatState,60451,1,2,166021.443,0.000,0.4658,59
+GPS fix quality is bad
+#BoatState,60487,1,2,166021.443,0.000,0.4658,52
+#CtrlSignals,1498,1486,off,0,17
+GPS fix quality is bad
+#BoatState,60523,1,2,166021.443,0.000,0.4658,5D
+GPS fix quality is bad
+#BoatState,60560,1,2,166021.443,0.000,0.4662,53
+#CtrlSignals,1480,1485,off,0,1D
+GPS fix quality is bad
+#BoatState,60596,1,2,166021.443,0.000,0.4667,5F
+#CtrlSignals,1445,1485,off,0,14
+GPS fix quality is bad
+#BoatState,60632,1,2,166021.443,0.000,0.4667,52
+#CtrlSignals,1376,1484,off,0,12
+GPS fix quality is bad
+#BoatState,60669,1,2,166021.443,0.000,0.4667,5C
+#CtrlSignals,1307,1485,off,0,15
+GPS fix quality is bad
+#BoatState,60705,1,2,166021.443,0.000,0.4669,59
+#CtrlSignals,1238,1486,off,0,1B
+GPS fix quality is bad
+#BoatState,60741,1,2,166021.443,0.000,0.4664,54
+#CtrlSignals,1172,1486,off,0,16
+GPS fix quality is bad
+#BoatState,60777,1,2,166021.443,0.000,0.4665,50
+#CtrlSignals,1159,1485,off,0,1C
+GPS fix quality is bad
+#BoatState,60814,1,2,166021.443,0.000,0.4660,5F
+GPS fix quality is bad
+#BoatState,60850,1,2,166021.443,0.000,0.4665,5A
+GPS fix quality is bad
+#BoatState,60886,1,2,166021.443,0.000,0.4664,50
+GPS fix quality is bad
+#BoatState,60922,1,2,166021.443,0.000,0.4658,50
+#CtrlSignals,1197,1485,off,0,1E
+GPS fix quality is bad
+#BoatState,60959,1,2,166021.443,0.000,0.4674,52
+#CtrlSignals,1254,1485,off,0,12
+GPS fix quality is bad
+#BoatState,60995,1,2,166021.443,0.000,0.4688,51
+#CtrlSignals,1318,1484,off,0,1A
+GPS fix quality is bad
+#BoatState,61031,1,2,166021.443,0.000,0.4683,5C
+#CtrlSignals,1388,1490,off,0,16
+GPS fix quality is bad
+#BoatState,61067,1,2,166021.443,0.000,0.4683,5F
+#CtrlSignals,1451,1491,off,0,14
+GPS fix quality is bad
+#BoatState,61104,1,2,166021.443,0.000,0.4679,5E
+#CtrlSignals,1490,1486,off,0,1F
+GPS fix quality is bad
+#BoatState,61140,1,2,166021.443,0.000,0.4683,5B
+#CtrlSignals,1499,1486,off,0,16
+GPS fix quality is bad
+#BoatState,61176,1,2,166021.443,0.000,0.4679,5B
+GPS fix quality is bad
+#BoatState,61213,1,2,166021.443,0.000,0.4672,50
+GPS fix quality is bad
+#BoatState,61249,1,2,166021.443,0.000,0.4671,5C
+GPS fix quality is bad
+#BoatState,61285,1,2,166021.443,0.000,0.4676,5B
+GPS fix quality is bad
+#BoatState,61321,1,2,166021.443,0.000,0.4672,50
+GPS fix quality is bad
+#BoatState,61358,1,2,166021.443,0.000,0.4669,54
+GPS fix quality is bad
+#BoatState,61394,1,2,166021.443,0.000,0.4672,5E
+GPS fix quality is bad
+#BoatState,61430,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,61466,1,2,166021.443,0.000,0.4683,5A
+GPS fix quality is bad
+#BoatState,61503,1,2,166021.443,0.000,0.4683,58
+GPS fix quality is bad
+#BoatState,61575,1,2,166021.443,0.000,0.4681,5B
+GPS fix quality is bad
+#BoatState,61611,1,2,166021.443,0.000,0.4677,53
+GPS fix quality is bad
+#BoatState,61648,1,2,166021.443,0.000,0.4677,5F
+GPS fix quality is bad
+#BoatState,61684,1,2,166021.443,0.000,0.4679,51
+#CtrlSignals,1503,1485,off,0,17
+GPS fix quality is bad
+#BoatState,61720,1,2,166021.443,0.000,0.4667,51
+#CtrlSignals,1526,1486,off,0,13
+GPS fix quality is bad
+#BoatState,61757,1,2,166021.443,0.000,0.4662,54
+#CtrlSignals,1596,1485,off,0,1B
+GPS fix quality is bad
+#BoatState,61793,1,2,166021.443,0.000,0.4662,5C
+#CtrlSignals,1666,1484,off,0,16
+GPS fix quality is bad
+#BoatState,61829,1,2,166021.443,0.000,0.4660,50
+#CtrlSignals,1734,1486,off,0,12
+GPS fix quality is bad
+#BoatState,61865,1,2,166021.443,0.000,0.4653,58
+#CtrlSignals,1803,1486,off,0,19
+GPS fix quality is bad
+#BoatState,61902,1,2,166021.443,0.000,0.4653,58
+#CtrlSignals,1848,1485,off,0,15
+GPS fix quality is bad
+#BoatState,61938,1,2,166021.443,0.000,0.4660,51
+GPS fix quality is bad
+#BoatState,61974,1,2,166021.443,0.000,0.4660,59
+GPS fix quality is bad
+#BoatState,62010,1,2,166021.443,0.000,0.4651,53
+GPS fix quality is bad
+#BoatState,62047,1,2,166021.443,0.000,0.4653,53
+GPS fix quality is bad
+#BoatState,62083,1,2,166021.443,0.000,0.4653,5B
+GPS fix quality is bad
+#BoatState,62119,1,2,166021.443,0.000,0.4657,5D
+GPS fix quality is bad
+#BoatState,62155,1,2,166021.443,0.000,0.4657,55
+#CtrlSignals,1780,1484,off,0,1F
+GPS fix quality is bad
+#BoatState,62192,1,2,166021.443,0.000,0.4660,5A
+#CtrlSignals,1711,1484,off,0,17
+GPS fix quality is bad
+#BoatState,62228,1,2,166021.443,0.000,0.4658,53
+#CtrlSignals,1642,1485,off,0,11
+GPS fix quality is bad
+#BoatState,62264,1,2,166021.443,0.000,0.4658,5B
+#CtrlSignals,1573,1485,off,0,10
+GPS fix quality is bad
+#BoatState,62301,1,2,166021.443,0.000,0.4662,50
+#CtrlSignals,1504,1484,off,0,11
+#CtrlSignals,1501,1484,off,0,14
+GPS fix quality is bad
+#BoatState,62373,1,2,166021.443,0.000,0.4667,50
+GPS fix quality is bad
+#BoatState,62409,1,2,166021.443,0.000,0.4662,5F
+GPS fix quality is bad
+#BoatState,62446,1,2,166021.443,0.000,0.4662,54
+GPS fix quality is bad
+#BoatState,62482,1,2,166021.443,0.000,0.4665,5B
+GPS fix quality is bad
+#BoatState,62518,1,2,166021.443,0.000,0.4667,5B
+GPS fix quality is bad
+#BoatState,62554,1,2,166021.443,0.000,0.4669,5D
+GPS fix quality is bad
+#BoatState,62591,1,2,166021.443,0.000,0.4672,5E
+GPS fix quality is bad
+#BoatState,62627,1,2,166021.443,0.000,0.4674,56
+GPS fix quality is bad
+#BoatState,62663,1,2,166021.443,0.000,0.4676,54
+GPS fix quality is bad
+#BoatState,62699,1,2,166021.443,0.000,0.4679,5E
+GPS fix quality is bad
+#BoatState,62736,1,2,166021.443,0.000,0.4677,54
+GPS fix quality is bad
+#BoatState,62772,1,2,166021.443,0.000,0.4684,58
+GPS fix quality is bad
+#BoatState,62808,1,2,166021.443,0.000,0.4683,5D
+GPS fix quality is bad
+#BoatState,62845,1,2,166021.443,0.000,0.4686,51
+GPS fix quality is bad
+#BoatState,62881,1,2,166021.443,0.000,0.4684,5B
+GPS fix quality is bad
+#BoatState,62917,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,62953,1,2,166021.443,0.000,0.4683,52
+GPS fix quality is bad
+#BoatState,62990,1,2,166021.443,0.000,0.4684,5A
+#CtrlSignals,1499,1485,off,0,15
+GPS fix quality is bad
+#BoatState,63026,1,2,166021.443,0.000,0.4679,5D
+GPS fix quality is bad
+#BoatState,63062,1,2,166021.443,0.000,0.4676,52
+GPS fix quality is bad
+#BoatState,63098,1,2,166021.443,0.000,0.4674,55
+GPS fix quality is bad
+#BoatState,63135,1,2,166021.443,0.000,0.4674,53
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,63171,1,2,166021.443,0.000,0.4672,55
+GPS fix quality is bad
+#BoatState,63207,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,63243,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,63280,1,2,166021.443,0.000,0.4684,51
+GPS fix quality is bad
+#BoatState,63316,1,2,166021.443,0.000,0.4683,58
+GPS fix quality is bad
+#BoatState,63352,1,2,166021.443,0.000,0.4681,5A
+GPS fix quality is bad
+#BoatState,63389,1,2,166021.443,0.000,0.4684,59
+GPS fix quality is bad
+#BoatState,63425,1,2,166021.443,0.000,0.4684,58
+GPS fix quality is bad
+#BoatState,63461,1,2,166021.443,0.000,0.4683,5F
+GPS fix quality is bad
+#BoatState,63497,1,2,166021.443,0.000,0.4677,5D
+GPS fix quality is bad
+#BoatState,63534,1,2,166021.443,0.000,0.4677,55
+GPS fix quality is bad
+#BoatState,63570,1,2,166021.443,0.000,0.4679,5B
+GPS fix quality is bad
+#BoatState,63606,1,2,166021.443,0.000,0.4676,56
+GPS fix quality is bad
+#BoatState,63642,1,2,166021.443,0.000,0.4679,59
+#CtrlSignals,1502,1010,off,0,1E
+GPS fix quality is bad
+#BoatState,63679,1,2,166021.443,0.000,0.4674,5C
+GPS fix quality is bad
+#BoatState,63715,1,2,166021.443,0.000,0.4671,52
+#CtrlSignals,1500,1005,off,0,18
+GPS fix quality is bad
+#BoatState,63751,1,2,166021.443,0.000,0.4671,52
+GPS fix quality is bad
+#BoatState,63787,1,2,166021.443,0.000,0.4672,5A
+#CtrlSignals,1502,1006,off,0,19
+GPS fix quality is bad
+#BoatState,63824,1,2,166021.443,0.000,0.4667,58
+GPS fix quality is bad
+#BoatState,63860,1,2,166021.443,0.000,0.4671,5F
+GPS fix quality is bad
+#BoatState,63896,1,2,166021.443,0.000,0.4671,56
+GPS fix quality is bad
+#BoatState,63933,1,2,166021.443,0.000,0.4672,5B
+GPS fix quality is bad
+#BoatState,63969,1,2,166021.443,0.000,0.4665,52
+GPS fix quality is bad
+#BoatState,64005,1,2,166021.443,0.000,0.4662,51
+GPS fix quality is bad
+#BoatState,64041,1,2,166021.443,0.000,0.4669,5A
+GPS fix quality is bad
+#BoatState,64078,1,2,166021.443,0.000,0.4671,59
+GPS fix quality is bad
+#BoatState,64114,1,2,166021.443,0.000,0.4669,5B
+GPS fix quality is bad
+#BoatState,64150,1,2,166021.443,0.000,0.4669,5B
+GPS fix quality is bad
+#BoatState,64186,1,2,166021.443,0.000,0.4664,5D
+GPS fix quality is bad
+#BoatState,64223,1,2,166021.443,0.000,0.4664,51
+GPS fix quality is bad
+#BoatState,64259,1,2,166021.443,0.000,0.4669,51
+GPS fix quality is bad
+#BoatState,64295,1,2,166021.443,0.000,0.4667,5F
+GPS fix quality is bad
+#BoatState,64331,1,2,166021.443,0.000,0.4667,50
+GPS fix quality is bad
+#BoatState,64368,1,2,166021.443,0.000,0.4662,59
+GPS fix quality is bad
+#BoatState,64404,1,2,166021.443,0.000,0.4660,56
+GPS fix quality is bad
+#BoatState,64440,1,2,166021.443,0.000,0.4662,54
+GPS fix quality is bad
+#BoatState,64477,1,2,166021.443,0.000,0.4658,59
+GPS fix quality is bad
+#BoatState,64513,1,2,166021.443,0.000,0.4655,57
+GPS fix quality is bad
+#BoatState,64549,1,2,166021.443,0.000,0.4648,54
+GPS fix quality is bad
+#BoatState,64585,1,2,166021.443,0.000,0.4650,5D
+GPS fix quality is bad
+#BoatState,64622,1,2,166021.443,0.000,0.4651,52
+GPS fix quality is bad
+#BoatState,64658,1,2,166021.443,0.000,0.4648,57
+GPS fix quality is bad
+#BoatState,64694,1,2,166021.443,0.000,0.4644,5B
+GPS fix quality is bad
+#BoatState,64730,1,2,166021.443,0.000,0.4637,50
+GPS fix quality is bad
+#BoatState,64839,1,2,166021.443,0.000,0.4632,53
+GPS fix quality is bad
+#BoatState,64875,1,2,166021.443,0.000,0.4630,59
+GPS fix quality is bad
+#BoatState,64912,1,2,166021.443,0.000,0.4629,51
+GPS fix quality is bad
+#BoatState,64948,1,2,166021.443,0.000,0.4630,56
+GPS fix quality is bad
+#BoatState,64984,1,2,166021.443,0.000,0.4629,5E
+GPS fix quality is bad
+#BoatState,65021,1,2,166021.443,0.000,0.4632,53
+GPS fix quality is bad
+#BoatState,65057,1,2,166021.443,0.000,0.4629,58
+GPS fix quality is bad
+#BoatState,65093,1,2,166021.443,0.000,0.4627,5E
+GPS fix quality is bad
+#BoatState,65129,1,2,166021.443,0.000,0.4625,5C
+GPS fix quality is bad
+#BoatState,65166,1,2,166021.443,0.000,0.4622,50
+GPS fix quality is bad
+#BoatState,65202,1,2,166021.443,0.000,0.4620,53
+GPS fix quality is bad
+#BoatState,65238,1,2,166021.443,0.000,0.4620,5A
+GPS fix quality is bad
+#BoatState,65274,1,2,166021.443,0.000,0.4622,50
+GPS fix quality is bad
+#BoatState,65311,1,2,166021.443,0.000,0.4623,53
+GPS fix quality is bad
+#BoatState,65347,1,2,166021.443,0.000,0.4623,50
+GPS fix quality is bad
+#BoatState,65383,1,2,166021.443,0.000,0.4630,5A
+GPS fix quality is bad
+#BoatState,65419,1,2,166021.443,0.000,0.4629,56
+GPS fix quality is bad
+#BoatState,65456,1,2,166021.443,0.000,0.4629,5D
+GPS fix quality is bad
+#BoatState,65492,1,2,166021.443,0.000,0.4625,59
+GPS fix quality is bad
+#BoatState,65528,1,2,166021.443,0.000,0.4623,5F
+GPS fix quality is bad
+#BoatState,65565,1,2,166021.443,0.000,0.4627,52
+GPS fix quality is bad
+#BoatState,65601,1,2,166021.443,0.000,0.4623,57
+GPS fix quality is bad
+#BoatState,65637,1,2,166021.443,0.000,0.4629,58
+GPS fix quality is bad
+#BoatState,65673,1,2,166021.443,0.000,0.4627,56
+GPS fix quality is bad
+#BoatState,65710,1,2,166021.443,0.000,0.4629,5C
+#CtrlSignals,1502,1484,off,0,17
+GPS fix quality is bad
+#BoatState,65746,1,2,166021.443,0.000,0.4632,55
+GPS fix quality is bad
+#BoatState,65782,1,2,166021.443,0.000,0.4636,59
+#CtrlSignals,1500,1482,off,0,13
+GPS fix quality is bad
+#BoatState,65818,1,2,166021.443,0.000,0.4632,51
+GPS fix quality is bad
+#BoatState,65855,1,2,166021.443,0.000,0.4632,58
+GPS fix quality is bad
+#BoatState,65891,1,2,166021.443,0.000,0.4634,56
+GPS fix quality is bad
+#BoatState,65927,1,2,166021.443,0.000,0.4634,5A
+GPS fix quality is bad
+#BoatState,65963,1,2,166021.443,0.000,0.4629,56
+GPS fix quality is bad
+#BoatState,66000,1,2,166021.443,0.000,0.4630,51
+GPS fix quality is bad
+#BoatState,66036,1,2,166021.443,0.000,0.4629,5C
+GPS fix quality is bad
+#BoatState,66072,1,2,166021.443,0.000,0.4632,56
+GPS fix quality is bad
+#BoatState,66109,1,2,166021.443,0.000,0.4632,5B
+GPS fix quality is bad
+#BoatState,66145,1,2,166021.443,0.000,0.4637,56
+GPS fix quality is bad
+#BoatState,66181,1,2,166021.443,0.000,0.4632,5B
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,66217,1,2,166021.443,0.000,0.4630,55
+GPS fix quality is bad
+#BoatState,66254,1,2,166021.443,0.000,0.4630,52
+GPS fix quality is bad
+#BoatState,66290,1,2,166021.443,0.000,0.4630,5A
+GPS fix quality is bad
+#BoatState,66326,1,2,166021.443,0.000,0.4637,51
+GPS fix quality is bad
+#BoatState,66362,1,2,166021.443,0.000,0.4641,50
+GPS fix quality is bad
+#BoatState,66399,1,2,166021.443,0.000,0.4639,5B
+GPS fix quality is bad
+#BoatState,66435,1,2,166021.443,0.000,0.4641,55
+GPS fix quality is bad
+#BoatState,66471,1,2,166021.443,0.000,0.4643,57
+GPS fix quality is bad
+#BoatState,66507,1,2,166021.443,0.000,0.4637,54
+GPS fix quality is bad
+#BoatState,66544,1,2,166021.443,0.000,0.4636,52
+GPS fix quality is bad
+#BoatState,66580,1,2,166021.443,0.000,0.4632,5E
+GPS fix quality is bad
+#BoatState,66616,1,2,166021.443,0.000,0.4636,56
+GPS fix quality is bad
+#BoatState,66653,1,2,166021.443,0.000,0.4636,57
+GPS fix quality is bad
+#BoatState,66689,1,2,166021.443,0.000,0.4636,50
+GPS fix quality is bad
+#BoatState,66725,1,2,166021.443,0.000,0.4634,55
+GPS fix quality is bad
+#BoatState,66761,1,2,166021.443,0.000,0.4629,59
+GPS fix quality is bad
+#BoatState,66798,1,2,166021.443,0.000,0.4629,5F
+GPS fix quality is bad
+#BoatState,66834,1,2,166021.443,0.000,0.4630,5E
+GPS fix quality is bad
+#BoatState,66870,1,2,166021.443,0.000,0.4632,5C
+GPS fix quality is bad
+#BoatState,66906,1,2,166021.443,0.000,0.4627,58
+GPS fix quality is bad
+#BoatState,66943,1,2,166021.443,0.000,0.4629,57
+GPS fix quality is bad
+#BoatState,66979,1,2,166021.443,0.000,0.4629,5E
+GPS fix quality is bad
+#BoatState,67015,1,2,166021.443,0.000,0.4632,56
+GPS fix quality is bad
+#BoatState,67051,1,2,166021.443,0.000,0.4636,52
+GPS fix quality is bad
+#BoatState,67088,1,2,166021.443,0.000,0.4634,54
+GPS fix quality is bad
+#BoatState,67160,1,2,166021.443,0.000,0.4643,53
+GPS fix quality is bad
+#BoatState,67197,1,2,166021.443,0.000,0.4643,5B
+GPS fix quality is bad
+#BoatState,67233,1,2,166021.443,0.000,0.4641,54
+GPS fix quality is bad
+#BoatState,67269,1,2,166021.443,0.000,0.4648,52
+GPS fix quality is bad
+#BoatState,67305,1,2,166021.443,0.000,0.4650,50
+GPS fix quality is bad
+#BoatState,67342,1,2,166021.443,0.000,0.4653,50
+GPS fix quality is bad
+#BoatState,67378,1,2,166021.443,0.000,0.4653,59
+GPS fix quality is bad
+#BoatState,67414,1,2,166021.443,0.000,0.4653,54
+GPS fix quality is bad
+#BoatState,67450,1,2,166021.443,0.000,0.4655,52
+GPS fix quality is bad
+#BoatState,67487,1,2,166021.443,0.000,0.4658,55
+GPS fix quality is bad
+#BoatState,67523,1,2,166021.443,0.000,0.4658,5A
+GPS fix quality is bad
+#BoatState,67559,1,2,166021.443,0.000,0.4658,57
+GPS fix quality is bad
+#BoatState,67595,1,2,166021.443,0.000,0.4660,5C
+GPS fix quality is bad
+#BoatState,67632,1,2,166021.443,0.000,0.4662,50
+GPS fix quality is bad
+#BoatState,67668,1,2,166021.443,0.000,0.4662,5F
+GPS fix quality is bad
+#BoatState,67704,1,2,166021.443,0.000,0.4662,54
+GPS fix quality is bad
+#BoatState,67741,1,2,166021.443,0.000,0.4664,53
+GPS fix quality is bad
+#BoatState,67777,1,2,166021.443,0.000,0.4671,52
+GPS fix quality is bad
+#BoatState,67813,1,2,166021.443,0.000,0.4672,5C
+GPS fix quality is bad
+#BoatState,67849,1,2,166021.443,0.000,0.4671,50
+GPS fix quality is bad
+#BoatState,67886,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,67922,1,2,166021.443,0.000,0.4674,59
+GPS fix quality is bad
+#BoatState,67958,1,2,166021.443,0.000,0.4683,5C
+GPS fix quality is bad
+#BoatState,67994,1,2,166021.443,0.000,0.4683,5C
+GPS fix quality is bad
+#BoatState,68031,1,2,166021.443,0.000,0.4683,55
+GPS fix quality is bad
+#BoatState,68067,1,2,166021.443,0.000,0.4681,54
+GPS fix quality is bad
+#BoatState,68103,1,2,166021.443,0.000,0.4679,50
+GPS fix quality is bad
+#BoatState,68139,1,2,166021.443,0.000,0.4676,56
+GPS fix quality is bad
+#BoatState,68176,1,2,166021.443,0.000,0.4676,5D
+GPS fix quality is bad
+#BoatState,68212,1,2,166021.443,0.000,0.4681,54
+GPS fix quality is bad
+#BoatState,68248,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,68285,1,2,166021.443,0.000,0.4676,52
+GPS fix quality is bad
+#BoatState,68321,1,2,166021.443,0.000,0.4679,52
+GPS fix quality is bad
+#BoatState,68357,1,2,166021.443,0.000,0.4679,53
+GPS fix quality is bad
+#BoatState,68393,1,2,166021.443,0.000,0.4679,5B
+GPS fix quality is bad
+#BoatState,68430,1,2,166021.443,0.000,0.4681,52
+GPS fix quality is bad
+#BoatState,68466,1,2,166021.443,0.000,0.4681,51
+GPS fix quality is bad
+#BoatState,68502,1,2,166021.443,0.000,0.4677,5B
+GPS fix quality is bad
+#BoatState,68538,1,2,166021.443,0.000,0.4679,5C
+#CtrlSignals,1485,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,68575,1,2,166021.443,0.000,0.4676,5A
+#CtrlSignals,1432,1482,off,0,13
+GPS fix quality is bad
+#BoatState,68611,1,2,166021.443,0.000,0.4671,5C
+#CtrlSignals,1386,1480,off,0,19
+GPS fix quality is bad
+#BoatState,68647,1,2,166021.443,0.000,0.4672,5C
+#CtrlSignals,1328,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,68683,1,2,166021.443,0.000,0.4671,57
+#CtrlSignals,1287,1482,off,0,1B
+GPS fix quality is bad
+#BoatState,68720,1,2,166021.443,0.000,0.4671,5F
+#CtrlSignals,1247,1482,off,0,17
+GPS fix quality is bad
+#BoatState,68756,1,2,166021.443,0.000,0.4672,5D
+#CtrlSignals,1223,1483,off,0,14
+GPS fix quality is bad
+#BoatState,68792,1,2,166021.443,0.000,0.4679,5E
+#CtrlSignals,1199,1483,off,0,16
+GPS fix quality is bad
+#BoatState,68829,1,2,166021.443,0.000,0.4684,53
+#CtrlSignals,1187,1482,off,0,18
+GPS fix quality is bad
+#BoatState,68865,1,2,166021.443,0.000,0.4681,5E
+#CtrlSignals,1180,1480,off,0,1D
+GPS fix quality is bad
+#BoatState,68901,1,2,166021.443,0.000,0.4681,5D
+#CtrlSignals,1204,1482,off,0,10
+GPS fix quality is bad
+#BoatState,68937,1,2,166021.443,0.000,0.4684,5D
+#CtrlSignals,1229,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,68974,1,2,166021.443,0.000,0.4679,58
+#CtrlSignals,1253,1482,off,0,12
+GPS fix quality is bad
+#BoatState,69010,1,2,166021.443,0.000,0.4679,52
+#CtrlSignals,1284,1482,off,0,18
+GPS fix quality is bad
+#BoatState,69046,1,2,166021.443,0.000,0.4683,54
+#CtrlSignals,1348,1482,off,0,19
+GPS fix quality is bad
+#BoatState,69082,1,2,166021.443,0.000,0.4686,59
+#CtrlSignals,1395,1482,off,0,19
+GPS fix quality is bad
+#BoatState,69119,1,2,166021.443,0.000,0.4691,5C
+#CtrlSignals,1437,1482,off,0,16
+GPS fix quality is bad
+#BoatState,69155,1,2,166021.443,0.000,0.4693,56
+#CtrlSignals,1470,1482,off,0,15
+GPS fix quality is bad
+#BoatState,69191,1,2,166021.443,0.000,0.4686,5A
+#CtrlSignals,1493,1482,off,0,18
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,69227,1,2,166021.443,0.000,0.4686,54
+GPS fix quality is bad
+#BoatState,69264,1,2,166021.443,0.000,0.4684,51
+#CtrlSignals,1502,1483,off,0,10
+GPS fix quality is bad
+#BoatState,69300,1,2,166021.443,0.000,0.4690,57
+GPS fix quality is bad
+#BoatState,69336,1,2,166021.443,0.000,0.4690,52
+GPS fix quality is bad
+#BoatState,69373,1,2,166021.443,0.000,0.4688,5A
+#CtrlSignals,1500,1482,off,0,13
+GPS fix quality is bad
+#BoatState,69409,1,2,166021.443,0.000,0.4690,59
+GPS fix quality is bad
+#BoatState,69445,1,2,166021.443,0.000,0.4688,58
+GPS fix quality is bad
+#BoatState,69481,1,2,166021.443,0.000,0.4688,50
+GPS fix quality is bad
+#BoatState,69518,1,2,166021.443,0.000,0.4690,58
+GPS fix quality is bad
+#BoatState,69554,1,2,166021.443,0.000,0.4684,55
+GPS fix quality is bad
+#BoatState,69590,1,2,166021.443,0.000,0.4681,58
+GPS fix quality is bad
+#BoatState,69626,1,2,166021.443,0.000,0.4679,51
+GPS fix quality is bad
+#BoatState,69663,1,2,166021.443,0.000,0.4681,57
+GPS fix quality is bad
+#BoatState,69699,1,2,166021.443,0.000,0.4681,52
+GPS fix quality is bad
+#BoatState,69735,1,2,166021.443,0.000,0.4679,52
+#CtrlSignals,1499,1482,off,0,12
+GPS fix quality is bad
+#BoatState,69771,1,2,166021.443,0.000,0.4679,52
+#CtrlSignals,1517,1482,off,0,15
+GPS fix quality is bad
+#BoatState,69808,1,2,166021.443,0.000,0.4681,54
+#CtrlSignals,1547,1482,off,0,10
+GPS fix quality is bad
+#BoatState,69844,1,2,166021.443,0.000,0.4684,59
+#CtrlSignals,1586,1483,off,0,1C
+GPS fix quality is bad
+#BoatState,69880,1,2,166021.443,0.000,0.4679,53
+#CtrlSignals,1653,1483,off,0,17
+GPS fix quality is bad
+#BoatState,69917,1,2,166021.443,0.000,0.4679,5C
+#CtrlSignals,1698,1482,off,0,11
+GPS fix quality is bad
+#BoatState,69953,1,2,166021.443,0.000,0.4676,53
+#CtrlSignals,1735,1482,off,0,17
+GPS fix quality is bad
+#BoatState,69989,1,2,166021.443,0.000,0.4674,56
+#CtrlSignals,1768,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,70025,1,2,166021.443,0.000,0.4677,52
+#CtrlSignals,1782,1482,off,0,1B
+GPS fix quality is bad
+#BoatState,70062,1,2,166021.443,0.000,0.4674,52
+#CtrlSignals,1792,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,70098,1,2,166021.443,0.000,0.4671,52
+#CtrlSignals,1795,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,70134,1,2,166021.443,0.000,0.4672,56
+GPS fix quality is bad
+#BoatState,70170,1,2,166021.443,0.000,0.4671,55
+#CtrlSignals,1786,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,70207,1,2,166021.443,0.000,0.4669,5F
+#CtrlSignals,1752,1482,off,0,16
+GPS fix quality is bad
+#BoatState,70243,1,2,166021.443,0.000,0.4671,56
+#CtrlSignals,1690,1482,off,0,19
+GPS fix quality is bad
+#BoatState,70279,1,2,166021.443,0.000,0.4669,56
+#CtrlSignals,1620,1482,off,0,12
+GPS fix quality is bad
+#BoatState,70315,1,2,166021.443,0.000,0.4669,5D
+#CtrlSignals,1551,1482,off,0,17
+GPS fix quality is bad
+#BoatState,70352,1,2,166021.443,0.000,0.4667,50
+#CtrlSignals,1503,1482,off,0,10
+GPS fix quality is bad
+#BoatState,70388,1,2,166021.443,0.000,0.4667,57
+#CtrlSignals,1499,1482,off,0,12
+GPS fix quality is bad
+#BoatState,70424,1,2,166021.443,0.000,0.4669,58
+GPS fix quality is bad
+#BoatState,70461,1,2,166021.443,0.000,0.4667,57
+GPS fix quality is bad
+#BoatState,70497,1,2,166021.443,0.000,0.4672,5A
+GPS fix quality is bad
+#BoatState,70533,1,2,166021.443,0.000,0.4671,56
+GPS fix quality is bad
+#BoatState,70569,1,2,166021.443,0.000,0.4665,5C
+GPS fix quality is bad
+#BoatState,70606,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,70642,1,2,166021.443,0.000,0.4672,50
+GPS fix quality is bad
+#BoatState,70678,1,2,166021.443,0.000,0.4674,5F
+GPS fix quality is bad
+#BoatState,70714,1,2,166021.443,0.000,0.4677,57
+GPS fix quality is bad
+#BoatState,70751,1,2,166021.443,0.000,0.4672,53
+GPS fix quality is bad
+#BoatState,70787,1,2,166021.443,0.000,0.4667,5C
+GPS fix quality is bad
+#BoatState,70823,1,2,166021.443,0.000,0.4669,53
+GPS fix quality is bad
+#BoatState,70859,1,2,166021.443,0.000,0.4667,50
+GPS fix quality is bad
+#BoatState,70896,1,2,166021.443,0.000,0.4667,53
+GPS fix quality is bad
+#BoatState,70932,1,2,166021.443,0.000,0.4667,5C
+GPS fix quality is bad
+#BoatState,70968,1,2,166021.443,0.000,0.4664,50
+GPS fix quality is bad
+#BoatState,71005,1,2,166021.443,0.000,0.4665,52
+GPS fix quality is bad
+#BoatState,71041,1,2,166021.443,0.000,0.4667,50
+GPS fix quality is bad
+#BoatState,71077,1,2,166021.443,0.000,0.4665,57
+GPS fix quality is bad
+#BoatState,71113,1,2,166021.443,0.000,0.4667,56
+#CtrlSignals,1495,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,71150,1,2,166021.443,0.000,0.4671,56
+GPS fix quality is bad
+#BoatState,71186,1,2,166021.443,0.000,0.4671,5D
+GPS fix quality is bad
+#BoatState,71222,1,2,166021.443,0.000,0.4676,57
+GPS fix quality is bad
+#BoatState,71258,1,2,166021.443,0.000,0.4683,50
+GPS fix quality is bad
+#BoatState,71295,1,2,166021.443,0.000,0.4683,51
+#CtrlSignals,1482,1482,off,0,18
+GPS fix quality is bad
+#BoatState,71331,1,2,166021.443,0.000,0.4679,5B
+#CtrlSignals,1452,1482,off,0,15
+GPS fix quality is bad
+#BoatState,71367,1,2,166021.443,0.000,0.4674,55
+#CtrlSignals,1381,1482,off,0,1C
+GPS fix quality is bad
+#BoatState,71403,1,2,166021.443,0.000,0.4669,5C
+#CtrlSignals,1330,1482,off,0,16
+GPS fix quality is bad
+#BoatState,71440,1,2,166021.443,0.000,0.4669,5B
+#CtrlSignals,1287,1482,off,0,1B
+GPS fix quality is bad
+#BoatState,71476,1,2,166021.443,0.000,0.4669,5E
+#CtrlSignals,1248,1484,off,0,1E
+GPS fix quality is bad
+#BoatState,71512,1,2,166021.443,0.000,0.4664,50
+#CtrlSignals,1206,1484,off,0,14
+GPS fix quality is bad
+#BoatState,71549,1,2,166021.443,0.000,0.4665,5F
+#CtrlSignals,1188,1482,off,0,17
+GPS fix quality is bad
+#BoatState,71585,1,2,166021.443,0.000,0.4662,58
+#CtrlSignals,1175,1482,off,0,15
+GPS fix quality is bad
+#BoatState,71621,1,2,166021.443,0.000,0.4660,57
+GPS fix quality is bad
+#BoatState,71657,1,2,166021.443,0.000,0.4660,56
+#CtrlSignals,1183,1482,off,0,1C
+GPS fix quality is bad
+#BoatState,71694,1,2,166021.443,0.000,0.4664,5D
+#CtrlSignals,1189,1482,off,0,16
+GPS fix quality is bad
+#BoatState,71730,1,2,166021.443,0.000,0.4660,56
+#CtrlSignals,1205,1482,off,0,11
+GPS fix quality is bad
+#BoatState,71766,1,2,166021.443,0.000,0.4658,5E
+#CtrlSignals,1263,1482,off,0,11
+#CtrlSignals,1318,1482,off,0,1C
+#CtrlSignals,1370,1483,off,0,13
+GPS fix quality is bad
+#BoatState,71875,1,2,166021.443,0.000,0.4657,5C
+#CtrlSignals,1410,1483,off,0,12
+GPS fix quality is bad
+#BoatState,71911,1,2,166021.443,0.000,0.4669,52
+#CtrlSignals,1442,1482,off,0,14
+GPS fix quality is bad
+#BoatState,71947,1,2,166021.443,0.000,0.4669,51
+#CtrlSignals,1480,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,71984,1,2,166021.443,0.000,0.4664,53
+#CtrlSignals,1493,1482,off,0,18
+GPS fix quality is bad
+#BoatState,72020,1,2,166021.443,0.000,0.4664,57
+GPS fix quality is bad
+#BoatState,72056,1,2,166021.443,0.000,0.4665,57
+GPS fix quality is bad
+#BoatState,72093,1,2,166021.443,0.000,0.4665,5E
+GPS fix quality is bad
+#BoatState,72129,1,2,166021.443,0.000,0.4664,5F
+GPS fix quality is bad
+#BoatState,72165,1,2,166021.443,0.000,0.4662,51
+GPS fix quality is bad
+#BoatState,72201,1,2,166021.443,0.000,0.4664,56
+GPS fix quality is bad
+#BoatState,72238,1,2,166021.443,0.000,0.4667,5F
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,72274,1,2,166021.443,0.000,0.4660,50
+GPS fix quality is bad
+#BoatState,72310,1,2,166021.443,0.000,0.4657,57
+#CtrlSignals,1498,1482,off,0,13
+#CtrlSignals,1506,1482,off,0,15
+GPS fix quality is bad
+#BoatState,72383,1,2,166021.443,0.000,0.4660,59
+#CtrlSignals,1517,1482,off,0,15
+GPS fix quality is bad
+#BoatState,72419,1,2,166021.443,0.000,0.4657,59
+#CtrlSignals,1540,1482,off,0,17
+GPS fix quality is bad
+#BoatState,72455,1,2,166021.443,0.000,0.4651,57
+#CtrlSignals,1584,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,72491,1,2,166021.443,0.000,0.4653,5D
+#CtrlSignals,1619,1482,off,0,18
+GPS fix quality is bad
+#BoatState,72528,1,2,166021.443,0.000,0.4655,58
+#CtrlSignals,1658,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,72564,1,2,166021.443,0.000,0.4648,5C
+#CtrlSignals,1695,1482,off,0,1C
+GPS fix quality is bad
+#BoatState,72600,1,2,166021.443,0.000,0.4653,57
+#CtrlSignals,1750,1482,off,0,14
+GPS fix quality is bad
+#BoatState,72637,1,2,166021.443,0.000,0.4648,59
+#CtrlSignals,1787,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,72673,1,2,166021.443,0.000,0.4646,57
+#CtrlSignals,1815,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,72709,1,2,166021.443,0.000,0.4653,5F
+#CtrlSignals,1847,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,72745,1,2,166021.443,0.000,0.4655,51
+GPS fix quality is bad
+#BoatState,72782,1,2,166021.443,0.000,0.4646,58
+GPS fix quality is bad
+#BoatState,72818,1,2,166021.443,0.000,0.4650,53
+GPS fix quality is bad
+#BoatState,72854,1,2,166021.443,0.000,0.4648,52
+GPS fix quality is bad
+#BoatState,72890,1,2,166021.443,0.000,0.4646,54
+GPS fix quality is bad
+#BoatState,72927,1,2,166021.443,0.000,0.4651,5F
+#CtrlSignals,1819,1482,off,0,16
+GPS fix quality is bad
+#BoatState,72963,1,2,166021.443,0.000,0.4650,5E
+#CtrlSignals,1748,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,72999,1,2,166021.443,0.000,0.4651,5A
+#CtrlSignals,1679,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,73035,1,2,166021.443,0.000,0.4658,5D
+#CtrlSignals,1610,1482,off,0,11
+GPS fix quality is bad
+#BoatState,73072,1,2,166021.443,0.000,0.4679,5D
+#CtrlSignals,1541,1482,off,0,16
+GPS fix quality is bad
+#BoatState,73108,1,2,166021.443,0.000,0.4679,51
+#CtrlSignals,1511,1482,off,0,13
+GPS fix quality is bad
+#BoatState,73144,1,2,166021.443,0.000,0.4676,56
+#CtrlSignals,1502,1482,off,0,11
+GPS fix quality is bad
+#BoatState,73181,1,2,166021.443,0.000,0.4677,5E
+GPS fix quality is bad
+#BoatState,73217,1,2,166021.443,0.000,0.4683,59
+GPS fix quality is bad
+#BoatState,73253,1,2,166021.443,0.000,0.4684,5E
+GPS fix quality is bad
+#BoatState,73289,1,2,166021.443,0.000,0.4688,55
+#CtrlSignals,1506,1485,off,0,12
+GPS fix quality is bad
+#BoatState,73326,1,2,166021.443,0.000,0.4683,5A
+#CtrlSignals,1508,1484,off,0,1D
+GPS fix quality is bad
+#BoatState,73362,1,2,166021.443,0.000,0.4679,5F
+#CtrlSignals,1503,1482,off,0,10
+GPS fix quality is bad
+#BoatState,73398,1,2,166021.443,0.000,0.4686,5A
+#CtrlSignals,1500,1482,off,0,13
+GPS fix quality is bad
+#BoatState,73434,1,2,166021.443,0.000,0.4679,5B
+GPS fix quality is bad
+#BoatState,73471,1,2,166021.443,0.000,0.4676,55
+GPS fix quality is bad
+#BoatState,73507,1,2,166021.443,0.000,0.4674,57
+GPS fix quality is bad
+#BoatState,73543,1,2,166021.443,0.000,0.4677,54
+GPS fix quality is bad
+#BoatState,73579,1,2,166021.443,0.000,0.4674,5E
+GPS fix quality is bad
+#BoatState,73616,1,2,166021.443,0.000,0.4676,56
+GPS fix quality is bad
+#BoatState,73652,1,2,166021.443,0.000,0.4674,54
+GPS fix quality is bad
+#BoatState,73688,1,2,166021.443,0.000,0.4677,50
+GPS fix quality is bad
+#BoatState,73725,1,2,166021.443,0.000,0.4683,5D
+GPS fix quality is bad
+#BoatState,73833,1,2,166021.443,0.000,0.4676,5F
+GPS fix quality is bad
+#BoatState,73870,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,73906,1,2,166021.443,0.000,0.4676,58
+GPS fix quality is bad
+#BoatState,73942,1,2,166021.443,0.000,0.4674,5A
+GPS fix quality is bad
+#BoatState,73978,1,2,166021.443,0.000,0.4671,56
+GPS fix quality is bad
+#BoatState,74015,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,74051,1,2,166021.443,0.000,0.4665,56
+GPS fix quality is bad
+#BoatState,74087,1,2,166021.443,0.000,0.4665,5D
+GPS fix quality is bad
+#BoatState,74123,1,2,166021.443,0.000,0.4662,55
+GPS fix quality is bad
+#BoatState,74160,1,2,166021.443,0.000,0.4657,54
+GPS fix quality is bad
+#BoatState,74196,1,2,166021.443,0.000,0.4655,5F
+GPS fix quality is bad
+#BoatState,74232,1,2,166021.443,0.000,0.4655,52
+GPS fix quality is bad
+#BoatState,74269,1,2,166021.443,0.000,0.4655,5C
+GPS fix quality is bad
+#BoatState,74305,1,2,166021.443,0.000,0.4660,51
+GPS fix quality is bad
+#BoatState,74341,1,2,166021.443,0.000,0.4660,51
+GPS fix quality is bad
+#BoatState,74377,1,2,166021.443,0.000,0.4658,5F
+GPS fix quality is bad
+#BoatState,74450,1,2,166021.443,0.000,0.4665,53
+GPS fix quality is bad
+#BoatState,74486,1,2,166021.443,0.000,0.4669,54
+GPS fix quality is bad
+#BoatState,74522,1,2,166021.443,0.000,0.4669,5B
+GPS fix quality is bad
+#BoatState,74559,1,2,166021.443,0.000,0.4669,57
+GPS fix quality is bad
+#BoatState,74595,1,2,166021.443,0.000,0.4671,5E
+GPS fix quality is bad
+#BoatState,74631,1,2,166021.443,0.000,0.4674,56
+GPS fix quality is bad
+#BoatState,74667,1,2,166021.443,0.000,0.4671,50
+GPS fix quality is bad
+#BoatState,74704,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,74740,1,2,166021.443,0.000,0.4671,54
+GPS fix quality is bad
+#BoatState,74776,1,2,166021.443,0.000,0.4671,51
+GPS fix quality is bad
+#BoatState,74813,1,2,166021.443,0.000,0.4672,5E
+GPS fix quality is bad
+#BoatState,74849,1,2,166021.443,0.000,0.4674,57
+GPS fix quality is bad
+#BoatState,74885,1,2,166021.443,0.000,0.4672,51
+GPS fix quality is bad
+#BoatState,74921,1,2,166021.443,0.000,0.4672,5E
+GPS fix quality is bad
+#BoatState,74958,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,74994,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,75030,1,2,166021.443,0.000,0.4672,56
+GPS fix quality is bad
+#BoatState,75066,1,2,166021.443,0.000,0.4672,55
+GPS fix quality is bad
+#BoatState,75103,1,2,166021.443,0.000,0.4674,51
+#CtrlSignals,1484,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,75139,1,2,166021.443,0.000,0.4674,58
+#CtrlSignals,1464,1482,off,0,10
+GPS fix quality is bad
+#BoatState,75175,1,2,166021.443,0.000,0.4679,5D
+#CtrlSignals,1443,1482,off,0,15
+GPS fix quality is bad
+#BoatState,75211,1,2,166021.443,0.000,0.4679,5C
+#CtrlSignals,1423,1482,off,0,13
+GPS fix quality is bad
+#BoatState,75248,1,2,166021.443,0.000,0.4677,5E
+#CtrlSignals,1397,1482,off,0,1B
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,75284,1,2,166021.443,0.000,0.4681,57
+#CtrlSignals,1359,1482,off,0,19
+GPS fix quality is bad
+#BoatState,75320,1,2,166021.443,0.000,0.4679,5F
+#CtrlSignals,1326,1482,off,0,11
+GPS fix quality is bad
+#BoatState,75357,1,2,166021.443,0.000,0.4677,51
+#CtrlSignals,1317,1482,off,0,13
+GPS fix quality is bad
+#BoatState,75393,1,2,166021.443,0.000,0.4684,55
+#CtrlSignals,1300,1482,off,0,15
+GPS fix quality is bad
+#BoatState,75429,1,2,166021.443,0.000,0.4686,51
+#CtrlSignals,1283,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,75465,1,2,166021.443,0.000,0.4681,5E
+#CtrlSignals,1272,1482,off,0,11
+GPS fix quality is bad
+#BoatState,75502,1,2,166021.443,0.000,0.4681,5E
+#CtrlSignals,1263,1482,off,0,11
+GPS fix quality is bad
+#BoatState,75538,1,2,166021.443,0.000,0.4681,57
+#CtrlSignals,1258,1482,off,0,19
+GPS fix quality is bad
+#BoatState,75574,1,2,166021.443,0.000,0.4684,5A
+#CtrlSignals,1243,1482,off,0,13
+GPS fix quality is bad
+#BoatState,75610,1,2,166021.443,0.000,0.4686,59
+#CtrlSignals,1231,1482,off,0,16
+GPS fix quality is bad
+#BoatState,75647,1,2,166021.443,0.000,0.4688,55
+#CtrlSignals,1226,1482,off,0,10
+GPS fix quality is bad
+#BoatState,75683,1,2,166021.443,0.000,0.4691,55
+#CtrlSignals,1218,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,75719,1,2,166021.443,0.000,0.4690,56
+#CtrlSignals,1197,1482,off,0,19
+GPS fix quality is bad
+#BoatState,75755,1,2,166021.443,0.000,0.4691,5F
+#CtrlSignals,1186,1482,off,0,19
+GPS fix quality is bad
+#BoatState,75792,1,2,166021.443,0.000,0.4695,50
+#CtrlSignals,1171,1482,off,0,11
+GPS fix quality is bad
+#BoatState,75828,1,2,166021.443,0.000,0.4693,58
+#CtrlSignals,1162,1482,off,0,13
+GPS fix quality is bad
+#BoatState,75864,1,2,166021.443,0.000,0.4691,52
+GPS fix quality is bad
+#BoatState,75901,1,2,166021.443,0.000,0.4691,50
+GPS fix quality is bad
+#BoatState,75937,1,2,166021.443,0.000,0.4693,57
+GPS fix quality is bad
+#BoatState,75973,1,2,166021.443,0.000,0.4697,53
+#CtrlSignals,1171,1482,off,0,11
+GPS fix quality is bad
+#BoatState,76009,1,2,166021.443,0.000,0.4697,54
+#CtrlSignals,1197,1482,off,0,19
+GPS fix quality is bad
+#BoatState,76046,1,2,166021.443,0.000,0.4693,5B
+#CtrlSignals,1237,1482,off,0,10
+GPS fix quality is bad
+#BoatState,76082,1,2,166021.443,0.000,0.4691,51
+#CtrlSignals,1266,1482,off,0,14
+GPS fix quality is bad
+#BoatState,76118,1,2,166021.443,0.000,0.4686,55
+#CtrlSignals,1316,1482,off,0,12
+GPS fix quality is bad
+#BoatState,76154,1,2,166021.443,0.000,0.4686,5D
+#CtrlSignals,1346,1482,off,0,17
+GPS fix quality is bad
+#BoatState,76191,1,2,166021.443,0.000,0.4684,56
+#CtrlSignals,1371,1482,off,0,13
+GPS fix quality is bad
+#BoatState,76227,1,2,166021.443,0.000,0.4686,5A
+#CtrlSignals,1389,1482,off,0,14
+GPS fix quality is bad
+#BoatState,76263,1,2,166021.443,0.000,0.4681,5D
+#CtrlSignals,1421,1482,off,0,11
+GPS fix quality is bad
+#BoatState,76299,1,2,166021.443,0.000,0.4683,5A
+#CtrlSignals,1440,1482,off,0,16
+GPS fix quality is bad
+#BoatState,76336,1,2,166021.443,0.000,0.4677,55
+#CtrlSignals,1463,1482,off,0,17
+GPS fix quality is bad
+#BoatState,76372,1,2,166021.443,0.000,0.4672,50
+#CtrlSignals,1488,1482,off,0,12
+GPS fix quality is bad
+#BoatState,76408,1,2,166021.443,0.000,0.4672,5A
+#CtrlSignals,1496,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,76445,1,2,166021.443,0.000,0.4672,53
+GPS fix quality is bad
+#BoatState,76481,1,2,166021.443,0.000,0.4676,5F
+GPS fix quality is bad
+#BoatState,76517,1,2,166021.443,0.000,0.4676,51
+GPS fix quality is bad
+#BoatState,76553,1,2,166021.443,0.000,0.4676,51
+#CtrlSignals,1501,1482,off,0,12
+GPS fix quality is bad
+#BoatState,76590,1,2,166021.443,0.000,0.4681,56
+#CtrlSignals,1523,1482,off,0,12
+GPS fix quality is bad
+#BoatState,76626,1,2,166021.443,0.000,0.4688,51
+#CtrlSignals,1554,1482,off,0,12
+GPS fix quality is bad
+#BoatState,76662,1,2,166021.443,0.000,0.4690,58
+#CtrlSignals,1605,1482,off,0,15
+GPS fix quality is bad
+#BoatState,76698,1,2,166021.443,0.000,0.4686,5A
+#CtrlSignals,1639,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,76735,1,2,166021.443,0.000,0.4684,5E
+#CtrlSignals,1674,1482,off,0,13
+GPS fix quality is bad
+#BoatState,76771,1,2,166021.443,0.000,0.4686,5C
+#CtrlSignals,1708,1480,off,0,1B
+GPS fix quality is bad
+#BoatState,76807,1,2,166021.443,0.000,0.4688,5C
+#CtrlSignals,1746,1482,off,0,13
+GPS fix quality is bad
+#BoatState,76843,1,2,166021.443,0.000,0.4686,52
+#CtrlSignals,1770,1482,off,0,16
+GPS fix quality is bad
+#BoatState,76880,1,2,166021.443,0.000,0.4684,5F
+#CtrlSignals,1812,1484,off,0,1B
+GPS fix quality is bad
+#BoatState,76916,1,2,166021.443,0.000,0.4684,51
+#CtrlSignals,1837,1484,off,0,1C
+GPS fix quality is bad
+#BoatState,76952,1,2,166021.443,0.000,0.4688,5D
+#CtrlSignals,1847,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,76989,1,2,166021.443,0.000,0.4688,5B
+GPS fix quality is bad
+#BoatState,77025,1,2,166021.443,0.000,0.4690,5C
+GPS fix quality is bad
+#BoatState,77061,1,2,166021.443,0.000,0.4683,5E
+GPS fix quality is bad
+#BoatState,77097,1,2,166021.443,0.000,0.4681,55
+GPS fix quality is bad
+#BoatState,77170,1,2,166021.443,0.000,0.4677,54
+GPS fix quality is bad
+#BoatState,77206,1,2,166021.443,0.000,0.4681,5F
+GPS fix quality is bad
+#BoatState,77242,1,2,166021.443,0.000,0.4677,56
+#CtrlSignals,1792,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,77279,1,2,166021.443,0.000,0.4681,57
+#CtrlSignals,1736,1482,off,0,14
+GPS fix quality is bad
+#BoatState,77315,1,2,166021.443,0.000,0.4683,5E
+#CtrlSignals,1692,1482,off,0,1B
+GPS fix quality is bad
+#BoatState,77351,1,2,166021.443,0.000,0.4679,5B
+#CtrlSignals,1624,1482,off,0,16
+GPS fix quality is bad
+#BoatState,77387,1,2,166021.443,0.000,0.4683,55
+#CtrlSignals,1574,1485,off,0,17
+GPS fix quality is bad
+#BoatState,77424,1,2,166021.443,0.000,0.4684,5C
+#CtrlSignals,1538,1485,off,0,1F
+GPS fix quality is bad
+#BoatState,77460,1,2,166021.443,0.000,0.4691,58
+#CtrlSignals,1507,1482,off,0,14
+GPS fix quality is bad
+#BoatState,77496,1,2,166021.443,0.000,0.4690,50
+#CtrlSignals,1500,1482,off,0,13
+GPS fix quality is bad
+#BoatState,77533,1,2,166021.443,0.000,0.4690,5E
+GPS fix quality is bad
+#BoatState,77569,1,2,166021.443,0.000,0.4691,50
+GPS fix quality is bad
+#BoatState,77605,1,2,166021.443,0.000,0.4697,5F
+GPS fix quality is bad
+#BoatState,77641,1,2,166021.443,0.000,0.4695,5D
+GPS fix quality is bad
+#BoatState,77678,1,2,166021.443,0.000,0.4698,5A
+GPS fix quality is bad
+#BoatState,77714,1,2,166021.443,0.000,0.4697,5E
+GPS fix quality is bad
+#BoatState,77750,1,2,166021.443,0.000,0.4693,5A
+GPS fix quality is bad
+#BoatState,77786,1,2,166021.443,0.000,0.4697,55
+GPS fix quality is bad
+#BoatState,77823,1,2,166021.443,0.000,0.4691,53
+GPS fix quality is bad
+#BoatState,77859,1,2,166021.443,0.000,0.4683,5D
+GPS fix quality is bad
+#BoatState,77895,1,2,166021.443,0.000,0.4683,5D
+GPS fix quality is bad
+#BoatState,77931,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,77968,1,2,166021.443,0.000,0.4677,55
+GPS fix quality is bad
+#BoatState,78004,1,2,166021.443,0.000,0.4671,5F
+GPS fix quality is bad
+#BoatState,78040,1,2,166021.443,0.000,0.4672,5C
+GPS fix quality is bad
+#BoatState,78077,1,2,166021.443,0.000,0.4674,5E
+GPS fix quality is bad
+#BoatState,78113,1,2,166021.443,0.000,0.4674,5D
+#CtrlSignals,1503,1484,off,0,16
+GPS fix quality is bad
+#BoatState,78149,1,2,166021.443,0.000,0.4671,57
+GPS fix quality is bad
+#BoatState,78185,1,2,166021.443,0.000,0.4671,57
+#CtrlSignals,1500,1483,off,0,12
+GPS fix quality is bad
+#BoatState,78222,1,2,166021.443,0.000,0.4671,59
+GPS fix quality is bad
+#BoatState,78258,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,78294,1,2,166021.443,0.000,0.4676,53
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,78330,1,2,166021.443,0.000,0.4676,5C
+GPS fix quality is bad
+#BoatState,78367,1,2,166021.443,0.000,0.4674,5C
+GPS fix quality is bad
+#BoatState,78403,1,2,166021.443,0.000,0.4674,59
+GPS fix quality is bad
+#BoatState,78439,1,2,166021.443,0.000,0.4671,55
+GPS fix quality is bad
+#BoatState,78475,1,2,166021.443,0.000,0.4672,5E
+#CtrlSignals,1501,1480,off,0,10
+GPS fix quality is bad
+#BoatState,78512,1,2,166021.443,0.000,0.4676,5A
+GPS fix quality is bad
+#BoatState,78548,1,2,166021.443,0.000,0.4677,54
+GPS fix quality is bad
+#BoatState,78584,1,2,166021.443,0.000,0.4677,54
+GPS fix quality is bad
+#BoatState,78621,1,2,166021.443,0.000,0.4681,51
+GPS fix quality is bad
+#BoatState,78657,1,2,166021.443,0.000,0.4677,59
+GPS fix quality is bad
+#BoatState,78693,1,2,166021.443,0.000,0.4677,51
+GPS fix quality is bad
+#BoatState,78729,1,2,166021.443,0.000,0.4684,5D
+GPS fix quality is bad
+#BoatState,78766,1,2,166021.443,0.000,0.4688,5A
+GPS fix quality is bad
+#BoatState,78802,1,2,166021.443,0.000,0.4686,59
+GPS fix quality is bad
+#BoatState,78838,1,2,166021.443,0.000,0.4690,57
+GPS fix quality is bad
+#BoatState,78874,1,2,166021.443,0.000,0.4690,5F
+GPS fix quality is bad
+#BoatState,78911,1,2,166021.443,0.000,0.4686,5A
+GPS fix quality is bad
+#BoatState,78983,1,2,166021.443,0.000,0.4688,5F
+GPS fix quality is bad
+#BoatState,79019,1,2,166021.443,0.000,0.4681,5D
+GPS fix quality is bad
+#BoatState,79056,1,2,166021.443,0.000,0.4679,51
+GPS fix quality is bad
+#BoatState,79092,1,2,166021.443,0.000,0.4683,5C
+GPS fix quality is bad
+#BoatState,79128,1,2,166021.443,0.000,0.4688,57
+GPS fix quality is bad
+#BoatState,79165,1,2,166021.443,0.000,0.4684,52
+GPS fix quality is bad
+#BoatState,79201,1,2,166021.443,0.000,0.4688,5F
+GPS fix quality is bad
+#BoatState,79237,1,2,166021.443,0.000,0.4684,56
+GPS fix quality is bad
+#BoatState,79273,1,2,166021.443,0.000,0.4690,53
+GPS fix quality is bad
+#BoatState,79310,1,2,166021.443,0.000,0.4691,56
+GPS fix quality is bad
+#BoatState,79346,1,2,166021.443,0.000,0.4691,55
+GPS fix quality is bad
+#BoatState,79382,1,2,166021.443,0.000,0.4691,5D
+GPS fix quality is bad
+#BoatState,79418,1,2,166021.443,0.000,0.4688,51
+#CtrlSignals,1502,1482,off,0,11
+GPS fix quality is bad
+#BoatState,79455,1,2,166021.443,0.000,0.4684,54
+GPS fix quality is bad
+#BoatState,79491,1,2,166021.443,0.000,0.4684,5C
+#CtrlSignals,1506,1484,off,0,13
+GPS fix quality is bad
+#BoatState,79527,1,2,166021.443,0.000,0.4679,52
+GPS fix quality is bad
+#BoatState,79563,1,2,166021.443,0.000,0.4677,5C
+#CtrlSignals,1499,1485,off,0,15
+GPS fix quality is bad
+#BoatState,79600,1,2,166021.443,0.000,0.4676,5B
+#CtrlSignals,1502,1485,off,0,16
+GPS fix quality is bad
+#BoatState,79636,1,2,166021.443,0.000,0.4671,59
+GPS fix quality is bad
+#BoatState,79672,1,2,166021.443,0.000,0.4672,5A
+#CtrlSignals,1500,1482,off,0,13
+GPS fix quality is bad
+#BoatState,79709,1,2,166021.443,0.000,0.4672,57
+GPS fix quality is bad
+#BoatState,79745,1,2,166021.443,0.000,0.4671,5C
+GPS fix quality is bad
+#BoatState,79781,1,2,166021.443,0.000,0.4674,51
+GPS fix quality is bad
+#BoatState,79817,1,2,166021.443,0.000,0.4672,57
+GPS fix quality is bad
+#BoatState,79854,1,2,166021.443,0.000,0.4674,56
+GPS fix quality is bad
+#BoatState,79890,1,2,166021.443,0.000,0.4681,54
+GPS fix quality is bad
+#BoatState,79926,1,2,166021.443,0.000,0.4677,51
+#CtrlSignals,1506,1482,off,0,15
+GPS fix quality is bad
+#BoatState,79962,1,2,166021.443,0.000,0.4677,51
+GPS fix quality is bad
+#BoatState,79999,1,2,166021.443,0.000,0.4679,5B
+#CtrlSignals,1501,1482,off,0,12
+GPS fix quality is bad
+#BoatState,80035,1,2,166021.443,0.000,0.4679,52
+GPS fix quality is bad
+#BoatState,80071,1,2,166021.443,0.000,0.4681,55
+GPS fix quality is bad
+#BoatState,80107,1,2,166021.443,0.000,0.4683,57
+GPS fix quality is bad
+#BoatState,80144,1,2,166021.443,0.000,0.4681,52
+GPS fix quality is bad
+#BoatState,80180,1,2,166021.443,0.000,0.4684,5F
+GPS fix quality is bad
+#BoatState,80216,1,2,166021.443,0.000,0.4686,51
+GPS fix quality is bad
+#BoatState,80253,1,2,166021.443,0.000,0.4683,55
+GPS fix quality is bad
+#BoatState,80289,1,2,166021.443,0.000,0.4683,52
+GPS fix quality is bad
+#BoatState,80325,1,2,166021.443,0.000,0.4681,57
+GPS fix quality is bad
+#BoatState,80361,1,2,166021.443,0.000,0.4683,55
+GPS fix quality is bad
+#BoatState,80398,1,2,166021.443,0.000,0.4686,56
+GPS fix quality is bad
+#BoatState,80434,1,2,166021.443,0.000,0.4684,55
+GPS fix quality is bad
+#BoatState,80470,1,2,166021.443,0.000,0.4686,57
+GPS fix quality is bad
+#BoatState,80543,1,2,166021.443,0.000,0.4690,51
+GPS fix quality is bad
+#BoatState,80579,1,2,166021.443,0.000,0.4683,5A
+GPS fix quality is bad
+#BoatState,80615,1,2,166021.443,0.000,0.4683,53
+GPS fix quality is bad
+#BoatState,80651,1,2,166021.443,0.000,0.4683,53
+GPS fix quality is bad
+#BoatState,80688,1,2,166021.443,0.000,0.4686,52
+GPS fix quality is bad
+#BoatState,80724,1,2,166021.443,0.000,0.4688,5B
+GPS fix quality is bad
+#BoatState,80833,1,2,166021.443,0.000,0.4691,5A
+GPS fix quality is bad
+#BoatState,80869,1,2,166021.443,0.000,0.4693,57
+GPS fix quality is bad
+#BoatState,80905,1,2,166021.443,0.000,0.4691,5E
+GPS fix quality is bad
+#BoatState,80942,1,2,166021.443,0.000,0.4691,5D
+GPS fix quality is bad
+#BoatState,80978,1,2,166021.443,0.000,0.4693,56
+GPS fix quality is bad
+#BoatState,81014,1,2,166021.443,0.000,0.4691,56
+GPS fix quality is bad
+#BoatState,81050,1,2,166021.443,0.000,0.4691,56
+GPS fix quality is bad
+#BoatState,81087,1,2,166021.443,0.000,0.4695,58
+GPS fix quality is bad
+#BoatState,81123,1,2,166021.443,0.000,0.4698,5A
+GPS fix quality is bad
+#BoatState,81159,1,2,166021.443,0.000,0.4700,57
+GPS fix quality is bad
+#BoatState,81195,1,2,166021.443,0.000,0.4700,57
+GPS fix quality is bad
+#BoatState,81232,1,2,166021.443,0.000,0.4697,56
+GPS fix quality is bad
+#BoatState,81268,1,2,166021.443,0.000,0.4700,56
+GPS fix quality is bad
+#BoatState,81304,1,2,166021.443,0.000,0.4704,59
+GPS fix quality is bad
+#BoatState,81341,1,2,166021.443,0.000,0.4705,59
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,81377,1,2,166021.443,0.000,0.4705,5C
+GPS fix quality is bad
+#BoatState,81413,1,2,166021.443,0.000,0.4707,5B
+GPS fix quality is bad
+#BoatState,81449,1,2,166021.443,0.000,0.4705,56
+GPS fix quality is bad
+#BoatState,81486,1,2,166021.443,0.000,0.4704,54
+#CtrlSignals,1503,1483,off,0,11
+GPS fix quality is bad
+#BoatState,81522,1,2,166021.443,0.000,0.4698,5F
+GPS fix quality is bad
+#BoatState,81558,1,2,166021.443,0.000,0.4697,5D
+#CtrlSignals,1501,1482,off,0,12
+GPS fix quality is bad
+#BoatState,81594,1,2,166021.443,0.000,0.4697,5D
+GPS fix quality is bad
+#BoatState,81631,1,2,166021.443,0.000,0.4693,55
+GPS fix quality is bad
+#BoatState,81667,1,2,166021.443,0.000,0.4693,56
+GPS fix quality is bad
+#BoatState,81703,1,2,166021.443,0.000,0.4690,56
+GPS fix quality is bad
+#BoatState,81739,1,2,166021.443,0.000,0.4684,5A
+GPS fix quality is bad
+#BoatState,81848,1,2,166021.443,0.000,0.4686,51
+GPS fix quality is bad
+#BoatState,81885,1,2,166021.443,0.000,0.4688,5E
+GPS fix quality is bad
+#BoatState,81921,1,2,166021.443,0.000,0.4690,58
+GPS fix quality is bad
+#BoatState,81957,1,2,166021.443,0.000,0.4686,5E
+GPS fix quality is bad
+#BoatState,81993,1,2,166021.443,0.000,0.4690,51
+GPS fix quality is bad
+#BoatState,82030,1,2,166021.443,0.000,0.4693,51
+GPS fix quality is bad
+#BoatState,82066,1,2,166021.443,0.000,0.4693,52
+GPS fix quality is bad
+#BoatState,82102,1,2,166021.443,0.000,0.4693,51
+GPS fix quality is bad
+#BoatState,82138,1,2,166021.443,0.000,0.4688,52
+GPS fix quality is bad
+#BoatState,82175,1,2,166021.443,0.000,0.4690,52
+GPS fix quality is bad
+#BoatState,82211,1,2,166021.443,0.000,0.4688,5A
+GPS fix quality is bad
+#BoatState,82247,1,2,166021.443,0.000,0.4691,51
+GPS fix quality is bad
+#BoatState,82283,1,2,166021.443,0.000,0.4691,59
+GPS fix quality is bad
+#BoatState,82320,1,2,166021.443,0.000,0.4690,50
+GPS fix quality is bad
+#BoatState,82356,1,2,166021.443,0.000,0.4690,51
+GPS fix quality is bad
+#BoatState,82392,1,2,166021.443,0.000,0.4691,58
+GPS fix quality is bad
+#BoatState,82429,1,2,166021.443,0.000,0.4686,59
+GPS fix quality is bad
+#BoatState,82465,1,2,166021.443,0.000,0.4688,5F
+GPS fix quality is bad
+#BoatState,82501,1,2,166021.443,0.000,0.4690,55
+GPS fix quality is bad
+#BoatState,82537,1,2,166021.443,0.000,0.4681,50
+GPS fix quality is bad
+#BoatState,82574,1,2,166021.443,0.000,0.4679,50
+GPS fix quality is bad
+#BoatState,82610,1,2,166021.443,0.000,0.4681,56
+GPS fix quality is bad
+#BoatState,82646,1,2,166021.443,0.000,0.4677,5C
+GPS fix quality is bad
+#BoatState,82682,1,2,166021.443,0.000,0.4676,55
+GPS fix quality is bad
+#BoatState,82719,1,2,166021.443,0.000,0.4669,58
+GPS fix quality is bad
+#BoatState,82755,1,2,166021.443,0.000,0.4671,59
+GPS fix quality is bad
+#BoatState,82791,1,2,166021.443,0.000,0.4669,58
+GPS fix quality is bad
+#BoatState,82827,1,2,166021.443,0.000,0.4662,51
+GPS fix quality is bad
+#BoatState,82864,1,2,166021.443,0.000,0.4664,50
+#CtrlSignals,1504,1482,off,0,17
+GPS fix quality is bad
+#BoatState,82900,1,2,166021.443,0.000,0.4667,50
+#CtrlSignals,1510,1482,off,0,12
+GPS fix quality is bad
+#BoatState,82936,1,2,166021.443,0.000,0.4671,52
+#CtrlSignals,1524,1482,off,0,15
+GPS fix quality is bad
+#BoatState,82973,1,2,166021.443,0.000,0.4664,57
+#CtrlSignals,1538,1482,off,0,18
+GPS fix quality is bad
+#BoatState,83009,1,2,166021.443,0.000,0.4667,51
+#CtrlSignals,1554,1482,off,0,12
+GPS fix quality is bad
+#BoatState,83045,1,2,166021.443,0.000,0.4664,5A
+#CtrlSignals,1589,1482,off,0,12
+GPS fix quality is bad
+#BoatState,83081,1,2,166021.443,0.000,0.4665,53
+#CtrlSignals,1613,1482,off,0,12
+GPS fix quality is bad
+#BoatState,83118,1,2,166021.443,0.000,0.4671,57
+#CtrlSignals,1635,1482,off,0,16
+GPS fix quality is bad
+#BoatState,83154,1,2,166021.443,0.000,0.4672,5C
+#CtrlSignals,1658,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,83190,1,2,166021.443,0.000,0.4667,50
+#CtrlSignals,1698,1482,off,0,11
+GPS fix quality is bad
+#BoatState,83226,1,2,166021.443,0.000,0.4665,5C
+#CtrlSignals,1730,1482,off,0,12
+GPS fix quality is bad
+#BoatState,83263,1,2,166021.443,0.000,0.4665,5D
+#CtrlSignals,1758,1482,off,0,1C
+GPS fix quality is bad
+#BoatState,83299,1,2,166021.443,0.000,0.4671,5D
+#CtrlSignals,1786,1485,off,0,18
+GPS fix quality is bad
+#BoatState,83335,1,2,166021.443,0.000,0.4669,53
+#CtrlSignals,1831,1485,off,0,1B
+GPS fix quality is bad
+#BoatState,83371,1,2,166021.443,0.000,0.4669,53
+#CtrlSignals,1848,1482,off,0,12
+GPS fix quality is bad
+#BoatState,83408,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,83444,1,2,166021.443,0.000,0.4669,52
+GPS fix quality is bad
+#BoatState,83480,1,2,166021.443,0.000,0.4669,5A
+GPS fix quality is bad
+#BoatState,83517,1,2,166021.443,0.000,0.4665,59
+GPS fix quality is bad
+#BoatState,83553,1,2,166021.443,0.000,0.4667,5B
+GPS fix quality is bad
+#BoatState,83589,1,2,166021.443,0.000,0.4665,5E
+GPS fix quality is bad
+#BoatState,83625,1,2,166021.443,0.000,0.4664,5A
+GPS fix quality is bad
+#BoatState,83662,1,2,166021.443,0.000,0.4665,58
+GPS fix quality is bad
+#BoatState,83698,1,2,166021.443,0.000,0.4665,5D
+GPS fix quality is bad
+#BoatState,83734,1,2,166021.443,0.000,0.4664,5B
+GPS fix quality is bad
+#BoatState,83770,1,2,166021.443,0.000,0.4660,5F
+#CtrlSignals,1802,1483,off,0,1D
+GPS fix quality is bad
+#BoatState,83807,1,2,166021.443,0.000,0.4655,56
+#CtrlSignals,1762,1482,off,0,15
+GPS fix quality is bad
+#BoatState,83843,1,2,166021.443,0.000,0.4655,56
+#CtrlSignals,1719,1482,off,0,19
+GPS fix quality is bad
+#BoatState,83879,1,2,166021.443,0.000,0.4655,5F
+#CtrlSignals,1655,1482,off,0,10
+GPS fix quality is bad
+#BoatState,83915,1,2,166021.443,0.000,0.4651,50
+#CtrlSignals,1623,1482,off,0,11
+GPS fix quality is bad
+#BoatState,83952,1,2,166021.443,0.000,0.4658,5A
+#CtrlSignals,1597,1482,off,0,1D
+GPS fix quality is bad
+#BoatState,83988,1,2,166021.443,0.000,0.4658,5D
+#CtrlSignals,1547,1483,off,0,11
+GPS fix quality is bad
+#BoatState,84024,1,2,166021.443,0.000,0.4658,55
+#CtrlSignals,1515,1482,off,0,17
+GPS fix quality is bad
+#BoatState,84061,1,2,166021.443,0.000,0.4662,5D
+#CtrlSignals,1499,1482,off,0,12
+GPS fix quality is bad
+#BoatState,84097,1,2,166021.443,0.000,0.4662,54
+#CtrlSignals,1495,1487,off,0,1B
+GPS fix quality is bad
+#BoatState,84169,1,2,166021.443,0.000,0.4660,56
+#CtrlSignals,1487,1487,off,0,18
+GPS fix quality is bad
+#BoatState,84206,1,2,166021.443,0.000,0.4660,5C
+#CtrlSignals,1458,1482,off,0,1F
+GPS fix quality is bad
+#BoatState,84242,1,2,166021.443,0.000,0.4657,58
+#CtrlSignals,1398,1482,off,0,14
+GPS fix quality is bad
+#BoatState,84278,1,2,166021.443,0.000,0.4657,51
+#CtrlSignals,1343,1482,off,0,12
+GPS fix quality is bad
+#BoatState,84314,1,2,166021.443,0.000,0.4655,58
+#CtrlSignals,1312,1482,off,0,16
+GPS fix quality is bad
+#BoatState,84351,1,2,166021.443,0.000,0.4651,5D
+#CtrlSignals,1284,1482,off,0,18
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,84387,1,2,166021.443,0.000,0.4655,52
+#CtrlSignals,1247,1482,off,0,17
+GPS fix quality is bad
+#BoatState,84423,1,2,166021.443,0.000,0.4651,5F
+#CtrlSignals,1216,1482,off,0,13
+GPS fix quality is bad
+#BoatState,84459,1,2,166021.443,0.000,0.4650,53
+#CtrlSignals,1202,1483,off,0,17
+GPS fix quality is bad
+#BoatState,84496,1,2,166021.443,0.000,0.4651,51
+#CtrlSignals,1179,1483,off,0,18
+GPS fix quality is bad
+#BoatState,84532,1,2,166021.443,0.000,0.4655,5A
+#CtrlSignals,1170,1483,off,0,11
+GPS fix quality is bad
+#BoatState,84568,1,2,166021.443,0.000,0.4650,50
+#CtrlSignals,1167,1483,off,0,17
+GPS fix quality is bad
+#BoatState,84605,1,2,166021.443,0.000,0.4644,5D
+#CtrlSignals,1162,1483,off,0,12
+GPS fix quality is bad
+#BoatState,84641,1,2,166021.443,0.000,0.4646,5F
+#CtrlSignals,1156,1482,off,0,14
+GPS fix quality is bad
+#BoatState,84677,1,2,166021.443,0.000,0.4643,5F
+#CtrlSignals,1157,1482,off,0,15
+GPS fix quality is bad
+#BoatState,84713,1,2,166021.443,0.000,0.4637,5F
+#CtrlSignals,1163,1483,off,0,13
+GPS fix quality is bad
+#BoatState,84750,1,2,166021.443,0.000,0.4637,58
+#CtrlSignals,1186,1483,off,0,18
+#CtrlSignals,1216,1483,off,0,12
+#CtrlSignals,1270,1483,off,0,12
+GPS fix quality is bad
+#BoatState,84858,1,2,166021.443,0.000,0.4637,5F
+#CtrlSignals,1285,1483,off,0,18
+GPS fix quality is bad
+#BoatState,84895,1,2,166021.443,0.000,0.4636,5F
+#CtrlSignals,1325,1483,off,0,13
+GPS fix quality is bad
+#BoatState,84931,1,2,166021.443,0.000,0.4637,51
+#CtrlSignals,1379,1483,off,0,1A
+GPS fix quality is bad
+#BoatState,84967,1,2,166021.443,0.000,0.4636,53
+#CtrlSignals,1428,1483,off,0,19
+GPS fix quality is bad
+#BoatState,85003,1,2,166021.443,0.000,0.4641,59
+#CtrlSignals,1460,1482,off,0,14
+GPS fix quality is bad
+#BoatState,85040,1,2,166021.443,0.000,0.4641,5E
+#CtrlSignals,1486,1482,off,0,1C
+GPS fix quality is bad
+#BoatState,85076,1,2,166021.443,0.000,0.4646,5C
+#CtrlSignals,1495,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,85112,1,2,166021.443,0.000,0.4643,5A
+GPS fix quality is bad
+#BoatState,85149,1,2,166021.443,0.000,0.4644,53
+#CtrlSignals,1500,1482,off,0,13
+GPS fix quality is bad
+#BoatState,85185,1,2,166021.443,0.000,0.4644,53
+#CtrlSignals,1509,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,85221,1,2,166021.443,0.000,0.4648,52
+#CtrlSignals,1538,1482,off,0,18
+GPS fix quality is bad
+#BoatState,85257,1,2,166021.443,0.000,0.4648,53
+#CtrlSignals,1556,1482,off,0,10
+GPS fix quality is bad
+#BoatState,85294,1,2,166021.443,0.000,0.4650,55
+#CtrlSignals,1572,1482,off,0,16
+GPS fix quality is bad
+#BoatState,85330,1,2,166021.443,0.000,0.4658,52
+#CtrlSignals,1589,1483,off,0,13
+GPS fix quality is bad
+#BoatState,85366,1,2,166021.443,0.000,0.4662,58
+#CtrlSignals,1618,1482,off,0,19
+GPS fix quality is bad
+#BoatState,85402,1,2,166021.443,0.000,0.4655,59
+#CtrlSignals,1640,1482,off,0,14
+GPS fix quality is bad
+#BoatState,85439,1,2,166021.443,0.000,0.4657,53
+#CtrlSignals,1666,1482,off,0,10
+GPS fix quality is bad
+#BoatState,85475,1,2,166021.443,0.000,0.4657,5B
+#CtrlSignals,1690,1483,off,0,18
+GPS fix quality is bad
+#BoatState,85511,1,2,166021.443,0.000,0.4655,5A
+#CtrlSignals,1730,1482,off,0,12
+GPS fix quality is bad
+#BoatState,85547,1,2,166021.443,0.000,0.4657,5B
+#CtrlSignals,1755,1482,off,0,11
+GPS fix quality is bad
+#BoatState,85584,1,2,166021.443,0.000,0.4657,54
+#CtrlSignals,1781,1482,off,0,18
+GPS fix quality is bad
+#BoatState,85620,1,2,166021.443,0.000,0.4653,5D
+#CtrlSignals,1822,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,85656,1,2,166021.443,0.000,0.4650,5F
+#CtrlSignals,1848,1482,off,0,12
+GPS fix quality is bad
+#BoatState,85693,1,2,166021.443,0.000,0.4648,5F
+GPS fix quality is bad
+#BoatState,85729,1,2,166021.443,0.000,0.4648,5F
+GPS fix quality is bad
+#BoatState,85765,1,2,166021.443,0.000,0.4641,5E
+GPS fix quality is bad
+#BoatState,85874,1,2,166021.443,0.000,0.4646,56
+GPS fix quality is bad
+#BoatState,85910,1,2,166021.443,0.000,0.4651,53
+GPS fix quality is bad
+#BoatState,85946,1,2,166021.443,0.000,0.4660,52
+#CtrlSignals,1837,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,85983,1,2,166021.443,0.000,0.4662,59
+#CtrlSignals,1811,1480,off,0,1C
+GPS fix quality is bad
+#BoatState,86019,1,2,166021.443,0.000,0.4662,50
+#CtrlSignals,1799,1480,off,0,13
+GPS fix quality is bad
+#BoatState,86055,1,2,166021.443,0.000,0.4665,5F
+#CtrlSignals,1781,1482,off,0,18
+GPS fix quality is bad
+#BoatState,86091,1,2,166021.443,0.000,0.4664,56
+#CtrlSignals,1757,1483,off,0,12
+GPS fix quality is bad
+#BoatState,86128,1,2,166021.443,0.000,0.4664,55
+#CtrlSignals,1730,1482,off,0,12
+GPS fix quality is bad
+#BoatState,86164,1,2,166021.443,0.000,0.4658,52
+#CtrlSignals,1682,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,86200,1,2,166021.443,0.000,0.4660,58
+#CtrlSignals,1643,1483,off,0,16
+GPS fix quality is bad
+#BoatState,86237,1,2,166021.443,0.000,0.4662,5E
+#CtrlSignals,1594,1483,off,0,1F
+GPS fix quality is bad
+#BoatState,86273,1,2,166021.443,0.000,0.4660,5C
+#CtrlSignals,1543,1483,off,0,15
+GPS fix quality is bad
+#BoatState,86309,1,2,166021.443,0.000,0.4655,56
+#CtrlSignals,1503,1482,off,0,10
+#CtrlSignals,1499,1482,off,0,12
+GPS fix quality is bad
+#BoatState,86382,1,2,166021.443,0.000,0.4658,58
+GPS fix quality is bad
+#BoatState,86418,1,2,166021.443,0.000,0.4657,53
+GPS fix quality is bad
+#BoatState,86454,1,2,166021.443,0.000,0.4657,5B
+GPS fix quality is bad
+#BoatState,86490,1,2,166021.443,0.000,0.4655,51
+#CtrlSignals,1472,1482,off,0,17
+GPS fix quality is bad
+#BoatState,86527,1,2,166021.443,0.000,0.4658,51
+#CtrlSignals,1443,1482,off,0,15
+GPS fix quality is bad
+#BoatState,86563,1,2,166021.443,0.000,0.4660,5A
+#CtrlSignals,1416,1482,off,0,15
+GPS fix quality is bad
+#BoatState,86599,1,2,166021.443,0.000,0.4660,5F
+#CtrlSignals,1367,1480,off,0,16
+GPS fix quality is bad
+#BoatState,86635,1,2,166021.443,0.000,0.4660,5A
+#CtrlSignals,1340,1480,off,0,13
+GPS fix quality is bad
+#BoatState,86672,1,2,166021.443,0.000,0.4660,59
+#CtrlSignals,1314,1482,off,0,10
+GPS fix quality is bad
+#BoatState,86708,1,2,166021.443,0.000,0.4657,51
+#CtrlSignals,1277,1482,off,0,14
+GPS fix quality is bad
+#BoatState,86744,1,2,166021.443,0.000,0.4662,5F
+#CtrlSignals,1256,1483,off,0,16
+GPS fix quality is bad
+#BoatState,86781,1,2,166021.443,0.000,0.4662,56
+#CtrlSignals,1244,1483,off,0,15
+GPS fix quality is bad
+#BoatState,86817,1,2,166021.443,0.000,0.4662,56
+#CtrlSignals,1224,1483,off,0,13
+GPS fix quality is bad
+#BoatState,86853,1,2,166021.443,0.000,0.4660,54
+#CtrlSignals,1207,1483,off,0,12
+GPS fix quality is bad
+#BoatState,86889,1,2,166021.443,0.000,0.4658,58
+#CtrlSignals,1190,1483,off,0,1F
+GPS fix quality is bad
+#BoatState,86926,1,2,166021.443,0.000,0.4655,51
+#CtrlSignals,1170,1482,off,0,10
+GPS fix quality is bad
+#BoatState,86962,1,2,166021.443,0.000,0.4655,51
+#CtrlSignals,1163,1482,off,0,12
+GPS fix quality is bad
+#BoatState,86998,1,2,166021.443,0.000,0.4651,50
+#CtrlSignals,1158,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,87034,1,2,166021.443,0.000,0.4658,57
+GPS fix quality is bad
+#BoatState,87071,1,2,166021.443,0.000,0.4664,59
+GPS fix quality is bad
+#BoatState,87107,1,2,166021.443,0.000,0.4667,5A
+GPS fix quality is bad
+#BoatState,87143,1,2,166021.443,0.000,0.4665,58
+GPS fix quality is bad
+#BoatState,87179,1,2,166021.443,0.000,0.4665,51
+#CtrlSignals,1163,1482,off,0,12
+GPS fix quality is bad
+#BoatState,87216,1,2,166021.443,0.000,0.4660,5E
+#CtrlSignals,1181,1483,off,0,1F
+GPS fix quality is bad
+#BoatState,87252,1,2,166021.443,0.000,0.4657,5A
+#CtrlSignals,1211,1483,off,0,15
+GPS fix quality is bad
+#BoatState,87288,1,2,166021.443,0.000,0.4651,5B
+#CtrlSignals,1234,1483,off,0,12
+GPS fix quality is bad
+#BoatState,87325,1,2,166021.443,0.000,0.4650,5C
+#CtrlSignals,1262,1482,off,0,10
+GPS fix quality is bad
+#BoatState,87361,1,2,166021.443,0.000,0.4653,5F
+#CtrlSignals,1294,1482,off,0,19
+GPS fix quality is bad
+#BoatState,87397,1,2,166021.443,0.000,0.4657,52
+#CtrlSignals,1336,1486,off,0,14
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,87433,1,2,166021.443,0.000,0.4653,5F
+#CtrlSignals,1364,1484,off,0,11
+GPS fix quality is bad
+#BoatState,87470,1,2,166021.443,0.000,0.4651,5A
+#CtrlSignals,1414,1484,off,0,11
+GPS fix quality is bad
+#BoatState,87506,1,2,166021.443,0.000,0.4646,5C
+#CtrlSignals,1426,1482,off,0,16
+GPS fix quality is bad
+#BoatState,87542,1,2,166021.443,0.000,0.4646,5C
+#CtrlSignals,1476,1482,off,0,13
+GPS fix quality is bad
+#BoatState,87578,1,2,166021.443,0.000,0.4651,53
+#CtrlSignals,1495,1483,off,0,1F
+GPS fix quality is bad
+#BoatState,87615,1,2,166021.443,0.000,0.4648,53
+#CtrlSignals,1498,1482,off,0,13
+GPS fix quality is bad
+#BoatState,87651,1,2,166021.443,0.000,0.4648,53
+GPS fix quality is bad
+#BoatState,87687,1,2,166021.443,0.000,0.4650,51
+#CtrlSignals,1506,1484,off,0,13
+GPS fix quality is bad
+#BoatState,87723,1,2,166021.443,0.000,0.4657,59
+#CtrlSignals,1518,1483,off,0,1B
+#CtrlSignals,1540,1484,off,0,11
+#CtrlSignals,1578,1484,off,0,1A
+GPS fix quality is bad
+#BoatState,87832,1,2,166021.443,0.000,0.4646,56
+#CtrlSignals,1591,1483,off,0,1A
+GPS fix quality is bad
+#BoatState,87869,1,2,166021.443,0.000,0.4644,5A
+#CtrlSignals,1616,1482,off,0,17
+#CtrlSignals,1653,1480,off,0,14
+GPS fix quality is bad
+#BoatState,87941,1,2,166021.443,0.000,0.4639,5B
+#CtrlSignals,1693,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,87977,1,2,166021.443,0.000,0.4639,5E
+#CtrlSignals,1710,1482,off,0,10
+GPS fix quality is bad
+#BoatState,88014,1,2,166021.443,0.000,0.4646,55
+#CtrlSignals,1752,1482,off,0,16
+GPS fix quality is bad
+#BoatState,88050,1,2,166021.443,0.000,0.4644,57
+#CtrlSignals,1782,1482,off,0,1B
+GPS fix quality is bad
+#BoatState,88086,1,2,166021.443,0.000,0.4643,5B
+#CtrlSignals,1800,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,88122,1,2,166021.443,0.000,0.4644,53
+#CtrlSignals,1829,1482,off,0,15
+GPS fix quality is bad
+#BoatState,88159,1,2,166021.443,0.000,0.4648,53
+#CtrlSignals,1848,1482,off,0,12
+GPS fix quality is bad
+#BoatState,88195,1,2,166021.443,0.000,0.4644,5F
+GPS fix quality is bad
+#BoatState,88231,1,2,166021.443,0.000,0.4648,5E
+GPS fix quality is bad
+#BoatState,88267,1,2,166021.443,0.000,0.4650,54
+GPS fix quality is bad
+#BoatState,88304,1,2,166021.443,0.000,0.4648,59
+GPS fix quality is bad
+#BoatState,88340,1,2,166021.443,0.000,0.4650,50
+GPS fix quality is bad
+#BoatState,88376,1,2,166021.443,0.000,0.4646,52
+GPS fix quality is bad
+#BoatState,88413,1,2,166021.443,0.000,0.4641,51
+GPS fix quality is bad
+#BoatState,88449,1,2,166021.443,0.000,0.4634,5C
+GPS fix quality is bad
+#BoatState,88485,1,2,166021.443,0.000,0.4632,5A
+GPS fix quality is bad
+#BoatState,88521,1,2,166021.443,0.000,0.4636,51
+GPS fix quality is bad
+#BoatState,88558,1,2,166021.443,0.000,0.4639,50
+GPS fix quality is bad
+#BoatState,88594,1,2,166021.443,0.000,0.4639,50
+#CtrlSignals,1837,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,88630,1,2,166021.443,0.000,0.4646,55
+#CtrlSignals,1811,1480,off,0,1C
+GPS fix quality is bad
+#BoatState,88666,1,2,166021.443,0.000,0.4644,54
+#CtrlSignals,1772,1482,off,0,14
+GPS fix quality is bad
+#BoatState,88703,1,2,166021.443,0.000,0.4637,52
+#CtrlSignals,1740,1482,off,0,15
+GPS fix quality is bad
+#BoatState,88739,1,2,166021.443,0.000,0.4637,5B
+#CtrlSignals,1702,1480,off,0,11
+GPS fix quality is bad
+#BoatState,88775,1,2,166021.443,0.000,0.4634,50
+#CtrlSignals,1644,1480,off,0,12
+GPS fix quality is bad
+#BoatState,88811,1,2,166021.443,0.000,0.4629,51
+#CtrlSignals,1600,1482,off,0,10
+GPS fix quality is bad
+#BoatState,88848,1,2,166021.443,0.000,0.4629,5D
+#CtrlSignals,1552,1482,off,0,14
+GPS fix quality is bad
+#BoatState,88884,1,2,166021.443,0.000,0.4629,5D
+#CtrlSignals,1509,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,88920,1,2,166021.443,0.000,0.4632,58
+#CtrlSignals,1498,1482,off,0,13
+GPS fix quality is bad
+#BoatState,88957,1,2,166021.443,0.000,0.4636,5C
+#CtrlSignals,1495,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,88993,1,2,166021.443,0.000,0.4641,54
+GPS fix quality is bad
+#BoatState,89029,1,2,166021.443,0.000,0.4643,5F
+#CtrlSignals,1482,1483,off,0,19
+GPS fix quality is bad
+#BoatState,89065,1,2,166021.443,0.000,0.4641,55
+#CtrlSignals,1472,1482,off,0,17
+GPS fix quality is bad
+#BoatState,89102,1,2,166021.443,0.000,0.4641,55
+#CtrlSignals,1439,1482,off,0,18
+GPS fix quality is bad
+#BoatState,89138,1,2,166021.443,0.000,0.4644,59
+#CtrlSignals,1414,1482,off,0,17
+GPS fix quality is bad
+#BoatState,89174,1,2,166021.443,0.000,0.4644,51
+#CtrlSignals,1375,1482,off,0,17
+GPS fix quality is bad
+#BoatState,89210,1,2,166021.443,0.000,0.4639,5A
+#CtrlSignals,1350,1482,off,0,10
+GPS fix quality is bad
+#BoatState,89247,1,2,166021.443,0.000,0.4639,58
+#CtrlSignals,1322,1482,off,0,15
+GPS fix quality is bad
+#BoatState,89283,1,2,166021.443,0.000,0.4641,5F
+#CtrlSignals,1282,1482,off,0,1E
+GPS fix quality is bad
+#BoatState,89319,1,2,166021.443,0.000,0.4637,5C
+#CtrlSignals,1255,1482,off,0,14
+GPS fix quality is bad
+#BoatState,89355,1,2,166021.443,0.000,0.4636,55
+#CtrlSignals,1228,1483,off,0,1F
+GPS fix quality is bad
+#BoatState,89392,1,2,166021.443,0.000,0.4639,51
+#CtrlSignals,1204,1483,off,0,11
+GPS fix quality is bad
+#BoatState,89428,1,2,166021.443,0.000,0.4641,58
+#CtrlSignals,1174,1482,off,0,14
+GPS fix quality is bad
+#BoatState,89464,1,2,166021.443,0.000,0.4641,50
+#CtrlSignals,1162,1482,off,0,13
+GPS fix quality is bad
+#BoatState,89501,1,2,166021.443,0.000,0.4644,57
+#CtrlSignals,1158,1482,off,0,1A
+GPS fix quality is bad
+#BoatState,89537,1,2,166021.443,0.000,0.4644,52
+GPS fix quality is bad
+#BoatState,89573,1,2,166021.443,0.000,0.4644,52
+GPS fix quality is bad
+#BoatState,89609,1,2,166021.443,0.000,0.4641,59
+GPS fix quality is bad
+#BoatState,89646,1,2,166021.443,0.000,0.4648,5B
+#CtrlSignals,1162,1482,off,0,13
+GPS fix quality is bad
+#BoatState,89682,1,2,166021.443,0.000,0.4648,53
+#CtrlSignals,1171,1482,off,0,11
+#CtrlSignals,1207,1482,off,0,13
+GPS fix quality is bad
+#BoatState,89754,1,2,166021.443,0.000,0.4644,55
+#CtrlSignals,1245,1482,off,0,15
+GPS fix quality is bad
+#BoatState,89791,1,2,166021.443,0.000,0.4646,5E
+#CtrlSignals,1261,1483,off,0,12
+GPS fix quality is bad
+#BoatState,89827,1,2,166021.443,0.000,0.4653,58
+#CtrlSignals,1295,1482,off,0,18
+GPS fix quality is bad
+#BoatState,89863,1,2,166021.443,0.000,0.4651,5A
+#CtrlSignals,1339,1483,off,0,1E
+GPS fix quality is bad
+#BoatState,89899,1,2,166021.443,0.000,0.4644,5B
+#CtrlSignals,1381,1483,off,0,1D
+GPS fix quality is bad
+#BoatState,89936,1,2,166021.443,0.000,0.4643,58
+#CtrlSignals,1414,1483,off,0,16
+GPS fix quality is bad
+#BoatState,89972,1,2,166021.443,0.000,0.4646,5D
+#CtrlSignals,1444,1483,off,0,13
+GPS fix quality is bad
+#BoatState,90008,1,2,166021.443,0.000,0.4648,5F
+#CtrlSignals,1474,1483,off,0,10
+GPS fix quality is bad
+#BoatState,90045,1,2,166021.443,0.000,0.4648,56
+#CtrlSignals,1490,1483,off,0,1A
+GPS fix quality is bad
+#BoatState,90081,1,2,166021.443,0.000,0.4646,50
+#CtrlSignals,1494,1483,off,0,1E
+GPS fix quality is bad
+#BoatState,90117,1,2,166021.443,0.000,0.4651,58
+GPS fix quality is bad
+#BoatState,90153,1,2,166021.443,0.000,0.4651,58
+GPS fix quality is bad
+#BoatState,90190,1,2,166021.443,0.000,0.4650,56
+GPS fix quality is bad
+#BoatState,90226,1,2,166021.443,0.000,0.4650,58
+GPS fix quality is bad
+#BoatState,90262,1,2,166021.443,0.000,0.4644,5D
+GPS fix quality is bad
+#BoatState,90298,1,2,166021.443,0.000,0.4643,5F
+GPS fix quality is bad
+#BoatState,90335,1,2,166021.443,0.000,0.4641,5B
+GPS fix quality is bad
+#BoatState,90371,1,2,166021.443,0.000,0.4643,59
+GPS fix quality is bad
+#BoatState,90407,1,2,166021.443,0.000,0.4639,52
+GPS fix quality is bad
+#BoatState,90443,1,2,166021.443,0.000,0.4643,5F
+#CtrlSignals,1499,1482,off,0,12
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,90480,1,2,166021.443,0.000,0.4641,52
+GPS fix quality is bad
+#BoatState,90516,1,2,166021.443,0.000,0.4639,53
+GPS fix quality is bad
+#BoatState,90552,1,2,166021.443,0.000,0.4641,5C
+#CtrlSignals,1506,1484,off,0,13
+GPS fix quality is bad
+#BoatState,90589,1,2,166021.443,0.000,0.4641,5A
+GPS fix quality is bad
+#BoatState,90625,1,2,166021.443,0.000,0.4641,5F
+#CtrlSignals,1503,1482,off,0,10
+GPS fix quality is bad
+#BoatState,90661,1,2,166021.443,0.000,0.4644,5A
+GPS fix quality is bad
+#BoatState,90697,1,2,166021.443,0.000,0.4636,56
+GPS fix quality is bad
+#BoatState,90734,1,2,166021.443,0.000,0.4634,5C
+GPS fix quality is bad
+#BoatState,90770,1,2,166021.443,0.000,0.4636,5E
+GPS fix quality is bad
+#BoatState,90806,1,2,166021.443,0.000,0.4646,57
+GPS fix quality is bad
+#BoatState,90842,1,2,166021.443,0.000,0.4653,53
+GPS fix quality is bad
+#BoatState,90879,1,2,166021.443,0.000,0.4650,58
+GPS fix quality is bad
+#BoatState,90915,1,2,166021.443,0.000,0.4648,5A
+GPS fix quality is bad
+#BoatState,90951,1,2,166021.443,0.000,0.4653,50
+GPS fix quality is bad
+#BoatState,90987,1,2,166021.443,0.000,0.4653,5B
+GPS fix quality is bad
+#BoatState,91024,1,2,166021.443,0.000,0.4650,59
+GPS fix quality is bad
+#BoatState,91060,1,2,166021.443,0.000,0.4657,5E
+GPS fix quality is bad
+#BoatState,91096,1,2,166021.443,0.000,0.4651,51
+GPS fix quality is bad
+#BoatState,91169,1,2,166021.443,0.000,0.4651,50
+GPS fix quality is bad
+#BoatState,91205,1,2,166021.443,0.000,0.4650,58
+GPS fix quality is bad
+#BoatState,91241,1,2,166021.443,0.000,0.4644,5D
+#CtrlSignals,1502,1482,off,0,11
+GPS fix quality is bad
+#BoatState,91278,1,2,166021.443,0.000,0.4644,57
+GPS fix quality is bad
+#BoatState,91314,1,2,166021.443,0.000,0.4646,5E
+GPS fix quality is bad
+#BoatState,91350,1,2,166021.443,0.000,0.4650,59
+GPS fix quality is bad
+#BoatState,91386,1,2,166021.443,0.000,0.4651,53
+GPS fix quality is bad
+#BoatState,91423,1,2,166021.443,0.000,0.4651,5B
+GPS fix quality is bad
+#BoatState,91459,1,2,166021.443,0.000,0.4655,52
+GPS fix quality is bad
+#BoatState,91495,1,2,166021.443,0.000,0.4653,54
+GPS fix quality is bad
+#BoatState,91531,1,2,166021.443,0.000,0.4657,5F
+GPS fix quality is bad
+#BoatState,91568,1,2,166021.443,0.000,0.4655,51
+GPS fix quality is bad
+#BoatState,91604,1,2,166021.443,0.000,0.4660,5E
+GPS fix quality is bad
+#BoatState,91640,1,2,166021.443,0.000,0.4662,5C
+GPS fix quality is bad
+#BoatState,91677,1,2,166021.443,0.000,0.4664,5E
+GPS fix quality is bad
+#BoatState,91713,1,2,166021.443,0.000,0.4667,5E
+GPS fix quality is bad
+#BoatState,91749,1,2,166021.443,0.000,0.4674,53
+GPS fix quality is bad
+#BoatState,91785,1,2,166021.443,0.000,0.4671,56
+GPS fix quality is bad
+#BoatState,91822,1,2,166021.443,0.000,0.4665,51
+GPS fix quality is bad
+#BoatState,91858,1,2,166021.443,0.000,0.4662,5B
+GPS fix quality is bad
+#BoatState,91894,1,2,166021.443,0.000,0.4664,5D
+GPS fix quality is bad
+#BoatState,91930,1,2,166021.443,0.000,0.4664,52
+GPS fix quality is bad
+#BoatState,91967,1,2,166021.443,0.000,0.4669,5D
+GPS fix quality is bad
+#BoatState,92003,1,2,166021.443,0.000,0.4672,5F
+GPS fix quality is bad
+#BoatState,92039,1,2,166021.443,0.000,0.4674,50
+GPS fix quality is bad
+#BoatState,92075,1,2,166021.443,0.000,0.4674,58
+GPS fix quality is bad
+#BoatState,92112,1,2,166021.443,0.000,0.4676,5A
+GPS fix quality is bad
+#BoatState,92148,1,2,166021.443,0.000,0.4677,54
+GPS fix quality is bad
+#BoatState,92184,1,2,166021.443,0.000,0.4676,55
+GPS fix quality is bad
+#BoatState,92221,1,2,166021.443,0.000,0.4677,58
+GPS fix quality is bad
+#BoatState,92257,1,2,166021.443,0.000,0.4677,59
+GPS fix quality is bad
+#BoatState,92293,1,2,166021.443,0.000,0.4677,51
+GPS fix quality is bad
+#BoatState,92329,1,2,166021.443,0.000,0.4681,58
+GPS fix quality is bad
+#BoatState,92366,1,2,166021.443,0.000,0.4686,54
+GPS fix quality is bad
+#BoatState,92402,1,2,166021.443,0.000,0.4686,51
+GPS fix quality is bad
+#BoatState,92438,1,2,166021.443,0.000,0.4686,58
+GPS fix quality is bad
+#BoatState,92474,1,2,166021.443,0.000,0.4684,52
+GPS fix quality is bad
+#BoatState,92511,1,2,166021.443,0.000,0.4683,57
+GPS fix quality is bad
+#BoatState,92547,1,2,166021.443,0.000,0.4677,5F
+GPS fix quality is bad
+#BoatState,92583,1,2,166021.443,0.000,0.4676,56
+GPS fix quality is bad
+#BoatState,92619,1,2,166021.443,0.000,0.4679,59
+GPS fix quality is bad
+#BoatState,92656,1,2,166021.443,0.000,0.4683,57
+GPS fix quality is bad
+#BoatState,92692,1,2,166021.443,0.000,0.4681,5D
+GPS fix quality is bad
+#BoatState,92728,1,2,166021.443,0.000,0.4683,5F
+GPS fix quality is bad
+#BoatState,92765,1,2,166021.443,0.000,0.4686,53
+GPS fix quality is bad
+#BoatState,92873,1,2,166021.443,0.000,0.4684,59
+GPS fix quality is bad
+#BoatState,92910,1,2,166021.443,0.000,0.4686,5F
+GPS fix quality is bad
+#BoatState,92946,1,2,166021.443,0.000,0.4693,58
+GPS fix quality is bad
+#BoatState,92982,1,2,166021.443,0.000,0.4693,50
+GPS fix quality is bad
+#BoatState,93018,1,2,166021.443,0.000,0.4693,5B
+#CtrlSignals,1506,1485,off,0,12
+GPS fix quality is bad
+#BoatState,93055,1,2,166021.443,0.000,0.4695,54
+GPS fix quality is bad
+#BoatState,93091,1,2,166021.443,0.000,0.4693,5A
+#CtrlSignals,1501,1483,off,0,13
+GPS fix quality is bad
+#BoatState,93127,1,2,166021.443,0.000,0.4690,55
+GPS fix quality is bad
+#BoatState,93163,1,2,166021.443,0.000,0.4690,55
+GPS fix quality is bad
+GPS fix quality is bad
+#BoatState,93236,1,2,166021.443,0.000,0.4681,56
+GPS fix quality is bad
+#BoatState,93272,1,2,166021.443,0.000,0.4677,5F
+GPS fix quality is bad
+#BoatState,93309,1,2,166021.443,0.000,0.4677,52
+GPS fix quality is bad
+#BoatState,93345,1,2,166021.443,0.000,0.4672,5F
+GPS fix quality is bad
+#BoatState,93381,1,2,166021.443,0.000,0.4672,57
+GPS fix quality is bad
+#BoatState,93417,1,2,166021.443,0.000,0.4672,5F
+GPS fix quality is bad
+#BoatState,93454,1,2,166021.443,0.000,0.4676,5C
+GPS fix quality is bad
+#BoatState,93490,1,2,166021.443,0.000,0.4674,56
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+GPS fix quality is bad
+#BoatState,93526,1,2,166021.443,0.000,0.4672,5C
+GPS fix quality is bad
+#BoatState,93562,1,2,166021.443,0.000,0.4674,5A
+GPS fix quality is bad
+#BoatState,93599,1,2,166021.443,0.000,0.4677,5D
+GPS fix quality is bad
+#BoatState,93635,1,2,166021.443,0.000,0.4676,59
+GPS fix quality is bad
+#BoatState,93671,1,2,166021.443,0.000,0.4674,5B
+GPS fix quality is bad
+#BoatState,93707,1,2,166021.443,0.000,0.4671,5E
+GPS fix quality is bad
+#BoatState,93744,1,2,166021.443,0.000,0.4671,59
+GPS fix quality is bad
+#BoatState,93780,1,2,166021.443,0.000,0.4665,54
+GPS fix quality is bad
+#BoatState,93816,1,2,166021.443,0.000,0.4667,56
+GPS fix quality is bad
+#BoatState,93853,1,2,166021.443,0.000,0.4664,54
+GPS fix quality is bad
+#BoatState,93889,1,2,166021.443,0.000,0.4662,55
+GPS fix quality is bad
+#BoatState,93925,1,2,166021.443,0.000,0.4664,54
+GPS fix quality is bad
+#BoatState,93961,1,2,166021.443,0.000,0.4667,57
+GPS fix quality is bad
+#BoatState,93998,1,2,166021.443,0.000,0.4667,51
+GPS fix quality is bad
+#BoatState,94034,1,2,166021.443,0.000,0.4669,57
+GPS fix quality is bad
+#BoatState,94070,1,2,166021.443,0.000,0.4664,5A
+GPS fix quality is bad
+#BoatState,94106,1,2,166021.443,0.000,0.4665,5B
+GPS fix quality is bad
+#BoatState,94143,1,2,166021.443,0.000,0.4665,5A
+GPS fix quality is bad
+#BoatState,94179,1,2,166021.443,0.000,0.4658,5D
+GPS fix quality is bad
+#BoatState,94215,1,2,166021.443,0.000,0.4658,54
+GPS fix quality is bad
+#BoatState,94251,1,2,166021.443,0.000,0.4660,5F
+GPS fix quality is bad
+#BoatState,94288,1,2,166021.443,0.000,0.4651,59
+GPS fix quality is bad
+#BoatState,94324,1,2,166021.443,0.000,0.4650,5F
+GPS fix quality is bad
+#BoatState,94360,1,2,166021.443,0.000,0.4646,58
+GPS fix quality is bad
+#BoatState,94397,1,2,166021.443,0.000,0.4650,57
+GPS fix quality is bad
+#BoatState,94433,1,2,166021.443,0.000,0.4648,57
+GPS fix quality is bad
+#BoatState,94469,1,2,166021.443,0.000,0.4648,58
+GPS fix quality is bad
+#BoatState,94505,1,2,166021.443,0.000,0.4646,5D
+GPS fix quality is bad
+#BoatState,94542,1,2,166021.443,0.000,0.4650,59
+GPS fix quality is bad
+#BoatState,94578,1,2,166021.443,0.000,0.4651,51
+GPS fix quality is bad
+#BoatState,94614,1,2,166021.443,0.000,0.4651,58
+GPS fix quality is bad
+#BoatState,94650,1,2,166021.443,0.000,0.4660,5A
+GPS fix quality is bad
+#BoatState,94687,1,2,166021.443,0.000,0.4660,50
+GPS fix quality is bad
+#BoatState,94723,1,2,166021.443,0.000,0.4664,5B
+GPS fix quality is bad
+#BoatState,94759,1,2,166021.443,0.000,0.4660,52
+GPS fix quality is bad
+#BoatState,94795,1,2,166021.443,0.000,0.4658,59
+GPS fix quality is bad
+#BoatState,94832,1,2,166021.443,0.000,0.4660,50
+GPS fix quality is bad
+#BoatState,94868,1,2,166021.443,0.000,0.4658,54
+GPS fix quality is bad
+#BoatState,94904,1,2,166021.443,0.000,0.4662,56
+GPS fix quality is bad
+#BoatState,94941,1,2,166021.443,0.000,0.4660,55
+GPS fix quality is bad
+#BoatState,94977,1,2,166021.443,0.000,0.4662,52
+GPS fix quality is bad
+#BoatState,95013,1,2,166021.443,0.000,0.4658,51
+GPS fix quality is bad
+#BoatState,95049,1,2,166021.443,0.000,0.4660,55
+GPS fix quality is bad
+#BoatState,95086,1,2,166021.443,0.000,0.4660,56
+GPS fix quality is bad
+#BoatState,95122,1,2,166021.443,0.000,0.4664,5D
+GPS fix quality is bad
+#BoatState,95158,1,2,166021.443,0.000,0.4664,50
+GPS fix quality is bad
+#BoatState,95194,1,2,166021.443,0.000,0.4667,53
+#CtrlSignals,1498,1482,off,0,13
+GPS fix quality is bad
+#BoatState,95231,1,2,166021.443,0.000,0.4669,51
+GPS fix quality is bad
+#BoatState,95267,1,2,166021.443,0.000,0.4667,5C
+GPS fix quality is bad
+#BoatState,95303,1,2,166021.443,0.000,0.4665,5D
+GPS fix quality is bad
+#BoatState,95339,1,2,166021.443,0.000,0.4667,56
+GPS fix quality is bad
+#BoatState,95376,1,2,166021.443,0.000,0.4662,58
+GPS fix quality is bad
+#BoatState,95448,1,2,166021.443,0.000,0.4667,57
+GPS fix quality is bad
+#BoatState,95485,1,2,166021.443,0.000,0.4667,56
+GPS fix quality is bad
+#BoatState,95521,1,2,166021.443,0.000,0.4669,57
+GPS fix quality is bad
+#BoatState,95557,1,2,166021.443,0.000,0.4662,5D
+GPS fix quality is bad
+#BoatState,95593,1,2,166021.443,0.000,0.4658,5C
+#CtrlSignals,1508,1482,off,0,1B
+GPS fix quality is bad
+#BoatState,95630,1,2,166021.443,0.000,0.4658,56
+GPS fix quality is bad
+#BoatState,95666,1,2,166021.443,0.000,0.4660,5E
+#CtrlSignals,1504,1486,off,0,13
+GPS fix quality is bad
+#BoatState,95702,1,2,166021.443,0.000,0.4669,54
+GPS fix quality is bad
+#BoatState,95738,1,2,166021.443,0.000,0.4676,53
+#CtrlSignals,1501,1482,off,0,12
+GPS fix quality is bad
+#BoatState,95847,1,2,166021.443,0.000,0.4667,54
+GPS fix quality is bad
+#BoatState,95883,1,2,166021.443,0.000,0.4669,52
+#CtrlSignals,1503,1483,off,0,11
+GPS fix quality is bad
+#BoatState,95920,1,2,166021.443,0.000,0.4671,53
+GPS fix quality is bad
+#BoatState,95956,1,2,166021.443,0.000,0.4669,5B
+#CtrlSignals,1503,1482,off,0,10
+GPS fix quality is bad
+#BoatState,95992,1,2,166021.443,0.000,0.4667,5D
+GPS fix quality is bad
+#BoatState,96029,1,2,166021.443,0.000,0.4669,59
+GPS fix quality is bad
+#BoatState,96065,1,2,166021.443,0.000,0.4671,58
+GPS fix quality is bad
+#BoatState,96101,1,2,166021.443,0.000,0.4669,52
+GPS fix quality is bad
+#BoatState,96137,1,2,166021.443,0.000,0.4672,5D
+#CtrlSignals,1503,1485,off,0,17
+GPS fix quality is bad
+#BoatState,96174,1,2,166021.443,0.000,0.4665,5C
+GPS fix quality is bad
+#BoatState,96210,1,2,166021.443,0.000,0.4667,5F
+GPS fix quality is bad
+#BoatState,96246,1,2,166021.443,0.000,0.4671,5B
+GPS fix quality is bad
+#BoatState,96282,1,2,166021.443,0.000,0.4667,54
+GPS fix quality is bad
+#BoatState,96319,1,2,166021.443,0.000,0.4669,59
+#CtrlSignals,1500,1485,off,0,14
+GPS fix quality is bad
+#BoatState,96355,1,2,166021.443,0.000,0.4667,5F
+GPS fix quality is bad
+#BoatState,96391,1,2,166021.443,0.000,0.4667,57
+GPS fix quality is bad
+#BoatState,96427,1,2,166021.443,0.000,0.4667,5D
+GPS fix quality is bad
+#BoatState,96464,1,2,166021.443,0.000,0.4665,58
+GPS fix quality is bad
+#BoatState,96500,1,2,166021.443,0.000,0.4665,5B
+GPS fix quality is bad
+#BoatState,96536,1,2,166021.443,0.000,0.4667,5C

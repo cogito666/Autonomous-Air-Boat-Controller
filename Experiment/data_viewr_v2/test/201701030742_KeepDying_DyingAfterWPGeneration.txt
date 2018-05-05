@@ -1,0 +1,3769 @@
+#BoatState,18154,1,2,346588.423,4070329.308,-1.4078,7E
+#BoatState,18190,1,2,346588.423,4070329.308,-1.4080,71
+#BoatState,18226,1,2,346588.423,4070329.308,-1.4081,7E
+#BoatState,18262,1,2,346588.423,4070329.308,-1.4080,7F
+#BoatState,18299,1,2,346588.423,4070329.308,-1.4076,72
+#BoatState,18408,1,2,346588.423,4070329.308,-1.4078,72
+#BoatState,18444,1,2,346588.423,4070329.308,-1.4081,7C
+#BoatState,18480,1,2,346588.423,4070329.308,-1.4081,74
+#BoatState,18516,1,2,346588.423,4070329.308,-1.4081,7A
+#BoatState,18553,1,2,346588.423,4070329.308,-1.4085,7F
+#BoatState,18589,1,2,346588.423,4070329.308,-1.4081,7C
+#BoatState,18625,1,2,346588.423,4070329.308,-1.4081,79
+#BoatState,18661,1,2,346588.423,4070329.308,-1.4083,7B
+#BoatState,18698,1,2,346588.423,4070329.308,-1.4081,7F
+#BoatState,18734,1,2,346588.423,4070329.308,-1.4081,78
+#BoatState,18770,1,2,346588.423,4070329.308,-1.4081,78
+#BoatState,18806,1,2,346588.423,4070329.308,-1.4083,74
+#BoatState,18843,1,2,346588.423,4070329.308,-1.4085,73
+#BoatState,18879,1,2,346588.423,4070329.308,-1.4083,7C
+#BoatState,18915,1,2,346588.423,4070329.308,-1.4083,77
+#BoatState,18952,1,2,346588.423,4070329.308,-1.4085,72
+#BoatState,18988,1,2,346588.423,4070329.308,-1.4087,77
+#BoatState,19024,1,2,346588.423,4070329.308,-1.4087,79
+#BoatState,19060,1,2,346588.423,4070329.308,-1.4087,79
+#BoatState,19097,1,2,346588.556,4070329.231,-1.4087,79
+#BoatState,19133,1,2,346588.556,4070329.231,-1.4087,76
+#BoatState,19205,1,2,346588.556,4070329.231,-1.4085,72
+#BoatState,19242,1,2,346588.556,4070329.231,-1.4083,77
+#BoatState,19278,1,2,346588.556,4070329.231,-1.4083,7E
+#BoatState,19314,1,2,346588.556,4070329.231,-1.4087,71
+#BoatState,19423,1,2,346588.556,4070329.231,-1.4081,74
+#BoatState,19459,1,2,346588.556,4070329.231,-1.4080,78
+#BoatState,19496,1,2,346588.556,4070329.231,-1.4078,7C
+#BoatState,19532,1,2,346588.556,4070329.231,-1.4081,75
+#BoatState,19568,1,2,346588.556,4070329.231,-1.4080,7B
+#BoatState,19604,1,2,346588.556,4070329.231,-1.4080,72
+#BoatState,19641,1,2,346588.556,4070329.231,-1.4080,73
+#BoatState,19677,1,2,346588.556,4070329.231,-1.4080,76
+#BoatState,19713,1,2,346588.556,4070329.231,-1.4083,76
+#BoatState,19749,1,2,346588.556,4070329.231,-1.4083,79
+#BoatState,19786,1,2,346588.556,4070329.231,-1.4081,78
+#BoatState,19822,1,2,346588.556,4070329.231,-1.4083,7B
+#BoatState,19858,1,2,346588.556,4070329.231,-1.4081,74
+#BoatState,19894,1,2,346588.556,4070329.231,-1.4083,76
+#BoatState,19931,1,2,346588.556,4070329.231,-1.4081,7A
+#BoatState,19967,1,2,346588.556,4070329.231,-1.4081,79
+#BoatState,20003,1,2,346588.556,4070329.231,-1.4083,7A
+#BoatState,20040,1,2,346588.556,4070329.231,-1.4083,7D
+#BoatState,20076,1,2,346588.556,4070329.231,-1.4081,7A
+#BoatState,20112,1,2,346588.613,4070329.138,-1.4080,70
+#BoatState,20148,1,2,346588.613,4070329.138,-1.4078,78
+#BoatState,20185,1,2,346588.613,4070329.138,-1.4078,79
+#BoatState,20221,1,2,346588.613,4070329.138,-1.4076,7A
+#BoatState,20257,1,2,346588.613,4070329.138,-1.4074,79
+#BoatState,20293,1,2,346588.613,4070329.138,-1.4076,73
+#BoatState,20330,1,2,346588.613,4070329.138,-1.4078,75
+#BoatState,20402,1,2,346588.613,4070329.138,-1.4078,73
+#BoatState,20438,1,2,346588.613,4070329.138,-1.4074,76
+#BoatState,20475,1,2,346588.613,4070329.138,-1.4074,7F
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,20512,1,2,346588.613,4070329.138,-1.4078,73
+#BoatState,20549,1,2,346588.613,4070329.138,-1.4078,7D
+#BoatState,20585,1,2,346588.613,4070329.138,-1.4078,7D
+#BoatState,20621,1,2,346588.613,4070329.138,-1.4078,70
+#BoatState,20657,1,2,346588.613,4070329.138,-1.4078,71
+#BoatState,20694,1,2,346588.613,4070329.138,-1.4080,79
+#BoatState,20730,1,2,346588.613,4070329.138,-1.4078,71
+#BoatState,20766,1,2,346588.613,4070329.138,-1.4076,7C
+#BoatState,20803,1,2,346588.613,4070329.138,-1.4078,7E
+#BoatState,20839,1,2,346588.613,4070329.138,-1.4076,79
+#BoatState,20875,1,2,346588.613,4070329.138,-1.4076,71
+#BoatState,20911,1,2,346588.613,4070329.138,-1.4074,70
+#BoatState,20948,1,2,346588.613,4070329.138,-1.4076,7E
+#BoatState,20984,1,2,346588.613,4070329.138,-1.4076,7E
+#BoatState,21020,1,2,346588.613,4070329.138,-1.4074,7A
+#BoatState,21056,1,2,346588.613,4070329.138,-1.4074,7B
+#BoatState,21093,1,2,346588.613,4070329.138,-1.4078,7E
+#BoatState,21129,1,2,346588.657,4070329.063,-1.4078,71
+#BoatState,21165,1,2,346588.657,4070329.063,-1.4076,77
+#BoatState,21201,1,2,346588.657,4070329.063,-1.4076,76
+#BoatState,21238,1,2,346588.657,4070329.063,-1.4074,7E
+#BoatState,21274,1,2,346588.657,4070329.063,-1.4076,74
+#BoatState,21383,1,2,346588.657,4070329.063,-1.4076,7D
+#BoatState,21419,1,2,346588.657,4070329.063,-1.4076,79
+#BoatState,21455,1,2,346588.657,4070329.063,-1.4078,7F
+#BoatState,21492,1,2,346588.657,4070329.063,-1.4078,74
+#BoatState,21528,1,2,346588.657,4070329.063,-1.4078,74
+#BoatState,21564,1,2,346588.657,4070329.063,-1.4074,70
+#BoatState,21600,1,2,346588.657,4070329.063,-1.4074,71
+#BoatState,21673,1,2,346588.657,4070329.063,-1.4074,75
+#BoatState,21709,1,2,346588.657,4070329.063,-1.4074,79
+#BoatState,21745,1,2,346588.657,4070329.063,-1.4071,74
+#BoatState,21782,1,2,346588.657,4070329.063,-1.4071,7F
+#BoatState,21818,1,2,346588.657,4070329.063,-1.4073,71
+#BoatState,21854,1,2,346588.657,4070329.063,-1.4071,7B
+#BoatState,21891,1,2,346588.657,4070329.063,-1.4071,72
+#BoatState,21927,1,2,346588.657,4070329.063,-1.4073,7C
+#BoatState,21963,1,2,346588.657,4070329.063,-1.4073,7C
+#BoatState,21999,1,2,346588.657,4070329.063,-1.4073,79
+#BoatState,22036,1,2,346588.657,4070329.063,-1.4073,76
+#BoatState,22072,1,2,346588.657,4070329.063,-1.4071,74
+#BoatState,22108,1,2,346588.657,4070329.063,-1.4073,7A
+#BoatState,22144,1,2,346588.657,4070329.063,-1.4071,70
+#BoatState,22181,1,2,346588.671,4070329.026,-1.4071,7C
+#BoatState,22217,1,2,346588.671,4070329.026,-1.4069,79
+#BoatState,22253,1,2,346588.671,4070329.026,-1.4073,72
+#BoatState,22289,1,2,346588.671,4070329.026,-1.4073,75
+#BoatState,22362,1,2,346588.671,4070329.026,-1.4073,71
+#BoatState,22398,1,2,346588.671,4070329.026,-1.4073,74
+#BoatState,22435,1,2,346588.671,4070329.026,-1.4074,73
+#BoatState,22471,1,2,346588.671,4070329.026,-1.4074,73
+#BoatState,22507,1,2,346588.671,4070329.026,-1.4073,74
+#BoatState,22543,1,2,346588.671,4070329.026,-1.4071,76
+#BoatState,22580,1,2,346588.671,4070329.026,-1.4073,7B
+#BoatState,22616,1,2,346588.671,4070329.026,-1.4071,75
+#BoatState,22652,1,2,346588.671,4070329.026,-1.4071,75
+#BoatState,22688,1,2,346588.671,4070329.026,-1.4071,72
+#BoatState,22725,1,2,346588.671,4070329.026,-1.4069,7D
+#BoatState,22761,1,2,346588.671,4070329.026,-1.4071,74
+#BoatState,22797,1,2,346588.671,4070329.026,-1.4071,7D
+#BoatState,22833,1,2,346588.671,4070329.026,-1.4067,7B
+#BoatState,22870,1,2,346588.671,4070329.026,-1.4069,72
+#BoatState,22906,1,2,346588.671,4070329.026,-1.4069,72
+#BoatState,22942,1,2,346588.671,4070329.026,-1.4069,72
+#BoatState,22979,1,2,346588.671,4070329.026,-1.4069,7A
+#BoatState,23015,1,2,346588.671,4070329.026,-1.4069,78
+#BoatState,23051,1,2,346588.671,4070329.026,-1.4069,78
+#BoatState,23087,1,2,346588.671,4070329.026,-1.4069,73
+#BoatState,23124,1,2,346588.671,4070329.026,-1.4069,7B
+#BoatState,23160,1,2,346588.671,4070329.026,-1.4069,7B
+#BoatState,23196,1,2,346588.671,4070329.026,-1.4069,72
+#BoatState,23232,1,2,346588.671,4070329.026,-1.4071,76
+#BoatState,23269,1,2,346588.698,4070328.896,-1.4073,7F
+#BoatState,23377,1,2,346588.698,4070328.896,-1.4074,76
+#BoatState,23414,1,2,346588.698,4070328.896,-1.4074,74
+#BoatState,23450,1,2,346588.698,4070328.896,-1.4078,78
+#BoatState,23486,1,2,346588.698,4070328.896,-1.4076,7D
+#BoatState,23523,1,2,346588.698,4070328.896,-1.4074,71
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,23560,1,2,346588.698,4070328.896,-1.4073,71
+#BoatState,23597,1,2,346588.698,4070328.896,-1.4073,79
+#BoatState,23633,1,2,346588.698,4070328.896,-1.4071,76
+#BoatState,23669,1,2,346588.698,4070328.896,-1.4074,7C
+#BoatState,23705,1,2,346588.698,4070328.896,-1.4073,70
+#BoatState,23742,1,2,346588.698,4070328.896,-1.4074,74
+#BoatState,23778,1,2,346588.698,4070328.896,-1.4076,7F
+#BoatState,23814,1,2,346588.698,4070328.896,-1.4076,7A
+#BoatState,23850,1,2,346588.698,4070328.896,-1.4078,74
+#BoatState,23887,1,2,346588.698,4070328.896,-1.4080,79
+#BoatState,23923,1,2,346588.698,4070328.896,-1.4076,7F
+#BoatState,23959,1,2,346588.698,4070328.896,-1.4078,7C
+#BoatState,23995,1,2,346588.698,4070328.896,-1.4074,70
+#BoatState,24032,1,2,346588.698,4070328.896,-1.4074,73
+#BoatState,24068,1,2,346588.698,4070328.896,-1.4071,79
+#BoatState,24104,1,2,346588.698,4070328.896,-1.4069,7B
+#BoatState,24141,1,2,346588.698,4070328.896,-1.4069,7A
+#BoatState,24177,1,2,346588.698,4070328.896,-1.4067,71
+#BoatState,24213,1,2,346588.698,4070328.896,-1.4066,71
+#BoatState,24249,1,2,346588.698,4070328.896,-1.4067,7F
+#BoatState,24286,1,2,346588.727,4070328.840,-1.4069,7C
+#BoatState,24394,1,2,346588.727,4070328.840,-1.4067,70
+#BoatState,24431,1,2,346588.727,4070328.840,-1.4066,79
+#BoatState,24467,1,2,346588.727,4070328.840,-1.4067,7B
+#BoatState,24503,1,2,346588.727,4070328.840,-1.4069,76
+#BoatState,24540,1,2,346588.727,4070328.840,-1.4071,78
+#BoatState,24576,1,2,346588.727,4070328.840,-1.4073,7F
+#BoatState,24612,1,2,346588.727,4070328.840,-1.4071,7C
+#BoatState,24685,1,2,346588.727,4070328.840,-1.4073,70
+#BoatState,24721,1,2,346588.727,4070328.840,-1.4073,7F
+#BoatState,24757,1,2,346588.727,4070328.840,-1.4071,7C
+#BoatState,24793,1,2,346588.727,4070328.840,-1.4073,76
+#BoatState,24830,1,2,346588.727,4070328.840,-1.4074,77
+#BoatState,24866,1,2,346588.727,4070328.840,-1.4076,76
+#BoatState,24902,1,2,346588.727,4070328.840,-1.4076,75
+#BoatState,24938,1,2,346588.727,4070328.840,-1.4073,79
+#BoatState,24975,1,2,346588.727,4070328.840,-1.4071,72
+#BoatState,25011,1,2,346588.727,4070328.840,-1.4069,71
+#BoatState,25047,1,2,346588.727,4070328.840,-1.4071,7B
+#BoatState,25084,1,2,346588.727,4070328.840,-1.4071,74
+#BoatState,25120,1,2,346588.727,4070328.840,-1.4071,7B
+#BoatState,25156,1,2,346588.727,4070328.840,-1.4073,78
+#BoatState,25192,1,2,346588.727,4070328.840,-1.4073,70
+#BoatState,25229,1,2,346588.727,4070328.840,-1.4074,74
+#BoatState,25265,1,2,346588.727,4070328.840,-1.4074,7C
+#CtrlSignals,1551,1479,off,0,13
+#BoatState,25301,1,2,346588.756,4070328.765,-1.4074,71
+#CtrlSignals,1551,1479,off,0,13
+#CtrlSignals,1551,1479,off,0,13
+#BoatState,25374,1,2,346588.756,4070328.765,-1.4076,71
+#CtrlSignals,1548,1479,off,0,1B
+#BoatState,25410,1,2,346588.756,4070328.765,-1.4076,74
+#CtrlSignals,1549,1479,off,0,1A
+#BoatState,25446,1,2,346588.756,4070328.765,-1.4074,75
+#CtrlSignals,1552,1480,off,0,16
+#BoatState,25482,1,2,346588.756,4070328.765,-1.4073,7A
+#CtrlSignals,1554,1482,off,0,12
+#BoatState,25519,1,2,346588.756,4070328.765,-1.4076,7C
+#CtrlSignals,1554,1482,off,0,12
+#BoatState,25555,1,2,346588.756,4070328.765,-1.4080,7D
+#CtrlSignals,1550,1482,off,0,16
+#BoatState,25591,1,2,346588.756,4070328.765,-1.4081,74
+#CtrlSignals,1548,1479,off,0,1B
+#BoatState,25627,1,2,346588.756,4070328.765,-1.4080,7B
+#CtrlSignals,1549,1479,off,0,1A
+#BoatState,25664,1,2,346588.756,4070328.765,-1.4078,7B
+#CtrlSignals,1554,1479,off,0,16
+#BoatState,25700,1,2,346588.756,4070328.765,-1.4081,7E
+#CtrlSignals,1555,1480,off,0,11
+#BoatState,25736,1,2,346588.756,4070328.765,-1.4081,7B
+#CtrlSignals,1552,1480,off,0,16
+#BoatState,25773,1,2,346588.756,4070328.765,-1.4083,78
+#CtrlSignals,1550,1479,off,0,12
+#BoatState,25809,1,2,346588.756,4070328.765,-1.4085,7C
+#CtrlSignals,1547,1479,off,0,14
+#BoatState,25845,1,2,346588.756,4070328.765,-1.4083,72
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,25881,1,2,346588.756,4070328.765,-1.4083,7A
+#CtrlSignals,1549,1480,off,0,1C
+#BoatState,25918,1,2,346588.756,4070328.765,-1.4085,7D
+#CtrlSignals,1558,1484,off,0,18
+#BoatState,25954,1,2,346588.756,4070328.765,-1.4085,75
+#CtrlSignals,1559,1483,off,0,1E
+#BoatState,25990,1,2,346588.756,4070328.765,-1.4085,7D
+#CtrlSignals,1554,1482,off,0,12
+#BoatState,26026,1,2,346588.756,4070328.765,-1.4085,7A
+#CtrlSignals,1554,1482,off,0,12
+#BoatState,26063,1,2,346588.756,4070328.765,-1.4083,7D
+#CtrlSignals,1554,1480,off,0,10
+#BoatState,26099,1,2,346588.756,4070328.765,-1.4083,78
+#CtrlSignals,1554,1479,off,0,16
+#BoatState,26135,1,2,346588.756,4070328.765,-1.4083,7F
+#CtrlSignals,1554,1479,off,0,16
+#BoatState,26171,1,2,346588.756,4070328.765,-1.4083,7F
+#CtrlSignals,1554,1480,off,0,10
+#BoatState,26208,1,2,346588.756,4070328.765,-1.4085,74
+#CtrlSignals,1554,1479,off,0,16
+#BoatState,26244,1,2,346588.756,4070328.765,-1.4083,7A
+#CtrlSignals,1555,1480,off,0,11
+#BoatState,26280,1,2,346588.770,4070328.728,-1.4083,7F
+#CtrlSignals,1554,1480,off,0,10
+#CtrlSignals,1552,1479,off,0,10
+#CtrlSignals,1550,1479,off,0,12
+#BoatState,26389,1,2,346588.770,4070328.728,-1.4081,75
+#CtrlSignals,1548,1482,off,0,1F
+#BoatState,26425,1,2,346588.770,4070328.728,-1.4085,70
+#CtrlSignals,1546,1482,off,0,11
+#BoatState,26462,1,2,346588.770,4070328.728,-1.4083,75
+#CtrlSignals,1546,1482,off,0,11
+#BoatState,26498,1,2,346588.770,4070328.728,-1.4083,70
+#CtrlSignals,1544,1480,off,0,11
+#BoatState,26534,1,2,346588.770,4070328.728,-1.4083,77
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#CtrlSignals,1546,1478,off,0,14
+#BoatState,26581,1,2,346588.770,4070328.728,-1.4083,79
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,26618,1,2,346588.770,4070328.728,-1.4081,78
+#CtrlSignals,1546,1480,off,0,13
+#BoatState,26654,1,2,346588.770,4070328.728,-1.4080,71
+#CtrlSignals,1544,1482,off,0,13
+#BoatState,26690,1,2,346588.770,4070328.728,-1.4081,78
+#CtrlSignals,1541,1482,off,0,16
+#BoatState,26726,1,2,346588.770,4070328.728,-1.4080,75
+#CtrlSignals,1542,1482,off,0,15
+#BoatState,26763,1,2,346588.770,4070328.728,-1.4081,75
+#CtrlSignals,1546,1482,off,0,11
+#BoatState,26799,1,2,346588.770,4070328.728,-1.4081,70
+#CtrlSignals,1546,1482,off,0,11
+#BoatState,26835,1,2,346588.770,4070328.728,-1.4081,79
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,26871,1,2,346588.770,4070328.728,-1.4083,7B
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,26908,1,2,346588.770,4070328.728,-1.4083,74
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,26944,1,2,346588.770,4070328.728,-1.4087,78
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,26980,1,2,346588.770,4070328.728,-1.4085,72
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,27017,1,2,346588.770,4070328.728,-1.4083,72
+#CtrlSignals,1546,1480,off,0,13
+#BoatState,27053,1,2,346588.770,4070328.728,-1.4081,70
+#CtrlSignals,1544,1480,off,0,11
+#BoatState,27089,1,2,346588.770,4070328.728,-1.4083,75
+#CtrlSignals,1544,1480,off,0,11
+#BoatState,27125,1,2,346588.770,4070328.728,-1.4078,76
+#CtrlSignals,1544,1484,off,0,15
+#BoatState,27162,1,2,346588.770,4070328.728,-1.4081,73
+#CtrlSignals,1544,1484,off,0,15
+#BoatState,27198,1,2,346588.770,4070328.728,-1.4083,74
+#CtrlSignals,1542,1480,off,0,17
+#BoatState,27234,1,2,346588.770,4070328.728,-1.4081,73
+#CtrlSignals,1538,1482,off,0,18
+#BoatState,27270,1,2,346588.770,4070328.728,-1.4085,77
+#CtrlSignals,1538,1480,off,0,1A
+#BoatState,27307,1,2,346588.799,4070328.672,-1.4085,7F
+#CtrlSignals,1528,1479,off,0,1D
+#BoatState,27343,1,2,346588.799,4070328.672,-1.4083,79
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,27379,1,2,346588.799,4070328.672,-1.4081,72
+#CtrlSignals,1460,1479,off,0,10
+#BoatState,27415,1,2,346588.799,4070328.672,-1.4080,7E
+#CtrlSignals,1437,1482,off,0,16
+#BoatState,27452,1,2,346588.799,4070328.672,-1.4081,7C
+#CtrlSignals,1416,1482,off,0,15
+#BoatState,27488,1,2,346588.799,4070328.672,-1.4083,79
+#CtrlSignals,1383,1480,off,0,1C
+#BoatState,27524,1,2,346588.799,4070328.672,-1.4081,7C
+#CtrlSignals,1371,1480,off,0,11
+#BoatState,27561,1,2,346588.799,4070328.672,-1.4080,7C
+#CtrlSignals,1378,1482,off,0,1A
+#BoatState,27597,1,2,346588.799,4070328.672,-1.4080,75
+#CtrlSignals,1399,1482,off,0,15
+#BoatState,27633,1,2,346588.799,4070328.672,-1.4080,78
+#CtrlSignals,1431,1480,off,0,12
+#BoatState,27669,1,2,346588.799,4070328.672,-1.4081,76
+#CtrlSignals,1482,1479,off,0,1C
+#BoatState,27706,1,2,346588.799,4070328.672,-1.4080,7F
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,27742,1,2,346588.799,4070328.672,-1.4080,7F
+#CtrlSignals,1534,1480,off,0,16
+#BoatState,27778,1,2,346588.799,4070328.672,-1.4076,7F
+#CtrlSignals,1542,1480,off,0,17
+#BoatState,27814,1,2,346588.799,4070328.672,-1.4076,7A
+#CtrlSignals,1542,1480,off,0,17
+#BoatState,27851,1,2,346588.799,4070328.672,-1.4078,75
+#CtrlSignals,1546,1480,off,0,13
+#BoatState,27887,1,2,346588.799,4070328.672,-1.4076,70
+#CtrlSignals,1547,1480,off,0,12
+#BoatState,27923,1,2,346588.799,4070328.672,-1.4074,7D
+#CtrlSignals,1550,1479,off,0,12
+#BoatState,27960,1,2,346588.799,4070328.672,-1.4074,7A
+#CtrlSignals,1550,1479,off,0,12
+#BoatState,27996,1,2,346588.799,4070328.672,-1.4074,73
+#CtrlSignals,1550,1479,off,0,12
+#BoatState,28032,1,2,346588.799,4070328.672,-1.4076,79
+#CtrlSignals,1549,1480,off,0,1C
+#BoatState,28068,1,2,346588.799,4070328.672,-1.4076,76
+#CtrlSignals,1548,1482,off,0,1F
+#BoatState,28105,1,2,346588.799,4070328.672,-1.4078,72
+#CtrlSignals,1550,1480,off,0,14
+#BoatState,28141,1,2,346588.799,4070328.672,-1.4078,72
+#CtrlSignals,1552,1482,off,0,14
+#BoatState,28177,1,2,346588.799,4070328.672,-1.4074,7B
+#CtrlSignals,1554,1480,off,0,10
+#BoatState,28213,1,2,346588.799,4070328.672,-1.4076,78
+#CtrlSignals,1554,1479,off,0,16
+#BoatState,28250,1,2,346588.799,4070328.672,-1.4074,7D
+#CtrlSignals,1554,1480,off,0,10
+#BoatState,28286,1,2,346588.783,4070328.635,-1.4078,72
+#CtrlSignals,1554,1479,off,0,16
+#CtrlSignals,1554,1479,off,0,16
+#CtrlSignals,1555,1480,off,0,11
+#BoatState,28395,1,2,346588.783,4070328.635,-1.4076,7F
+#CtrlSignals,1557,1480,off,0,13
+#BoatState,28431,1,2,346588.783,4070328.635,-1.4076,76
+#CtrlSignals,1555,1480,off,0,11
+#BoatState,28467,1,2,346588.783,4070328.635,-1.4076,75
+#CtrlSignals,1550,1482,off,0,16
+#BoatState,28503,1,2,346588.783,4070328.635,-1.4076,76
+#CtrlSignals,1548,1482,off,0,1F
+#BoatState,28540,1,2,346588.783,4070328.635,-1.4074,73
+#CtrlSignals,1546,1483,off,0,10
+#BoatState,28576,1,2,346588.783,4070328.635,-1.4074,76
+#CtrlSignals,1546,1483,off,0,10
+#BoatState,28612,1,2,346588.783,4070328.635,-1.4076,75
+#CtrlSignals,1546,1482,off,0,11
+#BoatState,28649,1,2,346588.783,4070328.635,-1.4080,72
+#CtrlSignals,1544,1482,off,0,13
+#BoatState,28685,1,2,346588.783,4070328.635,-1.4081,73
+#CtrlSignals,1543,1482,off,0,14
+#BoatState,28721,1,2,346588.783,4070328.635,-1.4080,7D
+#CtrlSignals,1546,1479,off,0,15
+#BoatState,28757,1,2,346588.783,4070328.635,-1.4083,7F
+#CtrlSignals,1544,1478,off,0,16
+#BoatState,28794,1,2,346588.783,4070328.635,-1.4083,70
+#CtrlSignals,1542,1478,off,0,10
+#BoatState,28830,1,2,346588.783,4070328.635,-1.4081,73
+#CtrlSignals,1542,1478,off,0,10
+#BoatState,28866,1,2,346588.783,4070328.635,-1.4083,72
+#CtrlSignals,1538,1478,off,0,1D
+#BoatState,28902,1,2,346588.783,4070328.635,-1.4083,71
+#CtrlSignals,1534,1479,off,0,10
+#BoatState,28939,1,2,346588.783,4070328.635,-1.4081,7B
+#CtrlSignals,1531,1480,off,0,13
+#BoatState,28975,1,2,346588.783,4070328.635,-1.4081,73
+#CtrlSignals,1525,1486,off,0,10
+#BoatState,29011,1,2,346588.783,4070328.635,-1.4081,79
+#CtrlSignals,1518,1486,off,0,1E
+#BoatState,29047,1,2,346588.783,4070328.635,-1.4087,7C
+#CtrlSignals,1514,1482,off,0,16
+#BoatState,29084,1,2,346588.783,4070328.635,-1.4083,77
+#CtrlSignals,1508,1482,off,0,1B
+#BoatState,29120,1,2,346588.783,4070328.635,-1.4083,78
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29156,1,2,346588.783,4070328.635,-1.4076,73
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29193,1,2,346588.783,4070328.635,-1.4073,7F
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29229,1,2,346588.783,4070328.635,-1.4066,79
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29265,1,2,346588.783,4070328.635,-1.4059,7D
+#CtrlSignals,1510,1480,off,0,10
+#CtrlSignals,1510,1478,off,0,17
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,29374,1,2,346588.812,4070328.579,-1.4053,7A
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,29410,1,2,346588.812,4070328.579,-1.4057,7B
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,29446,1,2,346588.812,4070328.579,-1.4059,76
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29483,1,2,346588.812,4070328.579,-1.4062,77
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29519,1,2,346588.812,4070328.579,-1.4062,75
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,29555,1,2,346588.812,4070328.579,-1.4066,79
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,29602,1,2,346588.812,4070328.579,-1.4069,77
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,29638,1,2,346588.812,4070328.579,-1.4071,77
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,29675,1,2,346588.812,4070328.579,-1.4073,7C
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,29711,1,2,346588.812,4070328.579,-1.4074,78
+#CtrlSignals,1509,1482,off,0,1A
+#BoatState,29747,1,2,346588.812,4070328.579,-1.4078,77
+#CtrlSignals,1509,1479,off,0,1E
+#BoatState,29783,1,2,346588.812,4070328.579,-1.4078,7F
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,29820,1,2,346588.812,4070328.579,-1.4076,77
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29856,1,2,346588.812,4070328.579,-1.4076,76
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29892,1,2,346588.812,4070328.579,-1.4078,70
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,29929,1,2,346588.812,4070328.579,-1.4080,76
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,29965,1,2,346588.812,4070328.579,-1.4080,7E
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,30001,1,2,346588.812,4070328.579,-1.4080,7D
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,30037,1,2,346588.812,4070328.579,-1.4080,78
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,30074,1,2,346588.812,4070328.579,-1.4078,78
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,30110,1,2,346588.812,4070328.579,-1.4076,75
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,30146,1,2,346588.812,4070328.579,-1.4076,76
+#CtrlSignals,1510,1483,off,0,13
+#BoatState,30182,1,2,346588.812,4070328.579,-1.4076,7E
+#CtrlSignals,1510,1483,off,0,13
+#BoatState,30219,1,2,346588.812,4070328.579,-1.4076,7F
+#CtrlSignals,1510,1483,off,0,13
+#BoatState,30255,1,2,346588.812,4070328.579,-1.4078,79
+#CtrlSignals,1510,1482,off,0,12
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+deserializing...hngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+Initializing Manual Controller
+#BoatState,2288,1,2,346588.758,4070328.062,-1.4073,4D
+Acquiring GPS
+#BoatState,2383,1,2,346588.758,4070328.062,-1.4074,40
+Acquiring GPS
+#BoatState,2404,1,2,346588.758,4070328.062,-1.4076,4A
+Acquiring GPS
+#BoatState,2426,1,2,346588.758,4070328.062,-1.4080,43
+Acquiring GPS
+deserializing...rlMode,2,15
+deserializing...lMode,2,1,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+#BoatState,2504,1,2,346588.727,4070328.007,-1.4081,48
+Acquiring GPS
+#BoatState,2779,1,2,346588.727,4070328.007,-1.4080,41
+Acquiring GPS
+#BoatState,2848,1,2,346588.727,4070328.007,-1.4081,4D
+Acquiring GPS
+#BoatState,2874,1,2,346588.727,4070328.007,-1.4085,46
+Acquiring GPS
+#BoatState,2900,1,2,346588.727,4070328.007,-1.4083,42
+Acquiring GPS
+#BoatState,2926,1,2,346588.727,4070328.007,-1.4085,40
+Acquiring GPS
+#CtrlSignals,1047,779,off,0,23
+#BoatState,2962,1,2,346588.727,4070328.007,-1.4085,40
+Acquiring GPS
+#CtrlSignals,1247,1130,off,0,1B
+#BoatState,2999,1,2,346588.727,4070328.007,-1.4085,44
+Acquiring GPS
+#CtrlSignals,1515,1483,off,0,16
+#BoatState,3035,1,2,346588.727,4070328.007,-1.4085,4A
+Acquiring GPS
+#CtrlSignals,1515,1483,off,0,16
+#BoatState,3071,1,2,346588.727,4070328.007,-1.4083,4C
+Acquiring GPS
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,3107,1,2,346588.727,4070328.007,-1.4083,4C
+Acquiring GPS
+#CtrlSignals,1517,1476,off,0,1E
+#BoatState,3144,1,2,346588.727,4070328.007,-1.4083,4B
+Acquiring GPS
+#CtrlSignals,1517,1477,off,0,1F
+#BoatState,3180,1,2,346588.727,4070328.007,-1.4081,41
+Acquiring GPS
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,3216,1,2,346588.727,4070328.007,-1.4081,4D
+Acquiring GPS
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,3252,1,2,346588.727,4070328.007,-1.4081,4D
+Acquiring GPS
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,3289,1,2,346588.727,4070328.007,-1.4080,4A
+#CtrlSignals,1510,1480,off,0,10
+#CtrlSignals,1510,1482,off,0,12
+Acquiring GPS
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,3398,1,2,346588.727,4070328.007,-1.4081,4A
+Acquiring GPS
+#CtrlSignals,1514,1484,off,0,10
+#BoatState,3434,1,2,346588.727,4070328.007,-1.4081,4B
+Acquiring GPS
+#CtrlSignals,1509,1482,off,0,1A
+#BoatState,3470,1,2,346588.727,4070328.007,-1.4083,49
+Acquiring GPS
+#CtrlSignals,1508,1482,off,0,1B
+#BoatState,3506,1,2,346588.681,4070327.953,-1.4081,41
+Acquiring GPS
+#CtrlSignals,1509,1480,off,0,18
+#BoatState,3543,1,2,346588.681,4070327.953,-1.4081,40
+Acquiring GPS
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,3579,1,2,346588.681,4070327.953,-1.4083,4B
+Acquiring GPS
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,3615,1,2,346588.681,4070327.953,-1.4081,40
+Acquiring GPS
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,3651,1,2,346588.681,4070327.953,-1.4085,44
+Acquiring GPS
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,3688,1,2,346588.681,4070327.953,-1.4087,42
+Home position acquired : 346588.720 4070328.002
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,3724,1,2,346588.681,4070327.953,-1.4088,4A
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,3766,1,2,346588.681,4070327.953,-1.4088,4C
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,3802,1,2,346588.681,4070327.953,-1.4088,41
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,3838,1,2,346588.681,4070327.953,-1.4088,48
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,3874,1,2,346588.681,4070327.953,-1.4090,49
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,3911,1,2,346588.681,4070327.953,-1.4088,42
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,3947,1,2,346588.681,4070327.953,-1.4087,4E
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,3983,1,2,346588.681,4070327.953,-1.4085,44
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,4019,1,2,346588.681,4070327.953,-1.4085,49
+#CtrlSignals,1509,1482,off,0,1A
+#BoatState,4056,1,2,346588.681,4070327.953,-1.4085,42
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,4092,1,2,346588.681,4070327.953,-1.4083,4C
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,4128,1,2,346588.681,4070327.953,-1.4085,4A
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,4165,1,2,346588.681,4070327.953,-1.4087,41
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,4201,1,2,346588.681,4070327.953,-1.4087,40
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4237,1,2,346588.681,4070327.953,-1.4087,45
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4273,1,2,346588.681,4070327.953,-1.4088,4A
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,4310,1,2,346588.681,4070327.953,-1.4088,4E
+#CtrlSignals,1511,1480,off,0,11
+#CtrlSignals,1510,1482,off,0,12
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,4418,1,2,346588.681,4070327.953,-1.4087,4E
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,4455,1,2,346588.681,4070327.953,-1.4085,45
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4491,1,2,346588.666,4070327.935,-1.4087,46
+#CtrlSignals,1514,1485,off,0,11
+#BoatState,4527,1,2,346588.666,4070327.935,-1.4088,45
+#CtrlSignals,1514,1483,off,0,17
+#BoatState,4563,1,2,346588.666,4070327.935,-1.4085,48
+#CtrlSignals,1511,1479,off,0,17
+#BoatState,4600,1,2,346588.666,4070327.935,-1.4087,4C
+#CtrlSignals,1511,1478,off,0,16
+#BoatState,4636,1,2,346588.666,4070327.935,-1.4087,49
+#CtrlSignals,1511,1482,off,0,13
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4709,1,2,346588.666,4070327.935,-1.4087,44
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4745,1,2,346588.666,4070327.935,-1.4088,43
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,4781,1,2,346588.666,4070327.935,-1.4087,44
+#CtrlSignals,1509,1480,off,0,18
+#BoatState,4817,1,2,346588.666,4070327.935,-1.4088,4B
+#CtrlSignals,1509,1480,off,0,18
+#BoatState,4854,1,2,346588.666,4070327.935,-1.4088,4C
+#CtrlSignals,1509,1480,off,0,18
+#BoatState,4890,1,2,346588.666,4070327.935,-1.4088,44
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,4926,1,2,346588.666,4070327.935,-1.4088,48
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,4962,1,2,346588.666,4070327.935,-1.4090,41
+#CtrlSignals,1509,1482,off,0,1A
+#BoatState,4999,1,2,346588.666,4070327.935,-1.4087,43
+#CtrlSignals,1509,1482,off,0,1A
+#BoatState,5035,1,2,346588.666,4070327.935,-1.4087,4D
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,5071,1,2,346588.666,4070327.935,-1.4087,4D
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,5107,1,2,346588.666,4070327.935,-1.4085,4F
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,5144,1,2,346588.666,4070327.935,-1.4085,48
+#CtrlSignals,1509,1482,off,0,1A
+#BoatState,5180,1,2,346588.666,4070327.935,-1.4087,42
+#CtrlSignals,1514,1483,off,0,17
+#BoatState,5216,1,2,346588.666,4070327.935,-1.4085,4C
+#CtrlSignals,1514,1483,off,0,17
+#BoatState,5253,1,2,346588.666,4070327.935,-1.4085,4D
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,5289,1,2,346588.666,4070327.935,-1.4083,4C
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,5336,1,2,346588.666,4070327.935,-1.4083,49
+#CtrlSignals,1511,1480,off,0,11
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,5408,1,2,346588.666,4070327.935,-1.4087,47
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,5445,1,2,346588.666,4070327.935,-1.4085,4C
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,5481,1,2,346588.666,4070327.935,-1.4083,42
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,5517,1,2,346588.636,4070327.917,-1.4083,49
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,5553,1,2,346588.636,4070327.917,-1.4085,4F
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,5590,1,2,346588.636,4070327.917,-1.4083,46
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,5626,1,2,346588.636,4070327.917,-1.4083,48
+#CtrlSignals,1511,1478,off,0,16
+#BoatState,5662,1,2,346588.636,4070327.917,-1.4083,48
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,5698,1,2,346588.636,4070327.917,-1.4085,4B
+#CtrlSignals,1511,1480,off,0,11
+#BoatState,5735,1,2,346588.636,4070327.917,-1.4083,4B
+#CtrlSignals,1511,1479,off,0,17
+#BoatState,5771,1,2,346588.636,4070327.917,-1.4083,4B
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,5807,1,2,346588.636,4070327.917,-1.4081,47
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,5843,1,2,346588.636,4070327.917,-1.4081,47
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,5880,1,2,346588.636,4070327.917,-1.4083,4A
+#CtrlSignals,1510,1479,off,0,16
+#BoatState,5916,1,2,346588.636,4070327.917,-1.4083,44
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,5952,1,2,346588.636,4070327.917,-1.4083,44
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,5989,1,2,346588.636,4070327.917,-1.4083,42
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,6025,1,2,346588.636,4070327.917,-1.4083,4E
+#CtrlSignals,1509,1482,off,0,1A
+#BoatState,6061,1,2,346588.636,4070327.917,-1.4083,4E
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,6097,1,2,346588.636,4070327.917,-1.4085,41
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,6134,1,2,346588.636,4070327.917,-1.4085,49
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,6170,1,2,346588.636,4070327.917,-1.4087,4B
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,6206,1,2,346588.636,4070327.917,-1.4088,46
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,6242,1,2,346588.636,4070327.917,-1.4088,46
+#CtrlSignals,1510,1480,off,0,10
+#BoatState,6279,1,2,346588.636,4070327.917,-1.4087,41
+#CtrlSignals,1511,1479,off,0,17
+#BoatState,6315,1,2,346588.636,4070327.917,-1.4087,4A
+#CtrlSignals,1517,1480,off,0,17
+#CtrlSignals,1517,1480,off,0,17
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,6424,1,2,346588.636,4070327.917,-1.4081,49
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,6460,1,2,346588.636,4070327.917,-1.4083,4B
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,6496,1,2,346588.636,4070327.917,-1.4081,40
+#CtrlSignals,1511,1479,off,0,17
+#BoatState,6533,1,2,346588.621,4070327.898,-1.4083,4C
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+@Change control mode
+@semiauto controller is selected
+Semiauto::initialize - begin
+Semiauto::initialize - add first sample pose
+Semiauto::initialize - end
+#BoatState,6569,2,1,346588.621,4070327.898,-1.4083,43
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6641,2,1,346588.621,4070327.898,-1.4080,49
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6788,2,1,346588.621,4070327.898,-1.4076,44
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6824,2,1,346588.621,4070327.898,-1.4076,4D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6860,2,1,346588.621,4070327.898,-1.4074,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6933,2,1,346588.621,4070327.898,-1.4074,48
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6969,2,1,346588.621,4070327.898,-1.4076,45
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7005,2,1,346588.621,4070327.898,-1.4076,47
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7042,2,1,346588.621,4070327.898,-1.4076,44
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7078,2,1,346588.621,4070327.898,-1.4078,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7114,2,1,346588.621,4070327.898,-1.4078,48
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7151,2,1,346588.621,4070327.898,-1.4078,49
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7187,2,1,346588.621,4070327.898,-1.4076,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7223,2,1,346588.621,4070327.898,-1.4074,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7259,2,1,346588.621,4070327.898,-1.4076,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7296,2,1,346588.621,4070327.898,-1.4078,41
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7332,2,1,346588.621,4070327.898,-1.4078,4E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7441,2,1,346588.621,4070327.898,-1.4081,4B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7477,2,1,346588.621,4070327.898,-1.4081,4E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7513,2,1,346588.621,4070327.898,-1.4081,4D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7549,2,1,346588.606,4070327.880,-1.4083,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7586,2,1,346588.606,4070327.880,-1.4083,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7622,2,1,346588.606,4070327.880,-1.4085,44
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7658,2,1,346588.606,4070327.880,-1.4083,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7695,2,1,346588.606,4070327.880,-1.4085,48
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7731,2,1,346588.606,4070327.880,-1.4088,4A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7767,2,1,346588.606,4070327.880,-1.4088,49
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7803,2,1,346588.606,4070327.880,-1.4088,44
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7840,2,1,346588.606,4070327.880,-1.4088,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7876,2,1,346588.606,4070327.880,-1.4088,46
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7912,2,1,346588.606,4070327.880,-1.4085,48
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7948,2,1,346588.606,4070327.880,-1.4083,41
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7985,2,1,346588.606,4070327.880,-1.4081,42
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8021,2,1,346588.606,4070327.880,-1.4080,4B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8057,2,1,346588.606,4070327.880,-1.4080,4A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8093,2,1,346588.606,4070327.880,-1.4083,41
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8130,2,1,346588.606,4070327.880,-1.4085,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8166,2,1,346588.606,4070327.880,-1.4085,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8239,2,1,346588.606,4070327.880,-1.4085,45
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8275,2,1,346588.606,4070327.880,-1.4085,4D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8311,2,1,346588.606,4070327.880,-1.4085,4E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8347,2,1,346588.606,4070327.880,-1.4085,4D
+AHRS : 51.0 Hz GPGGA : 9.0 Hz RudderRF : 24.0 Hz ThrtoleRF : 24.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8463,2,1,346588.606,4070327.880,-1.4087,4E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8499,2,1,346588.606,4070327.880,-1.4085,49
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8535,2,1,346588.576,4070327.862,-1.4087,44
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8572,2,1,346588.576,4070327.862,-1.4088,48
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8608,2,1,346588.576,4070327.862,-1.4090,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8644,2,1,346588.576,4070327.862,-1.4092,45
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8680,2,1,346588.576,4070327.862,-1.4090,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8717,2,1,346588.576,4070327.862,-1.4092,42
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8753,2,1,346588.576,4070327.862,-1.4095,45
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8789,2,1,346588.576,4070327.862,-1.4094,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8825,2,1,346588.576,4070327.862,-1.4094,4A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8862,2,1,346588.576,4070327.862,-1.4092,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8898,2,1,346588.576,4070327.862,-1.4095,4D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8934,2,1,346588.576,4070327.862,-1.4094,4B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,8971,2,1,346588.576,4070327.862,-1.4097,49
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9043,2,1,346588.576,4070327.862,-1.4094,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9079,2,1,346588.576,4070327.862,-1.4090,4E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9116,2,1,346588.576,4070327.862,-1.4090,46
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9152,2,1,346588.576,4070327.862,-1.4090,46
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9188,2,1,346588.576,4070327.862,-1.4090,41
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9224,2,1,346588.576,4070327.862,-1.4092,46
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9261,2,1,346588.576,4070327.862,-1.4088,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9297,2,1,346588.576,4070327.862,-1.4088,45
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9333,2,1,346588.576,4070327.862,-1.4090,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9442,2,1,346588.576,4070327.862,-1.4092,40
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9478,2,1,346588.576,4070327.862,-1.4092,49
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9515,2,1,346588.576,4070327.862,-1.4088,48
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9551,2,1,346588.531,4070327.863,-1.4090,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9587,2,1,346588.531,4070327.863,-1.4095,4D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9623,2,1,346588.531,4070327.863,-1.4097,42
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9660,2,1,346588.531,4070327.863,-1.4095,47
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9696,2,1,346588.531,4070327.863,-1.4097,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9732,2,1,346588.531,4070327.863,-1.4095,41
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9768,2,1,346588.531,4070327.863,-1.4095,4E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9805,2,1,346588.531,4070327.863,-1.4094,4B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9841,2,1,346588.531,4070327.863,-1.4090,4F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9877,2,1,346588.531,4070327.863,-1.4088,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9913,2,1,346588.531,4070327.863,-1.4088,40
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9950,2,1,346588.531,4070327.863,-1.4088,47
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,9986,2,1,346588.531,4070327.863,-1.4085,41
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10022,2,1,346588.531,4070327.863,-1.4085,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10059,2,1,346588.531,4070327.863,-1.4087,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10095,2,1,346588.531,4070327.863,-1.4088,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10131,2,1,346588.531,4070327.863,-1.4085,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10167,2,1,346588.531,4070327.863,-1.4087,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10204,2,1,346588.531,4070327.863,-1.4087,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10240,2,1,346588.531,4070327.863,-1.4085,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10276,2,1,346588.531,4070327.863,-1.4085,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10312,2,1,346588.531,4070327.863,-1.4080,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10385,2,1,346588.531,4070327.863,-1.4083,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10421,2,1,346588.531,4070327.863,-1.4081,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10457,2,1,346588.531,4070327.863,-1.4083,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10494,2,1,346588.531,4070327.863,-1.4083,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10530,2,1,346588.531,4070327.863,-1.4081,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10603,2,1,346588.501,4070327.845,-1.4080,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10639,2,1,346588.501,4070327.845,-1.4080,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10675,2,1,346588.501,4070327.845,-1.4080,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10711,2,1,346588.501,4070327.845,-1.4080,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10748,2,1,346588.501,4070327.845,-1.4080,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10784,2,1,346588.501,4070327.845,-1.4081,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10820,2,1,346588.501,4070327.845,-1.4078,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10856,2,1,346588.501,4070327.845,-1.4080,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10893,2,1,346588.501,4070327.845,-1.4078,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10929,2,1,346588.501,4070327.845,-1.4080,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,10965,2,1,346588.501,4070327.845,-1.4078,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11001,2,1,346588.501,4070327.845,-1.4076,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11038,2,1,346588.501,4070327.845,-1.4078,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11074,2,1,346588.501,4070327.845,-1.4076,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11110,2,1,346588.501,4070327.845,-1.4074,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11147,2,1,346588.501,4070327.845,-1.4078,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11183,2,1,346588.501,4070327.845,-1.4078,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11219,2,1,346588.501,4070327.845,-1.4076,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11255,2,1,346588.501,4070327.845,-1.4076,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11292,2,1,346588.501,4070327.845,-1.4076,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11509,2,1,346588.501,4070327.845,-1.4080,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11545,2,1,346588.501,4070327.845,-1.4080,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11582,2,1,346588.501,4070327.845,-1.4078,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11618,2,1,346588.456,4070327.846,-1.4078,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11654,2,1,346588.456,4070327.846,-1.4076,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11691,2,1,346588.456,4070327.846,-1.4074,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11727,2,1,346588.456,4070327.846,-1.4074,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11763,2,1,346588.456,4070327.846,-1.4074,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11799,2,1,346588.456,4070327.846,-1.4074,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11836,2,1,346588.456,4070327.846,-1.4073,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11872,2,1,346588.456,4070327.846,-1.4074,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11908,2,1,346588.456,4070327.846,-1.4073,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11944,2,1,346588.456,4070327.846,-1.4073,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,11981,2,1,346588.456,4070327.846,-1.4074,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12017,2,1,346588.456,4070327.846,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12053,2,1,346588.456,4070327.846,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12089,2,1,346588.456,4070327.846,-1.4074,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12126,2,1,346588.456,4070327.846,-1.4074,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12162,2,1,346588.456,4070327.846,-1.4076,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12198,2,1,346588.456,4070327.846,-1.4078,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12235,2,1,346588.456,4070327.846,-1.4076,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12271,2,1,346588.456,4070327.846,-1.4076,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12307,2,1,346588.456,4070327.846,-1.4080,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12416,2,1,346588.456,4070327.846,-1.4073,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12452,2,1,346588.456,4070327.846,-1.4073,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12488,2,1,346588.456,4070327.846,-1.4074,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12525,2,1,346588.456,4070327.846,-1.4078,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12561,2,1,346588.456,4070327.846,-1.4078,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12597,2,1,346588.412,4070327.847,-1.4080,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12633,2,1,346588.412,4070327.847,-1.4078,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12670,2,1,346588.412,4070327.847,-1.4076,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12706,2,1,346588.412,4070327.847,-1.4078,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12742,2,1,346588.412,4070327.847,-1.4076,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12779,2,1,346588.412,4070327.847,-1.4074,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12815,2,1,346588.412,4070327.847,-1.4076,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12851,2,1,346588.412,4070327.847,-1.4074,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12887,2,1,346588.412,4070327.847,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12924,2,1,346588.412,4070327.847,-1.4074,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12960,2,1,346588.412,4070327.847,-1.4073,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,12996,2,1,346588.412,4070327.847,-1.4073,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13032,2,1,346588.412,4070327.847,-1.4071,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13069,2,1,346588.412,4070327.847,-1.4069,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13105,2,1,346588.412,4070327.847,-1.4071,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13141,2,1,346588.412,4070327.847,-1.4073,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13177,2,1,346588.412,4070327.847,-1.4073,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13214,2,1,346588.412,4070327.847,-1.4073,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13250,2,1,346588.412,4070327.847,-1.4071,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13286,2,1,346588.412,4070327.847,-1.4073,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13323,2,1,346588.412,4070327.847,-1.4076,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13431,2,1,346588.412,4070327.847,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13468,2,1,346588.412,4070327.847,-1.4074,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13504,2,1,346588.412,4070327.847,-1.4076,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13540,2,1,346588.412,4070327.847,-1.4076,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13576,2,1,346588.412,4070327.847,-1.4078,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13613,2,1,346588.382,4070327.829,-1.4081,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13649,2,1,346588.382,4070327.829,-1.4078,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13685,2,1,346588.382,4070327.829,-1.4078,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13721,2,1,346588.382,4070327.829,-1.4080,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13758,2,1,346588.382,4070327.829,-1.4078,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13794,2,1,346588.382,4070327.829,-1.4078,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13830,2,1,346588.382,4070327.829,-1.4074,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13867,2,1,346588.382,4070327.829,-1.4076,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13903,2,1,346588.382,4070327.829,-1.4074,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13939,2,1,346588.382,4070327.829,-1.4074,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,13975,2,1,346588.382,4070327.829,-1.4076,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14012,2,1,346588.382,4070327.829,-1.4076,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14048,2,1,346588.382,4070327.829,-1.4074,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14084,2,1,346588.382,4070327.829,-1.4073,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14120,2,1,346588.382,4070327.829,-1.4071,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14157,2,1,346588.382,4070327.829,-1.4071,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14193,2,1,346588.382,4070327.829,-1.4071,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14229,2,1,346588.382,4070327.829,-1.4069,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14265,2,1,346588.382,4070327.829,-1.4069,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14302,2,1,346588.382,4070327.829,-1.4069,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14338,2,1,346588.382,4070327.829,-1.4066,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14411,2,1,346588.382,4070327.829,-1.4067,72
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14454,2,1,346588.382,4070327.829,-1.4067,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14490,2,1,346588.382,4070327.829,-1.4067,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14526,2,1,346588.382,4070327.829,-1.4071,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14563,2,1,346588.382,4070327.829,-1.4073,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14599,2,1,346588.382,4070327.829,-1.4074,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14635,2,1,346588.337,4070327.829,-1.4076,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14671,2,1,346588.337,4070327.829,-1.4074,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14708,2,1,346588.337,4070327.829,-1.4073,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14744,2,1,346588.337,4070327.829,-1.4074,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14780,2,1,346588.337,4070327.829,-1.4073,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14817,2,1,346588.337,4070327.829,-1.4073,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14853,2,1,346588.337,4070327.829,-1.4073,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14889,2,1,346588.337,4070327.829,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14925,2,1,346588.337,4070327.829,-1.4076,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14962,2,1,346588.337,4070327.829,-1.4076,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,14998,2,1,346588.337,4070327.829,-1.4073,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15034,2,1,346588.337,4070327.829,-1.4074,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15070,2,1,346588.337,4070327.829,-1.4076,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15107,2,1,346588.337,4070327.829,-1.4078,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15143,2,1,346588.337,4070327.829,-1.4074,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15179,2,1,346588.337,4070327.829,-1.4073,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15215,2,1,346588.337,4070327.829,-1.4076,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15252,2,1,346588.337,4070327.829,-1.4076,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15288,2,1,346588.337,4070327.829,-1.4076,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15324,2,1,346588.337,4070327.829,-1.4076,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15433,2,1,346588.337,4070327.829,-1.4074,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15469,2,1,346588.337,4070327.829,-1.4071,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15506,2,1,346588.337,4070327.829,-1.4071,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15542,2,1,346588.337,4070327.829,-1.4069,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15578,2,1,346588.337,4070327.829,-1.4071,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15614,2,1,346588.337,4070327.829,-1.4071,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15651,2,1,346588.292,4070327.830,-1.4073,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15687,2,1,346588.292,4070327.830,-1.4073,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15723,2,1,346588.292,4070327.830,-1.4073,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15759,2,1,346588.292,4070327.830,-1.4071,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15796,2,1,346588.292,4070327.830,-1.4069,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15832,2,1,346588.292,4070327.830,-1.4069,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15868,2,1,346588.292,4070327.830,-1.4071,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15905,2,1,346588.292,4070327.830,-1.4073,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15941,2,1,346588.292,4070327.830,-1.4076,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,15977,2,1,346588.292,4070327.830,-1.4078,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16013,2,1,346588.292,4070327.830,-1.4081,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16050,2,1,346588.292,4070327.830,-1.4081,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16086,2,1,346588.292,4070327.830,-1.4081,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16122,2,1,346588.292,4070327.830,-1.4081,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16158,2,1,346588.292,4070327.830,-1.4081,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16195,2,1,346588.292,4070327.830,-1.4083,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16231,2,1,346588.292,4070327.830,-1.4081,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16267,2,1,346588.292,4070327.830,-1.4081,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16303,2,1,346588.292,4070327.830,-1.4080,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16340,2,1,346588.292,4070327.830,-1.4080,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16449,2,1,346588.292,4070327.830,-1.4080,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16485,2,1,346588.292,4070327.830,-1.4083,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16521,2,1,346588.292,4070327.830,-1.4081,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16557,2,1,346588.292,4070327.830,-1.4081,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16594,2,1,346588.292,4070327.830,-1.4083,7E
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,16630,2,1,346588.263,4070327.831,-1.4083,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16666,2,1,346588.263,4070327.831,-1.4081,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16702,2,1,346588.263,4070327.831,-1.4080,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16739,2,1,346588.263,4070327.831,-1.4080,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16775,2,1,346588.263,4070327.831,-1.4081,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16811,2,1,346588.263,4070327.831,-1.4081,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16847,2,1,346588.263,4070327.831,-1.4081,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16884,2,1,346588.263,4070327.831,-1.4085,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16920,2,1,346588.263,4070327.831,-1.4083,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16956,2,1,346588.263,4070327.831,-1.4083,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,16993,2,1,346588.263,4070327.831,-1.4081,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17029,2,1,346588.263,4070327.831,-1.4081,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17065,2,1,346588.263,4070327.831,-1.4080,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17101,2,1,346588.263,4070327.831,-1.4080,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17138,2,1,346588.263,4070327.831,-1.4081,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17174,2,1,346588.263,4070327.831,-1.4081,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17210,2,1,346588.263,4070327.831,-1.4081,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17246,2,1,346588.263,4070327.831,-1.4080,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17283,2,1,346588.263,4070327.831,-1.4081,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17319,2,1,346588.263,4070327.831,-1.4081,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17355,2,1,346588.263,4070327.831,-1.4081,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17428,2,1,346588.263,4070327.831,-1.4080,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17464,2,1,346588.263,4070327.831,-1.4081,7C
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17507,2,1,346588.263,4070327.831,-1.4081,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17543,2,1,346588.263,4070327.831,-1.4083,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17580,2,1,346588.263,4070327.831,-1.4085,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17616,2,1,346588.263,4070327.831,-1.4087,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17652,2,1,346588.263,4070327.831,-1.4083,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17689,2,1,346588.263,4070327.868,-1.4083,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17725,2,1,346588.263,4070327.868,-1.4083,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17761,2,1,346588.263,4070327.868,-1.4085,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17797,2,1,346588.263,4070327.868,-1.4083,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17834,2,1,346588.263,4070327.868,-1.4083,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17870,2,1,346588.263,4070327.868,-1.4085,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17906,2,1,346588.263,4070327.868,-1.4087,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17942,2,1,346588.263,4070327.868,-1.4088,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,17979,2,1,346588.263,4070327.868,-1.4087,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18015,2,1,346588.263,4070327.868,-1.4088,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18051,2,1,346588.263,4070327.868,-1.4088,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18087,2,1,346588.263,4070327.868,-1.4085,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18124,2,1,346588.263,4070327.868,-1.4083,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18160,2,1,346588.263,4070327.868,-1.4087,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18196,2,1,346588.263,4070327.868,-1.4087,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18233,2,1,346588.263,4070327.868,-1.4087,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18269,2,1,346588.263,4070327.868,-1.4085,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18305,2,1,346588.263,4070327.868,-1.4085,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18414,2,1,346588.263,4070327.868,-1.4083,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18450,2,1,346588.263,4070327.868,-1.4081,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18486,2,1,346588.263,4070327.868,-1.4081,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18523,2,1,346588.263,4070327.868,-1.4081,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18559,2,1,346588.263,4070327.868,-1.4080,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18595,2,1,346588.263,4070327.868,-1.4078,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18631,2,1,346588.263,4070327.868,-1.4081,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18704,2,1,346588.279,4070327.905,-1.4078,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18740,2,1,346588.279,4070327.905,-1.4078,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18777,2,1,346588.279,4070327.905,-1.4080,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18813,2,1,346588.279,4070327.905,-1.4080,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18849,2,1,346588.279,4070327.905,-1.4078,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18885,2,1,346588.279,4070327.905,-1.4078,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18922,2,1,346588.279,4070327.905,-1.4078,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18958,2,1,346588.279,4070327.905,-1.4076,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,18994,2,1,346588.279,4070327.905,-1.4076,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19030,2,1,346588.279,4070327.905,-1.4073,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19067,2,1,346588.279,4070327.905,-1.4073,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19103,2,1,346588.279,4070327.905,-1.4074,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19139,2,1,346588.279,4070327.905,-1.4074,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19175,2,1,346588.279,4070327.905,-1.4074,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19212,2,1,346588.279,4070327.905,-1.4078,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19248,2,1,346588.279,4070327.905,-1.4076,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19284,2,1,346588.279,4070327.905,-1.4074,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19321,2,1,346588.279,4070327.905,-1.4078,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19393,2,1,346588.279,4070327.905,-1.4078,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19429,2,1,346588.279,4070327.905,-1.4078,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19466,2,1,346588.279,4070327.905,-1.4074,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19502,2,1,346588.279,4070327.905,-1.4076,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19538,2,1,346588.279,4070327.905,-1.4080,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19574,2,1,346588.279,4070327.905,-1.4080,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19611,2,1,346588.279,4070327.905,-1.4080,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19647,2,1,346588.279,4070327.905,-1.4076,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19683,2,1,346588.279,4070327.905,-1.4073,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19719,2,1,346588.294,4070327.904,-1.4073,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19756,2,1,346588.294,4070327.904,-1.4073,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19792,2,1,346588.294,4070327.904,-1.4074,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19828,2,1,346588.294,4070327.904,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19865,2,1,346588.294,4070327.904,-1.4071,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19901,2,1,346588.294,4070327.904,-1.4069,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19937,2,1,346588.294,4070327.904,-1.4069,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19973,2,1,346588.294,4070327.904,-1.4067,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20010,2,1,346588.294,4070327.904,-1.4069,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20046,2,1,346588.294,4070327.904,-1.4066,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20082,2,1,346588.294,4070327.904,-1.4067,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20118,2,1,346588.294,4070327.904,-1.4066,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20155,2,1,346588.294,4070327.904,-1.4067,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20191,2,1,346588.294,4070327.904,-1.4067,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20227,2,1,346588.294,4070327.904,-1.4069,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20263,2,1,346588.294,4070327.904,-1.4067,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20300,2,1,346588.294,4070327.904,-1.4069,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20409,2,1,346588.294,4070327.904,-1.4073,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20445,2,1,346588.294,4070327.904,-1.4073,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20481,2,1,346588.294,4070327.904,-1.4073,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20517,2,1,346588.294,4070327.904,-1.4071,7D
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20560,2,1,346588.294,4070327.904,-1.4069,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20597,2,1,346588.294,4070327.904,-1.4071,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20633,2,1,346588.294,4070327.904,-1.4071,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20669,2,1,346588.294,4070327.904,-1.4069,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20706,2,1,346588.323,4070327.904,-1.4067,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20742,2,1,346588.323,4070327.904,-1.4067,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20778,2,1,346588.323,4070327.904,-1.4069,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20814,2,1,346588.323,4070327.904,-1.4071,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20851,2,1,346588.323,4070327.904,-1.4071,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20887,2,1,346588.323,4070327.904,-1.4071,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20923,2,1,346588.323,4070327.904,-1.4071,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20959,2,1,346588.323,4070327.904,-1.4071,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,20996,2,1,346588.323,4070327.904,-1.4069,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21032,2,1,346588.323,4070327.904,-1.4069,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21068,2,1,346588.323,4070327.904,-1.4069,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21104,2,1,346588.323,4070327.904,-1.4069,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21141,2,1,346588.323,4070327.904,-1.4071,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21177,2,1,346588.323,4070327.904,-1.4071,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21213,2,1,346588.323,4070327.904,-1.4067,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21250,2,1,346588.323,4070327.904,-1.4067,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21286,2,1,346588.323,4070327.904,-1.4066,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21322,2,1,346588.323,4070327.904,-1.4064,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21431,2,1,346588.323,4070327.904,-1.4066,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21467,2,1,346588.323,4070327.904,-1.4067,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21503,2,1,346588.323,4070327.904,-1.4066,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21540,2,1,346588.323,4070327.904,-1.4067,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21576,2,1,346588.323,4070327.904,-1.4066,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21612,2,1,346588.323,4070327.904,-1.4067,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21648,2,1,346588.323,4070327.904,-1.4067,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21685,2,1,346588.323,4070327.904,-1.4071,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21721,2,1,346588.353,4070327.885,-1.4071,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21757,2,1,346588.353,4070327.885,-1.4071,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21794,2,1,346588.353,4070327.885,-1.4073,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21830,2,1,346588.353,4070327.885,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21866,2,1,346588.353,4070327.885,-1.4074,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21902,2,1,346588.353,4070327.885,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21939,2,1,346588.353,4070327.885,-1.4073,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,21975,2,1,346588.353,4070327.885,-1.4074,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22011,2,1,346588.353,4070327.885,-1.4073,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22047,2,1,346588.353,4070327.885,-1.4071,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22084,2,1,346588.353,4070327.885,-1.4073,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22120,2,1,346588.353,4070327.885,-1.4076,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22156,2,1,346588.353,4070327.885,-1.4076,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22192,2,1,346588.353,4070327.885,-1.4078,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22229,2,1,346588.353,4070327.885,-1.4080,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22265,2,1,346588.353,4070327.885,-1.4081,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22301,2,1,346588.353,4070327.885,-1.4083,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22338,2,1,346588.353,4070327.885,-1.4085,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22410,2,1,346588.353,4070327.885,-1.4083,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22446,2,1,346588.353,4070327.885,-1.4083,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22483,2,1,346588.353,4070327.885,-1.4081,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22519,2,1,346588.353,4070327.885,-1.4081,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22555,2,1,346588.353,4070327.885,-1.4081,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22628,2,1,346588.353,4070327.885,-1.4081,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22664,2,1,346588.353,4070327.885,-1.4083,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22700,2,1,346588.353,4070327.885,-1.4080,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22736,2,1,346588.382,4070327.866,-1.4078,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22773,2,1,346588.382,4070327.866,-1.4080,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22809,2,1,346588.382,4070327.866,-1.4078,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22845,2,1,346588.382,4070327.866,-1.4076,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22882,2,1,346588.382,4070327.866,-1.4074,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22918,2,1,346588.397,4070327.865,-1.4073,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22954,2,1,346588.397,4070327.865,-1.4071,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22990,2,1,346588.397,4070327.865,-1.4071,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23027,2,1,346588.426,4070327.828,-1.4067,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23063,2,1,346588.426,4070327.828,-1.4066,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23099,2,1,346588.426,4070327.828,-1.4066,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23135,2,1,346588.441,4070327.809,-1.4064,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23172,2,1,346588.441,4070327.809,-1.4059,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23208,2,1,346588.441,4070327.809,-1.4059,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23244,2,1,346588.456,4070327.809,-1.4055,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23280,2,1,346588.456,4070327.809,-1.4057,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23317,2,1,346588.470,4070327.790,-1.4055,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,23534,2,1,346588.601,4070327.640,-1.4045,7F
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23581,2,1,346588.601,4070327.640,-1.4039,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23617,2,1,346588.645,4070327.583,-1.4038,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23653,2,1,346588.645,4070327.583,-1.4036,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23690,2,1,346588.645,4070327.583,-1.4034,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23726,2,1,346588.689,4070327.527,-1.4034,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23762,2,1,346588.689,4070327.527,-1.4032,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23799,2,1,346588.689,4070327.527,-1.4034,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23835,2,1,346588.703,4070327.508,-1.4038,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23871,2,1,346588.703,4070327.508,-1.4034,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23907,2,1,346588.703,4070327.508,-1.4034,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23944,2,1,346588.777,4070327.489,-1.4031,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,23980,2,1,346588.777,4070327.489,-1.4032,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24016,2,1,346588.777,4070327.489,-1.4031,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24052,2,1,346588.821,4070327.451,-1.4029,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24089,2,1,346588.821,4070327.451,-1.4029,7F
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,24125,2,1,346588.924,4070327.356,-1.4027,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24161,2,1,346588.924,4070327.356,-1.4029,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24197,2,1,346588.924,4070327.356,-1.4029,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24234,2,1,346588.968,4070327.337,-1.4027,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24270,2,1,346588.968,4070327.337,-1.4027,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24306,2,1,346588.968,4070327.337,-1.4025,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24343,2,1,346589.070,4070327.243,-1.4020,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24451,2,1,346589.100,4070327.205,-1.4015,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24488,2,1,346589.100,4070327.205,-1.4010,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24524,2,1,346589.114,4070327.168,-1.4010,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24560,2,1,346589.114,4070327.168,-1.4010,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24596,2,1,346589.114,4070327.168,-1.4008,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24633,2,1,346589.143,4070327.131,-1.4006,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24669,2,1,346589.143,4070327.131,-1.4005,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,24741,2,1,346589.289,4070326.980,-1.4006,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24778,2,1,346589.289,4070326.980,-1.4003,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24814,2,1,346589.289,4070326.980,-1.4005,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24850,2,1,346589.347,4070326.905,-1.4003,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24886,2,1,346589.347,4070326.905,-1.4003,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24923,2,1,346589.347,4070326.905,-1.4001,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24959,2,1,346589.333,4070326.942,-1.3998,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,24995,2,1,346589.333,4070326.942,-1.3996,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25032,2,1,346589.377,4070326.886,-1.3991,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25068,2,1,346589.377,4070326.886,-1.3989,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25104,2,1,346589.377,4070326.886,-1.3984,7D
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25140,2,1,346589.406,4070326.848,-1.3982,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25177,2,1,346589.406,4070326.848,-1.3980,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25213,2,1,346589.406,4070326.848,-1.3978,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25249,2,1,346589.450,4070326.811,-1.3978,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25285,2,1,346589.450,4070326.811,-1.3977,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25322,2,1,346589.450,4070326.811,-1.3975,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25358,2,1,346589.478,4070326.755,-1.3975,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25430,2,1,346589.478,4070326.755,-1.3971,7C
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,25467,2,1,346589.712,4070326.510,-1.3966,74
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25503,2,1,346589.712,4070326.510,-1.3961,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25539,2,1,346589.800,4070326.416,-1.3961,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25576,2,1,346589.800,4070326.416,-1.3957,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25612,2,1,346589.800,4070326.416,-1.3954,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25648,2,1,346589.844,4070326.378,-1.3954,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25684,2,1,346589.887,4070326.322,-1.3952,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25721,2,1,346589.887,4070326.322,-1.3949,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25757,2,1,346589.887,4070326.322,-1.3950,75
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,25793,2,1,346590.048,4070326.153,-1.3949,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25829,2,1,346590.048,4070326.153,-1.3949,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25902,2,1,346590.017,4070326.098,-1.3949,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25938,2,1,346590.017,4070326.098,-1.3956,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,25974,2,1,346590.017,4070326.098,-1.3959,78
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26011,2,1,346590.061,4070326.060,-1.3964,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26047,2,1,346590.061,4070326.060,-1.3971,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26083,2,1,346590.192,4070325.909,-1.3975,7A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26120,2,1,346590.192,4070325.909,-1.3977,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26156,2,1,346590.192,4070325.909,-1.3978,7E
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,26192,2,1,346590.295,4070325.815,-1.3980,79
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26228,2,1,346590.295,4070325.815,-1.3984,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26265,2,1,346590.295,4070325.815,-1.3984,76
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26301,2,1,346590.382,4070325.721,-1.3985,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26410,2,1,346590.485,4070325.608,-1.3991,73
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26446,2,1,346590.485,4070325.608,-1.3996,77
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26482,2,1,346590.485,4070325.608,-1.3999,70
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,26518,2,1,346590.587,4070325.514,-1.3999,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26555,2,1,346590.587,4070325.514,-1.3994,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26591,2,1,346590.690,4070325.420,-1.3994,70
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26634,2,1,346590.690,4070325.420,-1.3996,7E
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26670,2,1,346590.690,4070325.420,-1.3999,71
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26707,2,1,346590.777,4070325.307,-1.3998,7B
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26743,2,1,346590.777,4070325.307,-1.3996,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,26779,2,1,346590.777,4070325.307,-1.3996,7C
+Semiauto::initialize - begin
+Semiauto::initialize - add sample pose
+Semiauto::initialize - fitting line
+Semiauto::initialize - line accepted
+#WPS,2,346590.89,4070325.22,346604.50,4070310.57,67
+#WPS,2,346590.89,4070325.22,346604.50,4070310.57,67
+Semiauto::initialize - log residual
+Residual = 0.48
+Semiauto::initialize - end
+#BoatState,26816,2,2,346590.879,4070325.213,-1.3994,7E
+Semiauto::control - begin
+Semiauto::control - update waypoint
+Semiauto::control - Running
+Semiauto::control - Extend Way Point
+Assert(distance < 0.001) failed in func(void WayPoints::createAndAddWayPoint(const double&, const double&)) at file(C:\Temp\VMBuilds\BoatController2\arduino_due_x_dbg\WayPoints.cpp: 79)
+Exiting with status 1.
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+Initializing Manual Controller
+#BoatState,2288,1,2,346595.244,4070318.827,-1.3999,49
+Acquiring GPS
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+#BoatState,2361,1,2,346595.244,4070318.827,-1.4001,40
+Acquiring GPS
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+#BoatState,2462,1,2,346595.240,4070318.624,-1.4003,4F
+Acquiring GPS
+deserializing...CtrlMode,2de,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+#BoatState,2602,1,2,346595.192,4070318.440,-1.4012,47
+Acquiring GPS
+deserializing...CtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,152,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+#BoatState,2700,1,2,346595.236,4070318.365,-1.4008,42
+Acquiring GPS
+#BoatState,2775,1,2,346595.236,4070318.365,-1.4008,40
+Acquiring GPS
+#BoatState,2796,1,2,346595.265,4070318.327,-1.4010,44
+Acquiring GPS
+deserializing...e,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Des?Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+Initializing Manual Controller
+#BoatState,2288,1,2,346594.572,4070317.877,-1.4095,42
+Acquiring GPS
+#BoatState,2318,1,2,346594.572,4070317.877,-1.4099,46
+Acquiring GPS
+#BoatState,2339,1,2,346594.572,4070317.877,-1.4099,45
+Acquiring GPS
+#BoatState,2362,1,2,346594.572,4070317.877,-1.4099,4B
+Acquiring GPS
+#BoatState,2387,1,2,346594.572,4070317.877,-1.4097,4E
+Acquiring GPS
+#BoatState,2413,1,2,346594.572,4070317.877,-1.4097,44
+Acquiring GPS
+#BoatState,2439,1,2,346594.572,4070317.877,-1.4097,4C
+Acquiring GPS
+#BoatState,2465,1,2,346594.572,4070317.877,-1.4095,47
+Acquiring GPS
+#BoatState,2491,1,2,346594.572,4070317.877,-1.4097,4E
+Acquiring GPS
+#BoatState,2517,1,2,346594.572,4070317.877,-1.4097,41
+Acquiring GPS
+#BoatState,2543,1,2,346594.572,4070317.877,-1.4099,4E
+Acquiring GPS
+#BoatState,2569,1,2,346594.572,4070317.877,-1.4097,48
+Acquiring GPS
+#BoatState,2595,1,2,346594.572,4070317.877,-1.4099,45
+Acquiring GPS
+#BoatState,2621,1,2,346594.572,4070317.877,-1.4099,49
+Acquiring GPS
+#BoatState,2647,1,2,346594.572,4070317.877,-1.4101,49
+Acquiring GPS
+#BoatState,2672,1,2,346594.572,4070317.877,-1.4099,4F
+Acquiring GPS
+#BoatState,2698,1,2,346594.572,4070317.877,-1.4101,4B
+Acquiring GPS
+#BoatState,2724,1,2,346594.572,4070317.877,-1.4097,43
+Acquiring GPS
+#BoatState,2750,1,2,346594.572,4070317.877,-1.4099,4E
+Acquiring GPS
+#BoatState,2776,1,2,346594.572,4070317.877,-1.4097,44
+Acquiring GPS
+#BoatState,2802,1,2,346594.572,4070317.877,-1.4099,46
+Acquiring GPS
+#BoatState,2828,1,2,346594.572,4070317.877,-1.4099,4E
+Acquiring GPS
+#BoatState,2854,1,2,346594.572,4070317.877,-1.4097,4B
+Acquiring GPS
+#BoatState,2880,1,2,346594.572,4070317.877,-1.4097,42
+Acquiring GPS
+#BoatState,2906,1,2,346594.572,4070317.877,-1.4101,43
+Acquiring GPS
+#BoatState,2931,1,2,346594.572,4070317.877,-1.4101,47
+Acquiring GPS
+#CtrlSignals,1154,1152,off,0,1E
+#BoatState,2968,1,2,346594.572,4070317.877,-1.4101,4B
+Acquiring GPS
+#CtrlSignals,1506,1483,off,0,14
+#BoatState,3004,1,2,346594.572,4070317.877,-1.4102,4A
+Acquiring GPS
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,3040,1,2,346594.572,4070317.877,-1.4104,4C
+Home position acquired : 346594.572 4070317.877
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3077,1,2,346594.557,4070317.878,-1.4109,4D
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,3118,1,2,346594.557,4070317.878,-1.4113,4E
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,3154,1,2,346594.557,4070317.878,-1.4116,43
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3191,1,2,346594.557,4070317.878,-1.4116,4A
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3227,1,2,346594.557,4070317.878,-1.4116,44
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,3263,1,2,346594.557,4070317.878,-1.4113,41
+#CtrlSignals,1507,1479,off,0,10
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3372,1,2,346594.557,4070317.878,-1.4114,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3408,1,2,346594.557,4070317.878,-1.4118,41
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,3444,1,2,346594.557,4070317.878,-1.4120,42
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,3481,1,2,346594.557,4070317.878,-1.4121,4A
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,3517,1,2,346594.557,4070317.878,-1.4123,46
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,3553,1,2,346594.557,4070317.878,-1.4121,44
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3590,1,2,346594.557,4070317.878,-1.4120,4A
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3626,1,2,346594.557,4070317.878,-1.4120,44
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,3662,1,2,346594.557,4070317.878,-1.4120,44
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,3698,1,2,346594.557,4070317.878,-1.4116,44
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3735,1,2,346594.557,4070317.878,-1.4118,4C
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3771,1,2,346594.557,4070317.878,-1.4121,46
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3807,1,2,346594.557,4070317.878,-1.4120,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3843,1,2,346594.557,4070317.878,-1.4121,48
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3880,1,2,346594.557,4070317.878,-1.4121,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3916,1,2,346594.557,4070317.878,-1.4121,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3952,1,2,346594.557,4070317.878,-1.4120,48
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,3988,1,2,346594.557,4070317.878,-1.4120,4F
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4025,1,2,346594.557,4070317.878,-1.4121,47
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4061,1,2,346594.557,4070317.878,-1.4120,46
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4097,1,2,346594.557,4070317.878,-1.4118,44
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4134,1,2,346594.437,4070317.843,-1.4118,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4170,1,2,346594.437,4070317.843,-1.4116,4D
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4206,1,2,346594.437,4070317.843,-1.4118,41
+#CtrlSignals,1503,1482,off,0,10
+#BoatState,4242,1,2,346594.437,4070317.843,-1.4116,4F
+#CtrlSignals,1503,1482,off,0,10
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4315,1,2,346594.437,4070317.843,-1.4116,4C
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4351,1,2,346594.437,4070317.843,-1.4116,4C
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4387,1,2,346594.437,4070317.843,-1.4116,47
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,4424,1,2,346594.437,4070317.843,-1.4116,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4460,1,2,346594.437,4070317.843,-1.4118,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4496,1,2,346594.437,4070317.843,-1.4120,45
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4532,1,2,346594.437,4070317.843,-1.4121,4B
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4569,1,2,346594.437,4070317.843,-1.4123,47
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4605,1,2,346594.437,4070317.843,-1.4123,4E
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,4641,1,2,346594.437,4070317.843,-1.4121,4C
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,4678,1,2,346594.437,4070317.843,-1.4118,4C
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,4714,1,2,346594.437,4070317.843,-1.4120,4C
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4750,1,2,346594.437,4070317.843,-1.4118,47
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4786,1,2,346594.437,4070317.843,-1.4116,42
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,4823,1,2,346594.437,4070317.843,-1.4114,40
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,4859,1,2,346594.437,4070317.843,-1.4114,4D
+#CtrlSignals,1506,1478,off,0,10
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4931,1,2,346594.437,4070317.843,-1.4111,47
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,4968,1,2,346594.437,4070317.843,-1.4111,4B
+#CtrlSignals,1506,1483,off,0,14
+#BoatState,5004,1,2,346594.437,4070317.843,-1.4111,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5040,1,2,346594.437,4070317.843,-1.4111,49
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5076,1,2,346594.437,4070317.843,-1.4109,45
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5113,1,2,346594.437,4070317.843,-1.4109,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5149,1,2,346594.437,4070317.843,-1.4113,43
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,5185,1,2,346594.437,4070317.843,-1.4113,43
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,5222,1,2,346594.408,4070317.843,-1.4116,44
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1507,1482,off,0,14
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5330,1,2,346594.408,4070317.843,-1.4120,43
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5367,1,2,346594.408,4070317.843,-1.4118,4A
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5403,1,2,346594.408,4070317.843,-1.4120,44
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5439,1,2,346594.408,4070317.843,-1.4121,4C
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5475,1,2,346594.408,4070317.843,-1.4121,44
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,5512,1,2,346594.408,4070317.843,-1.4123,46
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5548,1,2,346594.408,4070317.843,-1.4125,4F
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5584,1,2,346594.408,4070317.843,-1.4128,42
+#CtrlSignals,1509,1479,off,0,1E
+#BoatState,5620,1,2,346594.408,4070317.843,-1.4125,42
+#CtrlSignals,1508,1480,off,0,19
+#BoatState,5657,1,2,346594.408,4070317.843,-1.4123,44
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5693,1,2,346594.408,4070317.843,-1.4123,4C
+#CtrlSignals,1507,1485,off,0,13
+#BoatState,5729,1,2,346594.408,4070317.843,-1.4120,4F
+#CtrlSignals,1507,1486,off,0,10
+#BoatState,5766,1,2,346594.408,4070317.843,-1.4120,44
+#CtrlSignals,1507,1485,off,0,13
+#BoatState,5802,1,2,346594.408,4070317.843,-1.4118,42
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5838,1,2,346594.408,4070317.843,-1.4116,45
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,5874,1,2,346594.408,4070317.843,-1.4120,48
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5911,1,2,346594.408,4070317.843,-1.4123,49
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5947,1,2,346594.408,4070317.843,-1.4121,48
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5983,1,2,346594.408,4070317.843,-1.4118,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6019,1,2,346594.408,4070317.843,-1.4120,48
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6056,1,2,346594.408,4070317.843,-1.4120,43
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6092,1,2,346594.408,4070317.843,-1.4121,4A
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6128,1,2,346594.408,4070317.843,-1.4121,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6164,1,2,346594.408,4070317.843,-1.4121,42
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6201,1,2,346594.408,4070317.843,-1.4121,42
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6237,1,2,346594.362,4070317.807,-1.4121,4C
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6346,1,2,346594.362,4070317.807,-1.4120,4A
+#CtrlSignals,1508,1480,off,0,19
+#BoatState,6382,1,2,346594.362,4070317.807,-1.4120,42
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6418,1,2,346594.362,4070317.807,-1.4120,46
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6455,1,2,346594.362,4070317.807,-1.4121,4E
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6491,1,2,346594.362,4070317.807,-1.4121,46
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6527,1,2,346594.362,4070317.807,-1.4123,48
+#CtrlSignals,1508,1478,off,0,1E
+#BoatState,6563,1,2,346594.362,4070317.807,-1.4125,4E
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,6600,1,2,346594.362,4070317.807,-1.4123,4E
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6636,1,2,346594.362,4070317.807,-1.4121,49
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is selected
+Semiauto::initialize - begin
+Semiauto::initialize - add first sample pose
+Semiauto::initialize - end
+#BoatState,6672,2,1,346594.362,4070317.807,-1.4123,4B
+deserializing...nlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMorlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6775,2,1,346594.362,4070317.807,-1.4123,4D
+deserializing...CtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#Ch
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6865,2,1,346594.362,4070317.807,-1.4128,48
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6942,2,1,346594.362,4070317.807,-1.4132,47
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,6978,2,1,346594.362,4070317.807,-1.4132,4E
+deserializing...5
+deserializing...#Chde,2,15
+deserializing...#Chn#ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7014,2,1,346594.362,4070317.807,-1.4132,4C
+deserializing...ChngCtrlMode,2,15
+deserializing...#ChngCtrlModeMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7087,2,1,346594.362,4070317.807,-1.4132,46
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7166,2,1,346594.362,4070317.807,-1.4130,4A
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7202,2,1,346594.362,4070317.807,-1.4128,42
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+deserializing...ode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+Initializing Manual Controller
+#BoatState,2288,1,2,346594.123,4070317.737,-1.4116,43
+Acquiring GPS
+#BoatState,2382,1,2,346594.123,4070317.737,-1.4118,46
+Acquiring GPS
+#BoatState,2403,1,2,346594.123,4070317.737,-1.4114,44
+Acquiring GPS
+#BoatState,2425,1,2,346594.064,4070317.738,-1.4114,4D
+Acquiring GPS
+#BoatState,2451,1,2,346594.064,4070317.738,-1.4114,4E
+Acquiring GPS
+#BoatState,2477,1,2,346594.064,4070317.738,-1.4116,48
+Acquiring GPS
+#BoatState,2503,1,2,346594.064,4070317.738,-1.4114,48
+Acquiring GPS
+#BoatState,2529,1,2,346594.064,4070317.738,-1.4114,40
+Acquiring GPS
+#BoatState,2555,1,2,346594.064,4070317.738,-1.4113,4C
+Acquiring GPS
+#BoatState,2581,1,2,346594.064,4070317.738,-1.4114,42
+Acquiring GPS
+#BoatState,2607,1,2,346594.064,4070317.738,-1.4116,4D
+Acquiring GPS
+#BoatState,2633,1,2,346594.064,4070317.738,-1.4118,44
+Acquiring GPS
+#BoatState,2659,1,2,346594.064,4070317.738,-1.4120,43
+Acquiring GPS
+#BoatState,2685,1,2,346594.064,4070317.738,-1.4120,42
+Acquiring GPS
+#BoatState,2710,1,2,346594.064,4070317.738,-1.4120,4F
+Acquiring GPS
+#BoatState,2736,1,2,346594.064,4070317.738,-1.4118,40
+Acquiring GPS
+#BoatState,2762,1,2,346594.064,4070317.738,-1.4120,4A
+Acquiring GPS
+#BoatState,2788,1,2,346594.064,4070317.738,-1.4120,4E
+Acquiring GPS
+#BoatState,2814,1,2,346594.064,4070317.738,-1.4121,45
+Acquiring GPS
+#BoatState,2840,1,2,346594.064,4070317.738,-1.4125,40
+Acquiring GPS
+#BoatState,2866,1,2,346594.064,4070317.738,-1.4123,42
+Acquiring GPS
+#BoatState,2892,1,2,346594.064,4070317.738,-1.4123,49
+Acquiring GPS
+#BoatState,2918,1,2,346594.064,4070317.738,-1.4123,4A
+Acquiring GPS
+#CtrlSignals,1047,986,off,0,2D
+#BoatState,2954,1,2,346594.064,4070317.738,-1.4123,42
+Acquiring GPS
+#CtrlSignals,1295,1282,off,0,1E
+#BoatState,2990,1,2,346594.064,4070317.738,-1.4120,49
+Acquiring GPS
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,3026,1,2,346594.064,4070317.738,-1.4121,4D
+Acquiring GPS
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,3063,1,2,346594.064,4070317.738,-1.4121,4C
+Acquiring GPS
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3099,1,2,346594.064,4070317.738,-1.4121,49
+Acquiring GPS
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,3135,1,2,346594.064,4070317.738,-1.4123,4C
+Home position acquired : 346594.070 4070317.738
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,3172,1,2,346594.064,4070317.738,-1.4125,49
+#CtrlSignals,1506,1482,off,0,15
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,3249,1,2,346594.064,4070317.738,-1.4128,4F
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,3286,1,2,346594.064,4070317.738,-1.4123,47
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3358,1,2,346594.064,4070317.738,-1.4123,45
+#CtrlSignals,1507,1479,off,0,10
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3467,1,2,346593.974,4070317.740,-1.4127,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3503,1,2,346593.974,4070317.740,-1.4127,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3540,1,2,346593.974,4070317.740,-1.4128,41
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3576,1,2,346593.974,4070317.740,-1.4128,44
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3612,1,2,346593.974,4070317.740,-1.4125,48
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,3648,1,2,346593.974,4070317.740,-1.4125,47
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3685,1,2,346593.974,4070317.740,-1.4127,44
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3721,1,2,346593.974,4070317.740,-1.4125,49
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,3757,1,2,346593.974,4070317.740,-1.4125,48
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,3793,1,2,346593.974,4070317.740,-1.4125,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3830,1,2,346593.974,4070317.740,-1.4121,42
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3866,1,2,346593.974,4070317.740,-1.4121,41
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3902,1,2,346593.974,4070317.740,-1.4121,42
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3938,1,2,346593.974,4070317.740,-1.4123,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3975,1,2,346593.974,4070317.740,-1.4123,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4011,1,2,346593.974,4070317.740,-1.4121,4E
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4047,1,2,346593.974,4070317.740,-1.4121,4D
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4084,1,2,346593.974,4070317.740,-1.4120,43
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4120,1,2,346593.974,4070317.740,-1.4120,4C
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,4156,1,2,346593.974,4070317.740,-1.4121,4C
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4192,1,2,346593.974,4070317.740,-1.4120,45
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,4229,1,2,346593.974,4070317.740,-1.4121,47
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,4265,1,2,346593.974,4070317.740,-1.4121,4F
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,4301,1,2,346593.974,4070317.740,-1.4116,48
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4337,1,2,346593.974,4070317.740,-1.4116,4D
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4374,1,2,346593.974,4070317.740,-1.4118,44
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4446,1,2,346593.974,4070317.740,-1.4116,4C
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4482,1,2,346593.900,4070317.760,-1.4113,40
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4519,1,2,346593.900,4070317.760,-1.4114,44
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,4555,1,2,346593.900,4070317.760,-1.4118,40
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4591,1,2,346593.900,4070317.760,-1.4118,48
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4628,1,2,346593.900,4070317.760,-1.4116,47
+#CtrlSignals,1511,1482,off,0,13
+#BoatState,4664,1,2,346593.900,4070317.760,-1.4114,4D
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,4700,1,2,346593.900,4070317.760,-1.4113,49
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,4736,1,2,346593.900,4070317.760,-1.4114,4B
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4773,1,2,346593.900,4070317.760,-1.4114,4A
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4809,1,2,346593.900,4070317.760,-1.4114,48
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4845,1,2,346593.900,4070317.760,-1.4113,47
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,4881,1,2,346593.900,4070317.760,-1.4113,4F
+#CtrlSignals,1510,1482,off,0,12
+#BoatState,4918,1,2,346593.900,4070317.760,-1.4113,4E
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,4954,1,2,346593.900,4070317.760,-1.4114,41
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4990,1,2,346593.900,4070317.760,-1.4113,4E
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5026,1,2,346593.900,4070317.760,-1.4113,4B
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5063,1,2,346593.900,4070317.760,-1.4113,4A
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5099,1,2,346593.900,4070317.760,-1.4113,4F
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5135,1,2,346593.900,4070317.760,-1.4111,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5172,1,2,346593.900,4070317.760,-1.4111,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5208,1,2,346593.900,4070317.760,-1.4111,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5244,1,2,346593.900,4070317.760,-1.4113,4D
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,5280,1,2,346593.900,4070317.760,-1.4111,47
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5327,1,2,346593.900,4070317.760,-1.4116,4C
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5363,1,2,346593.900,4070317.760,-1.4118,42
+#CtrlSignals,1511,1482,off,0,13
+#CtrlSignals,1510,1482,off,0,12
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,5472,1,2,346593.811,4070317.762,-1.4116,48
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5508,1,2,346593.811,4070317.762,-1.4116,44
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5545,1,2,346593.811,4070317.762,-1.4118,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5581,1,2,346593.811,4070317.762,-1.4116,45
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5617,1,2,346593.811,4070317.762,-1.4114,4B
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5653,1,2,346593.811,4070317.762,-1.4113,4C
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5690,1,2,346593.811,4070317.762,-1.4113,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5726,1,2,346593.811,4070317.762,-1.4113,4F
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5762,1,2,346593.811,4070317.762,-1.4113,4F
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5799,1,2,346593.811,4070317.762,-1.4109,40
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5835,1,2,346593.811,4070317.762,-1.4111,40
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,5871,1,2,346593.811,4070317.762,-1.4113,42
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,5907,1,2,346593.811,4070317.762,-1.4111,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5944,1,2,346593.811,4070317.762,-1.4113,45
+#CtrlSignals,1508,1479,off,0,1F
+#BoatState,5980,1,2,346593.811,4070317.762,-1.4113,4D
+#CtrlSignals,1508,1480,off,0,19
+#BoatState,6016,1,2,346593.811,4070317.762,-1.4111,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6052,1,2,346593.811,4070317.762,-1.4109,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6089,1,2,346593.811,4070317.762,-1.4107,4B
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6125,1,2,346593.811,4070317.762,-1.4109,42
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6161,1,2,346593.811,4070317.762,-1.4111,4B
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6197,1,2,346593.811,4070317.762,-1.4111,42
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6234,1,2,346593.811,4070317.762,-1.4113,4A
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,6270,1,2,346593.811,4070317.762,-1.4111,48
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,6306,1,2,346593.811,4070317.762,-1.4109,41
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,6342,1,2,346593.811,4070317.762,-1.4111,48
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6379,1,2,346593.721,4070317.745,-1.4109,40
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6488,1,2,346593.721,4070317.745,-1.4111,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6524,1,2,346593.721,4070317.745,-1.4109,4E
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,6560,1,2,346593.721,4070317.745,-1.4107,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6596,1,2,346593.721,4070317.745,-1.4104,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6633,1,2,346593.721,4070317.745,-1.4104,46
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6669,1,2,346593.721,4070317.745,-1.4106,4B
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6705,1,2,346593.721,4070317.745,-1.4104,42
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6741,1,2,346593.721,4070317.745,-1.4106,40
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6778,1,2,346593.721,4070317.745,-1.4102,4E
+#CtrlSignals,1515,1480,off,0,15
+#BoatState,6814,1,2,346593.721,4070317.745,-1.4104,4D
+#CtrlSignals,1515,1480,off,0,15
+#BoatState,6850,1,2,346593.721,4070317.745,-1.4104,4D
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6886,1,2,346593.721,4070317.745,-1.4104,46
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,6923,1,2,346593.721,4070317.745,-1.4106,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6959,1,2,346593.721,4070317.745,-1.4104,45
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6995,1,2,346593.721,4070317.745,-1.4106,47
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7032,1,2,346593.721,4070317.745,-1.4106,42
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7068,1,2,346593.721,4070317.745,-1.4104,4F
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7104,1,2,346593.721,4070317.745,-1.4106,46
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,7140,1,2,346593.721,4070317.745,-1.4106,46
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,7177,1,2,346593.721,4070317.745,-1.4107,43
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7213,1,2,346593.721,4070317.745,-1.4111,45
+#CtrlSignals,1510,1484,off,0,14
+#BoatState,7249,1,2,346593.721,4070317.745,-1.4109,43
+#CtrlSignals,1510,1484,off,0,14
+#BoatState,7285,1,2,346593.721,4070317.745,-1.4111,4A
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,7322,1,2,346593.721,4070317.745,-1.4111,46
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7358,1,2,346593.721,4070317.745,-1.4111,4B
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7394,1,2,346593.617,4070317.746,-1.4111,4C
+#CtrlSignals,1506,1479,off,0,11
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,7467,1,2,346593.617,4070317.746,-1.4114,42
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,7503,1,2,346593.617,4070317.746,-1.4114,41
+#CtrlSignals,1506,1483,off,0,14
+#BoatState,7539,1,2,346593.617,4070317.746,-1.4114,48
+#CtrlSignals,1506,1483,off,0,14
+#BoatState,7576,1,2,346593.617,4070317.746,-1.4114,43
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7612,1,2,346593.617,4070317.746,-1.4113,45
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7648,1,2,346593.617,4070317.746,-1.4111,48
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is selected
+Semiauto::initialize - begin
+Semiauto::initialize - add first sample pose
+Semiauto::initialize - end
+#BoatState,7684,2,1,346593.617,4070317.746,-1.4109,41
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7787,2,1,346593.617,4070317.746,-1.4109,43
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7887,2,1,346593.617,4070317.746,-1.4109,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7923,2,1,346593.617,4070317.746,-1.4106,4C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7959,2,1,346593.617,4070317.746,-1.4107,40
+deserializing...ngCtrlMode,2,15
+deserializing...#ChngCtrgCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2ngCtrlModeMode,2,15
+Max num packet reached.
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7996,2,1,346593.617,4070317.746,-1.4107,43
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+deserializing...
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+Initializing Manual Controller
+#BoatState,2288,1,2,166021.443,0.000,-1.4109,40
+Acquiring GPS
+#BoatState,2378,1,2,346593.367,4070317.917,-1.4116,44
+Acquiring GPS
+#BoatState,2399,1,2,346593.367,4070317.917,-1.4120,4E
+Acquiring GPS
+#BoatState,2422,1,2,346593.367,4070317.917,-1.4120,49
+Acquiring GPS
+#BoatState,2448,1,2,346593.367,4070317.917,-1.4120,45
+Acquiring GPS
+#BoatState,2474,1,2,346593.367,4070317.917,-1.4120,4A
+Acquiring GPS
+#BoatState,2500,1,2,346593.367,4070317.917,-1.4120,48
+Acquiring GPS
+#BoatState,2525,1,2,346593.367,4070317.917,-1.4120,4F
+Acquiring GPS
+#BoatState,2551,1,2,346593.367,4070317.917,-1.4120,4C
+Acquiring GPS
+#BoatState,2577,1,2,346593.367,4070317.917,-1.4118,43
+Acquiring GPS
+#BoatState,2603,1,2,346593.367,4070317.917,-1.4118,43
+Acquiring GPS
+#BoatState,2629,1,2,346593.367,4070317.917,-1.4116,45
+Acquiring GPS
+#BoatState,2655,1,2,346593.367,4070317.917,-1.4118,40
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+deserializing...2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+Initializing Manual Controller
+#BoatState,2288,1,2,346593.253,4070318.178,-1.4116,42
+deserializing...rlMode,2,15
+deserializing...#ChngCtrlMorlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@home position is not initialized.
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3554,1,2,346593.253,4070318.197,-1.4128,49
+Acquiring GPS
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,3590,1,2,346593.254,4070318.234,-1.4118,4F
+Acquiring GPS
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,3627,1,2,346593.254,4070318.234,-1.4121,4A
+#CtrlSignals,1507,1482,off,0,14
+Acquiring GPS
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,3699,1,2,346593.254,4070318.234,-1.4125,4B
+Acquiring GPS
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,3735,1,2,346593.254,4070318.234,-1.4123,4A
+Acquiring GPS
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,3772,1,2,346593.254,4070318.234,-1.4125,4F
+Acquiring GPS
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,3808,1,2,346593.254,4070318.234,-1.4123,4B
+Acquiring GPS
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,3844,1,2,346593.254,4070318.234,-1.4125,45
+Acquiring GPS
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,3881,1,2,346593.254,4070318.234,-1.4123,4A
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3917,1,2,346593.254,4070318.234,-1.4123,44
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3953,1,2,346593.254,4070318.234,-1.4121,46
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,3989,1,2,346593.254,4070318.234,-1.4125,45
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4026,1,2,346593.254,4070318.234,-1.4125,4E
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4062,1,2,346593.254,4070318.234,-1.4125,4E
+Acquiring GPS
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,4098,1,2,346593.254,4070318.234,-1.4123,4D
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4134,1,2,346593.254,4070318.234,-1.4125,4C
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4171,1,2,346593.254,4070318.234,-1.4123,4B
+Acquiring GPS
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4207,1,2,346593.254,4070318.234,-1.4121,4B
+Acquiring GPS
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,4243,1,2,346593.254,4070318.234,-1.4120,4A
+Acquiring GPS
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,4279,1,2,346593.254,4070318.234,-1.4121,42
+Acquiring GPS
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,4316,1,2,346593.254,4070318.234,-1.4120,4B
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1506,1479,off,0,11
+Acquiring GPS
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,4425,1,2,346593.254,4070318.234,-1.4118,47
+Acquiring GPS
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,4461,1,2,346593.254,4070318.234,-1.4123,4F
+Acquiring GPS
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,4497,1,2,346593.269,4070318.234,-1.4123,48
+Acquiring GPS
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4533,1,2,346593.269,4070318.234,-1.4125,41
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1482,off,0,14
+Acquiring GPS
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4642,1,2,346593.269,4070318.234,-1.4123,42
+Acquiring GPS
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,4678,1,2,346593.269,4070318.234,-1.4121,49
+Acquiring GPS
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4715,1,2,346593.269,4070318.234,-1.4121,43
+Home position acquired : 346593.257 4070318.231
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4751,1,2,346593.269,4070318.234,-1.4120,42
+#CtrlSignals,1511,1488,off,0,19
+#BoatState,4793,1,2,346593.269,4070318.234,-1.4121,4D
+#CtrlSignals,1511,1488,off,0,19
+#BoatState,4829,1,2,346593.269,4070318.234,-1.4123,41
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,4865,1,2,346593.269,4070318.234,-1.4121,4B
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,4902,1,2,346593.269,4070318.234,-1.4123,49
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,4938,1,2,346593.269,4070318.234,-1.4125,46
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,4974,1,2,346593.269,4070318.234,-1.4121,4A
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5010,1,2,346593.269,4070318.234,-1.4121,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5047,1,2,346593.269,4070318.234,-1.4120,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5083,1,2,346593.269,4070318.234,-1.4118,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5119,1,2,346593.269,4070318.234,-1.4120,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5155,1,2,346593.269,4070318.234,-1.4120,41
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,5192,1,2,346593.269,4070318.234,-1.4121,4B
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5228,1,2,346593.269,4070318.234,-1.4121,49
+#CtrlSignals,1514,1482,off,0,16
+#BoatState,5264,1,2,346593.269,4070318.234,-1.4116,45
+AHRS : 60.0 Hz GPGGA : 11.0 Hz RudderRF : 29.0 Hz ThrtoleRF : 29.0 Hz
+#CtrlSignals,1514,1480,off,0,14
+#BoatState,5311,1,2,346593.269,4070318.234,-1.4118,48
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5420,1,2,346593.269,4070318.234,-1.4114,41
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,5456,1,2,346593.269,4070318.234,-1.4113,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5493,1,2,346593.269,4070318.234,-1.4113,4E
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5529,1,2,346593.299,4070318.252,-1.4111,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5565,1,2,346593.299,4070318.252,-1.4109,42
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,5601,1,2,346593.299,4070318.252,-1.4113,48
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5638,1,2,346593.299,4070318.252,-1.4114,45
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5674,1,2,346593.299,4070318.252,-1.4116,4F
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5710,1,2,346593.299,4070318.252,-1.4116,4C
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5746,1,2,346593.299,4070318.252,-1.4114,4D
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,5783,1,2,346593.299,4070318.252,-1.4111,41
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,5819,1,2,346593.299,4070318.252,-1.4114,48
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5855,1,2,346593.299,4070318.252,-1.4114,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5891,1,2,346593.299,4070318.252,-1.4114,48
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,5928,1,2,346593.299,4070318.252,-1.4114,4B
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,5964,1,2,346593.299,4070318.252,-1.4116,41
+#CtrlSignals,1511,1485,off,0,14
+#BoatState,6000,1,2,346593.299,4070318.252,-1.4114,4B
+#CtrlSignals,1511,1484,off,0,15
+#BoatState,6037,1,2,346593.299,4070318.252,-1.4114,4F
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6073,1,2,346593.299,4070318.252,-1.4114,4F
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6109,1,2,346593.299,4070318.252,-1.4114,43
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6145,1,2,346593.299,4070318.252,-1.4116,49
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6182,1,2,346593.299,4070318.252,-1.4118,4C
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6218,1,2,346593.299,4070318.252,-1.4120,47
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6254,1,2,346593.299,4070318.252,-1.4120,4F
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6290,1,2,346593.299,4070318.252,-1.4118,4C
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6327,1,2,346593.299,4070318.252,-1.4121,4B
+#CtrlSignals,1507,1483,off,0,15
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6435,1,2,346593.299,4070318.252,-1.4118,45
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6472,1,2,346593.299,4070318.252,-1.4118,46
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6508,1,2,346593.329,4070318.270,-1.4118,40
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,6544,1,2,346593.329,4070318.270,-1.4118,48
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,6581,1,2,346593.329,4070318.270,-1.4121,4B
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6617,1,2,346593.329,4070318.270,-1.4121,47
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6653,1,2,346593.329,4070318.270,-1.4121,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6689,1,2,346593.329,4070318.270,-1.4125,44
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6726,1,2,346593.329,4070318.270,-1.4128,4D
+#CtrlSignals,1508,1480,off,0,19
+#BoatState,6762,1,2,346593.329,4070318.270,-1.4130,44
+#CtrlSignals,1508,1480,off,0,19
+#BoatState,6798,1,2,346593.329,4070318.270,-1.4132,43
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,6834,1,2,346593.329,4070318.270,-1.4134,4C
+#CtrlSignals,1508,1479,off,0,1F
+#BoatState,6871,1,2,346593.329,4070318.270,-1.4137,4E
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,6907,1,2,346593.329,4070318.270,-1.4139,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6943,1,2,346593.329,4070318.270,-1.4137,4E
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,6979,1,2,346593.374,4070318.287,-1.4141,46
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,7016,1,2,346593.374,4070318.287,-1.4142,44
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7052,1,2,346593.374,4070318.287,-1.4142,44
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,7088,1,2,346593.374,4070318.287,-1.4139,4F
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,7125,1,2,346593.374,4070318.287,-1.4139,49
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,7161,1,2,346593.374,4070318.287,-1.4141,46
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,7197,1,2,346593.374,4070318.287,-1.4142,4C
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,7233,1,2,346593.374,4070318.287,-1.4142,41
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,7270,1,2,346593.374,4070318.287,-1.4141,45
+#CtrlSignals,1511,1483,off,0,12
+#CtrlSignals,1511,1483,off,0,12
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,7378,1,2,346593.374,4070318.287,-1.4139,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,7415,1,2,346593.374,4070318.287,-1.4139,4F
+#CtrlSignals,1511,1484,off,0,15
+#BoatState,7451,1,2,346593.374,4070318.287,-1.4141,40
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,7487,1,2,346593.374,4070318.287,-1.4141,4B
+#CtrlSignals,1511,1483,off,0,12
+#BoatState,7523,1,2,346593.374,4070318.287,-1.4141,44
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,7560,1,2,346593.374,4070318.287,-1.4141,43
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,7596,1,2,346593.374,4070318.287,-1.4139,45
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,7632,1,2,346593.374,4070318.287,-1.4137,46
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,7669,1,2,346593.374,4070318.287,-1.4132,4D
+#CtrlSignals,1507,1478,off,0,11
+#BoatState,7705,1,2,346593.374,4070318.287,-1.4134,40
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,7741,1,2,346593.374,4070318.287,-1.4132,46
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,7777,1,2,346593.374,4070318.287,-1.4132,43
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,7814,1,2,346593.374,4070318.287,-1.4130,4B
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,7850,1,2,346593.374,4070318.287,-1.4128,42
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,7886,1,2,346593.374,4070318.287,-1.4130,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,7922,1,2,346593.374,4070318.287,-1.4130,4F
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,7959,1,2,346593.374,4070318.287,-1.4130,43
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,7995,1,2,346593.418,4070318.231,-1.4132,41
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,8031,1,2,346593.418,4070318.231,-1.4134,4F
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,8067,1,2,346593.462,4070318.193,-1.4135,4B
+#CtrlSignals,1506,1478,off,0,10
+#BoatState,8104,1,2,346593.462,4070318.193,-1.4137,4D
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,8140,1,2,346593.462,4070318.193,-1.4141,4C
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,8176,1,2,346593.521,4070318.174,-1.4144,43
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,8213,1,2,346593.521,4070318.174,-1.4148,4F
+#CtrlSignals,1506,1479,off,0,11
+#BoatState,8249,1,2,346593.521,4070318.174,-1.4151,48
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,8285,1,2,346593.579,4070318.117,-1.4153,42
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1479,off,0,10
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,8405,1,2,346593.638,4070318.079,-1.4156,46
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,8441,1,2,346593.638,4070318.079,-1.4163,40
+#CtrlSignals,1507,1483,off,0,15
+#BoatState,8477,1,2,346593.667,4070318.042,-1.4165,41
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,8513,1,2,346593.667,4070318.042,-1.4165,42
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,8586,1,2,346593.770,4070317.984,-1.4170,41
+#CtrlSignals,1506,1480,off,0,17
+#BoatState,8622,1,2,346593.770,4070317.984,-1.4174,48
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,8659,1,2,346593.770,4070317.984,-1.4176,46
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,8695,1,2,346593.814,4070317.946,-1.4177,44
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,8731,1,2,346593.814,4070317.946,-1.4181,42
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,8767,1,2,346593.814,4070317.946,-1.4184,44
+#CtrlSignals,1506,1482,off,0,15
+#BoatState,8804,1,2,346593.844,4070317.927,-1.4186,4E
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,8840,1,2,346593.844,4070317.927,-1.4190,49
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,8876,1,2,346594.050,4070317.813,-1.4197,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,8912,1,2,346594.050,4070317.813,-1.4200,49
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,8949,1,2,346594.050,4070317.813,-1.4207,40
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,8985,1,2,346594.138,4070317.737,-1.4216,46
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,9021,1,2,346594.138,4070317.737,-1.4223,46
+#CtrlSignals,1507,1480,off,0,16
+#BoatState,9057,1,2,346594.138,4070317.737,-1.4226,42
+#CtrlSignals,1507,1479,off,0,10
+#BoatState,9094,1,2,346594.240,4070317.643,-1.4231,45
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,9130,1,2,346594.240,4070317.643,-1.4235,4E
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,9166,1,2,346594.240,4070317.643,-1.4237,4F
+#CtrlSignals,1508,1482,off,0,1B
+#BoatState,9203,1,2,346594.328,4070317.567,-1.4242,47
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,9239,1,2,346594.328,4070317.567,-1.4244,48
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,9275,1,2,346594.387,4070317.511,-1.4245,45
+#CtrlSignals,1507,1480,off,0,16
+#CtrlSignals,1507,1482,off,0,14
+#CtrlSignals,1507,1482,off,0,14
+#BoatState,9527,1,2,346594.387,4070317.511,-1.4247,47
+#BoatState,9875,1,2,346594.548,4070317.378,-1.4261,45
+#BoatState,10214,1,2,346594.885,4070317.076,-1.4265,75
+#BoatState,10554,1,2,346595.281,4070316.736,-1.4317,7F
+#BoatState,10894,1,2,346595.661,4070316.378,-1.4338,77
+#BoatState,11233,1,2,346596.217,4070315.850,-1.4334,79
+#BoatState,11573,1,2,346596.578,4070315.252,-1.4284,76
+AHRS : 34.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,11931,1,2,346597.017,4070314.837,-1.4125,71
+#BoatState,12271,1,2,346597.530,4070314.347,-1.3985,74
+#BoatState,12611,1,2,346597.965,4070313.729,-1.3860,7B
+#BoatState,13274,1,2,346598.933,4070312.953,-1.3669,74
+#BoatState,13614,1,2,346599.297,4070312.484,-1.3532,78
+#BoatState,14277,1,2,346600.471,4070311.594,-1.3165,76
+#BoatState,14617,1,2,346600.828,4070310.755,-1.2989,71
+AHRS : 33.0 Hz GPGGA : 2.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,15299,1,2,346601.765,4070309.869,-1.2535,76
+#BoatState,15638,1,2,346602.116,4070308.697,-1.2305,73
+#BoatState,15978,1,2,346602.527,4070308.394,-1.2017,78
+#BoatState,16318,1,2,346603.133,4070308.179,-1.1697,7B
+#BoatState,16657,1,2,346603.513,4070307.766,-1.1322,7F
+#BoatState,16997,1,2,346603.972,4070307.628,-1.0964,75
+#BoatState,17337,1,2,346604.627,4070307.672,-1.0615,7A
+#BoatState,17676,1,2,346605.267,4070307.697,-1.0315,75
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,18035,1,2,346605.880,4070307.853,-1.0078,76
+#BoatState,18375,1,2,346606.286,4070308.086,-0.9826,7A
+#BoatState,18714,1,2,346607.190,4070308.661,-0.9709,71
+#BoatState,19054,1,2,346607.863,4070308.853,-0.9599,72
+#BoatState,19394,1,2,346608.387,4070309.028,-0.9406,71
+#BoatState,19733,1,2,346609.516,4070309.748,-0.9215,72
+#BoatState,20073,1,2,346610.119,4070310.181,-0.9069,7A
+#BoatState,20412,1,2,346610.645,4070310.504,-0.8966,79
+#BoatState,20752,1,2,346612.332,4070311.603,-0.8920,7E
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,21110,1,2,346613.087,4070312.236,-0.8968,7E
+#BoatState,21450,1,2,346614.681,4070313.132,-0.9193,73
+#BoatState,21790,1,2,346615.318,4070313.805,-0.9468,74
+#BoatState,22129,1,2,346616.167,4070314.659,-0.9828,72
+#BoatState,22469,1,2,346616.935,4070315.164,-1.0179,71
+#BoatState,22808,1,2,346617.785,4070316.129,-1.0496,70
+#BoatState,23148,1,2,346618.394,4070316.858,-1.0837,7F
+#BoatState,23488,1,2,346619.135,4070317.510,-1.1119,7A
+#BoatState,23827,1,2,346619.984,4070318.420,-1.1345,77
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,24185,1,2,346620.621,4070319.093,-1.1552,76
+#BoatState,24525,1,2,346621.558,4070319.853,-1.1729,7E
+#BoatState,24865,1,2,346622.224,4070320.507,-1.1898,7B
+#BoatState,25204,1,2,346622.936,4070321.197,-1.2060,7F
+#BoatState,25544,1,2,346623.993,4070322.029,-1.2177,72
+#BoatState,25884,1,2,346624.704,4070322.700,-1.2317,7C
+#BoatState,26223,1,2,346625.641,4070323.516,-1.2428,76
+#BoatState,26563,1,2,346626.383,4070324.187,-1.2559,71
+#BoatState,26903,1,2,346627.046,4070324.693,-1.2750,79
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,27261,1,2,346627.859,4070325.214,-1.3004,7C
+#BoatState,27601,1,2,346628.748,4070325.809,-1.3329,74
+#BoatState,28264,1,2,346629.975,4070326.194,-1.4202,7C
+#BoatState,28604,1,2,346630.858,4070326.474,-1.4593,7C
+#BoatState,29267,1,2,346631.927,4070326.307,-1.5434,7A
+#BoatState,29607,1,2,346632.714,4070326.219,-1.5820,72
+AHRS : 33.0 Hz GPGGA : 2.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,30289,1,2,346633.568,4070325.722,-1.6059,7B
+#BoatState,30629,1,2,346634.005,4070325.178,-1.6022,79
+#BoatState,30968,1,2,346634.151,4070325.028,-1.5942,7B
+#BoatState,31308,1,2,346634.692,4070324.481,-1.5800,7F
+#BoatState,31647,1,2,346634.940,4070324.199,-1.5650,76
+#BoatState,31987,1,2,346635.174,4070323.992,-1.5471,7E
+#BoatState,32327,1,2,346635.569,4070323.633,-1.5263,74
+#BoatState,32666,1,2,346635.891,4070323.313,-1.5034,79
+#BoatState,33006,1,2,346636.228,4070323.030,-1.4772,75
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,33365,1,2,346636.741,4070322.558,-1.4556,77
+#BoatState,33704,1,2,346637.106,4070322.218,-1.4388,76
+#BoatState,34044,1,2,346637.502,4070321.878,-1.4296,73
+#BoatState,34384,1,2,346638.044,4070321.388,-1.4272,7A
+#BoatState,34723,1,2,346638.675,4070320.896,-1.4286,79
+#BoatState,35063,1,2,346638.983,4070320.650,-1.4312,75
+#BoatState,35403,1,2,346639.539,4070320.140,-1.4348,72
+#BoatState,35742,1,2,346640.050,4070319.558,-1.4371,7D
+#BoatState,36082,1,2,346640.736,4070318.824,-1.4385,7E
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,36440,1,2,346641.101,4070318.447,-1.4429,7F
+#BoatState,36780,1,2,346641.917,4070317.453,-1.4526,7B
+#BoatState,37119,1,2,346642.354,4070316.927,-1.4622,7A
+#BoatState,37459,1,2,346642.732,4070316.421,-1.4701,74
+#BoatState,37799,1,2,346643.181,4070315.747,-1.4813,78
+#BoatState,38139,1,2,346643.790,4070314.866,-1.5006,7D
+#BoatState,38478,1,2,346644.134,4070314.120,-1.5324,7A
+#BoatState,38818,1,2,346644.491,4070313.300,-1.5699,7E
+#BoatState,39158,1,2,346644.689,4070312.723,-1.6169,76
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,39516,1,2,346644.839,4070311.944,-1.6685,74
+#BoatState,39856,1,2,346644.929,4070311.147,-1.7230,7D
+#BoatState,40195,1,2,346644.934,4070310.629,-1.7722,71
+#BoatState,40535,1,2,346644.763,4070309.355,-1.8151,78
+#BoatState,40875,1,2,346644.632,4070308.692,-1.8534,7C
+#BoatState,41214,1,2,346644.487,4070308.103,-1.8905,7D
+#BoatState,41554,1,2,346644.432,4070307.512,-1.9220,76
+#BoatState,41894,1,2,346644.109,4070306.944,-1.9530,72
+#BoatState,42233,1,2,346643.731,4070306.581,-1.9857,75
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,42592,1,2,346643.425,4070306.161,-2.0092,7E
+#BoatState,43255,1,2,346642.529,4070305.123,-2.0279,7D
+#BoatState,43595,1,2,346642.279,4070304.462,-2.0181,71
+#BoatState,44258,1,2,346641.236,4070303.555,-1.9871,76
+#BoatState,44598,1,2,346640.928,4070302.969,-1.9672,77
+#BoatState,44937,1,2,346640.928,4070302.969,-1.9487,76
+#BoatState,45277,1,2,346639.915,4070302.118,-1.9279,71
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,45635,1,2,346639.430,4070301.609,-1.9064,73
+#BoatState,45975,1,2,346639.172,4070301.354,-1.8905,79
+#BoatState,46314,1,2,346638.522,4070300.793,-1.8778,7D
+#BoatState,46654,1,2,346638.157,4070300.355,-1.8637,7E
+#BoatState,46994,1,2,346638.157,4070300.355,-1.8542,7C
+#BoatState,47334,1,2,346637.339,4070299.538,-1.8516,75
+#BoatState,47673,1,2,346636.916,4070299.175,-1.8471,78
+#BoatState,48013,1,2,346636.476,4070298.702,-1.8417,7B
+#BoatState,48353,1,2,346636.188,4070298.412,-1.8403,7F
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,48711,1,2,346635.779,4070298.012,-1.8417,77
+#BoatState,49050,1,2,346635.370,4070297.612,-1.8410,77
+#BoatState,49390,1,2,346635.128,4070297.376,-1.8403,72
+#BoatState,49730,1,2,346634.704,4070297.014,-1.8410,70
+#BoatState,50069,1,2,346634.447,4070296.760,-1.8422,73
+#BoatState,50409,1,2,346634.250,4070296.578,-1.8431,78
+#BoatState,50749,1,2,346633.991,4070296.250,-1.8425,76
+#BoatState,51088,1,2,346633.840,4070296.105,-1.8431,76
+#BoatState,51428,1,2,346633.655,4070295.756,-1.8446,71
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,51786,1,2,346633.563,4070295.592,-1.8439,72
+#BoatState,52126,1,2,346633.563,4070295.592,-1.8448,7B
+#BoatState,52466,1,2,346633.544,4070295.352,-1.8443,7E
+#BoatState,52805,1,2,346633.544,4070295.352,-1.8439,7A
+#BoatState,53145,1,2,346633.544,4070295.352,-1.8434,7B
+#BoatState,53485,1,2,346633.544,4070295.352,-1.8434,72
+#BoatState,53824,1,2,346633.586,4070295.203,-1.8434,7E
+#BoatState,54164,1,2,346633.586,4070295.203,-1.8450,76
+#BoatState,54504,1,2,346633.586,4070295.203,-1.8450,74
+AHRS : 33.0 Hz GPGGA : 3.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,54862,1,2,346633.755,4070294.719,-1.8453,79
+#BoatState,55202,1,2,346633.755,4070294.719,-1.8455,72
+#BoatState,55542,1,2,346633.755,4070294.719,-1.8462,75
+#BoatState,55881,1,2,346633.854,4070294.421,-1.8462,71
+#BoatState,56221,1,2,346633.854,4070294.421,-1.8466,76
+#BoatState,56561,1,2,346633.854,4070294.421,-1.8466,75
+#BoatState,56900,1,2,346634.107,4070293.566,-1.8464,71
+#BoatState,57240,1,2,346634.107,4070293.566,-1.8464,7F

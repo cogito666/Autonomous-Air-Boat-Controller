@@ -1,0 +1,890 @@
+#BoatState,6704,1,2,346589.990,4070331.240,-1.4071,4B
+#BoatState,6741,1,2,346589.990,4070331.240,-1.4071,4A
+#BoatState,6777,1,2,346589.990,4070331.240,-1.4071,4F
+#BoatState,6813,1,2,346589.990,4070331.240,-1.4073,40
+#BoatState,6850,1,2,346589.990,4070331.240,-1.4074,40
+#BoatState,6886,1,2,346589.990,4070331.240,-1.4074,4B
+#BoatState,6922,1,2,346590.033,4070331.147,-1.4074,48
+#BoatState,7031,1,2,346590.033,4070331.147,-1.4073,45
+#BoatState,7067,1,2,346590.033,4070331.147,-1.4073,46
+#BoatState,7103,1,2,346590.033,4070331.147,-1.4074,42
+#BoatState,7140,1,2,346590.033,4070331.147,-1.4076,47
+#BoatState,7176,1,2,346590.033,4070331.147,-1.4074,40
+#BoatState,7212,1,2,346590.033,4070331.147,-1.4074,41
+#BoatState,7248,1,2,346590.033,4070331.147,-1.4074,4E
+#BoatState,7285,1,2,346590.033,4070331.147,-1.4076,4D
+#BoatState,7321,1,2,346590.033,4070331.147,-1.4076,42
+#BoatState,7357,1,2,346590.033,4070331.147,-1.4073,46
+#BoatState,7394,1,2,346590.033,4070331.147,-1.4074,4E
+#BoatState,7430,1,2,346590.033,4070331.147,-1.4073,40
+#BoatState,7466,1,2,346590.033,4070331.147,-1.4071,41
+#BoatState,7502,1,2,346590.033,4070331.147,-1.4073,40
+#BoatState,7539,1,2,346590.033,4070331.147,-1.4069,43
+#BoatState,7575,1,2,346590.033,4070331.147,-1.4069,4B
+#BoatState,7611,1,2,346590.033,4070331.147,-1.4071,43
+#BoatState,7647,1,2,346590.033,4070331.147,-1.4067,47
+#BoatState,7684,1,2,346590.033,4070331.147,-1.4069,46
+#BoatState,7720,1,2,346590.033,4070331.147,-1.4071,40
+#BoatState,7756,1,2,346590.033,4070331.147,-1.4071,41
+#BoatState,7792,1,2,346590.033,4070331.147,-1.4071,49
+#BoatState,7829,1,2,346590.033,4070331.147,-1.4066,40
+#BoatState,7865,1,2,346590.033,4070331.147,-1.4067,49
+#BoatState,7901,1,2,346590.033,4070331.147,-1.4069,44
+#BoatState,7938,1,2,346590.048,4070331.110,-1.4069,40
+#BoatState,8046,1,2,346590.048,4070331.110,-1.4073,44
+#BoatState,8083,1,2,346590.048,4070331.110,-1.4071,4F
+#BoatState,8119,1,2,346590.048,4070331.110,-1.4071,4D
+#BoatState,8155,1,2,346590.048,4070331.110,-1.4071,45
+#BoatState,8191,1,2,346590.048,4070331.110,-1.4071,4D
+#BoatState,8228,1,2,346590.048,4070331.110,-1.4067,4B
+#BoatState,8264,1,2,346590.048,4070331.110,-1.4066,42
+#BoatState,8300,1,2,346590.048,4070331.110,-1.4069,4E
+#BoatState,8336,1,2,346590.048,4070331.110,-1.4067,45
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,8374,1,2,346590.048,4070331.110,-1.4069,4D
+#BoatState,8410,1,2,346590.048,4070331.110,-1.4071,41
+#BoatState,8446,1,2,346590.048,4070331.110,-1.4069,4B
+#BoatState,8482,1,2,346590.048,4070331.110,-1.4066,4C
+#BoatState,8519,1,2,346590.048,4070331.110,-1.4067,4E
+#BoatState,8555,1,2,346590.048,4070331.110,-1.4069,48
+#BoatState,8591,1,2,346590.048,4070331.110,-1.4071,49
+#BoatState,8628,1,2,346590.048,4070331.110,-1.4071,48
+#BoatState,8664,1,2,346590.048,4070331.110,-1.4067,47
+#BoatState,8736,1,2,346590.048,4070331.110,-1.4067,41
+#BoatState,8773,1,2,346590.048,4070331.110,-1.4067,40
+#BoatState,8809,1,2,346590.048,4070331.110,-1.4071,45
+#BoatState,8845,1,2,346590.048,4070331.110,-1.4073,4F
+#BoatState,8881,1,2,346590.048,4070331.110,-1.4074,40
+#BoatState,8918,1,2,346590.048,4070331.110,-1.4078,4D
+#BoatState,8954,1,2,346590.075,4070330.998,-1.4078,42
+#BoatState,8990,1,2,346590.075,4070330.998,-1.4078,4A
+#BoatState,9026,1,2,346590.075,4070330.998,-1.4076,41
+#BoatState,9063,1,2,346590.075,4070330.998,-1.4078,4E
+#BoatState,9099,1,2,346590.075,4070330.998,-1.4080,4C
+#BoatState,9135,1,2,346590.075,4070330.998,-1.4081,4A
+#BoatState,9172,1,2,346590.075,4070330.998,-1.4080,48
+#BoatState,9208,1,2,346590.075,4070330.998,-1.4081,47
+#BoatState,9244,1,2,346590.075,4070330.998,-1.4078,49
+#BoatState,9280,1,2,346590.075,4070330.998,-1.4078,41
+#BoatState,9317,1,2,346590.075,4070330.998,-1.4078,4E
+#BoatState,9353,1,2,346590.075,4070330.998,-1.4080,49
+#BoatState,9389,1,2,346590.075,4070330.998,-1.4080,4E
+#BoatState,9425,1,2,346590.075,4070330.998,-1.4078,48
+#BoatState,9462,1,2,346590.075,4070330.998,-1.4076,45
+#BoatState,9498,1,2,346590.075,4070330.998,-1.4074,42
+#BoatState,9534,1,2,346590.075,4070330.998,-1.4073,42
+#BoatState,9570,1,2,346590.075,4070330.998,-1.4073,42
+#BoatState,9607,1,2,346590.075,4070330.998,-1.4074,46
+#BoatState,9643,1,2,346590.075,4070330.998,-1.4073,41
+#BoatState,9679,1,2,346590.075,4070330.998,-1.4073,48
+#BoatState,9716,1,2,346590.075,4070330.998,-1.4073,40
+#BoatState,9752,1,2,346590.075,4070330.998,-1.4073,40
+#BoatState,9788,1,2,346590.075,4070330.998,-1.4071,45
+#BoatState,9824,1,2,346590.075,4070330.998,-1.4069,45
+#BoatState,9861,1,2,346590.075,4070330.998,-1.4069,44
+#BoatState,9897,1,2,346590.075,4070330.998,-1.4071,44
+#BoatState,9933,1,2,346590.088,4070330.887,-1.4069,4F
+#BoatState,10042,1,2,346590.088,4070330.887,-1.4073,73
+#BoatState,10078,1,2,346590.088,4070330.887,-1.4073,7A
+#BoatState,10114,1,2,346590.088,4070330.887,-1.4074,76
+#BoatState,10151,1,2,346590.088,4070330.887,-1.4074,77
+#BoatState,10187,1,2,346590.088,4070330.887,-1.4074,7C
+#BoatState,10223,1,2,346590.088,4070330.887,-1.4074,71
+#BoatState,10260,1,2,346590.088,4070330.887,-1.4071,73
+#BoatState,10296,1,2,346590.088,4070330.887,-1.4073,78
+#BoatState,10332,1,2,346590.088,4070330.887,-1.4073,77
+#BoatState,10368,1,2,346590.088,4070330.887,-1.4074,7F
+#BoatState,10405,1,2,346590.088,4070330.887,-1.4076,71
+#BoatState,10441,1,2,346590.088,4070330.887,-1.4076,71
+#BoatState,10477,1,2,346590.088,4070330.887,-1.4076,74
+#BoatState,10513,1,2,346590.088,4070330.887,-1.4074,75
+#BoatState,10550,1,2,346590.088,4070330.887,-1.4083,7A
+#BoatState,10586,1,2,346590.088,4070330.887,-1.4081,73
+#BoatState,10622,1,2,346590.088,4070330.887,-1.4081,7E
+#BoatState,10658,1,2,346590.088,4070330.887,-1.4081,73
+#BoatState,10695,1,2,346590.088,4070330.887,-1.4081,72
+#BoatState,10731,1,2,346590.088,4070330.887,-1.4081,7D
+#BoatState,10767,1,2,346590.088,4070330.887,-1.4080,7F
+#BoatState,10804,1,2,346590.088,4070330.887,-1.4078,72
+#BoatState,10840,1,2,346590.088,4070330.887,-1.4080,75
+#BoatState,10876,1,2,346590.088,4070330.887,-1.4080,70
+#BoatState,10912,1,2,346590.088,4070330.887,-1.4078,74
+#BoatState,10985,1,2,346590.088,4070330.887,-1.4080,7D
+#BoatState,11021,1,2,346590.116,4070330.757,-1.4080,7F
+#BoatState,11057,1,2,346590.116,4070330.757,-1.4076,77
+#BoatState,11094,1,2,346590.116,4070330.757,-1.4078,76
+#BoatState,11130,1,2,346590.116,4070330.757,-1.4078,79
+#BoatState,11166,1,2,346590.116,4070330.757,-1.4078,7A
+#BoatState,11202,1,2,346590.116,4070330.757,-1.4080,7C
+#BoatState,11239,1,2,346590.116,4070330.757,-1.4078,73
+#BoatState,11275,1,2,346590.116,4070330.757,-1.4078,7B
+#BoatState,11311,1,2,346590.116,4070330.757,-1.4078,78
+#BoatState,11348,1,2,346590.116,4070330.757,-1.4076,7A
+#BoatState,11384,1,2,346590.116,4070330.757,-1.4074,78
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,11421,1,2,346590.116,4070330.757,-1.4073,77
+#BoatState,11458,1,2,346590.116,4070330.757,-1.4071,7B
+#BoatState,11494,1,2,346590.116,4070330.757,-1.4071,7B
+#BoatState,11530,1,2,346590.116,4070330.757,-1.4067,73
+#BoatState,11566,1,2,346590.116,4070330.757,-1.4067,70
+#BoatState,11603,1,2,346590.116,4070330.757,-1.4067,70
+#BoatState,11639,1,2,346590.116,4070330.757,-1.4071,7E
+#BoatState,11675,1,2,346590.116,4070330.757,-1.4069,7F
+#BoatState,11711,1,2,346590.116,4070330.757,-1.4067,72
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+Max num packet reached.
+@Actions for pump are not implemented yet
+#BoatState,11748,1,2,346590.116,4070330.757,-1.4069,70
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+Max num packet reached.
+@Actions for pump are not implemented yet
+#BoatState,11846,1,2,346590.116,4070330.757,-1.4067,7F
+#BoatState,11930,1,2,346590.116,4070330.757,-1.4067,7F
+#BoatState,11966,1,2,346590.116,4070330.757,-1.4067,7C
+#BoatState,12003,1,2,346590.100,4070330.702,-1.4066,73
+deserializing...1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+Max num packet reached.
+@Actions for pump are not implemented yet
+#BoatState,12039,1,2,346590.100,4070330.702,-1.4066,7A
+deserializing...umpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+Max num packet reached.
+@Actions for pump are not implemented yet
+#BoatState,12113,1,2,346590.100,4070330.702,-1.4067,72
+#BoatState,12188,1,2,346590.100,4070330.702,-1.4069,7E
+#BoatState,12224,1,2,346590.100,4070330.702,-1.4071,72
+deserializing...
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+deserializing...#PumpCtrl,1,2F
+Deserialize Succeeded
+Packet Received : #PumpCtrl,1,2F
+Max num packet reached.
+@Actions for pump are not implemented yet
+#BoatState,12260,1,2,346590.100,4070330.702,-1.4069,7B
+AHRS : 52.0 Hz GPGGA : 10.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,15596,1,2,346590.100,4070330.702,-1.4069,72
+#BoatState,15669,1,2,346590.100,4070330.702,-1.4069,71
+#BoatState,15705,1,2,346590.100,4070330.702,-1.4066,75
+#BoatState,15741,1,2,346589.963,4070330.556,-1.4066,73
+#BoatState,15778,1,2,346589.963,4070330.556,-1.4064,7B
+#BoatState,15814,1,2,346589.963,4070330.556,-1.4064,7E
+#BoatState,15850,1,2,346589.963,4070330.556,-1.4064,7E
+#BoatState,15886,1,2,346589.963,4070330.556,-1.4062,73
+#BoatState,15923,1,2,346589.963,4070330.556,-1.4066,79
+#BoatState,16032,1,2,346589.948,4070330.538,-1.4069,7D
+#BoatState,16068,1,2,346589.948,4070330.538,-1.4069,72
+#BoatState,16104,1,2,346589.948,4070330.538,-1.4067,77
+#BoatState,16140,1,2,346589.948,4070330.538,-1.4067,77
+#BoatState,16177,1,2,346589.948,4070330.538,-1.4066,72
+#BoatState,16213,1,2,346589.948,4070330.538,-1.4067,72
+#BoatState,16249,1,2,346589.948,4070330.538,-1.4069,73
+#BoatState,16285,1,2,346589.948,4070330.538,-1.4069,73
+#BoatState,16322,1,2,346589.948,4070330.538,-1.4071,76
+#BoatState,16358,1,2,346589.948,4070330.538,-1.4071,7B
+#BoatState,16394,1,2,346589.948,4070330.538,-1.4069,72
+#BoatState,16430,1,2,346589.948,4070330.538,-1.4071,72
+#BoatState,16467,1,2,346589.948,4070330.538,-1.4073,72
+#BoatState,16503,1,2,346589.948,4070330.538,-1.4073,71
+#BoatState,16539,1,2,346589.948,4070330.538,-1.4073,78
+#BoatState,16576,1,2,346589.948,4070330.538,-1.4074,74
+#BoatState,16612,1,2,346589.948,4070330.538,-1.4073,72
+#BoatState,16648,1,2,346589.948,4070330.538,-1.4073,7D
+#BoatState,16684,1,2,346589.948,4070330.538,-1.4074,7A
+#BoatState,16721,1,2,346589.948,4070330.538,-1.4074,74
+#BoatState,16757,1,2,346589.948,4070330.538,-1.4076,77
+#BoatState,16793,1,2,346589.948,4070330.538,-1.4076,7F
+#BoatState,16829,1,2,346589.948,4070330.538,-1.4076,71
+#BoatState,16866,1,2,346589.948,4070330.538,-1.4074,78
+#BoatState,16902,1,2,346589.948,4070330.538,-1.4076,79
+#BoatState,16938,1,2,346589.948,4070330.538,-1.4076,70
+#BoatState,17047,1,2,346589.918,4070330.520,-1.4076,7C
+#BoatState,17083,1,2,346589.918,4070330.520,-1.4073,71
+#BoatState,17120,1,2,346589.918,4070330.520,-1.4073,79
+#BoatState,17156,1,2,346589.918,4070330.520,-1.4073,78
+#BoatState,17192,1,2,346589.918,4070330.520,-1.4074,77
+#BoatState,17228,1,2,346589.918,4070330.520,-1.4073,72
+#BoatState,17265,1,2,346589.918,4070330.520,-1.4071,79
+#BoatState,17301,1,2,346589.918,4070330.520,-1.4069,73
+#BoatState,17337,1,2,346589.918,4070330.520,-1.4067,78
+#BoatState,17373,1,2,346589.918,4070330.520,-1.4067,78
+#BoatState,17410,1,2,346589.918,4070330.520,-1.4069,74
+#BoatState,17446,1,2,346589.918,4070330.520,-1.4067,79
+#BoatState,17482,1,2,346589.918,4070330.520,-1.4069,7F
+#BoatState,17518,1,2,346589.918,4070330.520,-1.4069,7D
+#BoatState,17555,1,2,346589.918,4070330.520,-1.4071,7D
+#BoatState,17591,1,2,346589.918,4070330.520,-1.4071,75
+#BoatState,17627,1,2,346589.918,4070330.520,-1.4067,7C
+#BoatState,17664,1,2,346589.918,4070330.520,-1.4067,7B
+#BoatState,17700,1,2,346589.918,4070330.520,-1.4067,78
+#BoatState,17736,1,2,346589.918,4070330.520,-1.4066,7C
+#BoatState,17772,1,2,346589.918,4070330.520,-1.4066,7C
+#BoatState,17809,1,2,346589.918,4070330.520,-1.4064,7D
+#BoatState,17845,1,2,346589.918,4070330.520,-1.4062,73
+#BoatState,17881,1,2,346589.918,4070330.520,-1.4066,7F
+#BoatState,17917,1,2,346589.918,4070330.520,-1.4066,71
+#BoatState,17954,1,2,346589.918,4070330.520,-1.4066,76
+#BoatState,18026,1,2,346589.918,4070330.520,-1.4064,77
+#BoatState,18062,1,2,346589.903,4070330.483,-1.4064,75
+#BoatState,18099,1,2,346589.903,4070330.483,-1.4062,77
+#BoatState,18135,1,2,346589.903,4070330.483,-1.4064,76
+#BoatState,18171,1,2,346589.903,4070330.483,-1.4064,76
+#BoatState,18208,1,2,346589.903,4070330.483,-1.4062,7D
+#BoatState,18244,1,2,346589.903,4070330.483,-1.4062,75
+#BoatState,18280,1,2,346589.903,4070330.483,-1.4059,75
+#BoatState,18316,1,2,346589.903,4070330.483,-1.4060,71
+#BoatState,18353,1,2,346589.903,4070330.483,-1.4060,70
+#BoatState,18389,1,2,346589.903,4070330.483,-1.4062,75
+#BoatState,18425,1,2,346589.903,4070330.483,-1.4060,76
+#BoatState,18461,1,2,346589.903,4070330.483,-1.4062,74
+#BoatState,18498,1,2,346589.903,4070330.483,-1.4062,72
+#BoatState,18534,1,2,346589.903,4070330.483,-1.4062,75
+#BoatState,18570,1,2,346589.903,4070330.483,-1.4064,73
+#BoatState,18606,1,2,346589.903,4070330.483,-1.4064,71
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,18644,1,2,346589.903,4070330.483,-1.4066,75
+#BoatState,18680,1,2,346589.903,4070330.483,-1.4066,7D
+#BoatState,18716,1,2,346589.903,4070330.483,-1.4062,77
+#BoatState,18753,1,2,346589.903,4070330.483,-1.4064,70
+#BoatState,18789,1,2,346589.903,4070330.483,-1.4064,77
+#BoatState,18825,1,2,346589.903,4070330.483,-1.4060,7A
+#BoatState,18862,1,2,346589.903,4070330.483,-1.4060,79
+#BoatState,18898,1,2,346589.903,4070330.483,-1.4062,7E
+#BoatState,19007,1,2,346589.903,4070330.483,-1.4064,77
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is selected
+Semiauto::initialize - begin
+Semiauto::initialize - add first sample pose
+Semiauto::initialize - end
+#BoatState,19043,2,1,346589.903,4070330.483,-1.4067,74
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19163,2,1,346589.902,4070330.446,-1.4067,7F
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19264,2,1,346589.902,4070330.446,-1.4069,75
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19300,2,1,346589.902,4070330.446,-1.4069,76
+deserializing...2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19337,2,1,346589.902,4070330.446,-1.4071,7B
+deserializing...hngCtngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19415,2,1,346589.902,4070330.446,-1.4071,7C
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19495,2,1,346589.902,4070330.446,-1.4066,72
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19531,2,1,346589.902,4070330.446,-1.4066,7D
+deserializing...trlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19568,2,1,346589.902,4070330.446,-1.4066,71
+deserializing...ode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19651,2,1,346589.902,4070330.446,-1.4067,79
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,1CtrlModlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19826,2,1,346589.902,4070330.446,-1.4071,70
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19862,2,1,346589.902,4070330.446,-1.4073,72
+deserializing...e,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#C
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,19898,2,1,346589.902,4070330.446,-1.4071,75
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#5
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - end
+AHRS : 50.0 Hz GPGGA : 8.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,22869,2,1,346589.901,4070330.391,-1.4067,7A
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+deserializing...6
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+Initializing Manual Controller
+#BoatState,2288,1,2,346589.850,4070330.022,-1.4081,4B
+Acquiring GPS
+#BoatState,2382,1,2,346589.850,4070330.022,-1.4080,41
+Acquiring GPS
+#BoatState,2451,1,2,346589.850,4070330.022,-1.4078,4F
+Acquiring GPS
+#BoatState,2477,1,2,346589.850,4070330.022,-1.4078,4B
+Acquiring GPS
+#BoatState,2503,1,2,346589.850,4070330.022,-1.4076,47
+Acquiring GPS
+#BoatState,2529,1,2,346589.850,4070330.022,-1.4080,46
+Acquiring GPS
+#BoatState,2555,1,2,346589.850,4070330.022,-1.4081,4C
+Acquiring GPS
+#BoatState,2581,1,2,346589.850,4070330.022,-1.4080,44
+Acquiring GPS
+#BoatState,2607,1,2,346589.850,4070330.022,-1.4080,49
+Acquiring GPS
+#BoatState,2633,1,2,346589.849,4070329.966,-1.4080,47
+Acquiring GPS
+#BoatState,2659,1,2,346589.849,4070329.966,-1.4080,4B
+Acquiring GPS
+#BoatState,2685,1,2,346589.849,4070329.966,-1.4080,4A
+Acquiring GPS
+#BoatState,2710,1,2,346589.849,4070329.966,-1.4080,47
+Acquiring GPS
+#BoatState,2736,1,2,346589.849,4070329.966,-1.4081,42
+Acquiring GPS
+#BoatState,2762,1,2,346589.849,4070329.966,-1.4080,42
+Acquiring GPS
+#BoatState,2788,1,2,346589.849,4070329.966,-1.4080,46
+Acquiring GPS
+#BoatState,2814,1,2,346589.849,4070329.966,-1.4076,45
+Acquiring GPS
+#BoatState,2840,1,2,346589.849,4070329.966,-1.4074,46
+Acquiring GPS
+#BoatState,2866,1,2,346589.849,4070329.966,-1.4074,42
+Acquiring GPS
+#BoatState,2892,1,2,346589.849,4070329.966,-1.4073,4E
+Acquiring GPS
+#BoatState,2918,1,2,346589.849,4070329.966,-1.4074,4A
+Acquiring GPS
+#BoatState,2954,1,2,346589.849,4070329.966,-1.4074,42
+Acquiring GPS
+#BoatState,2990,1,2,346589.849,4070329.966,-1.4076,48
+Acquiring GPS
+#BoatState,3026,1,2,346589.849,4070329.966,-1.4076,4D
+Acquiring GPS
+deserializing...6
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlModeMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+#BoatState,3063,1,2,346589.849,4070329.966,-1.4078,42
+Acquiring GPS
+#BoatState,3140,1,2,346589.849,4070329.966,-1.4078,42
+Acquiring GPS
+#BoatState,3176,1,2,346589.849,4070329.966,-1.4076,49
+Acquiring GPS
+#BoatState,3212,1,2,346589.849,4070329.966,-1.4076,48
+Acquiring GPS
+#BoatState,3248,1,2,346589.849,4070329.966,-1.4074,45
+Home position acquired : 346589.849 4070329.983
+deserializing...6
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+#BoatState,3285,1,2,346589.849,4070329.966,-1.4074,44
+deserializing...ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngChngCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+#BoatState,3382,1,2,346589.849,4070329.966,-1.4073,45
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+Initializing Manual Controller
+#BoatState,2288,1,2,346589.950,4070329.817,-1.4055,45
+Acquiring GPS
+#BoatState,2318,1,2,346589.950,4070329.817,-1.4053,4B
+Acquiring GPS
+#BoatState,2339,1,2,346589.950,4070329.817,-1.4053,48
+Acquiring GPS
+#BoatState,2362,1,2,346589.950,4070329.817,-1.4053,46
+Acquiring GPS
+#BoatState,2387,1,2,346589.950,4070329.817,-1.4053,4D
+Acquiring GPS
+#BoatState,2413,1,2,346589.950,4070329.817,-1.4053,47
+Acquiring GPS
+#BoatState,2439,1,2,346589.950,4070329.817,-1.4057,4B
+Acquiring GPS
+#BoatState,2465,1,2,346589.950,4070329.817,-1.4055,40
+Acquiring GPS
+#BoatState,2491,1,2,346589.950,4070329.817,-1.4057,49
+Acquiring GPS
+#BoatState,2517,1,2,346589.950,4070329.817,-1.4057,46
+Acquiring GPS
+#BoatState,2543,1,2,346589.950,4070329.817,-1.4055,45
+Acquiring GPS
+#BoatState,2569,1,2,346589.950,4070329.817,-1.4055,4D
+Acquiring GPS
+#BoatState,2595,1,2,346589.980,4070329.816,-1.4057,40
+Acquiring GPS
+#BoatState,2621,1,2,346589.980,4070329.816,-1.4055,4E
+Acquiring GPS
+#BoatState,2646,1,2,346589.980,4070329.816,-1.4057,4D
+Acquiring GPS
+#BoatState,2672,1,2,346589.980,4070329.816,-1.4059,44
+Acquiring GPS
+#BoatState,2698,1,2,346589.980,4070329.816,-1.4059,40
+Acquiring GPS
+#BoatState,2724,1,2,346589.980,4070329.816,-1.4055,4A
+Acquiring GPS
+#BoatState,2750,1,2,346589.980,4070329.816,-1.4052,4E
+Acquiring GPS
+#BoatState,2776,1,2,346589.980,4070329.816,-1.4046,4F
+Acquiring GPS
+#BoatState,2802,1,2,346589.980,4070329.816,-1.4043,46
+Acquiring GPS
+#BoatState,2828,1,2,346589.980,4070329.816,-1.4039,43
+Acquiring GPS
+#BoatState,2854,1,2,346589.980,4070329.816,-1.4036,47
+Acquiring GPS
+#BoatState,2880,1,2,346589.980,4070329.816,-1.4031,49
+Acquiring GPS
+#BoatState,2906,1,2,346589.980,4070329.816,-1.4034,43
+Acquiring GPS
+#BoatState,2931,1,2,346589.980,4070329.816,-1.4036,45
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+Initializing Manual Controller
+#BoatState,2288,1,2,346590.053,4070329.741,-1.4066,4B
+Acquiring GPS
+#BoatState,2362,1,2,346590.053,4070329.741,-1.4066,4E
+Acquiring GPS
+#BoatState,2387,1,2,346590.053,4070329.741,-1.4067,44
+Acquiring GPS
+#BoatState,2413,1,2,346590.053,4070329.741,-1.4067,4E
+Acquiring GPS
+#BoatState,2439,1,2,346590.053,4070329.741,-1.4069,48
+Acquiring GPS
+#BoatState,2465,1,2,346590.053,4070329.741,-1.4071,48
+Acquiring GPS
+#BoatState,2491,1,2,346590.053,4070329.741,-1.4071,43
+Acquiring GPS
+#BoatState,2517,1,2,346590.053,4070329.741,-1.4069,45
+Acquiring GPS
+#BoatState,2543,1,2,346590.053,4070329.741,-1.4069,44
+Acquiring GPS
+#BoatState,2647,1,2,346590.053,4070329.741,-1.4069,43
+Acquiring GPS
+#BoatState,2672,1,2,346590.053,4070329.741,-1.4069,45
+Acquiring GPS
+#BoatState,2698,1,2,346590.053,4070329.741,-1.4069,41
+Acquiring GPS
+#BoatState,2724,1,2,346590.053,4070329.741,-1.4071,4E
+Acquiring GPS
+#BoatState,2750,1,2,346590.053,4070329.741,-1.4067,4A
+Acquiring GPS
+#BoatState,2776,1,2,346590.053,4070329.741,-1.4067,4E
+Acquiring GPS
+#BoatState,2802,1,2,346590.053,4070329.741,-1.4067,42
+Acquiring GPS
+#BoatState,2828,1,2,346590.053,4070329.741,-1.4067,4A
+Acquiring GPS
+#BoatState,2854,1,2,346590.053,4070329.741,-1.4069,4F
+Acquiring GPS
+#BoatState,2880,1,2,346590.053,4070329.741,-1.4069,46
+Acquiring GPS
+#BoatState,2906,1,2,346590.053,4070329.741,-1.4069,49
+Acquiring GPS
+#BoatState,2931,1,2,346590.053,4070329.741,-1.4071,44
+Acquiring GPS
+#BoatState,2968,1,2,346590.053,4070329.741,-1.4069,41
+Acquiring GPS
+#BoatState,3004,1,2,346590.053,4070329.741,-1.4069,43
+Acquiring GPS
+#BoatState,3040,1,2,346590.053,4070329.741,-1.4069,43
+Acquiring GPS
+#BoatState,3077,1,2,346590.053,4070329.741,-1.4071,4E
+Acquiring GPS
+#BoatState,3113,1,2,346590.053,4070329.741,-1.4073,4F
+Acquiring GPS
+#BoatState,3149,1,2,346590.053,4070329.741,-1.4074,47
+Acquiring GPS
+#BoatState,3185,1,2,346590.053,4070329.741,-1.4073,40
+Acquiring GPS
+#BoatState,3222,1,2,346590.053,4070329.741,-1.4073,4E
+Home position acquired : 346590.053 4070329.741
+#BoatState,3258,1,2,346590.053,4070329.741,-1.4069,48
+#BoatState,3294,1,2,346590.053,4070329.741,-1.4069,48
+#BoatState,3330,1,2,346590.053,4070329.741,-1.4069,47
+#BoatState,3367,1,2,346590.053,4070329.741,-1.4073,4E
+#BoatState,3403,1,2,346590.053,4070329.741,-1.4073,4B
+#BoatState,3439,1,2,346590.053,4070329.741,-1.4071,40
+#BoatState,3475,1,2,346590.053,4070329.741,-1.4073,4A
+#BoatState,3512,1,2,346590.053,4070329.741,-1.4073,4A
+#BoatState,3548,1,2,346590.053,4070329.741,-1.4074,42
+#BoatState,3584,1,2,346590.053,4070329.741,-1.4073,45
+#BoatState,3657,1,2,346590.053,4070329.741,-1.4074,4F
+#BoatState,3693,1,2,346590.053,4070329.741,-1.4073,40
+#BoatState,3729,1,2,346590.053,4070329.741,-1.4071,42
+#BoatState,3766,1,2,346590.053,4070329.741,-1.4071,49
+#BoatState,3802,1,2,346590.053,4070329.741,-1.4073,46
+#BoatState,3874,1,2,346590.053,4070329.741,-1.4071,45
+#BoatState,3911,1,2,346590.053,4070329.741,-1.4069,4E
+#BoatState,3947,1,2,346590.053,4070329.741,-1.4069,4D
+#BoatState,3983,1,2,346590.053,4070329.741,-1.4071,4C
+#BoatState,4020,1,2,346590.053,4070329.741,-1.4067,4C
+#BoatState,4056,1,2,346590.053,4070329.741,-1.4067,4D
+#BoatState,4092,1,2,346590.039,4070329.778,-1.4066,42
+#BoatState,4128,1,2,346590.039,4070329.778,-1.4069,4D
+#BoatState,4165,1,2,346590.039,4070329.778,-1.4067,4A
+#BoatState,4201,1,2,346590.039,4070329.778,-1.4067,4B
+#BoatState,4237,1,2,346590.039,4070329.778,-1.4067,4E
+#BoatState,4273,1,2,346590.039,4070329.778,-1.4066,4F
+#BoatState,4310,1,2,346590.039,4070329.778,-1.4067,4A
+#BoatState,4346,1,2,346590.039,4070329.778,-1.4067,49
+#BoatState,4382,1,2,346590.039,4070329.778,-1.4071,46
+#BoatState,4418,1,2,346590.039,4070329.778,-1.4067,45
+#BoatState,4455,1,2,346590.039,4070329.778,-1.4066,4D
+#BoatState,4491,1,2,346590.039,4070329.778,-1.4064,47
+#BoatState,4527,1,2,346590.039,4070329.778,-1.4062,4D
+#BoatState,4563,1,2,346590.039,4070329.778,-1.4064,4B
+#BoatState,4672,1,2,346590.039,4070329.778,-1.4066,4A
+#BoatState,4709,1,2,346590.039,4070329.778,-1.4067,46
+#BoatState,4781,1,2,346590.039,4070329.778,-1.4069,48
+#BoatState,4817,1,2,346590.039,4070329.778,-1.4069,48
+#BoatState,4854,1,2,346590.039,4070329.778,-1.4069,4F
+#BoatState,4890,1,2,346590.039,4070329.778,-1.4069,47
+#BoatState,4926,1,2,346590.039,4070329.778,-1.4069,4B
+#BoatState,4962,1,2,346590.039,4070329.778,-1.4069,4B
+#BoatState,4999,1,2,346590.039,4070329.778,-1.4069,4F
+#BoatState,5035,1,2,346590.039,4070329.778,-1.4071,48
+#BoatState,5071,1,2,346590.024,4070329.797,-1.4069,4C
+#BoatState,5107,1,2,346590.024,4070329.797,-1.4066,43
+#BoatState,5144,1,2,346590.024,4070329.797,-1.4066,44
+#BoatState,5180,1,2,346590.024,4070329.797,-1.4066,4C
+#BoatState,5216,1,2,346590.024,4070329.797,-1.4064,42
+#BoatState,5253,1,2,346590.024,4070329.797,-1.4067,40
+#BoatState,5289,1,2,346590.024,4070329.797,-1.4066,46
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,5326,1,2,346590.024,4070329.797,-1.4066,42
+#BoatState,5362,1,2,346590.024,4070329.797,-1.4066,42
+#BoatState,5399,1,2,346590.024,4070329.797,-1.4062,42
+#BoatState,5435,1,2,346590.024,4070329.797,-1.4064,45
+#BoatState,5471,1,2,346590.024,4070329.797,-1.4066,47
+#BoatState,5507,1,2,346590.024,4070329.797,-1.4066,47
+#BoatState,5544,1,2,346590.024,4070329.797,-1.4066,40
+#BoatState,5580,1,2,346590.024,4070329.797,-1.4064,4A
+#BoatState,5689,1,2,346590.024,4070329.797,-1.4067,43
+#BoatState,5725,1,2,346590.024,4070329.797,-1.4067,44
+#BoatState,5761,1,2,346590.024,4070329.797,-1.4067,44
+#BoatState,5798,1,2,346590.024,4070329.797,-1.4067,42
+#BoatState,5834,1,2,346590.024,4070329.797,-1.4067,4B
+#BoatState,5870,1,2,346590.024,4070329.797,-1.4067,4B
+#BoatState,5906,1,2,346590.024,4070329.797,-1.4066,4A
+#BoatState,5943,1,2,346590.024,4070329.797,-1.4067,4A
+#BoatState,5979,1,2,346590.024,4070329.797,-1.4067,43
+#BoatState,6015,1,2,346590.024,4070329.797,-1.4066,42
+#BoatState,6051,1,2,346590.024,4070329.797,-1.4066,42
+#BoatState,6088,1,2,346590.010,4070329.834,-1.4062,43
+#BoatState,6124,1,2,346590.010,4070329.834,-1.4062,44
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+Max num packet reached.
+@Change control mode
+@semiauto controller is selected
+Semiauto::initialize - begin
+Semiauto::initialize - add first sample pose
+Semiauto::initialize - end
+#BoatState,6160,2,1,346590.010,4070329.834,-1.4064,42
+Semiauto::initialize - begin
+Semiauto::initialize - end
+#BoatState,7434,2,1,346590.010,4070329.834,-1.4069,4A
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller selected
+Initializing Manual Controller
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+#BoatState,7576,1,2,346589.966,4070329.872,-1.4073,44
+deserializing...16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+AHRS : 43.0 Hz GPGGA : 8.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+deserializing...ngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+#BoatState,9326,1,2,346589.966,4070329.872,-1.4087,42
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+deserializing...6
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+Max num packet reached.
+@Change control mode
+@manual controller is already selected
+Initializing Manual Controller
+#BoatState,2288,1,2,346589.733,4070330.153,-1.4073,4B
+Acquiring GPS
+#BoatState,2381,1,2,346589.733,4070330.153,-1.4076,46
+Acquiring GPS
+#BoatState,2403,1,2,346589.733,4070330.153,-1.4076,4B
+Acquiring GPS
+#BoatState,2425,1,2,346589.733,4070330.153,-1.4074,4D

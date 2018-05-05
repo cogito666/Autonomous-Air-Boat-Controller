@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Sensor">
+      <UniqueIdentifier>{dee320f5-d719-44a3-8eb2-27b2fdd3f5a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Control">
+      <UniqueIdentifier>{1a09a744-578f-4140-a406-90d159644488}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Containers">
+      <UniqueIdentifier>{ed589c2e-2f8d-4211-9c67-23f9e95a11c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{69bfdbd1-21a8-436d-aace-f2fc55b6c9d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SimplePacket">
+      <UniqueIdentifier>{5aac0ea5-2f1a-4e01-808c-ecf9982d4b81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Globals">
+      <UniqueIdentifier>{74145983-261b-4ef0-9d49-09754edaaae7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BoatController2.ino" />
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CircularStack.h">
+      <Filter>Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularContainer.h">
+      <Filter>Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularDeque.h">
+      <Filter>Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueue.h">
+      <Filter>Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularArray.h">
+      <Filter>Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="WayPoints.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="PWMWidthCounterPolling.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="PWMWidthCounterI2C.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketWayPoints.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCarrotPoint.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketControlSignals.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommandConfigSemiauto.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommandResetBoard.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeServo.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="__vm\.BoatController2.vsarduino.h">
+      <Filter>Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatState.h">
+      <Filter>Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommands.h">
+      <Filter>Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="ServoInputOutput.h">
+      <Filter>Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="LineFit.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Line2D.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="MeanCalculator.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLineMath.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="StringConversion.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatControllers.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="ServoUpdater.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketHeadingControlState.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketRCReadings.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h">
+      <Filter>Globals</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckSum.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixMath.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="MathUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="FrequencyEstimator.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="EBIMU.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="AHRS.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="LatLonToUTM.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyGPS++.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="PID.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="PWMWidthCounterSerial.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="PWMWidthCounter.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="SerialLogger.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="RingArray.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ControllerSelector.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="SensorSerialParse.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatControllerInterface.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatControllerManual.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="PWMWidthCounterIface.h">
+      <Filter>Sensor</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatControllerHeading.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="AnglePulseWidthMapper.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="ElapsedTime.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeoutTimer.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Point2D.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Pose2D.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="BoatControllerSemiauto.h">
+      <Filter>Control</Filter>
+    </ClInclude>
+    <ClInclude Include="DeserializeManager.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketBoatState.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommandChangeControlMode.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommandGoHome.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommandPumpControl.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommandTurn.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="Serializable.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketCommandSetLogLevel.h">
+      <Filter>SimplePacket</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="MathUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixMath.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyGPS++.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="PWMWidthCounter.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="PWMWidthCounterSerial.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="LatLonToUTM.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="EBIMU.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="FrequencyEstimator.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="EBIMU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PID.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="SerialLogger.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ControllerSelector.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="SensorSerialParse.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="BoatControllerManual.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="BoatControllerHeading.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="AnglePulseWidthMapper.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="ElapsedTime.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeoutTimer.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="BoatControllerSemiauto.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Serializable.cpp">
+      <Filter>SimplePacket</Filter>
+    </ClCompile>
+    <ClCompile Include="WayPoints.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="PWMWidthCounterPolling.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="SafeServo.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="Globals.cpp">
+      <Filter>Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketCommands.cpp">
+      <Filter>Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="ServoInputOutput.cpp">
+      <Filter>Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="Line2D.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Point2D.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLineMath.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Pose2D.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="StringConversion.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="PWMWidthCounterI2C.cpp">
+      <Filter>Sensor</Filter>
+    </ClCompile>
+    <ClCompile Include="BoatControllers.cpp">
+      <Filter>Control</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="DeserializeManager.cpp">
+      <Filter>SimplePacket</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

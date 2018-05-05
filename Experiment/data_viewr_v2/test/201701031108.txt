@@ -1,0 +1,4407 @@
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586421,2,1,346581.061,4070312.127,-2.3908,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586459,2,1,346581.061,4070312.127,-2.3911,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586497,2,1,346581.061,4070312.127,-2.3909,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586535,2,1,346581.061,4070312.127,-2.3908,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586572,2,1,346581.061,4070312.127,-2.3908,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586610,2,1,346581.061,4070312.127,-2.3911,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586648,2,1,346581.061,4070312.127,-2.3913,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586686,2,1,346581.061,4070312.127,-2.3911,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586723,2,1,346581.061,4070312.127,-2.3911,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586761,2,1,346581.061,4070312.127,-2.3913,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586799,2,1,346581.061,4070312.127,-2.3909,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586837,2,1,346581.061,4070312.127,-2.3909,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586875,2,1,346581.061,4070312.127,-2.3904,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586912,2,1,346581.061,4070312.127,-2.3901,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586950,2,1,346581.061,4070312.127,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,586988,2,1,346581.061,4070312.127,-2.3904,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587026,2,1,346581.061,4070312.127,-2.3902,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587064,2,1,346581.061,4070312.127,-2.3901,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587101,2,1,346581.061,4070312.127,-2.3901,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587176,2,1,346581.061,4070312.127,-2.3899,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587213,2,1,346581.061,4070312.127,-2.3902,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587251,2,1,346581.061,4070312.127,-2.3901,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587289,2,1,346581.061,4070312.146,-2.3902,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587327,2,1,346581.061,4070312.146,-2.3901,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587365,2,1,346581.061,4070312.146,-2.3895,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587402,2,1,346581.061,4070312.146,-2.3894,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587440,2,1,346581.061,4070312.146,-2.3892,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587478,2,1,346581.061,4070312.146,-2.3892,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587516,2,1,346581.061,4070312.146,-2.3888,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587554,2,1,346581.061,4070312.146,-2.3888,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587591,2,1,346581.061,4070312.146,-2.3885,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587629,2,1,346581.061,4070312.146,-2.3883,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587667,2,1,346581.061,4070312.146,-2.3888,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587705,2,1,346581.061,4070312.146,-2.3888,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587742,2,1,346581.061,4070312.146,-2.3888,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587780,2,1,346581.061,4070312.146,-2.3888,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587818,2,1,346581.061,4070312.146,-2.3892,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587892,2,1,346581.061,4070312.146,-2.3887,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587930,2,1,346581.061,4070312.146,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,587968,2,1,346581.061,4070312.146,-2.3892,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588005,2,1,346581.061,4070312.146,-2.3892,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588043,2,1,346581.061,4070312.146,-2.3892,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588081,2,1,346581.061,4070312.146,-2.3890,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588192,2,1,346581.061,4070312.146,-2.3892,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588229,2,1,346581.061,4070312.146,-2.3897,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588267,2,1,346581.061,4070312.146,-2.3895,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588305,2,1,346581.046,4070312.164,-2.3897,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588343,2,1,346581.046,4070312.164,-2.3897,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588381,2,1,346581.046,4070312.164,-2.3897,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588418,2,1,346581.046,4070312.164,-2.3899,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588456,2,1,346581.046,4070312.164,-2.3895,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588494,2,1,346581.046,4070312.164,-2.3895,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588532,2,1,346581.046,4070312.164,-2.3895,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588570,2,1,346581.046,4070312.164,-2.3897,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588607,2,1,346581.046,4070312.164,-2.3895,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588645,2,1,346581.046,4070312.164,-2.3899,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588683,2,1,346581.046,4070312.164,-2.3899,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588721,2,1,346581.046,4070312.164,-2.3897,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588758,2,1,346581.046,4070312.164,-2.3894,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588796,2,1,346581.046,4070312.164,-2.3888,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588834,2,1,346581.046,4070312.164,-2.3887,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588872,2,1,346581.046,4070312.164,-2.3885,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588910,2,1,346581.046,4070312.164,-2.3887,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588947,2,1,346581.046,4070312.164,-2.3881,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,588985,2,1,346581.046,4070312.164,-2.3883,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589023,2,1,346581.046,4070312.164,-2.3885,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589061,2,1,346581.046,4070312.164,-2.3888,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589099,2,1,346581.046,4070312.164,-2.3888,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589209,2,1,346581.046,4070312.164,-2.3888,45
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589266,2,1,346581.046,4070312.164,-2.3890,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589304,2,1,346581.032,4070312.183,-2.3890,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589342,2,1,346581.032,4070312.183,-2.3894,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589380,2,1,346581.032,4070312.183,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589417,2,1,346581.032,4070312.183,-2.3899,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589455,2,1,346581.032,4070312.183,-2.3894,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589493,2,1,346581.032,4070312.183,-2.3894,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589531,2,1,346581.032,4070312.183,-2.3895,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589568,2,1,346581.032,4070312.183,-2.3899,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589606,2,1,346581.032,4070312.183,-2.3899,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589644,2,1,346581.032,4070312.183,-2.3897,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589682,2,1,346581.032,4070312.183,-2.3895,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589720,2,1,346581.032,4070312.183,-2.3899,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589757,2,1,346581.032,4070312.183,-2.3901,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589795,2,1,346581.032,4070312.183,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589833,2,1,346581.032,4070312.183,-2.3897,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589871,2,1,346581.032,4070312.183,-2.3899,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589909,2,1,346581.032,4070312.183,-2.3899,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589946,2,1,346581.032,4070312.183,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,589984,2,1,346581.032,4070312.183,-2.3897,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590022,2,1,346581.032,4070312.183,-2.3897,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590060,2,1,346581.032,4070312.183,-2.3899,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590098,2,1,346581.032,4070312.183,-2.3899,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590208,2,1,346581.032,4070312.183,-2.3897,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590246,2,1,346581.032,4070312.183,-2.3892,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590284,2,1,346581.032,4070312.183,-2.3892,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590322,2,1,346581.017,4070312.202,-2.3890,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590359,2,1,346581.017,4070312.202,-2.3892,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590397,2,1,346581.017,4070312.202,-2.3895,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590435,2,1,346581.017,4070312.202,-2.3892,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590473,2,1,346581.017,4070312.202,-2.3890,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590511,2,1,346581.017,4070312.202,-2.3890,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590548,2,1,346581.017,4070312.202,-2.3890,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590586,2,1,346581.017,4070312.202,-2.3888,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590624,2,1,346581.017,4070312.202,-2.3888,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590662,2,1,346581.017,4070312.202,-2.3887,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590699,2,1,346581.017,4070312.202,-2.3881,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590737,2,1,346581.017,4070312.202,-2.3883,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590775,2,1,346581.017,4070312.202,-2.3887,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590813,2,1,346581.017,4070312.202,-2.3887,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590851,2,1,346581.017,4070312.202,-2.3885,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590888,2,1,346581.017,4070312.202,-2.3887,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,590962,2,1,346581.017,4070312.202,-2.3887,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591000,2,1,346581.017,4070312.202,-2.3887,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591038,2,1,346581.017,4070312.202,-2.3885,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591076,2,1,346581.017,4070312.202,-2.3887,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591114,2,1,346581.017,4070312.202,-2.3887,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591152,2,1,346581.017,4070312.202,-2.3887,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591190,2,1,346581.017,4070312.202,-2.3883,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591264,2,1,346581.017,4070312.202,-2.3883,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591301,2,1,346581.017,4070312.202,-2.3885,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591339,2,1,346581.017,4070312.202,-2.3883,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591377,2,1,346581.033,4070312.220,-2.3883,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591415,2,1,346581.033,4070312.220,-2.3885,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591453,2,1,346581.033,4070312.220,-2.3892,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591490,2,1,346581.033,4070312.220,-2.3894,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591528,2,1,346581.033,4070312.220,-2.3892,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591566,2,1,346581.033,4070312.220,-2.3892,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591604,2,1,346581.033,4070312.220,-2.3892,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591641,2,1,346581.033,4070312.220,-2.3892,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591679,2,1,346581.033,4070312.220,-2.3895,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591717,2,1,346581.033,4070312.220,-2.3899,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591755,2,1,346581.033,4070312.220,-2.3901,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591792,2,1,346581.033,4070312.220,-2.3906,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591830,2,1,346581.033,4070312.220,-2.3908,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591868,2,1,346581.033,4070312.220,-2.3904,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591906,2,1,346581.033,4070312.220,-2.3902,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591944,2,1,346581.033,4070312.220,-2.3911,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,591981,2,1,346581.033,4070312.220,-2.3911,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592019,2,1,346581.033,4070312.220,-2.3913,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592057,2,1,346581.033,4070312.220,-2.3911,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592168,2,1,346581.033,4070312.220,-2.3904,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592205,2,1,346581.033,4070312.220,-2.3904,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592243,2,1,346581.033,4070312.220,-2.3901,40
+AHRS : 51.0 Hz GPGGA : 12.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592300,2,1,346581.033,4070312.220,-2.3908,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592338,2,1,346581.033,4070312.220,-2.3909,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592376,2,1,346581.093,4070312.275,-2.3906,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592413,2,1,346581.093,4070312.275,-2.3902,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592451,2,1,346581.093,4070312.275,-2.3902,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592489,2,1,346581.093,4070312.275,-2.3901,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592527,2,1,346581.093,4070312.275,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592565,2,1,346581.093,4070312.275,-2.3899,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592602,2,1,346581.093,4070312.275,-2.3897,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592640,2,1,346581.093,4070312.275,-2.3904,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592678,2,1,346581.093,4070312.275,-2.3904,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592716,2,1,346581.093,4070312.275,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592754,2,1,346581.093,4070312.275,-2.3897,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592791,2,1,346581.093,4070312.275,-2.3897,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592829,2,1,346581.093,4070312.275,-2.3895,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592867,2,1,346581.093,4070312.275,-2.3899,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592905,2,1,346581.093,4070312.275,-2.3901,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592942,2,1,346581.093,4070312.275,-2.3897,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,592980,2,1,346581.093,4070312.275,-2.3897,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593018,2,1,346581.093,4070312.275,-2.3899,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593056,2,1,346581.093,4070312.275,-2.3899,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593094,2,1,346581.093,4070312.275,-2.3899,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593168,2,1,346581.093,4070312.275,-2.3895,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593206,2,1,346581.093,4070312.275,-2.3894,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593244,2,1,346581.093,4070312.275,-2.3895,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593281,2,1,346581.093,4070312.275,-2.3895,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593319,2,1,346581.093,4070312.275,-2.3897,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593357,2,1,346581.093,4070312.275,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593395,2,1,346581.079,4070312.312,-2.3901,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593432,2,1,346581.079,4070312.312,-2.3901,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593470,2,1,346581.079,4070312.312,-2.3897,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593508,2,1,346581.079,4070312.312,-2.3897,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593546,2,1,346581.079,4070312.312,-2.3899,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593584,2,1,346581.079,4070312.312,-2.3901,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593621,2,1,346581.079,4070312.312,-2.3902,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593659,2,1,346581.079,4070312.312,-2.3897,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593697,2,1,346581.079,4070312.312,-2.3902,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593735,2,1,346581.079,4070312.312,-2.3904,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593773,2,1,346581.079,4070312.312,-2.3906,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593810,2,1,346581.079,4070312.312,-2.3904,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593848,2,1,346581.079,4070312.312,-2.3899,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593886,2,1,346581.079,4070312.312,-2.3899,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593924,2,1,346581.079,4070312.312,-2.3897,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593962,2,1,346581.079,4070312.312,-2.3897,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,593999,2,1,346581.079,4070312.312,-2.3895,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594037,2,1,346581.079,4070312.312,-2.3894,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594075,2,1,346581.079,4070312.312,-2.3897,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594186,2,1,346581.079,4070312.312,-2.3899,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594223,2,1,346581.079,4070312.312,-2.3901,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594261,2,1,346581.079,4070312.312,-2.3902,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594299,2,1,346581.079,4070312.312,-2.3902,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594337,2,1,346581.079,4070312.312,-2.3901,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594374,2,1,346581.064,4070312.312,-2.3901,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594412,2,1,346581.064,4070312.312,-2.3901,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594450,2,1,346581.064,4070312.312,-2.3897,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594488,2,1,346581.064,4070312.312,-2.3895,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594526,2,1,346581.064,4070312.312,-2.3894,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594563,2,1,346581.064,4070312.312,-2.3892,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594601,2,1,346581.064,4070312.312,-2.3895,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594639,2,1,346581.064,4070312.312,-2.3901,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594677,2,1,346581.064,4070312.312,-2.3897,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594714,2,1,346581.064,4070312.312,-2.3897,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594788,2,1,346581.064,4070312.312,-2.3892,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594826,2,1,346581.064,4070312.312,-2.3894,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594864,2,1,346581.064,4070312.312,-2.3897,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594902,2,1,346581.064,4070312.312,-2.3897,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594939,2,1,346581.064,4070312.312,-2.3904,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,594977,2,1,346581.064,4070312.312,-2.3908,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595015,2,1,346581.064,4070312.312,-2.3909,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595053,2,1,346581.064,4070312.312,-2.3909,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595091,2,1,346581.064,4070312.312,-2.3909,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595201,2,1,346581.064,4070312.312,-2.3908,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595239,2,1,346581.064,4070312.312,-2.3908,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595277,2,1,346581.064,4070312.312,-2.3913,41
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595334,2,1,346581.064,4070312.312,-2.3906,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595372,2,1,346581.019,4070312.294,-2.3906,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595409,2,1,346581.019,4070312.294,-2.3908,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595447,2,1,346581.019,4070312.294,-2.3909,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595485,2,1,346581.019,4070312.294,-2.3913,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595523,2,1,346581.019,4070312.294,-2.3911,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595561,2,1,346581.019,4070312.294,-2.3913,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595598,2,1,346581.019,4070312.294,-2.3913,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595636,2,1,346581.019,4070312.294,-2.3918,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595674,2,1,346581.019,4070312.294,-2.3918,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595712,2,1,346581.019,4070312.294,-2.3915,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595749,2,1,346581.019,4070312.294,-2.3913,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595787,2,1,346581.019,4070312.294,-2.3909,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595825,2,1,346581.019,4070312.294,-2.3909,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595863,2,1,346581.019,4070312.294,-2.3908,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595901,2,1,346581.019,4070312.294,-2.3904,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595938,2,1,346581.019,4070312.294,-2.3908,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,595976,2,1,346581.019,4070312.294,-2.3909,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596014,2,1,346581.019,4070312.294,-2.3911,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596052,2,1,346581.019,4070312.294,-2.3911,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596090,2,1,346581.019,4070312.294,-2.3911,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596200,2,1,346581.019,4070312.294,-2.3906,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596238,2,1,346581.019,4070312.294,-2.3904,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596276,2,1,346581.019,4070312.294,-2.3906,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596314,2,1,346581.019,4070312.294,-2.3906,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596351,2,1,346581.019,4070312.294,-2.3906,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596389,2,1,346580.988,4070312.239,-2.3904,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596427,2,1,346580.988,4070312.239,-2.3904,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596465,2,1,346580.988,4070312.239,-2.3906,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596503,2,1,346580.988,4070312.239,-2.3902,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596540,2,1,346580.988,4070312.239,-2.3902,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596578,2,1,346580.988,4070312.239,-2.3899,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596616,2,1,346580.988,4070312.239,-2.3904,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596654,2,1,346580.988,4070312.239,-2.3902,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596692,2,1,346580.988,4070312.239,-2.3906,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596729,2,1,346580.988,4070312.239,-2.3902,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596767,2,1,346580.988,4070312.239,-2.3902,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596805,2,1,346580.988,4070312.239,-2.3908,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596843,2,1,346580.988,4070312.239,-2.3908,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596881,2,1,346580.988,4070312.239,-2.3909,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596918,2,1,346580.988,4070312.239,-2.3909,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596956,2,1,346580.988,4070312.239,-2.3908,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,596994,2,1,346580.988,4070312.239,-2.3906,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597032,2,1,346580.988,4070312.239,-2.3902,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597069,2,1,346580.988,4070312.239,-2.3904,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597107,2,1,346580.988,4070312.239,-2.3899,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597182,2,1,346580.988,4070312.239,-2.3897,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597219,2,1,346580.988,4070312.239,-2.3897,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597257,2,1,346580.988,4070312.239,-2.3892,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597295,2,1,346580.988,4070312.239,-2.3890,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597333,2,1,346580.988,4070312.239,-2.3892,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597371,2,1,346580.988,4070312.239,-2.3888,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597408,2,1,346580.958,4070312.203,-2.3887,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597446,2,1,346580.958,4070312.203,-2.3890,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597484,2,1,346580.958,4070312.203,-2.3895,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597522,2,1,346580.958,4070312.203,-2.3897,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597596,2,1,346580.958,4070312.203,-2.3895,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597633,2,1,346580.958,4070312.203,-2.3895,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597671,2,1,346580.958,4070312.203,-2.3897,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597709,2,1,346580.958,4070312.203,-2.3899,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597747,2,1,346580.958,4070312.203,-2.3894,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597785,2,1,346580.958,4070312.203,-2.3894,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597822,2,1,346580.958,4070312.203,-2.3895,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597860,2,1,346580.958,4070312.203,-2.3897,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597898,2,1,346580.958,4070312.203,-2.3899,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597936,2,1,346580.958,4070312.203,-2.3899,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,597974,2,1,346580.958,4070312.203,-2.3894,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598011,2,1,346580.958,4070312.203,-2.3901,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598049,2,1,346580.958,4070312.203,-2.3899,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598087,2,1,346580.958,4070312.203,-2.3897,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598198,2,1,346580.958,4070312.203,-2.3888,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598235,2,1,346580.958,4070312.203,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598273,2,1,346580.958,4070312.203,-2.3890,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598311,2,1,346580.958,4070312.203,-2.3887,47
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598368,2,1,346580.958,4070312.203,-2.3888,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598406,2,1,346580.942,4070312.166,-2.3888,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598443,2,1,346580.942,4070312.166,-2.3885,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598481,2,1,346580.942,4070312.166,-2.3887,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598519,2,1,346580.942,4070312.166,-2.3887,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598557,2,1,346580.942,4070312.166,-2.3887,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598595,2,1,346580.942,4070312.166,-2.3888,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598632,2,1,346580.942,4070312.166,-2.3887,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598670,2,1,346580.942,4070312.166,-2.3881,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598708,2,1,346580.942,4070312.166,-2.3881,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598746,2,1,346580.942,4070312.166,-2.3880,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598784,2,1,346580.942,4070312.166,-2.3885,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598821,2,1,346580.942,4070312.166,-2.3883,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598859,2,1,346580.942,4070312.166,-2.3881,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598897,2,1,346580.942,4070312.166,-2.3885,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598935,2,1,346580.942,4070312.166,-2.3883,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,598972,2,1,346580.942,4070312.166,-2.3883,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599010,2,1,346580.942,4070312.166,-2.3883,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599048,2,1,346580.942,4070312.166,-2.3890,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599159,2,1,346580.942,4070312.166,-2.3894,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599197,2,1,346580.942,4070312.166,-2.3892,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599234,2,1,346580.942,4070312.166,-2.3894,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599272,2,1,346580.942,4070312.166,-2.3890,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599310,2,1,346580.942,4070312.166,-2.3887,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599348,2,1,346580.942,4070312.166,-2.3887,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599386,2,1,346580.942,4070312.166,-2.3887,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599423,2,1,346580.942,4070312.166,-2.3885,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599461,2,1,346580.912,4070312.148,-2.3887,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599499,2,1,346580.912,4070312.148,-2.3887,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599537,2,1,346580.912,4070312.148,-2.3888,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599574,2,1,346580.912,4070312.148,-2.3888,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599612,2,1,346580.912,4070312.148,-2.3885,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599650,2,1,346580.912,4070312.148,-2.3888,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599688,2,1,346580.912,4070312.148,-2.3883,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599726,2,1,346580.912,4070312.148,-2.3883,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599764,2,1,346580.912,4070312.148,-2.3885,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599801,2,1,346580.912,4070312.148,-2.3885,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599839,2,1,346580.912,4070312.148,-2.3881,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599877,2,1,346580.912,4070312.148,-2.3878,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599915,2,1,346580.912,4070312.148,-2.3881,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599952,2,1,346580.912,4070312.148,-2.3881,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,599990,2,1,346580.912,4070312.148,-2.3881,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600028,2,1,346580.912,4070312.148,-2.3885,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600066,2,1,346580.912,4070312.148,-2.3885,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600140,2,1,346580.912,4070312.148,-2.3885,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600178,2,1,346580.912,4070312.148,-2.3881,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600216,2,1,346580.912,4070312.148,-2.3876,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600254,2,1,346580.912,4070312.148,-2.3878,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600292,2,1,346580.912,4070312.148,-2.3876,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600329,2,1,346580.912,4070312.148,-2.3876,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600367,2,1,346580.912,4070312.148,-2.3876,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600405,2,1,346580.912,4070312.148,-2.3874,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600443,2,1,346580.912,4070312.148,-2.3874,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600481,2,1,346580.897,4070312.112,-2.3876,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600518,2,1,346580.897,4070312.112,-2.3871,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600556,2,1,346580.897,4070312.112,-2.3869,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600594,2,1,346580.897,4070312.112,-2.3867,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600632,2,1,346580.897,4070312.112,-2.3867,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600670,2,1,346580.897,4070312.112,-2.3873,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600707,2,1,346580.897,4070312.112,-2.3873,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600745,2,1,346580.897,4070312.112,-2.3871,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600783,2,1,346580.897,4070312.112,-2.3873,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600821,2,1,346580.897,4070312.112,-2.3869,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600858,2,1,346580.897,4070312.112,-2.3871,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600896,2,1,346580.897,4070312.112,-2.3874,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600934,2,1,346580.897,4070312.112,-2.3874,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,600972,2,1,346580.897,4070312.112,-2.3873,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601009,2,1,346580.897,4070312.112,-2.3876,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601047,2,1,346580.897,4070312.112,-2.3880,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601085,2,1,346580.897,4070312.112,-2.3880,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601160,2,1,346580.897,4070312.112,-2.3878,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601197,2,1,346580.897,4070312.112,-2.3883,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601235,2,1,346580.897,4070312.112,-2.3883,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601273,2,1,346580.897,4070312.112,-2.3887,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601311,2,1,346580.897,4070312.112,-2.3887,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601349,2,1,346580.897,4070312.112,-2.3890,4E
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601405,2,1,346580.897,4070312.112,-2.3894,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601443,2,1,346580.897,4070312.112,-2.3899,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601481,2,1,346580.881,4070312.056,-2.3897,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601519,2,1,346580.881,4070312.056,-2.3902,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601557,2,1,346580.881,4070312.056,-2.3902,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601594,2,1,346580.881,4070312.056,-2.3904,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601632,2,1,346580.881,4070312.056,-2.3902,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601670,2,1,346580.881,4070312.056,-2.3901,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601708,2,1,346580.881,4070312.056,-2.3904,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601745,2,1,346580.881,4070312.056,-2.3908,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601783,2,1,346580.881,4070312.056,-2.3908,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601821,2,1,346580.881,4070312.056,-2.3906,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601859,2,1,346580.881,4070312.056,-2.3904,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601897,2,1,346580.881,4070312.056,-2.3904,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601934,2,1,346580.881,4070312.056,-2.3906,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,601972,2,1,346580.881,4070312.056,-2.3906,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602010,2,1,346580.881,4070312.056,-2.3906,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602048,2,1,346580.881,4070312.056,-2.3908,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602086,2,1,346580.881,4070312.056,-2.3908,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602160,2,1,346580.881,4070312.056,-2.3911,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602198,2,1,346580.881,4070312.056,-2.3915,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602235,2,1,346580.881,4070312.056,-2.3916,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602273,2,1,346580.881,4070312.056,-2.3918,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602311,2,1,346580.881,4070312.056,-2.3920,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602349,2,1,346580.881,4070312.056,-2.3916,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602387,2,1,346580.881,4070312.056,-2.3916,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602424,2,1,346580.881,4070312.056,-2.3920,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602462,2,1,346580.850,4070312.001,-2.3918,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602500,2,1,346580.850,4070312.001,-2.3920,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602538,2,1,346580.850,4070312.001,-2.3916,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602576,2,1,346580.850,4070312.001,-2.3913,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602613,2,1,346580.850,4070312.001,-2.3911,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602651,2,1,346580.850,4070312.001,-2.3911,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602689,2,1,346580.850,4070312.001,-2.3909,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602727,2,1,346580.850,4070312.001,-2.3908,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602765,2,1,346580.850,4070312.001,-2.3909,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602802,2,1,346580.850,4070312.001,-2.3911,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602840,2,1,346580.850,4070312.001,-2.3911,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602878,2,1,346580.850,4070312.001,-2.3913,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602916,2,1,346580.850,4070312.001,-2.3908,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602953,2,1,346580.850,4070312.001,-2.3906,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,602991,2,1,346580.850,4070312.001,-2.3909,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603029,2,1,346580.850,4070312.001,-2.3908,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603067,2,1,346580.850,4070312.001,-2.3901,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603177,2,1,346580.850,4070312.001,-2.3895,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603215,2,1,346580.850,4070312.001,-2.3899,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603253,2,1,346580.850,4070312.001,-2.3901,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603291,2,1,346580.850,4070312.001,-2.3904,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603328,2,1,346580.850,4070312.001,-2.3909,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603366,2,1,346580.850,4070312.001,-2.3909,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603404,2,1,346580.850,4070312.001,-2.3909,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603442,2,1,346580.850,4070312.001,-2.3911,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603480,2,1,346580.834,4070311.946,-2.3913,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603517,2,1,346580.834,4070311.946,-2.3911,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603555,2,1,346580.834,4070311.946,-2.3909,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603593,2,1,346580.834,4070311.946,-2.3904,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603631,2,1,346580.834,4070311.946,-2.3902,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603669,2,1,346580.834,4070311.946,-2.3901,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603706,2,1,346580.834,4070311.946,-2.3902,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603744,2,1,346580.834,4070311.946,-2.3904,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603782,2,1,346580.834,4070311.946,-2.3904,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603820,2,1,346580.834,4070311.946,-2.3906,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603858,2,1,346580.834,4070311.946,-2.3906,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603895,2,1,346580.834,4070311.946,-2.3906,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603933,2,1,346580.834,4070311.946,-2.3902,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,603971,2,1,346580.834,4070311.946,-2.3899,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604009,2,1,346580.834,4070311.946,-2.3899,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604046,2,1,346580.834,4070311.946,-2.3902,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604084,2,1,346580.834,4070311.946,-2.3902,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604195,2,1,346580.834,4070311.946,-2.3897,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604233,2,1,346580.834,4070311.946,-2.3892,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604271,2,1,346580.834,4070311.946,-2.3888,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604308,2,1,346580.834,4070311.946,-2.3887,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604346,2,1,346580.834,4070311.946,-2.3885,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604384,2,1,346580.834,4070311.946,-2.3888,40
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604441,2,1,346580.834,4070311.946,-2.3887,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604479,2,1,346580.833,4070311.891,-2.3885,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604516,2,1,346580.833,4070311.891,-2.3887,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604590,2,1,346580.833,4070311.891,-2.3883,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604628,2,1,346580.833,4070311.891,-2.3885,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604666,2,1,346580.833,4070311.891,-2.3885,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604704,2,1,346580.833,4070311.891,-2.3885,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604741,2,1,346580.833,4070311.891,-2.3881,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604779,2,1,346580.833,4070311.891,-2.3885,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604817,2,1,346580.833,4070311.891,-2.3888,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604855,2,1,346580.833,4070311.891,-2.3888,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604893,2,1,346580.833,4070311.891,-2.3887,4E
+end
+#B:initialize - beg,1,346580.833,4070311.891,-2.3885,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,604968,2,1,346580.833,4070311.891,-2.3883,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605006,2,1,346580.833,4070311.891,-2.3880,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605044,2,1,346580.833,4070311.891,-2.3881,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605082,2,1,346580.833,4070311.891,-2.3881,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605192,2,1,346580.833,4070311.891,-2.3878,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605230,2,1,346580.833,4070311.891,-2.3880,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605268,2,1,346580.833,4070311.891,-2.3880,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605306,2,1,346580.833,4070311.891,-2.3881,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605343,2,1,346580.833,4070311.891,-2.3881,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605381,2,1,346580.833,4070311.891,-2.3880,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605419,2,1,346580.833,4070311.891,-2.3880,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#Boinitialize - beg,1,346580.833,4070311.891,-2.3880,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605494,2,1,346580.833,4070311.872,-2.3876,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605532,2,1,346580.833,4070311.872,-2.3878,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605570,2,1,346580.833,4070311.872,-2.3880,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605608,2,1,346580.833,4070311.872,-2.3878,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605646,2,1,346580.833,4070311.872,-2.3876,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605683,2,1,346580.833,4070311.872,-2.3880,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605721,2,1,346580.833,4070311.872,-2.3881,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605759,2,1,346580.833,4070311.872,-2.3883,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605797,2,1,346580.833,4070311.872,-2.3885,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605834,2,1,346580.833,4070311.872,-2.3883,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605872,2,1,346580.833,4070311.872,-2.3885,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#B:initialize - begi1,346580.833,4070311.872,-2.3888,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605948,2,1,346580.833,4070311.872,-2.3887,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,605986,2,1,346580.833,4070311.872,-2.3883,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606023,2,1,346580.833,4070311.872,-2.3883,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606061,2,1,346580.833,4070311.872,-2.3883,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606099,2,1,346580.833,4070311.872,-2.3881,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606210,2,1,346580.833,4070311.872,-2.3880,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606248,2,1,346580.833,4070311.872,-2.3881,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606285,2,1,346580.833,4070311.872,-2.3876,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606323,2,1,346580.833,4070311.872,-2.3873,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606361,2,1,346580.833,4070311.872,-2.3874,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606399,2,1,346580.833,4070311.872,-2.3873,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606437,2,1,346580.833,4070311.872,-2.3876,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606474,2,1,346580.833,4070311.872,-2.3874,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606512,2,1,346580.847,4070311.817,-2.3873,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606550,2,1,346580.847,4070311.817,-2.3874,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606588,2,1,346580.847,4070311.817,-2.3878,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606625,2,1,346580.847,4070311.817,-2.3878,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606663,2,1,346580.847,4070311.817,-2.3878,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606701,2,1,346580.847,4070311.817,-2.3876,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606739,2,1,346580.847,4070311.817,-2.3885,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606777,2,1,346580.847,4070311.817,-2.3890,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606814,2,1,346580.847,4070311.817,-2.3888,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606852,2,1,346580.847,4070311.817,-2.3888,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606890,2,1,346580.847,4070311.817,-2.3887,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606928,2,1,346580.847,4070311.817,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,606965,2,1,346580.847,4070311.817,-2.3885,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607003,2,1,346580.847,4070311.817,-2.3883,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607041,2,1,346580.847,4070311.817,-2.3885,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607152,2,1,346580.847,4070311.817,-2.3887,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607190,2,1,346580.847,4070311.817,-2.3887,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607227,2,1,346580.847,4070311.817,-2.3887,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607265,2,1,346580.847,4070311.817,-2.3885,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607303,2,1,346580.847,4070311.817,-2.3885,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607341,2,1,346580.847,4070311.817,-2.3883,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607379,2,1,346580.847,4070311.817,-2.3881,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607416,2,1,346580.847,4070311.817,-2.3881,47
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607473,2,1,346580.847,4070311.817,-2.3883,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607511,2,1,346580.847,4070311.817,-2.3880,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607549,2,1,346580.816,4070311.762,-2.3876,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607587,2,1,346580.816,4070311.762,-2.3880,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607624,2,1,346580.816,4070311.762,-2.3880,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607662,2,1,346580.816,4070311.762,-2.3880,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607700,2,1,346580.816,4070311.762,-2.3880,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607738,2,1,346580.816,4070311.762,-2.3883,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607775,2,1,346580.816,4070311.762,-2.3883,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607813,2,1,346580.816,4070311.762,-2.3887,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607851,2,1,346580.816,4070311.762,-2.3890,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607889,2,1,346580.816,4070311.762,-2.3890,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607927,2,1,346580.816,4070311.762,-2.3887,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,607964,2,1,346580.816,4070311.762,-2.3887,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608002,2,1,346580.816,4070311.762,-2.3888,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608040,2,1,346580.816,4070311.762,-2.3890,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608078,2,1,346580.816,4070311.762,-2.3888,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608152,2,1,346580.816,4070311.762,-2.3890,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608190,2,1,346580.816,4070311.762,-2.3890,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608228,2,1,346580.816,4070311.762,-2.3888,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608266,2,1,346580.816,4070311.762,-2.3888,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608303,2,1,346580.816,4070311.762,-2.3894,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608341,2,1,346580.816,4070311.762,-2.3895,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608379,2,1,346580.816,4070311.762,-2.3895,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608417,2,1,346580.816,4070311.762,-2.3894,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608455,2,1,346580.816,4070311.762,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608492,2,1,346580.816,4070311.762,-2.3892,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608530,2,1,346580.816,4070311.762,-2.3892,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - add sample pose
+Semiauto::initialize - end
+#BoatState,608568,2,1,346580.800,4070311.725,-2.3892,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608613,2,1,346580.800,4070311.725,-2.3890,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608651,2,1,346580.800,4070311.725,-2.3892,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608688,2,1,346580.800,4070311.725,-2.3890,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608726,2,1,346580.800,4070311.725,-2.3888,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608764,2,1,346580.800,4070311.725,-2.3890,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608801,2,1,346580.800,4070311.725,-2.3888,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608839,2,1,346580.800,4070311.725,-2.3885,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608877,2,1,346580.800,4070311.725,-2.3883,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608915,2,1,346580.800,4070311.725,-2.3881,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608953,2,1,346580.800,4070311.725,-2.3881,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,608990,2,1,346580.800,4070311.725,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609028,2,1,346580.800,4070311.725,-2.3895,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609066,2,1,346580.800,4070311.725,-2.3897,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609177,2,1,346580.800,4070311.725,-2.3894,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609214,2,1,346580.800,4070311.725,-2.3892,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609252,2,1,346580.800,4070311.725,-2.3888,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609290,2,1,346580.800,4070311.725,-2.3890,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609328,2,1,346580.800,4070311.725,-2.3888,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609366,2,1,346580.800,4070311.725,-2.3890,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609403,2,1,346580.800,4070311.725,-2.3888,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609441,2,1,346580.800,4070311.725,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609479,2,1,346580.800,4070311.725,-2.3892,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609517,2,1,346580.800,4070311.725,-2.3894,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609554,2,1,346580.799,4070311.669,-2.3895,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609592,2,1,346580.799,4070311.669,-2.3895,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609630,2,1,346580.799,4070311.669,-2.3895,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609668,2,1,346580.799,4070311.669,-2.3894,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609706,2,1,346580.799,4070311.669,-2.3895,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609743,2,1,346580.799,4070311.669,-2.3899,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609781,2,1,346580.799,4070311.669,-2.3899,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609819,2,1,346580.799,4070311.669,-2.3899,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609857,2,1,346580.799,4070311.669,-2.3904,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609894,2,1,346580.799,4070311.669,-2.3904,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609932,2,1,346580.799,4070311.669,-2.3908,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,609970,2,1,346580.799,4070311.669,-2.3906,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610008,2,1,346580.799,4070311.669,-2.3908,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610046,2,1,346580.799,4070311.669,-2.3908,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610084,2,1,346580.799,4070311.669,-2.3911,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610158,2,1,346580.799,4070311.669,-2.3901,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610196,2,1,346580.799,4070311.669,-2.3899,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610233,2,1,346580.799,4070311.669,-2.3901,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610271,2,1,346580.799,4070311.669,-2.3901,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610309,2,1,346580.799,4070311.669,-2.3899,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610347,2,1,346580.799,4070311.669,-2.3897,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610385,2,1,346580.799,4070311.669,-2.3895,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610422,2,1,346580.799,4070311.669,-2.3895,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610460,2,1,346580.799,4070311.669,-2.3894,4F
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610517,2,1,346580.799,4070311.669,-2.3894,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610555,2,1,346580.799,4070311.669,-2.3895,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610593,2,1,346580.784,4070311.614,-2.3899,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610630,2,1,346580.784,4070311.614,-2.3901,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610668,2,1,346580.784,4070311.614,-2.3897,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610706,2,1,346580.784,4070311.614,-2.3899,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610780,2,1,346580.784,4070311.614,-2.3901,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610818,2,1,346580.784,4070311.614,-2.3897,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610856,2,1,346580.784,4070311.614,-2.3899,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610893,2,1,346580.784,4070311.614,-2.3902,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610931,2,1,346580.784,4070311.614,-2.3904,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,610969,2,1,346580.784,4070311.614,-2.3904,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611007,2,1,346580.784,4070311.614,-2.3902,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611044,2,1,346580.784,4070311.614,-2.3908,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611082,2,1,346580.784,4070311.614,-2.3906,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611193,2,1,346580.784,4070311.614,-2.3908,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611231,2,1,346580.784,4070311.614,-2.3908,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611269,2,1,346580.784,4070311.614,-2.3913,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611306,2,1,346580.784,4070311.614,-2.3909,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611344,2,1,346580.784,4070311.614,-2.3906,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611382,2,1,346580.784,4070311.614,-2.3908,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611420,2,1,346580.784,4070311.614,-2.3908,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611457,2,1,346580.784,4070311.614,-2.3909,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611495,2,1,346580.784,4070311.614,-2.3909,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611533,2,1,346580.784,4070311.614,-2.3906,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611571,2,1,346580.783,4070311.577,-2.3909,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611609,2,1,346580.783,4070311.577,-2.3909,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611646,2,1,346580.783,4070311.577,-2.3908,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611684,2,1,346580.783,4070311.577,-2.3902,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611722,2,1,346580.783,4070311.577,-2.3902,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611760,2,1,346580.783,4070311.577,-2.3906,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611798,2,1,346580.783,4070311.577,-2.3908,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611835,2,1,346580.783,4070311.577,-2.3906,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611873,2,1,346580.783,4070311.577,-2.3901,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611911,2,1,346580.783,4070311.577,-2.3902,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,611985,2,1,346580.767,4070311.541,-2.3897,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612023,2,1,346580.767,4070311.541,-2.3894,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612060,2,1,346580.767,4070311.541,-2.3895,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612098,2,1,346580.767,4070311.541,-2.3897,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612173,2,1,346580.767,4070311.541,-2.3895,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612210,2,1,346580.767,4070311.541,-2.3895,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612248,2,1,346580.767,4070311.541,-2.3899,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612286,2,1,346580.767,4070311.541,-2.3901,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612324,2,1,346580.767,4070311.541,-2.3897,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612362,2,1,346580.767,4070311.541,-2.3897,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612399,2,1,346580.767,4070311.541,-2.3894,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612437,2,1,346580.767,4070311.541,-2.3892,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612475,2,1,346580.767,4070311.541,-2.3894,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612513,2,1,346580.767,4070311.541,-2.3890,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612550,2,1,346580.767,4070311.541,-2.3887,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612588,2,1,346580.767,4070311.541,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612626,2,1,346580.767,4070311.541,-2.3892,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612664,2,1,346580.767,4070311.541,-2.3892,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612702,2,1,346580.767,4070311.541,-2.3892,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612739,2,1,346580.767,4070311.541,-2.3890,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612777,2,1,346580.767,4070311.541,-2.3888,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612815,2,1,346580.767,4070311.541,-2.3888,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612853,2,1,346580.767,4070311.541,-2.3888,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612891,2,1,346580.767,4070311.541,-2.3885,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612928,2,1,346580.767,4070311.541,-2.3885,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,612966,2,1,346580.767,4070311.541,-2.3887,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613004,2,1,346580.767,4070311.541,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613042,2,1,346580.767,4070311.541,-2.3888,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613080,2,1,346580.767,4070311.541,-2.3887,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613190,2,1,346580.767,4070311.541,-2.3883,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613228,2,1,346580.767,4070311.541,-2.3883,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613266,2,1,346580.767,4070311.541,-2.3881,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613304,2,1,346580.767,4070311.541,-2.3883,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613341,2,1,346580.767,4070311.541,-2.3883,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613379,2,1,346580.767,4070311.541,-2.3881,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613417,2,1,346580.767,4070311.541,-2.3876,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613455,2,1,346580.767,4070311.541,-2.3874,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613493,2,1,346580.767,4070311.541,-2.3874,46
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613549,2,1,346580.767,4070311.541,-2.3871,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613587,2,1,346580.767,4070311.541,-2.3871,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613625,2,1,346580.767,4070311.541,-2.3873,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613663,2,1,346580.767,4070311.541,-2.3869,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613700,2,1,346580.767,4070311.541,-2.3871,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613738,2,1,346580.767,4070311.541,-2.3869,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613776,2,1,346580.767,4070311.541,-2.3866,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613814,2,1,346580.767,4070311.541,-2.3864,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613851,2,1,346580.767,4070311.541,-2.3867,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613889,2,1,346580.767,4070311.541,-2.3867,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613927,2,1,346580.767,4070311.541,-2.3864,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,613965,2,1,346580.767,4070311.541,-2.3864,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614003,2,1,346580.751,4070311.485,-2.3866,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614040,2,1,346580.751,4070311.485,-2.3864,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614078,2,1,346580.751,4070311.485,-2.3862,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614116,2,1,346580.751,4070311.485,-2.3860,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614190,2,1,346580.751,4070311.485,-2.3864,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614228,2,1,346580.751,4070311.485,-2.3867,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614266,2,1,346580.751,4070311.485,-2.3873,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614304,2,1,346580.751,4070311.485,-2.3871,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614342,2,1,346580.751,4070311.485,-2.3871,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614379,2,1,346580.751,4070311.485,-2.3876,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614417,2,1,346580.751,4070311.485,-2.3880,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614455,2,1,346580.751,4070311.485,-2.3876,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614493,2,1,346580.751,4070311.485,-2.3876,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614531,2,1,346580.751,4070311.485,-2.3878,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614568,2,1,346580.751,4070311.485,-2.3878,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614606,2,1,346580.751,4070311.485,-2.3876,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614644,2,1,346580.751,4070311.485,-2.3874,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614682,2,1,346580.751,4070311.485,-2.3873,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614720,2,1,346580.751,4070311.485,-2.3874,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614757,2,1,346580.751,4070311.485,-2.3880,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614795,2,1,346580.751,4070311.485,-2.3880,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614833,2,1,346580.751,4070311.485,-2.3876,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614871,2,1,346580.751,4070311.485,-2.3880,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614909,2,1,346580.751,4070311.485,-2.3883,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614946,2,1,346580.751,4070311.485,-2.3883,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,614984,2,1,346580.751,4070311.485,-2.3885,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615022,2,1,346580.736,4070311.467,-2.3880,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615241,2,1,346580.736,4070311.467,-2.3888,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615279,2,1,346580.736,4070311.467,-2.3888,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615317,2,1,346580.736,4070311.467,-2.3890,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615355,2,1,346580.736,4070311.467,-2.3892,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615392,2,1,346580.736,4070311.467,-2.3890,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615430,2,1,346580.736,4070311.467,-2.3887,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615468,2,1,346580.736,4070311.467,-2.3890,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615506,2,1,346580.736,4070311.467,-2.3888,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615544,2,1,346580.736,4070311.467,-2.3887,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615581,2,1,346580.736,4070311.467,-2.3888,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615619,2,1,346580.736,4070311.467,-2.3888,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615657,2,1,346580.736,4070311.467,-2.3887,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615695,2,1,346580.736,4070311.467,-2.3888,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615733,2,1,346580.736,4070311.467,-2.3887,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615771,2,1,346580.736,4070311.467,-2.3881,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615808,2,1,346580.736,4070311.467,-2.3881,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615846,2,1,346580.736,4070311.467,-2.3887,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615884,2,1,346580.736,4070311.467,-2.3888,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615922,2,1,346580.736,4070311.467,-2.3888,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615959,2,1,346580.736,4070311.467,-2.3890,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,615997,2,1,346580.736,4070311.467,-2.3894,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616035,2,1,346580.736,4070311.467,-2.3894,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616073,2,1,346580.707,4070311.486,-2.3895,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616147,2,1,346580.707,4070311.486,-2.3895,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616185,2,1,346580.707,4070311.486,-2.3894,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616223,2,1,346580.707,4070311.486,-2.3894,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616261,2,1,346580.707,4070311.486,-2.3895,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616298,2,1,346580.707,4070311.486,-2.3897,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616336,2,1,346580.707,4070311.486,-2.3897,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616374,2,1,346580.707,4070311.486,-2.3901,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616412,2,1,346580.707,4070311.486,-2.3901,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616450,2,1,346580.707,4070311.486,-2.3906,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616487,2,1,346580.707,4070311.486,-2.3901,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616525,2,1,346580.707,4070311.486,-2.3901,40
+AHRS : 51.0 Hz GPGGA : 9.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616582,2,1,346580.707,4070311.486,-2.3908,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616619,2,1,346580.707,4070311.486,-2.3911,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616657,2,1,346580.707,4070311.486,-2.3913,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616695,2,1,346580.707,4070311.486,-2.3915,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616733,2,1,346580.707,4070311.486,-2.3915,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616771,2,1,346580.707,4070311.486,-2.3911,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616808,2,1,346580.707,4070311.486,-2.3909,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616846,2,1,346580.707,4070311.486,-2.3906,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616884,2,1,346580.707,4070311.486,-2.3904,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616922,2,1,346580.707,4070311.486,-2.3906,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616960,2,1,346580.707,4070311.486,-2.3908,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,616997,2,1,346580.707,4070311.486,-2.3906,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617035,2,1,346580.707,4070311.486,-2.3902,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617073,2,1,346580.677,4070311.487,-2.3906,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617147,2,1,346580.677,4070311.487,-2.3908,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617185,2,1,346580.677,4070311.487,-2.3909,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617223,2,1,346580.677,4070311.487,-2.3911,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617261,2,1,346580.677,4070311.487,-2.3911,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617299,2,1,346580.677,4070311.487,-2.3911,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617336,2,1,346580.677,4070311.487,-2.3913,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617374,2,1,346580.677,4070311.487,-2.3915,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617412,2,1,346580.677,4070311.487,-2.3911,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617450,2,1,346580.677,4070311.487,-2.3913,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617488,2,1,346580.677,4070311.487,-2.3913,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617525,2,1,346580.677,4070311.487,-2.3913,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617563,2,1,346580.677,4070311.487,-2.3913,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617601,2,1,346580.677,4070311.487,-2.3911,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617639,2,1,346580.677,4070311.487,-2.3913,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617676,2,1,346580.677,4070311.487,-2.3916,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617714,2,1,346580.677,4070311.487,-2.3918,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617752,2,1,346580.677,4070311.487,-2.3915,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617790,2,1,346580.677,4070311.487,-2.3913,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617827,2,1,346580.677,4070311.487,-2.3911,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617865,2,1,346580.677,4070311.487,-2.3913,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617903,2,1,346580.677,4070311.487,-2.3913,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,617977,2,1,346580.677,4070311.487,-2.3909,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618015,2,1,346580.677,4070311.487,-2.3913,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618053,2,1,346580.677,4070311.487,-2.3915,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618091,2,1,346580.647,4070311.487,-2.3915,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618165,2,1,346580.647,4070311.487,-2.3920,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618203,2,1,346580.647,4070311.487,-2.3920,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618240,2,1,346580.647,4070311.487,-2.3918,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618278,2,1,346580.647,4070311.487,-2.3920,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618316,2,1,346580.647,4070311.487,-2.3921,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618354,2,1,346580.647,4070311.487,-2.3923,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618392,2,1,346580.647,4070311.487,-2.3923,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618429,2,1,346580.647,4070311.487,-2.3923,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618467,2,1,346580.647,4070311.487,-2.3925,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618505,2,1,346580.647,4070311.487,-2.3925,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618579,2,1,346580.647,4070311.487,-2.3921,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618617,2,1,346580.647,4070311.487,-2.3921,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618654,2,1,346580.647,4070311.487,-2.3921,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618692,2,1,346580.647,4070311.487,-2.3921,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618730,2,1,346580.647,4070311.487,-2.3921,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618768,2,1,346580.647,4070311.487,-2.3923,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618806,2,1,346580.647,4070311.487,-2.3923,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618843,2,1,346580.647,4070311.487,-2.3921,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618881,2,1,346580.647,4070311.487,-2.3923,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618919,2,1,346580.647,4070311.487,-2.3925,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618957,2,1,346580.647,4070311.487,-2.3923,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,618995,2,1,346580.647,4070311.487,-2.3923,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619032,2,1,346580.647,4070311.487,-2.3921,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619070,2,1,346580.633,4070311.506,-2.3925,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619181,2,1,346580.633,4070311.506,-2.3920,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619219,2,1,346580.633,4070311.506,-2.3923,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619256,2,1,346580.633,4070311.506,-2.3918,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619294,2,1,346580.633,4070311.506,-2.3921,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619332,2,1,346580.633,4070311.506,-2.3921,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619370,2,1,346580.633,4070311.506,-2.3925,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619408,2,1,346580.633,4070311.506,-2.3923,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619445,2,1,346580.633,4070311.506,-2.3921,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619483,2,1,346580.633,4070311.506,-2.3920,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619521,2,1,346580.633,4070311.506,-2.3921,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619559,2,1,346580.633,4070311.506,-2.3923,4B
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619615,2,1,346580.633,4070311.506,-2.3918,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619689,2,1,346580.633,4070311.506,-2.3920,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - #BoatState,619727,2,1,346580.633,4070311.506,-2.3923,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619765,2,1,346580.633,4070311.506,-2.3920,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619803,2,1,346580.633,4070311.506,-2.3921,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619840,2,1,346580.633,4070311.506,-2.3923,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#Boinitialize - begin,346580.633,4070311.506,-2.3921,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619916,2,1,346580.633,4070311.506,-2.3920,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619954,2,1,346580.633,4070311.506,-2.3916,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,619992,2,1,346580.633,4070311.506,-2.3920,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620029,2,1,346580.633,4070311.506,-2.3921,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620067,2,1,346580.633,4070311.506,-2.3920,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620105,2,1,346580.618,4070311.506,-2.3920,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620180,2,1,346580.618,4070311.506,-2.3921,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620217,2,1,346580.618,4070311.506,-2.3921,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620255,2,1,346580.618,4070311.506,-2.3923,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620293,2,1,346580.618,4070311.506,-2.3927,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620331,2,1,346580.618,4070311.506,-2.3928,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620369,2,1,346580.618,4070311.506,-2.3930,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#B:initialize - begin346580.618,4070311.506,-2.3928,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620444,2,1,346580.618,4070311.506,-2.3927,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,620482,2,1,346580.618,4070311.506,-2.3927,4B
+deserializing...#ChngCtrlMode,1,16
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,1,16
+@Change control mode
+@manual controller selected
+Initializing Manual Controller
+#BoatState,620520,1,2,346580.618,4070311.506,-2.3928,4D
+#BoatState,620583,1,2,346580.618,4070311.506,-2.3925,49
+#BoatState,620655,1,2,346580.618,4070311.506,-2.3930,45
+#BoatState,620691,1,2,346580.618,4070311.506,-2.3935,48
+#BoatState,620728,1,2,346580.618,4070311.506,-2.3932,4C
+#BoatState,620764,1,2,346580.618,4070311.506,-2.3935,43
+#BoatState,620800,1,2,346580.618,4070311.506,-2.3934,4F
+#BoatState,620836,1,2,346580.618,4070311.506,-2.3932,4C
+#BoatState,620873,1,2,346580.618,4070311.506,-2.3935,4A
+#BoatState,620909,1,2,346580.618,4070311.506,-2.3935,46
+#BoatState,620945,1,2,346580.618,4070311.506,-2.3935,4E
+#BoatState,620981,1,2,346580.618,4070311.506,-2.3937,44
+#BoatState,621018,1,2,346580.618,4070311.506,-2.3935,4E
+#BoatState,621054,1,2,346580.618,4070311.506,-2.3937,44
+#BoatState,621090,1,2,346580.618,4070311.506,-2.3939,42
+#BoatState,621127,1,2,346580.588,4070311.507,-2.3939,44
+#BoatState,621199,1,2,346580.588,4070311.507,-2.3944,4B
+#BoatState,621235,1,2,346580.588,4070311.507,-2.3946,4C
+#BoatState,621272,1,2,346580.588,4070311.507,-2.3946,4F
+#BoatState,621308,1,2,346580.588,4070311.507,-2.3942,47
+#BoatState,621344,1,2,346580.588,4070311.507,-2.3942,4F
+#BoatState,621380,1,2,346580.588,4070311.507,-2.3944,41
+#BoatState,621417,1,2,346580.588,4070311.507,-2.3946,4A
+#BoatState,621453,1,2,346580.588,4070311.507,-2.3949,45
+#BoatState,621489,1,2,346580.588,4070311.507,-2.3949,42
+#BoatState,621525,1,2,346580.588,4070311.507,-2.3953,4E
+#BoatState,621562,1,2,346580.588,4070311.507,-2.3953,4D
+#BoatState,621598,1,2,346580.588,4070311.507,-2.3955,4E
+#BoatState,621634,1,2,346580.588,4070311.507,-2.3956,48
+#BoatState,621671,1,2,346580.588,4070311.507,-2.3956,49
+#BoatState,621707,1,2,346580.588,4070311.507,-2.3962,4E
+#BoatState,621743,1,2,346580.588,4070311.507,-2.3960,4C
+#BoatState,621779,1,2,346580.588,4070311.507,-2.3960,45
+#BoatState,621816,1,2,346580.588,4070311.507,-2.3960,43
+#BoatState,621852,1,2,346580.588,4070311.507,-2.3956,46
+#CtrlSignals,1514,1487,off,0,13
+#BoatState,621888,1,2,346580.588,4070311.507,-2.3958,4F
+#BoatState,621924,1,2,346580.588,4070311.507,-2.3953,43
+#CtrlSignals,1517,1490,off,0,16
+#BoatState,621961,1,2,346580.588,4070311.507,-2.3951,40
+#BoatState,621997,1,2,346580.588,4070311.507,-2.3951,49
+#BoatState,622033,1,2,346580.588,4070311.507,-2.3953,4F
+#BoatState,622069,1,2,346580.588,4070311.507,-2.3955,46
+#BoatState,622106,1,2,346580.573,4070311.507,-2.3955,4A
+#BoatState,622215,1,2,346580.573,4070311.507,-2.3949,46
+#BoatState,622251,1,2,346580.573,4070311.507,-2.3953,4D
+#BoatState,622287,1,2,346580.573,4070311.507,-2.3956,43
+#BoatState,622323,1,2,346580.573,4070311.507,-2.3956,4C
+#BoatState,622360,1,2,346580.573,4070311.507,-2.3955,48
+#BoatState,622396,1,2,346580.573,4070311.507,-2.3956,42
+#BoatState,622432,1,2,346580.573,4070311.507,-2.3955,48
+#BoatState,622468,1,2,346580.573,4070311.507,-2.3956,44
+#BoatState,622505,1,2,346580.573,4070311.507,-2.3953,4B
+#BoatState,622541,1,2,346580.573,4070311.507,-2.3955,4D
+#BoatState,622577,1,2,346580.573,4070311.507,-2.3956,4B
+#BoatState,622613,1,2,346580.573,4070311.507,-2.3960,4F
+#CtrlSignals,1515,1490,off,0,14
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,622661,1,2,346580.573,4070311.507,-2.3960,4A
+#BoatState,622697,1,2,346580.573,4070311.507,-2.3962,41
+#BoatState,622733,1,2,346580.573,4070311.507,-2.3963,4F
+#BoatState,622770,1,2,346580.573,4070311.507,-2.3963,48
+#BoatState,622806,1,2,346580.573,4070311.507,-2.3963,46
+#BoatState,622842,1,2,346580.573,4070311.507,-2.3965,40
+#BoatState,622879,1,2,346580.573,4070311.507,-2.3965,48
+#BoatState,622915,1,2,346580.573,4070311.507,-2.3969,4F
+#BoatState,622951,1,2,346580.573,4070311.507,-2.3967,41
+#BoatState,622987,1,2,346580.573,4070311.507,-2.3963,4E
+#BoatState,623024,1,2,346580.573,4070311.507,-2.3963,4F
+#BoatState,623060,1,2,346580.573,4070311.507,-2.3962,4E
+#BoatState,623169,1,2,346580.573,4070311.507,-2.3958,4F
+#BoatState,623205,1,2,346580.589,4070311.525,-2.3956,4D
+#BoatState,623241,1,2,346580.589,4070311.525,-2.3956,4D
+#CtrlSignals,1515,1490,off,0,14
+#BoatState,623277,1,2,346580.589,4070311.525,-2.3951,4F
+#BoatState,623314,1,2,346580.589,4070311.525,-2.3955,4F
+#CtrlSignals,1517,1490,off,0,16
+#BoatState,623350,1,2,346580.589,4070311.525,-2.3955,4F
+#BoatState,623386,1,2,346580.589,4070311.525,-2.3955,44
+#BoatState,623423,1,2,346580.589,4070311.525,-2.3958,41
+#BoatState,623459,1,2,346580.589,4070311.525,-2.3960,47
+#BoatState,623495,1,2,346580.589,4070311.525,-2.3960,47
+#BoatState,623531,1,2,346580.589,4070311.525,-2.3958,43
+#BoatState,623568,1,2,346580.589,4070311.525,-2.3958,4F
+#BoatState,623604,1,2,346580.589,4070311.525,-2.3955,4B
+#BoatState,623640,1,2,346580.589,4070311.525,-2.3956,48
+#BoatState,623676,1,2,346580.589,4070311.525,-2.3956,4D
+#BoatState,623713,1,2,346580.589,4070311.525,-2.3955,4C
+#BoatState,623749,1,2,346580.589,4070311.525,-2.3955,43
+#BoatState,623785,1,2,346580.589,4070311.525,-2.3953,45
+#BoatState,623821,1,2,346580.589,4070311.525,-2.3953,44
+#BoatState,623858,1,2,346580.589,4070311.525,-2.3956,4F
+#BoatState,623894,1,2,346580.589,4070311.525,-2.3955,4C
+#BoatState,623930,1,2,346580.589,4070311.525,-2.3955,43
+#BoatState,623967,1,2,346580.589,4070311.525,-2.3955,41
+#BoatState,624003,1,2,346580.589,4070311.525,-2.3958,40
+#BoatState,624039,1,2,346580.589,4070311.525,-2.3960,42
+#BoatState,624075,1,2,346580.589,4070311.525,-2.3956,4F
+#BoatState,624184,1,2,346580.589,4070311.544,-2.3951,40
+#BoatState,624220,1,2,346580.589,4070311.544,-2.3951,4D
+#BoatState,624257,1,2,346580.589,4070311.544,-2.3951,4D
+#BoatState,624293,1,2,346580.589,4070311.544,-2.3948,4D
+#BoatState,624329,1,2,346580.589,4070311.544,-2.3951,45
+#BoatState,624365,1,2,346580.589,4070311.544,-2.3948,45
+#BoatState,624402,1,2,346580.589,4070311.544,-2.3953,49
+#BoatState,624438,1,2,346580.589,4070311.544,-2.3955,46
+#BoatState,624474,1,2,346580.589,4070311.544,-2.3955,4E
+#BoatState,624511,1,2,346580.589,4070311.544,-2.3951,48
+#BoatState,624583,1,2,346580.589,4070311.544,-2.3951,43
+#BoatState,624619,1,2,346580.589,4070311.544,-2.3953,41
+#CtrlSignals,1515,1490,off,0,14
+#BoatState,624656,1,2,346580.589,4070311.544,-2.3951,48
+#BoatState,624692,1,2,346580.589,4070311.544,-2.3951,40
+#BoatState,624728,1,2,346580.589,4070311.544,-2.3951,40
+#BoatState,624764,1,2,346580.589,4070311.544,-2.3951,48
+#CtrlSignals,1518,1490,off,0,19
+#BoatState,624801,1,2,346580.589,4070311.544,-2.3953,46
+#BoatState,624837,1,2,346580.589,4070311.544,-2.3955,45
+#BoatState,624873,1,2,346580.589,4070311.544,-2.3956,46
+#BoatState,624909,1,2,346580.589,4070311.544,-2.3956,4A
+#BoatState,624946,1,2,346580.589,4070311.544,-2.3956,41
+#BoatState,624982,1,2,346580.589,4070311.544,-2.3958,47
+#BoatState,625018,1,2,346580.589,4070311.544,-2.3960,47
+#BoatState,625055,1,2,346580.589,4070311.544,-2.3960,4E
+#BoatState,625091,1,2,346580.589,4070311.544,-2.3958,4D
+#BoatState,625200,1,2,346580.590,4070311.599,-2.3962,46
+#BoatState,625236,1,2,346580.590,4070311.599,-2.3958,4A
+#BoatState,625272,1,2,346580.590,4070311.599,-2.3960,41
+#BoatState,625308,1,2,346580.590,4070311.599,-2.3965,48
+#BoatState,625345,1,2,346580.590,4070311.599,-2.3965,41
+#BoatState,625381,1,2,346580.590,4070311.599,-2.3965,49
+#BoatState,625417,1,2,346580.590,4070311.599,-2.3965,41
+#BoatState,625453,1,2,346580.590,4070311.599,-2.3967,43
+#BoatState,625490,1,2,346580.590,4070311.599,-2.3970,4A
+#BoatState,625526,1,2,346580.590,4070311.599,-2.3974,42
+#BoatState,625562,1,2,346580.590,4070311.599,-2.3976,40
+#BoatState,625599,1,2,346580.590,4070311.599,-2.3976,44
+#BoatState,625635,1,2,346580.590,4070311.599,-2.3976,41
+#BoatState,625671,1,2,346580.590,4070311.599,-2.3979,4E
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,625709,1,2,346580.590,4070311.599,-2.3981,47
+#BoatState,625746,1,2,346580.590,4070311.599,-2.3981,4C
+#BoatState,625782,1,2,346580.590,4070311.599,-2.3981,44
+#BoatState,625818,1,2,346580.590,4070311.599,-2.3981,48
+#BoatState,625891,1,2,346580.590,4070311.599,-2.3979,4E
+#CtrlSignals,1522,1490,off,0,10
+#BoatState,625927,1,2,346580.590,4070311.599,-2.3979,42
+#BoatState,625963,1,2,346580.590,4070311.599,-2.3979,42
+#CtrlSignals,1516,1490,off,0,17
+#BoatState,626000,1,2,346580.590,4070311.599,-2.3983,48
+#BoatState,626036,1,2,346580.590,4070311.599,-2.3981,4F
+#BoatState,626072,1,2,346580.590,4070311.599,-2.3977,46
+#BoatState,626108,1,2,346580.590,4070311.599,-2.3976,4B
+#BoatState,626145,1,2,346580.590,4070311.599,-2.3979,4D
+#BoatState,626181,1,2,346580.590,4070311.618,-2.3979,4F
+#BoatState,626217,1,2,346580.590,4070311.618,-2.3976,4C
+#BoatState,626253,1,2,346580.590,4070311.618,-2.3977,4D
+#BoatState,626290,1,2,346580.590,4070311.618,-2.3974,41
+#BoatState,626326,1,2,346580.590,4070311.618,-2.3970,49
+#BoatState,626362,1,2,346580.590,4070311.618,-2.3970,49
+#BoatState,626399,1,2,346580.590,4070311.618,-2.3974,49
+#BoatState,626435,1,2,346580.590,4070311.618,-2.3972,4E
+#BoatState,626471,1,2,346580.590,4070311.618,-2.3972,4E
+#BoatState,626507,1,2,346580.590,4070311.618,-2.3976,4A
+#BoatState,626544,1,2,346580.590,4070311.618,-2.3974,4F
+#BoatState,626580,1,2,346580.590,4070311.618,-2.3976,45
+#BoatState,626616,1,2,346580.590,4070311.618,-2.3976,49
+#BoatState,626652,1,2,346580.590,4070311.618,-2.3974,4B
+#BoatState,626689,1,2,346580.590,4070311.618,-2.3976,4F
+#BoatState,626725,1,2,346580.590,4070311.618,-2.3974,4A
+#BoatState,626761,1,2,346580.590,4070311.618,-2.3977,49
+#BoatState,626797,1,2,346580.590,4070311.618,-2.3979,4E
+#BoatState,626834,1,2,346580.590,4070311.618,-2.3979,48
+#BoatState,626870,1,2,346580.590,4070311.618,-2.3981,4F
+#BoatState,626906,1,2,346580.590,4070311.618,-2.3979,48
+#BoatState,626943,1,2,346580.590,4070311.618,-2.3974,44
+#BoatState,626979,1,2,346580.590,4070311.618,-2.3977,4E
+#BoatState,627015,1,2,346580.590,4070311.618,-2.3976,4D
+#BoatState,627051,1,2,346580.590,4070311.618,-2.3977,4C
+#BoatState,627088,1,2,346580.590,4070311.618,-2.3976,49
+#BoatState,627196,1,2,346580.590,4070311.618,-2.3974,45
+#BoatState,627233,1,2,346580.620,4070311.636,-2.3974,4D
+#BoatState,627269,1,2,346580.620,4070311.636,-2.3974,42
+#BoatState,627305,1,2,346580.620,4070311.636,-2.3972,4F
+#BoatState,627341,1,2,346580.620,4070311.636,-2.3976,4B
+#BoatState,627378,1,2,346580.620,4070311.636,-2.3976,41
+#BoatState,627414,1,2,346580.620,4070311.636,-2.3976,4C
+#BoatState,627450,1,2,346580.620,4070311.636,-2.3981,44
+#BoatState,627487,1,2,346580.620,4070311.636,-2.3983,4C
+#BoatState,627523,1,2,346580.620,4070311.636,-2.3981,41
+#BoatState,627559,1,2,346580.620,4070311.636,-2.3979,4B
+#BoatState,627595,1,2,346580.620,4070311.636,-2.3979,4B
+#BoatState,627632,1,2,346580.620,4070311.636,-2.3979,45
+#BoatState,627668,1,2,346580.620,4070311.636,-2.3976,45
+#BoatState,627704,1,2,346580.620,4070311.636,-2.3977,4F
+#BoatState,627740,1,2,346580.620,4070311.636,-2.3979,41
+#BoatState,627777,1,2,346580.620,4070311.636,-2.3981,42
+#BoatState,627813,1,2,346580.620,4070311.636,-2.3981,4F
+#BoatState,627849,1,2,346580.620,4070311.636,-2.3983,42
+#BoatState,627885,1,2,346580.620,4070311.636,-2.3981,40
+#BoatState,627922,1,2,346580.620,4070311.636,-2.3981,4C
+#BoatState,627958,1,2,346580.620,4070311.636,-2.3979,46
+#BoatState,627994,1,2,346580.620,4070311.636,-2.3981,41
+#BoatState,628031,1,2,346580.620,4070311.636,-2.3983,4A
+#BoatState,628067,1,2,346580.620,4070311.636,-2.3984,4E
+#BoatState,628103,1,2,346580.620,4070311.636,-2.3986,4F
+#BoatState,628212,1,2,346580.651,4070311.691,-2.3983,42
+#BoatState,628248,1,2,346580.651,4070311.691,-2.3988,46
+#BoatState,628284,1,2,346580.651,4070311.691,-2.3983,4D
+#BoatState,628321,1,2,346580.651,4070311.691,-2.3981,41
+#BoatState,628357,1,2,346580.651,4070311.691,-2.3981,40
+#BoatState,628393,1,2,346580.651,4070311.691,-2.3981,48
+#BoatState,628429,1,2,346580.651,4070311.691,-2.3981,4E
+#BoatState,628466,1,2,346580.651,4070311.691,-2.3981,45
+#BoatState,628502,1,2,346580.651,4070311.691,-2.3981,46
+#BoatState,628538,1,2,346580.651,4070311.691,-2.3979,48
+#BoatState,628575,1,2,346580.651,4070311.691,-2.3983,44
+#BoatState,628611,1,2,346580.651,4070311.691,-2.3986,40
+#BoatState,628647,1,2,346580.651,4070311.691,-2.3986,43
+#BoatState,628683,1,2,346580.651,4070311.691,-2.3986,4B
+#BoatState,628720,1,2,346580.651,4070311.691,-2.3986,43
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,628831,1,2,346580.651,4070311.691,-2.3986,4C
+#BoatState,628867,1,2,346580.651,4070311.691,-2.3988,41
+#BoatState,628903,1,2,346580.651,4070311.691,-2.3990,4B
+#BoatState,628939,1,2,346580.651,4070311.691,-2.3988,4B
+#BoatState,628976,1,2,346580.651,4070311.691,-2.3988,40
+#BoatState,629012,1,2,346580.651,4070311.691,-2.3983,41
+#BoatState,629048,1,2,346580.651,4070311.691,-2.3984,49
+#BoatState,629084,1,2,346580.651,4070311.691,-2.3984,49
+#BoatState,629121,1,2,346580.651,4070311.691,-2.3984,47
+#CtrlSignals,1519,1492,off,0,1A
+#BoatState,629193,1,2,346580.651,4070311.691,-2.3979,4C
+#BoatState,629229,1,2,346580.681,4070311.709,-2.3981,44
+#BoatState,629266,1,2,346580.681,4070311.709,-2.3977,46
+#BoatState,629302,1,2,346580.681,4070311.709,-2.3974,46
+#CtrlSignals,1518,1494,off,0,1D
+#BoatState,629338,1,2,346580.681,4070311.709,-2.3974,4F
+#BoatState,629375,1,2,346580.681,4070311.709,-2.3974,46
+#BoatState,629411,1,2,346580.681,4070311.709,-2.3972,45
+#BoatState,629447,1,2,346580.681,4070311.709,-2.3970,44
+#BoatState,629483,1,2,346580.681,4070311.709,-2.3974,48
+#BoatState,629520,1,2,346580.681,4070311.709,-2.3969,4C
+#BoatState,629556,1,2,346580.681,4070311.709,-2.3967,43
+#BoatState,629592,1,2,346580.681,4070311.709,-2.3965,49
+#BoatState,629628,1,2,346580.681,4070311.709,-2.3969,47
+#BoatState,629665,1,2,346580.681,4070311.709,-2.3967,40
+#BoatState,629701,1,2,346580.681,4070311.709,-2.3970,45
+#BoatState,629737,1,2,346580.681,4070311.709,-2.3970,40
+#BoatState,629773,1,2,346580.681,4070311.709,-2.3965,44
+#BoatState,629810,1,2,346580.681,4070311.709,-2.3967,4C
+#BoatState,629846,1,2,346580.681,4070311.709,-2.3970,49
+#BoatState,629882,1,2,346580.681,4070311.709,-2.3969,49
+#BoatState,629919,1,2,346580.681,4070311.709,-2.3969,4A
+#BoatState,629955,1,2,346580.681,4070311.709,-2.3967,4C
+#BoatState,629991,1,2,346580.681,4070311.709,-2.3969,4A
+#BoatState,630027,1,2,346580.681,4070311.709,-2.3965,4A
+#CtrlSignals,1515,1490,off,0,14
+#BoatState,630064,1,2,346580.681,4070311.709,-2.3969,41
+#BoatState,630100,1,2,346580.681,4070311.709,-2.3969,42
+#CtrlSignals,1517,1490,off,0,16
+#BoatState,630317,1,2,346580.681,4070311.709,-2.3963,4C
+#BoatState,630354,1,2,346580.697,4070311.764,-2.3967,43
+#BoatState,630390,1,2,346580.697,4070311.764,-2.3969,45
+#BoatState,630426,1,2,346580.697,4070311.764,-2.3970,47
+#BoatState,630463,1,2,346580.697,4070311.764,-2.3972,44
+#BoatState,630499,1,2,346580.697,4070311.764,-2.3976,45
+#BoatState,630535,1,2,346580.697,4070311.764,-2.3976,42
+#BoatState,630571,1,2,346580.697,4070311.764,-2.3974,40
+#CtrlSignals,1517,1490,off,0,16
+#BoatState,630608,1,2,346580.697,4070311.764,-2.3977,4E
+#BoatState,630644,1,2,346580.697,4070311.764,-2.3977,46
+#BoatState,630680,1,2,346580.697,4070311.764,-2.3977,4E
+#BoatState,630716,1,2,346580.697,4070311.764,-2.3979,4E
+#BoatState,630753,1,2,346580.697,4070311.764,-2.3983,4A
+#BoatState,630789,1,2,346580.697,4070311.764,-2.3981,4F
+#BoatState,630825,1,2,346580.697,4070311.764,-2.3979,41
+#BoatState,630861,1,2,346580.697,4070311.764,-2.3979,41
+#BoatState,630898,1,2,346580.697,4070311.764,-2.3977,49
+#CtrlSignals,1514,1490,off,0,15
+#BoatState,630934,1,2,346580.697,4070311.764,-2.3977,4E
+#BoatState,630970,1,2,346580.697,4070311.764,-2.3976,4F
+#BoatState,631007,1,2,346580.697,4070311.764,-2.3977,46
+#BoatState,631043,1,2,346580.697,4070311.764,-2.3977,46
+#BoatState,631079,1,2,346580.697,4070311.764,-2.3976,4E
+#BoatState,631188,1,2,346580.697,4070311.764,-2.3976,41
+#BoatState,631224,1,2,346580.697,4070311.764,-2.3979,4B
+#BoatState,631260,1,2,346580.728,4070311.819,-2.3977,45
+#BoatState,631297,1,2,346580.728,4070311.819,-2.3977,4D
+#BoatState,631333,1,2,346580.728,4070311.819,-2.3977,42
+#BoatState,631369,1,2,346580.728,4070311.819,-2.3981,44
+#BoatState,631405,1,2,346580.728,4070311.819,-2.3977,40
+#BoatState,631442,1,2,346580.728,4070311.819,-2.3976,42
+#BoatState,631478,1,2,346580.728,4070311.819,-2.3972,4F
+#BoatState,631514,1,2,346580.728,4070311.819,-2.3974,42
+#BoatState,631551,1,2,346580.728,4070311.819,-2.3976,41
+#BoatState,631587,1,2,346580.728,4070311.819,-2.3974,48
+#BoatState,631623,1,2,346580.728,4070311.819,-2.3979,48
+#BoatState,631659,1,2,346580.728,4070311.819,-2.3981,42
+#BoatState,631696,1,2,346580.728,4070311.819,-2.3979,46
+#BoatState,631732,1,2,346580.728,4070311.819,-2.3979,49
+#BoatState,631768,1,2,346580.728,4070311.819,-2.3977,48
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,631807,1,2,346580.728,4070311.819,-2.3977,4E
+#CtrlSignals,1515,1490,off,0,14
+#BoatState,631879,1,2,346580.728,4070311.819,-2.3979,49
+#BoatState,631915,1,2,346580.728,4070311.819,-2.3979,42
+#BoatState,631952,1,2,346580.728,4070311.819,-2.3977,4F
+#BoatState,631988,1,2,346580.728,4070311.819,-2.3976,49
+#BoatState,632024,1,2,346580.728,4070311.819,-2.3970,43
+#BoatState,632060,1,2,346580.728,4070311.819,-2.3969,4B
+#BoatState,632097,1,2,346580.728,4070311.819,-2.3965,4F
+#BoatState,632169,1,2,346580.728,4070311.819,-2.3963,49
+#BoatState,632205,1,2,346580.728,4070311.819,-2.3963,40
+#BoatState,632242,1,2,346580.728,4070311.819,-2.3963,43
+#BoatState,632278,1,2,346580.758,4070311.874,-2.3960,45
+#BoatState,632314,1,2,346580.758,4070311.874,-2.3962,4C
+#BoatState,632351,1,2,346580.758,4070311.874,-2.3960,4F
+#BoatState,632387,1,2,346580.758,4070311.874,-2.3958,4F
+#CtrlSignals,1518,1490,off,0,19
+#BoatState,632423,1,2,346580.758,4070311.874,-2.3962,4F
+#BoatState,632459,1,2,346580.758,4070311.874,-2.3960,40
+#BoatState,632496,1,2,346580.758,4070311.874,-2.3960,43
+#BoatState,632532,1,2,346580.758,4070311.874,-2.3958,47
+#BoatState,632568,1,2,346580.758,4070311.874,-2.3962,41
+#BoatState,632604,1,2,346580.758,4070311.874,-2.3963,49
+#BoatState,632641,1,2,346580.758,4070311.874,-2.3965,4E
+#BoatState,632677,1,2,346580.758,4070311.874,-2.3969,47
+#BoatState,632713,1,2,346580.758,4070311.874,-2.3967,4A
+#BoatState,632786,1,2,346580.758,4070311.874,-2.3967,46
+#BoatState,632822,1,2,346580.758,4070311.874,-2.3969,49
+#BoatState,632858,1,2,346580.758,4070311.874,-2.3963,4E
+#BoatState,632895,1,2,346580.758,4070311.874,-2.3967,4B
+#BoatState,632931,1,2,346580.758,4070311.874,-2.3967,44
+#BoatState,632967,1,2,346580.758,4070311.874,-2.3969,49
+#BoatState,633003,1,2,346580.758,4070311.874,-2.3969,43
+#BoatState,633040,1,2,346580.758,4070311.874,-2.3970,4C
+#BoatState,633076,1,2,346580.758,4070311.874,-2.3970,49
+#BoatState,633185,1,2,346580.758,4070311.874,-2.3979,4D
+#BoatState,633221,1,2,346580.758,4070311.874,-2.3983,45
+#BoatState,633257,1,2,346580.758,4070311.874,-2.3984,43
+#BoatState,633293,1,2,346580.774,4070311.929,-2.3984,4C
+#BoatState,633330,1,2,346580.774,4070311.929,-2.3977,48
+#BoatState,633366,1,2,346580.774,4070311.929,-2.3979,45
+#BoatState,633402,1,2,346580.774,4070311.929,-2.3981,47
+#BoatState,633439,1,2,346580.774,4070311.929,-2.3983,4D
+#BoatState,633475,1,2,346580.774,4070311.929,-2.3986,40
+#BoatState,633511,1,2,346580.774,4070311.929,-2.3981,44
+#BoatState,633547,1,2,346580.774,4070311.929,-2.3983,45
+#BoatState,633584,1,2,346580.774,4070311.929,-2.3981,48
+#BoatState,633620,1,2,346580.774,4070311.929,-2.3981,45
+#CtrlSignals,1522,1492,off,0,12
+#BoatState,633656,1,2,346580.774,4070311.929,-2.3984,41
+#BoatState,633692,1,2,346580.774,4070311.929,-2.3986,4B
+#CtrlSignals,1517,1490,off,0,16
+#BoatState,633729,1,2,346580.774,4070311.929,-2.3986,4A
+#BoatState,633765,1,2,346580.774,4070311.929,-2.3988,4C
+#BoatState,633801,1,2,346580.774,4070311.929,-2.3988,41
+#BoatState,633837,1,2,346580.774,4070311.929,-2.3984,48
+#BoatState,633874,1,2,346580.774,4070311.929,-2.3986,4D
+#BoatState,633910,1,2,346580.774,4070311.929,-2.3986,4E
+#BoatState,633946,1,2,346580.774,4070311.929,-2.3983,48
+#BoatState,633983,1,2,346580.774,4070311.929,-2.3984,46
+#BoatState,634019,1,2,346580.774,4070311.929,-2.3983,4C
+#BoatState,634055,1,2,346580.774,4070311.929,-2.3986,41
+#BoatState,634091,1,2,346580.774,4070311.929,-2.3988,47
+#BoatState,634200,1,2,346580.774,4070311.929,-2.3991,45
+#BoatState,634236,1,2,346580.774,4070311.929,-2.3991,40
+#BoatState,634273,1,2,346580.774,4070311.929,-2.3990,40
+#BoatState,634309,1,2,346580.775,4070311.984,-2.3991,4B
+#BoatState,634345,1,2,346580.775,4070311.984,-2.3990,42
+#BoatState,634381,1,2,346580.775,4070311.984,-2.3990,4A
+#BoatState,634418,1,2,346580.775,4070311.984,-2.3984,48
+#BoatState,634454,1,2,346580.775,4070311.984,-2.3983,47
+#BoatState,634490,1,2,346580.775,4070311.984,-2.3981,4D
+#BoatState,634527,1,2,346580.775,4070311.984,-2.3981,40
+#BoatState,634599,1,2,346580.775,4070311.984,-2.3981,45
+#BoatState,634635,1,2,346580.775,4070311.984,-2.3979,47
+#BoatState,634672,1,2,346580.775,4070311.984,-2.3977,4A
+#BoatState,634708,1,2,346580.775,4070311.984,-2.3976,47
+#BoatState,634744,1,2,346580.775,4070311.984,-2.3977,4E
+#BoatState,634780,1,2,346580.775,4070311.984,-2.3981,4F
+#BoatState,634817,1,2,346580.775,4070311.984,-2.3979,49
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+#BoatState,634855,1,2,346580.775,4070311.984,-2.3976,40
+#BoatState,634891,1,2,346580.775,4070311.984,-2.3974,4A
+#BoatState,634928,1,2,346580.775,4070311.984,-2.3976,4B
+#BoatState,634964,1,2,346580.775,4070311.984,-2.3976,43
+#BoatState,635000,1,2,346580.775,4070311.984,-2.3976,49
+#BoatState,635037,1,2,346580.775,4070311.984,-2.3972,49
+#BoatState,635073,1,2,346580.775,4070311.984,-2.3974,4F
+#BoatState,635109,1,2,346580.775,4070311.984,-2.3976,41
+#BoatState,635182,1,2,346580.775,4070311.984,-2.3974,40
+#BoatState,635218,1,2,346580.775,4070311.984,-2.3972,46
+#BoatState,635254,1,2,346580.775,4070311.984,-2.3969,44
+#BoatState,635290,1,2,346580.777,4070312.058,-2.3969,45
+#BoatState,635327,1,2,346580.777,4070312.058,-2.3969,48
+#BoatState,635399,1,2,346580.777,4070312.058,-2.3965,41
+#BoatState,635436,1,2,346580.777,4070312.058,-2.3967,41
+#BoatState,635472,1,2,346580.777,4070312.058,-2.3969,4F
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+@Change control mode
+@semiauto controller is selected
+Semiauto::initialize - begin
+Semiauto::initialize - init heading controller
+%Initializing Heading Controller. Des Heading : -2.40
+Semiauto::initialize - add first sample pose
+Semiauto::initialize - end
+#BoatState,635508,2,1,346580.777,4070312.058,-2.3970,4B
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635604,2,1,346580.777,4070312.058,-2.3969,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635679,2,1,346580.777,4070312.058,-2.3969,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635717,2,1,346580.777,4070312.058,-2.3965,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635755,2,1,346580.777,4070312.058,-2.3962,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635793,2,1,346580.777,4070312.058,-2.3963,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635830,2,1,346580.777,4070312.058,-2.3965,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635868,2,1,346580.777,4070312.058,-2.3965,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635906,2,1,346580.777,4070312.058,-2.3963,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635944,2,1,346580.777,4070312.058,-2.3967,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,635982,2,1,346580.777,4070312.058,-2.3967,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636019,2,1,346580.777,4070312.058,-2.3962,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636057,2,1,346580.777,4070312.058,-2.3960,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#B:initialize - begin
+46580.777,4070312.058,-2.3960,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636169,2,1,346580.777,4070312.058,-2.3963,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636207,2,1,346580.777,4070312.058,-2.3960,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636245,2,1,346580.777,4070312.058,-2.3956,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636283,2,1,346580.762,4070312.096,-2.3956,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636320,2,1,346580.762,4070312.096,-2.3956,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636358,2,1,346580.762,4070312.096,-2.3956,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636396,2,1,346580.762,4070312.096,-2.3956,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636434,2,1,346580.762,4070312.096,-2.3953,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636472,2,1,346580.762,4070312.096,-2.3951,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636509,2,1,346580.762,4070312.096,-2.3951,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636547,2,1,346580.762,4070312.096,-2.3951,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636585,2,1,346580.762,4070312.096,-2.3951,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#B:initialize - begi1,346580.762,4070312.096,-2.3953,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636660,2,1,346580.762,4070312.096,-2.3955,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636698,2,1,346580.762,4070312.096,-2.3948,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636736,2,1,346580.762,4070312.096,-2.3944,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636774,2,1,346580.762,4070312.096,-2.3942,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636812,2,1,346580.762,4070312.096,-2.3946,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636849,2,1,346580.762,4070312.096,-2.3948,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636887,2,1,346580.762,4070312.096,-2.3949,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636925,2,1,346580.762,4070312.096,-2.3948,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,636963,2,1,346580.762,4070312.096,-2.3944,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637001,2,1,346580.762,4070312.096,-2.3944,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637038,2,1,346580.762,4070312.096,-2.3944,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637076,2,1,346580.762,4070312.096,-2.3944,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637114,2,1,346580.762,4070312.096,-2.3944,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+@Change control mode
+@semiauto controller is already selected
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637188,2,1,346580.762,4070312.096,-2.3939,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637264,2,1,346580.762,4070312.096,-2.3939,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637302,2,1,346580.762,4070312.096,-2.3937,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637340,2,1,346580.762,4070312.096,-2.3935,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637378,2,1,346580.748,4070312.096,-2.3935,47
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637416,2,1,346580.748,4070312.096,-2.3934,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637453,2,1,346580.748,4070312.096,-2.3937,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637491,2,1,346580.748,4070312.096,-2.3934,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637529,2,1,346580.748,4070312.096,-2.3935,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637567,2,1,346580.748,4070312.096,-2.3939,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637605,2,1,346580.748,4070312.096,-2.3937,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - #BoatState,637642,2,1,346580.748,4070312.096,-2.3935,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637680,2,1,346580.748,4070312.096,-2.3934,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637718,2,1,346580.748,4070312.096,-2.3935,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637756,2,1,346580.748,4070312.096,-2.3937,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637794,2,1,346580.748,4070312.096,-2.3939,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637831,2,1,346580.748,4070312.096,-2.3941,42
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 27.0 Hz ThrtoleRF : 27.0 Hz
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637888,2,1,346580.748,4070312.096,-2.3937,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637926,2,1,346580.748,4070312.096,-2.3941,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,637964,2,1,346580.748,4070312.096,-2.3939,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638001,2,1,346580.748,4070312.096,-2.3939,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638039,2,1,346580.748,4070312.096,-2.3937,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638077,2,1,346580.748,4070312.096,-2.3937,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638115,2,1,346580.748,4070312.096,-2.3937,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638189,2,1,346580.748,4070312.096,-2.3939,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638227,2,1,346580.748,4070312.096,-2.3935,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638301,2,1,346580.748,4070312.096,-2.3939,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638339,2,1,346580.748,4070312.096,-2.3935,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638376,2,1,346580.748,4070312.096,-2.3939,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638414,2,1,346580.748,4070312.096,-2.3941,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638452,2,1,346580.748,4070312.096,-2.3939,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638490,2,1,346580.748,4070312.096,-2.3941,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638528,2,1,346580.748,4070312.096,-2.3941,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638565,2,1,346580.748,4070312.096,-2.3939,4E
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638603,2,1,346580.748,4070312.096,-2.3939,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638641,2,1,346580.748,4070312.096,-2.3937,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#Boinitialize - begin,346580.748,4070312.096,-2.3939,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638716,2,1,346580.748,4070312.096,-2.3937,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638754,2,1,346580.748,4070312.096,-2.3935,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638792,2,1,346580.748,4070312.096,-2.3935,48
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638830,2,1,346580.748,4070312.096,-2.3935,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638868,2,1,346580.748,4070312.096,-2.3934,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638905,2,1,346580.748,4070312.096,-2.3934,49
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638943,2,1,346580.748,4070312.096,-2.3934,4B
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,638981,2,1,346580.748,4070312.096,-2.3934,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639019,2,1,346580.748,4070312.096,-2.3932,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639057,2,1,346580.748,4070312.096,-2.3930,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639167,2,1,346580.748,4070312.096,-2.3930,40
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#B:initialize - beg,1,346580.748,4070312.096,-2.3927,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639243,2,1,346580.748,4070312.096,-2.3925,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639281,2,1,346580.748,4070312.096,-2.3925,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639318,2,1,346580.748,4070312.096,-2.3921,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639356,2,1,346580.748,4070312.096,-2.3920,41
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639394,2,1,346580.748,4070312.096,-2.3920,4F
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639432,2,1,346580.748,4070312.096,-2.3920,44
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639470,2,1,346580.748,4070312.096,-2.3927,45
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639507,2,1,346580.748,4070312.096,-2.3925,46
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639545,2,1,346580.748,4070312.096,-2.3927,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639583,2,1,346580.748,4070312.096,-2.3925,4A
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639621,2,1,346580.748,4070312.096,-2.3927,43
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639659,2,1,346580.748,4070312.096,-2.3927,4C
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639696,2,1,346580.748,4070312.096,-2.3925,4D
+Semiauto::initialize - end
+#BoatState,639734,2,1,346580.748,4070312.096,-2.3923,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639772,2,1,346580.748,4070312.096,-2.3921,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639810,2,1,346580.748,4070312.096,-2.3925,4D
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639848,2,1,346580.748,4070312.096,-2.3927,42
+Semiauto::initialize - begin
+Semiauto::initialize - run heading controller
+Semiauto::initialize - end
+#BoatState,639885,2,1,346580.748,4070312.096,-2.3925,41

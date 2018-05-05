@@ -1,0 +1,2331 @@
+#BoatState,10912,1,2,346585.330,4070324.480,-1.4087,7E
+#BoatState,10949,1,2,346585.330,4070324.480,-1.4087,70
+#BoatState,10985,1,2,346585.330,4070324.480,-1.4087,70
+#BoatState,11021,1,2,346585.330,4070324.480,-1.4088,79
+#BoatState,11057,1,2,346585.330,4070324.480,-1.4087,77
+#BoatState,11094,1,2,346585.330,4070324.480,-1.4088,77
+#BoatState,11130,1,2,346585.330,4070324.480,-1.4087,77
+#BoatState,11166,1,2,346585.330,4070324.480,-1.4088,7B
+#BoatState,11202,1,2,346585.330,4070324.480,-1.4087,75
+#BoatState,11239,1,2,346585.330,4070324.480,-1.4083,79
+#BoatState,11275,1,2,346585.330,4070324.480,-1.4083,71
+#BoatState,11311,1,2,346585.330,4070324.480,-1.4087,76
+#BoatState,11347,1,2,346585.330,4070324.480,-1.4085,77
+AHRS : 51.0 Hz GPGGA : 11.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,11456,1,2,346585.330,4070324.480,-1.4081,74
+#BoatState,11493,1,2,346585.330,4070324.480,-1.4081,7D
+#BoatState,11529,1,2,346585.330,4070324.480,-1.4081,7D
+#BoatState,11565,1,2,346585.330,4070324.480,-1.4078,73
+#BoatState,11601,1,2,346585.330,4070324.480,-1.4078,72
+#BoatState,11638,1,2,346585.330,4070324.480,-1.4078,78
+#BoatState,11674,1,2,346585.330,4070324.480,-1.4081,76
+#BoatState,11710,1,2,346585.330,4070324.480,-1.4080,74
+#BoatState,11746,1,2,346585.330,4070324.480,-1.4080,77
+#BoatState,11783,1,2,346585.392,4070324.590,-1.4083,75
+#BoatState,11819,1,2,346585.392,4070324.590,-1.4085,7F
+#BoatState,11855,1,2,346585.392,4070324.590,-1.4083,71
+#BoatState,11891,1,2,346585.392,4070324.590,-1.4081,7B
+#BoatState,11928,1,2,346585.392,4070324.590,-1.4083,7A
+#BoatState,11964,1,2,346585.392,4070324.590,-1.4085,74
+#BoatState,12000,1,2,346585.392,4070324.590,-1.4087,7E
+#BoatState,12073,1,2,346585.392,4070324.590,-1.4085,78
+#BoatState,12109,1,2,346585.392,4070324.590,-1.4083,72
+#BoatState,12145,1,2,346585.392,4070324.590,-1.4081,78
+#BoatState,12182,1,2,346585.392,4070324.590,-1.4081,73
+#BoatState,12218,1,2,346585.392,4070324.590,-1.4080,72
+#BoatState,12254,1,2,346585.392,4070324.590,-1.4080,7A
+#BoatState,12290,1,2,346585.392,4070324.590,-1.4078,75
+#BoatState,12327,1,2,346585.392,4070324.590,-1.4076,76
+#BoatState,12363,1,2,346585.392,4070324.590,-1.4076,76
+#BoatState,12472,1,2,346585.392,4070324.590,-1.4074,73
+#BoatState,12508,1,2,346585.392,4070324.590,-1.4074,7F
+#BoatState,12544,1,2,346585.392,4070324.590,-1.4073,70
+#BoatState,12581,1,2,346585.392,4070324.590,-1.4074,7E
+#BoatState,12617,1,2,346585.392,4070324.590,-1.4076,70
+#BoatState,12653,1,2,346585.392,4070324.590,-1.4080,79
+#BoatState,12689,1,2,346585.392,4070324.590,-1.4080,7E
+#BoatState,12726,1,2,346585.392,4070324.590,-1.4074,71
+#BoatState,12762,1,2,346585.408,4070324.682,-1.4076,77
+#BoatState,12798,1,2,346585.408,4070324.682,-1.4076,72
+#BoatState,12834,1,2,346585.408,4070324.682,-1.4076,7B
+#BoatState,12871,1,2,346585.408,4070324.682,-1.4074,78
+#BoatState,12907,1,2,346585.408,4070324.682,-1.4076,7A
+#BoatState,12979,1,2,346585.408,4070324.682,-1.4073,76
+#BoatState,13016,1,2,346585.408,4070324.682,-1.4074,70
+#BoatState,13052,1,2,346585.408,4070324.682,-1.4076,72
+#BoatState,13088,1,2,346585.408,4070324.682,-1.4078,7B
+#BoatState,13125,1,2,346585.408,4070324.682,-1.4076,73
+#BoatState,13161,1,2,346585.408,4070324.682,-1.4076,73
+#BoatState,13197,1,2,346585.408,4070324.682,-1.4076,7A
+#BoatState,13233,1,2,346585.408,4070324.682,-1.4074,75
+#BoatState,13270,1,2,346585.408,4070324.682,-1.4074,72
+#BoatState,13306,1,2,346585.408,4070324.682,-1.4076,70
+#BoatState,13342,1,2,346585.408,4070324.682,-1.4078,7E
+#BoatState,13378,1,2,346585.408,4070324.682,-1.4076,79
+#BoatState,13487,1,2,346585.408,4070324.682,-1.4076,7E
+#BoatState,13523,1,2,346585.408,4070324.682,-1.4074,73
+#BoatState,13560,1,2,346585.408,4070324.682,-1.4074,74
+#BoatState,13596,1,2,346585.408,4070324.682,-1.4073,7A
+#BoatState,13632,1,2,346585.408,4070324.682,-1.4073,77
+#BoatState,13669,1,2,346585.408,4070324.682,-1.4073,79
+#BoatState,13705,1,2,346585.408,4070324.682,-1.4073,72
+#BoatState,13741,1,2,346585.408,4070324.682,-1.4071,70
+#BoatState,13777,1,2,346585.410,4070324.756,-1.4071,74
+#BoatState,13814,1,2,346585.410,4070324.756,-1.4073,7C
+#BoatState,13850,1,2,346585.410,4070324.756,-1.4073,7C
+#BoatState,13886,1,2,346585.410,4070324.756,-1.4073,77
+#BoatState,13922,1,2,346585.410,4070324.756,-1.4069,73
+#BoatState,13959,1,2,346585.410,4070324.756,-1.4067,71
+#BoatState,13995,1,2,346585.410,4070324.756,-1.4067,71
+#BoatState,14031,1,2,346585.410,4070324.756,-1.4067,71
+#BoatState,14067,1,2,346585.410,4070324.756,-1.4067,72
+#BoatState,14104,1,2,346585.410,4070324.756,-1.4069,78
+#BoatState,14140,1,2,346585.410,4070324.756,-1.4069,78
+#BoatState,14176,1,2,346585.410,4070324.756,-1.4066,72
+#BoatState,14213,1,2,346585.410,4070324.756,-1.4066,72
+#BoatState,14285,1,2,346585.410,4070324.756,-1.4066,7D
+#BoatState,14321,1,2,346585.410,4070324.756,-1.4064,70
+#BoatState,14358,1,2,346585.410,4070324.756,-1.4062,78
+#BoatState,14394,1,2,346585.410,4070324.756,-1.4062,78
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,14504,1,2,346585.410,4070324.756,-1.4064,71
+#BoatState,14540,1,2,346585.410,4070324.756,-1.4064,71
+#BoatState,14577,1,2,346585.410,4070324.756,-1.4062,73
+#BoatState,14613,1,2,346585.410,4070324.756,-1.4062,72
+#BoatState,14649,1,2,346585.410,4070324.756,-1.4062,7D
+#BoatState,14686,1,2,346585.410,4070324.756,-1.4060,7C
+#BoatState,14722,1,2,346585.410,4070324.756,-1.4062,71
+#BoatState,14758,1,2,346585.410,4070324.756,-1.4062,7C
+#BoatState,14794,1,2,346585.425,4070324.793,-1.4062,73
+#BoatState,14831,1,2,346585.425,4070324.793,-1.4062,73
+#BoatState,14867,1,2,346585.425,4070324.793,-1.4062,70
+#BoatState,14903,1,2,346585.425,4070324.793,-1.4060,71
+#BoatState,14939,1,2,346585.425,4070324.793,-1.4062,7A
+#BoatState,14976,1,2,346585.425,4070324.793,-1.4062,71
+#BoatState,15012,1,2,346585.425,4070324.793,-1.4062,7B
+#BoatState,15048,1,2,346585.425,4070324.793,-1.4062,74
+#BoatState,15084,1,2,346585.425,4070324.793,-1.4064,72
+#BoatState,15121,1,2,346585.425,4070324.793,-1.4066,7E
+#BoatState,15157,1,2,346585.425,4070324.793,-1.4062,7B
+#BoatState,15193,1,2,346585.425,4070324.793,-1.4060,71
+#BoatState,15230,1,2,346585.425,4070324.793,-1.4064,7F
+#BoatState,15266,1,2,346585.425,4070324.793,-1.4064,7C
+#BoatState,15302,1,2,346585.425,4070324.793,-1.4062,79
+#BoatState,15338,1,2,346585.425,4070324.793,-1.4064,76
+#BoatState,15375,1,2,346585.425,4070324.793,-1.4064,7F
+#BoatState,15411,1,2,346585.425,4070324.793,-1.4064,7A
+#BoatState,15483,1,2,346585.425,4070324.793,-1.4064,71
+#BoatState,15520,1,2,346585.425,4070324.793,-1.4062,7F
+#BoatState,15556,1,2,346585.425,4070324.793,-1.4060,7C
+#BoatState,15592,1,2,346585.425,4070324.793,-1.4060,74
+#BoatState,15628,1,2,346585.425,4070324.793,-1.4060,76
+#BoatState,15665,1,2,346585.425,4070324.793,-1.4060,7F
+#BoatState,15701,1,2,346585.425,4070324.793,-1.4060,7C
+#BoatState,15737,1,2,346585.425,4070324.793,-1.4059,73
+#BoatState,15774,1,2,346585.425,4070324.793,-1.4059,74
+#BoatState,15810,1,2,346585.427,4070324.885,-1.4060,79
+#BoatState,15846,1,2,346585.427,4070324.885,-1.4060,7A
+#BoatState,15882,1,2,346585.427,4070324.885,-1.4062,70
+#BoatState,15919,1,2,346585.427,4070324.885,-1.4062,73
+#BoatState,15955,1,2,346585.427,4070324.885,-1.4060,79
+#BoatState,15991,1,2,346585.427,4070324.885,-1.4060,71
+#BoatState,16027,1,2,346585.427,4070324.885,-1.4064,72
+#BoatState,16064,1,2,346585.427,4070324.885,-1.4064,75
+#BoatState,16100,1,2,346585.427,4070324.885,-1.4064,76
+#BoatState,16136,1,2,346585.427,4070324.885,-1.4066,71
+#BoatState,16172,1,2,346585.427,4070324.885,-1.4067,70
+#BoatState,16209,1,2,346585.427,4070324.885,-1.4066,7E
+#BoatState,16245,1,2,346585.427,4070324.885,-1.4064,74
+#BoatState,16281,1,2,346585.427,4070324.885,-1.4060,78
+#BoatState,16318,1,2,346585.427,4070324.885,-1.4059,73
+#BoatState,16354,1,2,346585.427,4070324.885,-1.4059,7B
+#BoatState,16390,1,2,346585.427,4070324.885,-1.4059,73
+#BoatState,16499,1,2,346585.427,4070324.885,-1.4055,71
+#BoatState,16535,1,2,346585.427,4070324.885,-1.4055,76
+#BoatState,16571,1,2,346585.427,4070324.885,-1.4055,76
+#BoatState,16608,1,2,346585.427,4070324.885,-1.4059,77
+#BoatState,16644,1,2,346585.427,4070324.885,-1.4062,77
+#BoatState,16680,1,2,346585.427,4070324.885,-1.4062,7F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing...pCtrl,1,2F
+deserializing..?Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Initializing Manual Controller
+Acquiring GPS
+#BoatState,2409,1,2,166021.443,0.000,-1.4074,44
+Acquiring GPS
+#BoatState,2436,1,2,346585.686,4070325.214,-1.4076,4A
+Acquiring GPS
+#BoatState,2462,1,2,346585.686,4070325.214,-1.4074,49
+Acquiring GPS
+#BoatState,2488,1,2,346585.686,4070325.214,-1.4074,4D
+Acquiring GPS
+#BoatState,2513,1,2,346585.731,4070325.231,-1.4074,44
+Acquiring GPS
+#BoatState,2539,1,2,346585.731,4070325.231,-1.4073,4B
+Acquiring GPS
+#BoatState,2565,1,2,346585.731,4070325.231,-1.4073,42
+Acquiring GPS
+#BoatState,2591,1,2,346585.731,4070325.231,-1.4073,49
+Acquiring GPS
+#BoatState,2617,1,2,346585.731,4070325.231,-1.4074,43
+Acquiring GPS
+#BoatState,2643,1,2,346585.731,4070325.231,-1.4076,40
+Acquiring GPS
+#BoatState,2669,1,2,346585.731,4070325.231,-1.4074,4A
+Acquiring GPS
+#BoatState,2695,1,2,346585.731,4070325.231,-1.4073,4E
+Acquiring GPS
+#BoatState,2721,1,2,346585.731,4070325.231,-1.4074,47
+Acquiring GPS
+#BoatState,2747,1,2,346585.731,4070325.231,-1.4073,40
+Acquiring GPS
+#BoatState,2772,1,2,346585.731,4070325.231,-1.4076,43
+Acquiring GPS
+#BoatState,2798,1,2,346585.731,4070325.231,-1.4073,42
+Acquiring GPS
+#BoatState,2824,1,2,346585.731,4070325.231,-1.4074,4D
+Acquiring GPS
+#BoatState,2850,1,2,346585.731,4070325.231,-1.4074,4E
+Acquiring GPS
+#BoatState,2876,1,2,346585.731,4070325.231,-1.4074,4A
+Acquiring GPS
+#BoatState,2902,1,2,346585.731,4070325.231,-1.4073,4F
+Acquiring GPS
+#BoatState,2928,1,2,346585.731,4070325.231,-1.4071,45
+Acquiring GPS
+#BoatState,2964,1,2,346585.731,4070325.231,-1.4069,44
+Acquiring GPS
+#BoatState,3000,1,2,346585.731,4070325.231,-1.4069,4E
+Acquiring GPS
+#BoatState,3037,1,2,346585.731,4070325.231,-1.4069,4A
+Acquiring GPS
+#BoatState,3146,1,2,346585.731,4070325.231,-1.4067,43
+Acquiring GPS
+#BoatState,3182,1,2,346585.731,4070325.231,-1.4069,45
+Acquiring GPS
+#BoatState,3218,1,2,346585.731,4070325.231,-1.4069,45
+Acquiring GPS
+#BoatState,3254,1,2,346585.731,4070325.231,-1.4071,44
+Acquiring GPS
+#BoatState,3291,1,2,346585.731,4070325.231,-1.4067,4A
+Home position acquired : 340566.917 3934647.722
+#BoatState,3327,1,2,346585.731,4070325.231,-1.4069,48
+#BoatState,3363,1,2,346585.731,4070325.231,-1.4071,41
+#BoatState,3399,1,2,346585.731,4070325.231,-1.4071,44
+#BoatState,3436,1,2,346585.731,4070325.231,-1.4067,41
+#BoatState,3472,1,2,346585.731,4070325.231,-1.4069,4F
+#BoatState,3508,1,2,346585.731,4070325.231,-1.4071,4A
+#BoatState,3544,1,2,346585.809,4070325.433,-1.4074,47
+#BoatState,3581,1,2,346585.809,4070325.433,-1.4074,4E
+#BoatState,3617,1,2,346585.809,4070325.433,-1.4071,47
+#BoatState,3653,1,2,346585.809,4070325.433,-1.4071,47
+#BoatState,3690,1,2,346585.809,4070325.433,-1.4071,48
+#BoatState,3726,1,2,346585.809,4070325.433,-1.4071,44
+#BoatState,3762,1,2,346585.809,4070325.433,-1.4073,46
+#BoatState,3798,1,2,346585.809,4070325.433,-1.4074,44
+#BoatState,3835,1,2,346585.809,4070325.433,-1.4074,4C
+#BoatState,3871,1,2,346585.809,4070325.433,-1.4073,4B
+#BoatState,3907,1,2,346585.809,4070325.433,-1.4074,4C
+#BoatState,3943,1,2,346585.809,4070325.433,-1.4076,4E
+#BoatState,3980,1,2,346585.809,4070325.433,-1.4078,4F
+#BoatState,4016,1,2,346585.809,4070325.433,-1.4076,40
+#BoatState,4052,1,2,346585.809,4070325.433,-1.4076,40
+#BoatState,4125,1,2,346585.809,4070325.433,-1.4078,4F
+#BoatState,4161,1,2,346585.809,4070325.433,-1.4080,48
+#BoatState,4197,1,2,346585.809,4070325.433,-1.4081,40
+#BoatState,4234,1,2,346585.809,4070325.433,-1.4080,4B
+#BoatState,4270,1,2,346585.809,4070325.433,-1.4080,4B
+#BoatState,4306,1,2,346585.809,4070325.433,-1.4080,4B
+#BoatState,4342,1,2,346585.809,4070325.433,-1.4080,4B
+#BoatState,4379,1,2,346585.809,4070325.433,-1.4078,44
+#BoatState,4415,1,2,346585.809,4070325.433,-1.4078,49
+#BoatState,4451,1,2,346585.809,4070325.433,-1.4076,47
+#BoatState,4487,1,2,346585.809,4070325.433,-1.4073,49
+#BoatState,4524,1,2,346585.871,4070325.599,-1.4069,44
+#BoatState,4560,1,2,346585.871,4070325.599,-1.4069,44
+#BoatState,4596,1,2,346585.871,4070325.599,-1.4069,4D
+#BoatState,4632,1,2,346585.871,4070325.599,-1.4069,40
+#BoatState,4669,1,2,346585.871,4070325.599,-1.4067,40
+#BoatState,4741,1,2,346585.871,4070325.599,-1.4066,4A
+#BoatState,4778,1,2,346585.871,4070325.599,-1.4064,42
+#BoatState,4814,1,2,346585.871,4070325.599,-1.4064,47
+#BoatState,4850,1,2,346585.871,4070325.599,-1.4066,45
+#BoatState,4886,1,2,346585.871,4070325.599,-1.4066,4E
+#BoatState,4923,1,2,346585.871,4070325.599,-1.4064,42
+#BoatState,4959,1,2,346585.871,4070325.599,-1.4064,4F
+#BoatState,4995,1,2,346585.871,4070325.599,-1.4064,4F
+#BoatState,5031,1,2,346585.871,4070325.599,-1.4062,4F
+#BoatState,5068,1,2,346585.871,4070325.599,-1.4062,43
+#BoatState,5140,1,2,346585.871,4070325.599,-1.4060,4A
+#BoatState,5176,1,2,346585.871,4070325.599,-1.4060,4F
+#BoatState,5213,1,2,346585.871,4070325.599,-1.4062,4D
+#BoatState,5249,1,2,346585.871,4070325.599,-1.4060,40
+#BoatState,5285,1,2,346585.871,4070325.599,-1.4066,46
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,5323,1,2,346585.871,4070325.599,-1.4066,4B
+#BoatState,5359,1,2,346585.871,4070325.599,-1.4067,47
+#BoatState,5395,1,2,346585.871,4070325.599,-1.4069,49
+#BoatState,5432,1,2,346585.871,4070325.599,-1.4069,43
+#BoatState,5468,1,2,346585.871,4070325.599,-1.4067,42
+#BoatState,5504,1,2,346585.871,4070325.599,-1.4066,48
+#BoatState,5540,1,2,346585.934,4070325.764,-1.4069,47
+#BoatState,5577,1,2,346585.934,4070325.764,-1.4067,4D
+#BoatState,5613,1,2,346585.934,4070325.764,-1.4067,4C
+#BoatState,5649,1,2,346585.934,4070325.764,-1.4067,43
+#BoatState,5685,1,2,346585.934,4070325.764,-1.4067,43
+#BoatState,5722,1,2,346585.934,4070325.764,-1.4066,4E
+#BoatState,5758,1,2,346585.934,4070325.764,-1.4064,41
+#BoatState,5794,1,2,346585.934,4070325.764,-1.4064,41
+#BoatState,5830,1,2,346585.934,4070325.764,-1.4064,40
+#BoatState,5867,1,2,346585.934,4070325.764,-1.4066,40
+#BoatState,5903,1,2,346585.934,4070325.764,-1.4064,41
+#BoatState,5939,1,2,346585.934,4070325.764,-1.4062,4E
+#BoatState,5976,1,2,346585.934,4070325.764,-1.4066,41
+#BoatState,6012,1,2,346585.934,4070325.764,-1.4064,4B
+#BoatState,6084,1,2,346585.934,4070325.764,-1.4062,42
+#BoatState,6121,1,2,346585.934,4070325.764,-1.4062,4C
+#BoatState,6157,1,2,346585.934,4070325.764,-1.4062,4D
+#BoatState,6193,1,2,346585.934,4070325.764,-1.4062,45
+#BoatState,6229,1,2,346585.934,4070325.764,-1.4062,47
+#BoatState,6302,1,2,346585.934,4070325.764,-1.4066,4B
+#BoatState,6338,1,2,346585.934,4070325.764,-1.4066,42
+#BoatState,6374,1,2,346585.934,4070325.764,-1.4066,4A
+#BoatState,6411,1,2,346585.934,4070325.764,-1.4066,4E
+#BoatState,6447,1,2,346585.934,4070325.764,-1.4064,4F
+#BoatState,6483,1,2,346585.934,4070325.764,-1.4066,45
+#BoatState,6520,1,2,346585.934,4070325.764,-1.4066,4D
+#BoatState,6556,1,2,346585.934,4070325.764,-1.4064,4E
+#BoatState,6592,1,2,346585.981,4070325.911,-1.4064,44
+#BoatState,6628,1,2,346585.981,4070325.911,-1.4064,46
+#BoatState,6665,1,2,346585.981,4070325.911,-1.4066,4D
+#BoatState,6701,1,2,346585.981,4070325.911,-1.4066,4E
+#BoatState,6737,1,2,346585.981,4070325.911,-1.4066,4B
+#BoatState,6773,1,2,346585.981,4070325.911,-1.4066,4B
+Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+Initializing Manual Controller
+#BoatState,2288,1,2,346586.340,4070326.034,-1.4069,48
+Acquiring GPS
+#BoatState,2361,1,2,346586.340,4070326.034,-1.4073,45
+Acquiring GPS
+#BoatState,2387,1,2,346586.355,4070326.034,-1.4074,4E
+Acquiring GPS
+#BoatState,2413,1,2,346586.355,4070326.034,-1.4074,44
+Acquiring GPS
+#BoatState,2439,1,2,346586.355,4070326.034,-1.4074,4C
+Acquiring GPS
+#BoatState,2465,1,2,346586.355,4070326.034,-1.4076,47
+Acquiring GPS
+#BoatState,2491,1,2,346586.355,4070326.034,-1.4076,4C
+Acquiring GPS
+#BoatState,2517,1,2,346586.355,4070326.034,-1.4074,41
+Acquiring GPS
+#BoatState,2543,1,2,346586.355,4070326.034,-1.4074,40
+Acquiring GPS
+#BoatState,2569,1,2,346586.355,4070326.034,-1.4073,4F
+Acquiring GPS
+#BoatState,2672,1,2,346586.355,4070326.034,-1.4071,44
+Acquiring GPS
+#BoatState,2698,1,2,346586.355,4070326.034,-1.4073,42
+Acquiring GPS
+#BoatState,2724,1,2,346586.355,4070326.034,-1.4073,44
+Acquiring GPS
+#BoatState,2750,1,2,346586.355,4070326.034,-1.4074,40
+Acquiring GPS
+#BoatState,2776,1,2,346586.355,4070326.034,-1.4073,43
+Acquiring GPS
+#BoatState,2802,1,2,346586.355,4070326.034,-1.4074,48
+Acquiring GPS
+#BoatState,2828,1,2,346586.355,4070326.034,-1.4076,42
+Acquiring GPS
+#BoatState,2854,1,2,346586.355,4070326.034,-1.4073,4C
+Acquiring GPS
+#BoatState,2880,1,2,346586.355,4070326.034,-1.4073,45
+Acquiring GPS
+#BoatState,2905,1,2,346586.355,4070326.034,-1.4073,49
+Acquiring GPS
+#BoatState,2931,1,2,346586.355,4070326.034,-1.4073,4E
+Acquiring GPS
+#BoatState,2968,1,2,346586.355,4070326.034,-1.4073,42
+Acquiring GPS
+#BoatState,3004,1,2,346586.355,4070326.034,-1.4073,40
+Acquiring GPS
+#BoatState,3040,1,2,346586.355,4070326.034,-1.4073,40
+Acquiring GPS
+#BoatState,3076,1,2,346586.355,4070326.034,-1.4071,47
+Acquiring GPS
+#BoatState,3113,1,2,346586.355,4070326.034,-1.4071,45
+Acquiring GPS
+#BoatState,3149,1,2,346586.355,4070326.034,-1.4069,43
+Acquiring GPS
+#BoatState,3185,1,2,346586.504,4070326.013,-1.4071,4D
+Acquiring GPS
+#BoatState,3222,1,2,346586.504,4070326.013,-1.4073,41
+Home position acquired : 346586.369 4070326.032
+#BoatState,3258,1,2,346586.504,4070326.013,-1.4073,4C
+#BoatState,3294,1,2,346586.504,4070326.013,-1.4073,4C
+#BoatState,3330,1,2,346586.504,4070326.013,-1.4071,41
+#BoatState,3367,1,2,346586.504,4070326.013,-1.4073,41
+#BoatState,3403,1,2,346586.504,4070326.013,-1.4073,44
+#BoatState,3439,1,2,346586.504,4070326.013,-1.4073,4D
+#BoatState,3475,1,2,346586.504,4070326.013,-1.4074,42
+#BoatState,3512,1,2,346586.504,4070326.013,-1.4074,42
+#BoatState,3657,1,2,346586.504,4070326.013,-1.4071,45
+#BoatState,3693,1,2,346586.504,4070326.013,-1.4071,4D
+#BoatState,3729,1,2,346586.504,4070326.013,-1.4069,44
+#BoatState,3766,1,2,346586.504,4070326.013,-1.4069,4F
+#BoatState,3802,1,2,346586.504,4070326.013,-1.4069,42
+#BoatState,3838,1,2,346586.504,4070326.013,-1.4069,4B
+#BoatState,3874,1,2,346586.504,4070326.013,-1.4071,4A
+#BoatState,3911,1,2,346586.504,4070326.013,-1.4073,4A
+#BoatState,3947,1,2,346586.504,4070326.013,-1.4069,42
+#BoatState,3983,1,2,346586.504,4070326.013,-1.4069,4A
+#BoatState,4019,1,2,346586.504,4070326.013,-1.4071,4E
+#BoatState,4056,1,2,346586.504,4070326.013,-1.4071,45
+#BoatState,4092,1,2,346586.504,4070326.013,-1.4071,4D
+#BoatState,4128,1,2,346586.504,4070326.013,-1.4071,4D
+#BoatState,4164,1,2,346586.504,4070326.013,-1.4071,45
+#BoatState,4201,1,2,346586.504,4070326.013,-1.4067,42
+#BoatState,4237,1,2,346586.548,4070325.993,-1.4066,4C
+#BoatState,4273,1,2,346586.548,4070325.993,-1.4067,4D
+#BoatState,4310,1,2,346586.548,4070325.993,-1.4067,49
+#BoatState,4346,1,2,346586.548,4070325.993,-1.4067,4A
+#BoatState,4382,1,2,346586.548,4070325.993,-1.4067,42
+#BoatState,4418,1,2,346586.548,4070325.993,-1.4067,46
+#BoatState,4455,1,2,346586.548,4070325.993,-1.4066,4E
+#BoatState,4491,1,2,346586.548,4070325.993,-1.4067,47
+#BoatState,4527,1,2,346586.548,4070325.993,-1.4066,4A
+#BoatState,4563,1,2,346586.548,4070325.993,-1.4066,4A
+#BoatState,4672,1,2,346586.548,4070325.993,-1.4066,49
+#BoatState,4708,1,2,346586.548,4070325.993,-1.4069,4A
+#BoatState,4745,1,2,346586.548,4070325.993,-1.4073,48
+#BoatState,4781,1,2,346586.548,4070325.993,-1.4073,40
+#BoatState,4817,1,2,346586.548,4070325.993,-1.4073,40
+#BoatState,4854,1,2,346586.548,4070325.993,-1.4073,47
+#BoatState,4890,1,2,346586.548,4070325.993,-1.4074,48
+#BoatState,4926,1,2,346586.548,4070325.993,-1.4076,46
+#BoatState,4962,1,2,346586.548,4070325.993,-1.4076,46
+#BoatState,4999,1,2,346586.548,4070325.993,-1.4076,42
+#BoatState,5035,1,2,346586.548,4070325.993,-1.4076,4C
+#BoatState,5071,1,2,346586.548,4070325.993,-1.4076,4C
+#BoatState,5107,1,2,346586.548,4070325.993,-1.4078,42
+#BoatState,5144,1,2,346586.548,4070325.993,-1.4080,42
+#BoatState,5180,1,2,346586.548,4070325.993,-1.4080,4A
+#BoatState,5216,1,2,346586.548,4070325.993,-1.4078,41
+#BoatState,5252,1,2,346586.695,4070325.917,-1.4076,40
+#BoatState,5289,1,2,346586.695,4070325.917,-1.4078,48
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 0.0 Hz ThrtoleRF : 0.0 Hz
+#BoatState,5326,1,2,346586.695,4070325.917,-1.4076,42
+#BoatState,5362,1,2,346586.695,4070325.917,-1.4078,4C
+#BoatState,5399,1,2,346586.695,4070325.917,-1.4078,48
+#BoatState,5435,1,2,346586.695,4070325.917,-1.4080,4E
+#BoatState,5471,1,2,346586.695,4070325.917,-1.4080,4E
+#BoatState,5508,1,2,346586.695,4070325.917,-1.4081,40
+#BoatState,5544,1,2,346586.695,4070325.917,-1.4078,4E
+#BoatState,5761,1,2,346586.695,4070325.917,-1.4081,4D
+#BoatState,5798,1,2,346586.695,4070325.917,-1.4080,4A
+#BoatState,5834,1,2,346586.695,4070325.917,-1.4076,4A
+#BoatState,5870,1,2,346586.695,4070325.917,-1.4076,4A
+#BoatState,5906,1,2,346586.695,4070325.917,-1.4073,4F
+#BoatState,5943,1,2,346586.695,4070325.917,-1.4073,4E
+#BoatState,5979,1,2,346586.695,4070325.917,-1.4071,45
+#BoatState,6015,1,2,346586.695,4070325.917,-1.4073,47
+#BoatState,6052,1,2,346586.695,4070325.917,-1.4073,44
+#BoatState,6088,1,2,346586.695,4070325.917,-1.4071,41
+#BoatState,6124,1,2,346586.695,4070325.917,-1.4073,44
+#BoatState,6160,1,2,346586.695,4070325.917,-1.4071,46
+#BoatState,6197,1,2,346586.695,4070325.917,-1.4073,4C
+#BoatState,6233,1,2,346586.695,4070325.917,-1.4073,41
+#BoatState,6269,1,2,346586.695,4070325.880,-1.4074,46
+#BoatState,6305,1,2,346586.695,4070325.880,-1.4078,41
+#BoatState,6342,1,2,346586.695,4070325.880,-1.4074,4E
+#BoatState,6378,1,2,346586.695,4070325.880,-1.4074,47
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : #ChngCtrlMode,2,15
+deserializing...#ChngCtrlMode,2,15
+Deserialize Succeeded
+Packet Received : Initializing the control board...
+Initializing Servos
+Initializing Packet Commands
+Initializing Controllers
+Creating Manual Controller
+Creating Semi-Auto Controller
+Registering Controllers
+Selecting Manual Controller
+Initializing Finished
+Acquiring GPS
+Initializing Manual Controller
+#BoatState,2288,1,2,346586.510,4070325.532,-1.4064,46
+Acquiring GPS
+#BoatState,2361,1,2,346586.510,4070325.532,-1.4064,40
+Acquiring GPS
+#BoatState,2387,1,2,346586.510,4070325.532,-1.4066,4A
+Acquiring GPS
+#BoatState,2413,1,2,346586.510,4070325.532,-1.4066,40
+Acquiring GPS
+#BoatState,2439,1,2,346586.510,4070325.532,-1.4066,48
+Acquiring GPS
+#BoatState,2465,1,2,346586.510,4070325.532,-1.4066,41
+Acquiring GPS
+#BoatState,2569,1,2,346586.510,4070325.532,-1.4067,4D
+Acquiring GPS
+#BoatState,2595,1,2,346586.510,4070325.532,-1.4066,4F
+Acquiring GPS
+#BoatState,2621,1,2,346586.510,4070325.532,-1.4066,43
+Acquiring GPS
+#BoatState,2646,1,2,346586.510,4070325.532,-1.4066,42
+Acquiring GPS
+#BoatState,2672,1,2,346586.510,4070325.532,-1.4066,45
+Acquiring GPS
+#BoatState,2698,1,2,346586.510,4070325.532,-1.4066,41
+Acquiring GPS
+#BoatState,2724,1,2,346586.510,4070325.532,-1.4066,47
+Acquiring GPS
+#BoatState,2750,1,2,346586.510,4070325.532,-1.4067,45
+Acquiring GPS
+#BoatState,2776,1,2,346586.510,4070325.532,-1.4066,40
+Acquiring GPS
+#BoatState,2802,1,2,346586.510,4070325.532,-1.4066,4C
+Acquiring GPS
+#BoatState,2828,1,2,346586.510,4070325.532,-1.4064,46
+Acquiring GPS
+#BoatState,2854,1,2,346586.510,4070325.532,-1.4064,4D
+Acquiring GPS
+#BoatState,2880,1,2,346586.510,4070325.532,-1.4066,46
+Acquiring GPS
+#BoatState,2905,1,2,346586.510,4070325.532,-1.4067,4B
+Acquiring GPS
+#BoatState,2931,1,2,346586.510,4070325.532,-1.4069,42
+Acquiring GPS
+#BoatState,2968,1,2,346586.510,4070325.532,-1.4071,47
+Acquiring GPS
+#BoatState,3004,1,2,346586.510,4070325.532,-1.4069,4C
+Acquiring GPS
+#BoatState,3040,1,2,346586.510,4070325.532,-1.4069,4C
+Acquiring GPS
+#BoatState,3076,1,2,346586.510,4070325.532,-1.4073,42
+Acquiring GPS
+#BoatState,3113,1,2,346586.510,4070325.532,-1.4074,47
+Acquiring GPS
+#BoatState,3149,1,2,346586.510,4070325.532,-1.4074,48
+Acquiring GPS
+#BoatState,3185,1,2,346586.510,4070325.532,-1.4076,4A
+Acquiring GPS
+#BoatState,3222,1,2,346586.510,4070325.532,-1.4074,46
+Home position acquired : 346586.510 4070325.532
+#BoatState,3258,1,2,346586.510,4070325.532,-1.4076,49
+#BoatState,3294,1,2,346586.509,4070325.495,-1.4076,4D
+#BoatState,3330,1,2,346586.509,4070325.495,-1.4074,40
+#BoatState,3367,1,2,346586.509,4070325.495,-1.4073,45
+#BoatState,3403,1,2,346586.509,4070325.495,-1.4074,47
+#BoatState,3439,1,2,346586.509,4070325.495,-1.4074,4E
+#BoatState,3475,1,2,346586.509,4070325.495,-1.4076,44
+#BoatState,3512,1,2,346586.509,4070325.495,-1.4074,46
+#BoatState,3620,1,2,346586.509,4070325.495,-1.4074,44
+#BoatState,3657,1,2,346586.509,4070325.495,-1.4073,43
+#BoatState,3693,1,2,346586.509,4070325.495,-1.4076,4E
+#BoatState,3729,1,2,346586.509,4070325.495,-1.4076,4E
+#BoatState,3766,1,2,346586.509,4070325.495,-1.4078,4B
+#BoatState,3802,1,2,346586.509,4070325.495,-1.4080,41
+#BoatState,3838,1,2,346586.509,4070325.495,-1.4080,48
+#BoatState,3911,1,2,346586.509,4070325.495,-1.4080,42

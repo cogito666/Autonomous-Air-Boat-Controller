@@ -1,0 +1,1082 @@
+#BoatState,502658,1,2,341657.319,4075341.145,-1.3488,4F
+#BoatState,502678,1,2,341657.109,4075341.020,-1.3484,40
+#BoatState,502698,1,2,341657.109,4075341.020,-1.3484,4E
+#BoatState,502718,1,2,341657.109,4075341.020,-1.3484,47
+#BoatState,502738,1,2,341657.109,4075341.020,-1.3486,47
+#BoatState,502758,1,2,341657.109,4075341.020,-1.3486,41
+#BoatState,502778,1,2,341657.109,4075341.020,-1.3486,43
+#BoatState,502798,1,2,341657.109,4075341.020,-1.3483,48
+#BoatState,502818,1,2,341657.109,4075341.020,-1.3483,4F
+#BoatState,502838,1,2,341657.109,4075341.020,-1.3479,48
+#BoatState,502858,1,2,341657.109,4075341.020,-1.3481,49
+#BoatState,502878,1,2,341657.109,4075341.020,-1.3479,4C
+#CtrlSignals,1467,1495,off,0,15
+#BoatState,502904,1,2,341657.109,4075341.020,-1.3479,46
+#BoatState,502920,1,2,341657.109,4075341.020,-1.3477,4E
+#BoatState,502938,1,2,341657.109,4075341.020,-1.3477,47
+#BoatState,502958,1,2,341657.109,4075341.020,-1.3477,41
+#BoatState,502978,1,2,341657.109,4075341.020,-1.3477,43
+#BoatState,502998,1,2,341657.109,4075341.020,-1.3479,43
+#BoatState,503018,1,2,341657.109,4075341.020,-1.3479,43
+#BoatState,503038,1,2,341657.109,4075341.020,-1.3479,41
+#BoatState,503058,1,2,341657.109,4075341.020,-1.3479,47
+#BoatState,503078,1,2,341657.109,4075341.020,-1.3479,45
+#CtrlSignals,1461,1491,off,0,17
+#BoatState,503104,1,2,341657.109,4075341.020,-1.3481,48
+#BoatState,503121,1,2,341657.109,4075341.020,-1.3483,4D
+#CtrlSignals,1463,1486,off,0,13
+#BoatState,503146,1,2,341657.109,4075341.020,-1.3481,4E
+#BoatState,503163,1,2,341657.109,4075341.020,-1.3479,4E
+#BoatState,503179,1,2,341657.109,4075341.020,-1.3477,4B
+#CtrlSignals,1466,1495,off,0,14
+#BoatState,503205,1,2,341657.109,4075341.020,-1.3477,43
+#BoatState,503221,1,2,341657.109,4075341.020,-1.3476,44
+#BoatState,503238,1,2,341657.109,4075341.020,-1.3476,4C
+#BoatState,503258,1,2,341657.109,4075341.020,-1.3476,4A
+#BoatState,503278,1,2,341657.109,4075341.020,-1.3476,48
+#BoatState,503298,1,2,341657.109,4075341.020,-1.3476,46
+#BoatState,503318,1,2,341657.109,4075341.020,-1.3477,4E
+#BoatState,503338,1,2,341657.109,4075341.020,-1.3477,4C
+#BoatState,503358,1,2,341657.109,4075341.020,-1.3477,4A
+#BoatState,503378,1,2,341657.109,4075341.020,-1.3479,46
+#BoatState,503458,1,2,341657.109,4075341.020,-1.3481,44
+#BoatState,503478,1,2,341657.109,4075341.020,-1.3481,46
+#CtrlSignals,1482,1504,off,0,17
+#BoatState,503504,1,2,341657.109,4075341.020,-1.3479,4B
+#CtrlSignals,1470,1501,off,0,1F
+#BoatState,503529,1,2,341657.109,4075341.020,-1.3477,4A
+#BoatState,503545,1,2,341657.109,4075341.020,-1.3479,4E
+#BoatState,503562,1,2,341657.109,4075341.020,-1.3479,4B
+#CtrlSignals,1466,1510,off,0,18
+#BoatState,503587,1,2,341657.109,4075341.020,-1.3481,47
+#CtrlSignals,1459,1508,off,0,1D
+#BoatState,503612,1,2,341657.109,4075341.020,-1.3483,4A
+#CtrlSignals,1461,1502,off,0,1C
+#BoatState,503637,1,2,341657.109,4075341.020,-1.3481,4F
+#CtrlSignals,1467,1507,off,0,1F
+#BoatState,503663,1,2,341657.109,4075341.020,-1.3481,4E
+#CtrlSignals,1476,1499,off,0,19
+#BoatState,503688,1,2,341657.003,4075340.966,-1.3483,48
+#CtrlSignals,1480,1495,off,0,1C
+#BoatState,503713,1,2,341657.003,4075340.966,-1.3483,4B
+#CtrlSignals,1475,1498,off,0,1B
+#BoatState,503739,1,2,341657.003,4075340.966,-1.3484,44
+#CtrlSignals,1471,1509,off,0,16
+#BoatState,503764,1,2,341657.003,4075340.966,-1.3483,4B
+#BoatState,503780,1,2,341657.003,4075340.966,-1.3484,46
+#CtrlSignals,1469,1503,off,0,15
+#BoatState,503806,1,2,341657.003,4075340.966,-1.3488,4B
+#BoatState,503823,1,2,341657.003,4075340.966,-1.3486,42
+#CtrlSignals,1463,1498,off,0,1C
+#BoatState,503848,1,2,341657.003,4075340.966,-1.3488,41
+#BoatState,503864,1,2,341657.003,4075340.966,-1.3488,4F
+#CtrlSignals,1466,1501,off,0,18
+#BoatState,503890,1,2,341657.003,4075340.966,-1.3488,44
+#BoatState,503906,1,2,341657.003,4075340.966,-1.3488,4A
+#CtrlSignals,1469,1494,off,0,1A
+#BoatState,503931,1,2,341657.003,4075340.966,-1.3486,40
+#BoatState,503948,1,2,341657.003,4075340.966,-1.3484,4C
+#BoatState,503964,1,2,341657.003,4075340.966,-1.3484,42
+#CtrlSignals,1461,1501,off,0,1F
+#BoatState,503989,1,2,341657.003,4075340.966,-1.3486,43
+#CtrlSignals,1456,1501,off,0,1B
+#BoatState,504015,1,2,341657.003,4075340.966,-1.3488,46
+#CtrlSignals,1458,1500,off,0,14
+#BoatState,504040,1,2,341657.003,4075340.966,-1.3490,4F
+#CtrlSignals,1461,1494,off,0,12
+#BoatState,504065,1,2,341657.003,4075340.966,-1.3490,48
+#CtrlSignals,1466,1499,off,0,18
+#BoatState,504090,1,2,341657.003,4075340.966,-1.3488,4B
+#CtrlSignals,1469,1499,off,0,17
+#BoatState,504116,1,2,341657.003,4075340.966,-1.3486,4A
+#CtrlSignals,1467,1498,off,0,18
+#BoatState,504141,1,2,341657.003,4075340.966,-1.3484,4A
+#CtrlSignals,1463,1492,off,0,16
+#BoatState,504166,1,2,341657.003,4075340.966,-1.3484,4F
+#CtrlSignals,1455,1492,off,0,13
+#BoatState,504192,1,2,341657.003,4075340.966,-1.3484,44
+#BoatState,504208,1,2,341657.003,4075340.966,-1.3486,46
+#CtrlSignals,1458,1503,off,0,17
+#BoatState,504233,1,2,341657.003,4075340.966,-1.3486,4E
+#CtrlSignals,1466,1498,off,0,19
+#CtrlSignals,1469,1495,off,0,1B
+#BoatState,504278,1,2,341657.003,4075340.966,-1.3491,47
+#BoatState,504298,1,2,341657.003,4075340.966,-1.3493,4B
+#BoatState,504318,1,2,341657.003,4075340.966,-1.3497,46
+#BoatState,504338,1,2,341657.003,4075340.966,-1.3495,46
+#BoatState,504358,1,2,341657.003,4075340.966,-1.3491,44
+#BoatState,504478,1,2,341657.003,4075340.966,-1.3495,45
+#BoatState,504498,1,2,341657.003,4075340.966,-1.3495,4B
+#BoatState,504518,1,2,341657.003,4075340.966,-1.3495,42
+#BoatState,504538,1,2,341657.003,4075340.966,-1.3495,40
+#BoatState,504558,1,2,341657.003,4075340.966,-1.3493,40
+#BoatState,504578,1,2,341657.003,4075340.966,-1.3495,44
+#BoatState,504598,1,2,341657.003,4075340.966,-1.3495,4A
+#BoatState,504618,1,2,341657.003,4075340.966,-1.3497,43
+#BoatState,504638,1,2,341657.003,4075340.966,-1.3498,4E
+#BoatState,504658,1,2,341657.003,4075340.966,-1.3497,47
+#BoatState,504678,1,2,341657.003,4075340.966,-1.3498,4A
+#CtrlSignals,1468,1503,off,0,14
+#BoatState,504704,1,2,341656.915,4075341.005,-1.3500,42
+#BoatState,504721,1,2,341656.915,4075341.005,-1.3497,4A
+#CtrlSignals,1464,1501,off,0,1A
+#BoatState,504747,1,2,341656.915,4075341.005,-1.3497,4A
+#BoatState,504763,1,2,341656.915,4075341.005,-1.3497,4C
+#CtrlSignals,1456,1501,off,0,1B
+#BoatState,504788,1,2,341656.915,4075341.005,-1.3498,46
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 56.0 Hz ThrtoleRF : 54.0 Hz
+#BoatState,504824,1,2,341656.915,4075341.005,-1.3500,4F
+#CtrlSignals,1448,1503,off,0,16
+#BoatState,504849,1,2,341656.915,4075341.005,-1.3502,46
+#CtrlSignals,1461,1498,off,0,1E
+#BoatState,504874,1,2,341656.915,4075341.005,-1.3502,48
+#CtrlSignals,1469,1498,off,0,16
+Packet Received : #ChngCtrlMode,2,15
+@Change control mode
+@semiauto controller is selected
+#BoatState,504900,2,1,341656.915,4075341.005,-1.3500,48
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,504944,2,1,341656.915,4075341.005,-1.3502,4A
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,504981,2,1,341656.915,4075341.005,-1.3502,43
+#CtrlSignals,1499,1499,off,0,18
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505026,2,1,341656.915,4075341.005,-1.3500,44
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.350,54
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.349,5C
+#BoatState,505084,2,1,341656.915,4075341.005,-1.3495,41
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505121,2,1,341656.915,4075341.005,-1.3497,4D
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.350,-1.350,41
+#BoatState,505157,2,1,341656.915,4075341.005,-1.3498,43
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.350,-1.350,41
+#BoatState,505189,2,1,341656.915,4075341.005,-1.3497,4F
+#CtrlSignals,1459,1503,off,0,16
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.350,-1.350,41
+#BoatState,505229,2,1,341656.915,4075341.005,-1.3498,49
+Heading:Set Auto Mode
+Start auto heading control at -77.34
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505260,2,1,341656.915,4075341.005,-1.3498,44
+#CtrlSignals,1455,1507,off,0,1E
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505320,2,1,341656.915,4075341.005,-1.3498,41
+#CtrlSignals,1499,1485,off,0,15
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.350,-1.350,41
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.350,-1.350,41
+#BoatState,505380,2,1,341656.915,4075341.005,-1.3502,49
+#CtrlSignals,1460,1486,off,0,10
+Heading:Set Auto Mode
+Start auto heading control at -77.37
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505420,2,1,341656.915,4075341.005,-1.3504,42
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505471,2,1,341656.915,4075341.005,-1.3498,42
+#CtrlSignals,1499,1500,off,0,19
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505517,2,1,341656.915,4075341.005,-1.3498,43
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.350,-1.350,41
+#BoatState,505554,2,1,341656.915,4075341.005,-1.3500,44
+Heading:Set Auto Mode
+Start auto heading control at -77.36
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505585,2,1,341656.915,4075341.005,-1.3502,4A
+#CtrlSignals,1459,1506,off,0,13
+Heading:Controlling
+Heading : PID error=-0.000 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505645,2,1,341656.915,4075341.005,-1.3500,47
+#CtrlSignals,1498,1500,off,0,18
+Heading:Controlling
+Heading : PID error=-0.000 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,505691,2,1,341656.841,4075341.043,-1.3500,4C
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.349,5C
+#BoatState,505727,2,1,341656.841,4075341.043,-1.3495,4D
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.349,5C
+#BoatState,505764,2,1,341656.841,4075341.043,-1.3495,4A
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.350,-1.349,5C
+#BoatState,505801,2,1,341656.841,4075341.043,-1.3493,40
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.350,-1.349,49
+#BoatState,505838,2,1,341656.841,4075341.043,-1.3491,48
+Heading:Set Auto Mode
+Start auto heading control at -77.29
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.349,54
+#CtrlSignals,1459,1504,off,0,11
+Heading:Controlling
+Heading : PID error=-0.000 pulse=1499
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,505913,2,1,341656.841,4075341.043,-1.3488,48
+#CtrlSignals,1499,1509,off,0,10
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,505959,2,1,341656.841,4075341.043,-1.3490,4F
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,505995,2,1,341656.841,4075341.043,-1.3490,4F
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,506032,2,1,341656.841,4075341.043,-1.3491,49
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.349,54
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.349,-1.349,41
+#BoatState,506089,2,1,341656.841,4075341.043,-1.3493,4B
+Heading:Set Auto Mode
+Start auto heading control at -77.32
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,506120,2,1,341656.841,4075341.043,-1.3495,4F
+#CtrlSignals,1460,1498,off,0,1F
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,506180,2,1,341656.841,4075341.043,-1.3502,4A
+#CtrlSignals,1498,1496,off,0,16
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,506226,2,1,341656.841,4075341.043,-1.3500,47
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,506263,2,1,341656.841,4075341.043,-1.3507,41
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,506299,2,1,341656.841,4075341.043,-1.3507,44
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,506336,2,1,341656.841,4075341.043,-1.3511,47
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,506373,2,1,341656.841,4075341.043,-1.3507,41
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,506410,2,1,341656.841,4075341.043,-1.3505,41
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,506447,2,1,341656.841,4075341.043,-1.3505,43
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,506484,2,1,341656.841,4075341.043,-1.3502,4B
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,506520,2,1,341656.841,4075341.043,-1.3498,46
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,506557,2,1,341656.841,4075341.043,-1.3498,46
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,506594,2,1,341656.841,4075341.043,-1.3500,49
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,506631,2,1,341656.841,4075341.043,-1.3507,42
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.349,-1.351,48
+#BoatState,506667,2,1,341656.841,4075341.043,-1.3507,41
+Heading:Set Auto Mode
+Start auto heading control at -77.39
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,506699,2,1,341656.739,4075341.138,-1.3507,4D
+#CtrlSignals,1458,1506,off,0,12
+Heading:Controlling
+Heading : PID error=-0.000 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,506758,2,1,341656.739,4075341.138,-1.3505,43
+#CtrlSignals,1499,1509,off,0,10
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,506804,2,1,341656.739,4075341.138,-1.3502,42
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,506841,2,1,341656.739,4075341.138,-1.3498,41
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,506878,2,1,341656.739,4075341.138,-1.3498,4B
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,506915,2,1,341656.739,4075341.138,-1.3498,41
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,506952,2,1,341656.739,4075341.138,-1.3502,40
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,506989,2,1,341656.739,4075341.138,-1.3504,40
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,507026,2,1,341656.739,4075341.138,-1.3500,49
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,507062,2,1,341656.739,4075341.138,-1.3497,46
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,507100,2,1,341656.739,4075341.138,-1.3500,4C
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,507136,2,1,341656.739,4075341.138,-1.3500,49
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.351,-1.350,40
+#BoatState,507173,2,1,341656.739,4075341.138,-1.3500,48
+Heading:Set Auto Mode
+Start auto heading control at -77.32
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,507205,2,1,341656.739,4075341.138,-1.3495,47
+#CtrlSignals,1459,1503,off,0,16
+Heading:Controlling
+Heading : PID error=-0.000 pulse=1499
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,507264,2,1,341656.739,4075341.138,-1.3493,46
+#CtrlSignals,1498,1499,off,0,19
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.349,-1.349,54
+#BoatState,507310,2,1,341656.739,4075341.138,-1.3491,46
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507347,2,1,341656.739,4075341.138,-1.3497,42
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507384,2,1,341656.739,4075341.138,-1.3497,4D
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507421,2,1,341656.739,4075341.138,-1.3498,4A
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507499,2,1,341656.739,4075341.138,-1.3500,49
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507535,2,1,341656.739,4075341.138,-1.3498,4E
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507572,2,1,341656.739,4075341.138,-1.3498,4D
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507609,2,1,341656.739,4075341.138,-1.3500,42
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507646,2,1,341656.739,4075341.138,-1.3500,49
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507682,2,1,341656.739,4075341.138,-1.3500,41
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507719,2,1,341656.711,4075341.231,-1.3502,40
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507756,2,1,341656.711,4075341.231,-1.3500,49
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507793,2,1,341656.711,4075341.231,-1.3500,40
+AHRS : 50.0 Hz GPGGA : 10.0 Hz RudderRF : 26.0 Hz ThrtoleRF : 26.0 Hz
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,507848,2,1,341656.711,4075341.231,-1.3507,4E
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507885,2,1,341656.711,4075341.231,-1.3504,4C
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507922,2,1,341656.711,4075341.231,-1.3502,46
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507959,2,1,341656.711,4075341.231,-1.3504,4C
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,507995,2,1,341656.711,4075341.231,-1.3502,4A
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508032,2,1,341656.711,4075341.231,-1.3502,41
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508069,2,1,341656.711,4075341.231,-1.3504,49
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508106,2,1,341656.711,4075341.231,-1.3500,45
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508142,2,1,341656.711,4075341.231,-1.3500,45
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508179,2,1,341656.711,4075341.231,-1.3500,4D
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508216,2,1,341656.711,4075341.231,-1.3498,47
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508253,2,1,341656.711,4075341.231,-1.3500,46
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508289,2,1,341656.711,4075341.231,-1.3502,43
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508326,2,1,341656.711,4075341.231,-1.3504,41
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508363,2,1,341656.711,4075341.231,-1.3504,40
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508400,2,1,341656.711,4075341.231,-1.3507,41
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508437,2,1,341656.711,4075341.231,-1.3511,42
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508473,2,1,341656.711,4075341.231,-1.3511,42
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508510,2,1,341656.711,4075341.231,-1.3511,46
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508547,2,1,341656.711,4075341.231,-1.3511,44
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508584,2,1,341656.711,4075341.231,-1.3509,42
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508621,2,1,341656.711,4075341.231,-1.3507,40
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508657,2,1,341656.711,4075341.231,-1.3509,4F
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508694,2,1,341656.711,4075341.231,-1.3507,4E
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508731,2,1,341656.756,4075341.230,-1.3507,42
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508767,2,1,341656.756,4075341.230,-1.3505,43
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508804,2,1,341656.756,4075341.230,-1.3505,49
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508841,2,1,341656.756,4075341.230,-1.3507,4A
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508878,2,1,341656.756,4075341.230,-1.3505,42
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.350,5C
+#BoatState,508915,2,1,341656.756,4075341.230,-1.3504,49
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508951,2,1,341656.756,4075341.230,-1.3507,4A
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,508988,2,1,341656.756,4075341.230,-1.3509,40
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509025,2,1,341656.756,4075341.230,-1.3511,46
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509062,2,1,341656.756,4075341.230,-1.3505,40
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509098,2,1,341656.756,4075341.230,-1.3505,45
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509135,2,1,341656.756,4075341.230,-1.3509,4F
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509172,2,1,341656.756,4075341.230,-1.3512,46
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.352,5E
+#BoatState,509209,2,1,341656.756,4075341.230,-1.3516,4D
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509245,2,1,341656.756,4075341.230,-1.3514,47
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509282,2,1,341656.756,4075341.230,-1.3511,49
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509319,2,1,341656.756,4075341.230,-1.3507,4D
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509356,2,1,341656.756,4075341.230,-1.3507,46
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509392,2,1,341656.756,4075341.230,-1.3509,40
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509429,2,1,341656.756,4075341.230,-1.3511,4E
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509507,2,1,341656.756,4075341.230,-1.3512,40
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509544,2,1,341656.756,4075341.230,-1.3511,44
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509581,2,1,341656.756,4075341.230,-1.3512,4E
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.349,-1.351,5D
+#BoatState,509618,2,1,341656.756,4075341.230,-1.3512,4D
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.349,-1.351,48
+#BoatState,509654,2,1,341656.756,4075341.230,-1.3512,45
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.349,-1.351,48
+#BoatState,509685,2,1,341656.756,4075341.230,-1.3512,49
+#CtrlSignals,1458,1503,off,0,17
+Heading:Set Auto Mode
+Start auto heading control at -77.41
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,509725,2,1,341656.859,4075341.172,-1.3511,44
+Heading:Controlling
+Heading : PID error=-0.000 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,509776,2,1,341656.859,4075341.172,-1.3509,4B
+#CtrlSignals,1498,1506,off,0,1E
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,509822,2,1,341656.859,4075341.172,-1.3505,49
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,509859,2,1,341656.859,4075341.172,-1.3502,42
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,509896,2,1,341656.859,4075341.172,-1.3500,43
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,509933,2,1,341656.859,4075341.172,-1.3502,4F
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,509970,2,1,341656.859,4075341.172,-1.3505,4F
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.351,-1.350,40
+#BoatState,510007,2,1,341656.859,4075341.172,-1.3504,4F
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.351,-1.350,40
+#BoatState,510038,2,1,341656.859,4075341.172,-1.3504,43
+#CtrlSignals,1459,1504,off,0,11
+Heading:Set Auto Mode
+Start auto heading control at -77.38
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,510078,2,1,341656.859,4075341.172,-1.3505,46
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.351,-1.351,54
+#BoatState,510129,2,1,341656.859,4075341.172,-1.3505,43
+#CtrlSignals,1498,1499,off,0,19
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510175,2,1,341656.859,4075341.172,-1.3502,4D
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510212,2,1,341656.859,4075341.172,-1.3502,4F
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510248,2,1,341656.859,4075341.172,-1.3498,42
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510286,2,1,341656.859,4075341.172,-1.3497,4F
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510322,2,1,341656.859,4075341.172,-1.3500,4F
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510359,2,1,341656.859,4075341.172,-1.3502,41
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510396,2,1,341656.859,4075341.172,-1.3500,40
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510454,2,1,341656.859,4075341.172,-1.3497,46
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510491,2,1,341656.859,4075341.172,-1.3497,4F
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510528,2,1,341656.859,4075341.172,-1.3498,43
+Heading:Controlling
+Heading : PID error=-0.002 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510565,2,1,341656.859,4075341.172,-1.3497,45
+Heading:Controlling
+Heading : PID error=-0.001 pulse=1499
+#YawCtrlStat,auto,-1.351,-1.350,55
+#BoatState,510602,2,1,341656.859,4075341.172,-1.3498,48
+Heading:Set Manual Mode
+#YawCtrlStat,manual,-1.351,-1.350,40
+#BoatState,510639,2,1,341656.859,4075341.172,-1.3498,40
+Heading:Set Auto Mode
+Start auto heading control at -77.34
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,510670,2,1,341656.859,4075341.172,-1.3498,4D
+#CtrlSignals,1459,1508,off,0,1D
+Heading:Controlling
+Heading : PID error=0.000 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,510730,2,1,341656.859,4075341.172,-1.3500,48
+#CtrlSignals,1498,1493,off,0,13
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,510775,2,1,341657.035,4075341.077,-1.3502,4C
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.350,54
+#BoatState,510812,2,1,341657.035,4075341.077,-1.3502,42
+AHRS : 50.0 Hz GPGGA : 11.0 Hz RudderRF : 28.0 Hz ThrtoleRF : 28.0 Hz
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,510868,2,1,341657.035,4075341.077,-1.3505,48
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,510905,2,1,341657.035,4075341.077,-1.3509,4E
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,510941,2,1,341657.035,4075341.077,-1.3512,44
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,510978,2,1,341657.035,4075341.077,-1.3516,4A
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,511015,2,1,341657.035,4075341.077,-1.3516,49
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511052,2,1,341657.035,4075341.077,-1.3514,48
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511089,2,1,341657.035,4075341.077,-1.3512,48
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511125,2,1,341657.035,4075341.077,-1.3512,4F
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511162,2,1,341657.035,4075341.077,-1.3514,4A
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511199,2,1,341657.035,4075341.077,-1.3514,4E
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511235,2,1,341657.035,4075341.077,-1.3514,4B
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,511272,2,1,341657.035,4075341.077,-1.3516,4A
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511309,2,1,341657.035,4075341.077,-1.3514,45
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511346,2,1,341657.035,4075341.077,-1.3512,48
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511383,2,1,341657.035,4075341.077,-1.3514,47
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511461,2,1,341657.035,4075341.077,-1.3511,49
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511497,2,1,341657.035,4075341.077,-1.3511,40
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511534,2,1,341657.035,4075341.077,-1.3507,4F
+Heading:Controlling
+Heading : PID error=0.001 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511571,2,1,341657.035,4075341.077,-1.3505,4C
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511608,2,1,341657.035,4075341.077,-1.3509,4D
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511644,2,1,341657.035,4075341.077,-1.3511,4C
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511681,2,1,341657.035,4075341.077,-1.3512,46
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511718,2,1,341657.035,4075341.077,-1.3511,44
+Heading:Controlling
+Heading : PID error=0.002 pulse=1500
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511754,2,1,341657.035,4075341.077,-1.3509,45
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511791,2,1,341657.197,4075340.981,-1.3514,48
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,511828,2,1,341657.197,4075340.981,-1.3516,47
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,511865,2,1,341657.197,4075340.981,-1.3514,4C
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,511902,2,1,341657.197,4075340.981,-1.3516,4E
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,511938,2,1,341657.197,4075340.981,-1.3518,49
+Heading:Controlling
+Heading : PID error=0.005 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,511975,2,1,341657.197,4075340.981,-1.3521,4A
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512012,2,1,341657.197,4075340.981,-1.3518,4B
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512049,2,1,341657.197,4075340.981,-1.3516,4B
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.351,55
+#BoatState,512086,2,1,341657.197,4075340.981,-1.3514,4A
+Heading:Controlling
+Heading : PID error=0.003 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512122,2,1,341657.197,4075340.981,-1.3516,47
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512159,2,1,341657.197,4075340.981,-1.3518,45
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512196,2,1,341657.197,4075340.981,-1.3519,47
+Heading:Controlling
+Heading : PID error=0.004 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512233,2,1,341657.197,4075340.981,-1.3518,4A
+Heading:Controlling
+Heading : PID error=0.005 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512269,2,1,341657.197,4075340.981,-1.3521,4F
+Heading:Controlling
+Heading : PID error=0.005 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512306,2,1,341657.197,4075340.981,-1.3521,47
+Heading:Controlling
+Heading : PID error=0.005 pulse=1501
+#YawCtrlStat,auto,-1.350,-1.352,56
+#BoatState,512343,2,1,341657.197,4075340.981,-1.3521,46
+Packet Received : #ChngCtrlMode,1,16
+@Change control mode
+@manual controller selected
+Initializing Manual Controller
+#BoatState,512380,1,2,341657.197,4075340.981,-1.3521,49
+#BoatState,512478,1,2,341657.197,4075340.981,-1.3525,4D
+#BoatState,512497,1,2,341657.197,4075340.981,-1.3525,4C
+#BoatState,512517,1,2,341657.197,4075340.981,-1.3521,41
+#BoatState,512537,1,2,341657.197,4075340.981,-1.3519,48
+#BoatState,512558,1,2,341657.197,4075340.981,-1.3519,41
+#BoatState,512578,1,2,341657.197,4075340.981,-1.3519,43
+#BoatState,512598,1,2,341657.197,4075340.981,-1.3521,46
+#BoatState,512617,1,2,341657.197,4075340.981,-1.3521,42
+#BoatState,512637,1,2,341657.197,4075340.981,-1.3519,4B
+#BoatState,512658,1,2,341657.197,4075340.981,-1.3521,49
+#BoatState,512678,1,2,341657.197,4075340.981,-1.3521,4B
+#BoatState,512698,1,2,341657.197,4075340.981,-1.3519,4E
+#BoatState,512717,1,2,341657.197,4075340.981,-1.3519,48
+#BoatState,512737,1,2,341657.197,4075340.981,-1.3523,43
+#BoatState,512758,1,2,341657.197,4075340.981,-1.3523,4A
+#CtrlSignals,1466,1495,off,0,14
+#BoatState,512784,1,2,341657.388,4075340.867,-1.3521,4C
+#BoatState,512801,1,2,341657.388,4075340.867,-1.3519,45
+#BoatState,512818,1,2,341657.388,4075340.867,-1.3518,4C
+#BoatState,512838,1,2,341657.388,4075340.867,-1.3518,4E
+#BoatState,512857,1,2,341657.388,4075340.867,-1.3518,47
+#BoatState,512878,1,2,341657.388,4075340.867,-1.3518,4A
+#BoatState,512898,1,2,341657.388,4075340.867,-1.3518,44
+#BoatState,512918,1,2,341657.388,4075340.867,-1.3516,43
+#BoatState,512938,1,2,341657.388,4075340.867,-1.3518,4F
+#BoatState,512958,1,2,341657.388,4075340.867,-1.3514,45
+#BoatState,512977,1,2,341657.388,4075340.867,-1.3512,4E
+#BoatState,512997,1,2,341657.388,4075340.867,-1.3511,43
+#BoatState,513018,1,2,341657.388,4075340.867,-1.3511,4C
+#BoatState,513038,1,2,341657.388,4075340.867,-1.3512,4D
+#BoatState,513058,1,2,341657.388,4075340.867,-1.3514,4D
+#BoatState,513078,1,2,341657.388,4075340.867,-1.3516,4D
+#BoatState,513097,1,2,341657.388,4075340.867,-1.3516,4C
+#BoatState,513117,1,2,341657.388,4075340.867,-1.3516,45
+#BoatState,513137,1,2,341657.388,4075340.867,-1.3514,45
+#BoatState,513158,1,2,341657.388,4075340.867,-1.3511,49
+#BoatState,513178,1,2,341657.388,4075340.867,-1.3511,4B
+#BoatState,513198,1,2,341657.388,4075340.867,-1.3509,4C
+#BoatState,513218,1,2,341657.388,4075340.867,-1.3507,49
+#BoatState,513237,1,2,341657.388,4075340.867,-1.3511,43
+#BoatState,513257,1,2,341657.388,4075340.867,-1.3511,45
+#BoatState,513278,1,2,341657.388,4075340.867,-1.3514,4D
+#BoatState,513298,1,2,341657.388,4075340.867,-1.3512,45
+#BoatState,513318,1,2,341657.388,4075340.867,-1.3511,4F
+#BoatState,513338,1,2,341657.388,4075340.867,-1.3511,4D
+#BoatState,513358,1,2,341657.388,4075340.867,-1.3511,4B
+#BoatState,513377,1,2,341657.388,4075340.867,-1.3509,4F
+#BoatState,513398,1,2,341657.388,4075340.867,-1.3509,4E
+#BoatState,513477,1,2,341657.388,4075340.867,-1.3509,48
+#CtrlSignals,1463,1495,off,0,11
+#BoatState,513504,1,2,341657.388,4075340.867,-1.3507,43
+#BoatState,513520,1,2,341657.388,4075340.867,-1.3507,45
+#BoatState,513537,1,2,341657.388,4075340.867,-1.3505,41
+#CtrlSignals,1471,1493,off,0,14
+#BoatState,513565,1,2,341657.388,4075340.867,-1.3505,46
+#BoatState,513581,1,2,341657.388,4075340.867,-1.3504,4D
+#BoatState,513598,1,2,341657.388,4075340.867,-1.3504,45
+#BoatState,513617,1,2,341657.388,4075340.867,-1.3504,41
+#BoatState,513637,1,2,341657.388,4075340.867,-1.3505,42
+#BoatState,513657,1,2,341657.388,4075340.867,-1.3504,45
+#BoatState,513678,1,2,341657.388,4075340.867,-1.3504,48
+#BoatState,513698,1,2,341657.388,4075340.867,-1.3504,46
+#BoatState,513718,1,2,341657.388,4075340.867,-1.3500,4B
+#BoatState,513738,1,2,341657.388,4075340.867,-1.3502,4B
+#CtrlSignals,1474,1485,off,0,16
+#BoatState,513765,1,2,341657.388,4075340.867,-1.3502,43
+#BoatState,513781,1,2,341657.388,4075340.867,-1.3504,4F
+#BoatState,513797,1,2,341657.491,4075340.809,-1.3504,4F
+#BoatState,513818,1,2,341657.491,4075340.809,-1.3504,47
+#BoatState,513838,1,2,341657.491,4075340.809,-1.3504,45
+#BoatState,513858,1,2,341657.491,4075340.809,-1.3505,42
+AHRS : 51.0 Hz GPGGA : 10.0 Hz RudderRF : 46.0 Hz ThrtoleRF : 46.0 Hz
+#BoatState,513893,1,2,341657.491,4075340.809,-1.3505,45
+#BoatState,513910,1,2,341657.491,4075340.809,-1.3505,4F
+#BoatState,513926,1,2,341657.491,4075340.809,-1.3507,48
+#CtrlSignals,1477,1501,off,0,18
+#BoatState,513951,1,2,341657.491,4075340.809,-1.3505,4A
+#CtrlSignals,1475,1500,off,0,1B
+#BoatState,513977,1,2,341657.491,4075340.809,-1.3504,4F
+#BoatState,513993,1,2,341657.491,4075340.809,-1.3500,41
+#BoatState,514009,1,2,341657.491,4075340.809,-1.3500,4C
+#CtrlSignals,1474,1508,off,0,12
+#BoatState,514035,1,2,341657.491,4075340.809,-1.3500,43
+#CtrlSignals,1470,1509,off,0,17
+#BoatState,514060,1,2,341657.491,4075340.809,-1.3500,43
+#CtrlSignals,1474,1494,off,0,16
+#BoatState,514085,1,2,341657.491,4075340.809,-1.3500,48
+#BoatState,514102,1,2,341657.491,4075340.809,-1.3497,49
+#BoatState,514118,1,2,341657.491,4075340.809,-1.3497,42
+#CtrlSignals,1476,1486,off,0,17
+#BoatState,514143,1,2,341657.491,4075340.809,-1.3495,4E
+#CtrlSignals,1470,1496,off,0,10
+#BoatState,514168,1,2,341657.491,4075340.809,-1.3495,47
+#BoatState,514185,1,2,341657.491,4075340.809,-1.3495,44
+#BoatState,514201,1,2,341657.491,4075340.809,-1.3493,4D
+#CtrlSignals,1455,1492,off,0,13
+#BoatState,514227,1,2,341657.491,4075340.809,-1.3495,4F
+#CtrlSignals,1456,1495,off,0,17
+#BoatState,514252,1,2,341657.491,4075340.809,-1.3495,4D
+#CtrlSignals,1460,1501,off,0,1E
+#BoatState,514277,1,2,341657.491,4075340.809,-1.3497,48
+#CtrlSignals,1466,1507,off,0,1E
+#BoatState,514302,1,2,341657.491,4075340.809,-1.3500,44
+#CtrlSignals,1470,1502,off,0,1C
+#BoatState,514328,1,2,341657.491,4075340.809,-1.3504,48
+#CtrlSignals,1474,1498,off,0,1A
+#BoatState,514353,1,2,341657.491,4075340.809,-1.3504,44
+#CtrlSignals,1468,1498,off,0,17
+#BoatState,514378,1,2,341657.491,4075340.809,-1.3504,4D
+#BoatState,514398,1,2,341657.491,4075340.809,-1.3502,45
+#BoatState,514477,1,2,341657.491,4075340.809,-1.3504,45
+#BoatState,514498,1,2,341657.491,4075340.809,-1.3502,42
+#BoatState,514518,1,2,341657.491,4075340.809,-1.3500,49
+#BoatState,514538,1,2,341657.491,4075340.809,-1.3498,4B
+#BoatState,514558,1,2,341657.491,4075340.809,-1.3497,42
+#BoatState,514578,1,2,341657.491,4075340.809,-1.3497,40
+#BoatState,514598,1,2,341657.491,4075340.809,-1.3495,4C
+#BoatState,514617,1,2,341657.491,4075340.809,-1.3491,4C
+#BoatState,514637,1,2,341657.491,4075340.809,-1.3490,4F
+#BoatState,514657,1,2,341657.491,4075340.809,-1.3490,49
+#BoatState,514678,1,2,341657.491,4075340.809,-1.3488,4D
+#BoatState,514698,1,2,341657.491,4075340.809,-1.3486,4D
+#BoatState,514718,1,2,341657.491,4075340.809,-1.3484,46
+#BoatState,514737,1,2,341657.491,4075340.809,-1.3484,4B
+#BoatState,514757,1,2,341657.491,4075340.809,-1.3488,41
+#BoatState,514778,1,2,341657.491,4075340.809,-1.3488,4C
